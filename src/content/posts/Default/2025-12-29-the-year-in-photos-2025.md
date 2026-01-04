@@ -1,0 +1,23 @@
+---
+title: The Year in Photos 2025
+description: Another year, another collection of my favorite pics
+published: 2025-12-29
+image: "images/year_in_photos_2025.webp"
+imageAlt: Collage of photos from 2025
+category: Default
+tags: [photos, memories, pensee]
+---
+
+<!-- | ![2025 photo collage](@assets/blog/year_in_photos_2025.webp) | 
+|:--:| 
+| *...really, another year around the sun?!* | -->
+
+Love.
+
+Loss.
+
+Laughter.
+
+All the simple, yet important, things [filed under 'L' for life](https://photos.app.goo.gl/sjopNtvmfNa2hqqRA).
+
+I'm excited for what 2026 will bring!

@@ -5,6 +5,7 @@ import "@fontsource/roboto/700.css";
 
 import ConfigCarrier from "@components/ConfigCarrier.astro";
 import Lightbox from "../components/lightbox.astro";
+import { Image } from "astro:assets";
 import { profileConfig, siteConfig } from "@/config";
 import {
 	AUTO_MODE,
@@ -38,9 +39,52 @@ if (!banner || typeof banner !== "string" || banner.trim() === "") {
 	banner = siteConfig.banner.src;
 }
 
-banner = siteConfig.banner.src;
-
 const enableBanner = siteConfig.banner.enable;
+
+// Process banner image for OpenGraph
+let ogImage: string | undefined;
+let ogImageWidth: number | undefined;
+let ogImageHeight: number | undefined;
+
+if (banner) {
+	// Check if it's a local image (in src/assets) or external URL
+	const isLocalImage = !banner.startsWith("http") && !banner.startsWith("/");
+	
+	if (isLocalImage) {
+		// For local images, use import.meta.glob to find and process them
+		try {
+			const imagePath = `../assets/${banner}`;
+			const images = import.meta.glob("../../**/*.{jpeg,jpg,png,gif,webp}", { 
+				import: "default",
+			});
+			const imageModule = images[imagePath];
+			
+			if (imageModule) {
+				const imageMetadata = await imageModule();
+				// For OG images, we need to use getImage from astro:assets
+				const { getImage } = await import("astro:assets");
+				const optimizedImage = await getImage({
+					src: imageMetadata,
+					width: 1200,
+					height: 630,
+					format: "webp",
+				});
+				ogImage = new URL(optimizedImage.src, Astro.url.origin).href;
+				ogImageWidth = optimizedImage.width;
+				ogImageHeight = optimizedImage.height;
+			} else {
+				console.warn("Image not found in glob:", imagePath);
+			}
+		} catch (error) {
+			console.warn("Failed to process OG image:", error);
+		}
+	} else {
+		// For external or absolute paths, use as-is
+		ogImage = banner.startsWith("/") ? url(banner) : banner;
+		ogImageWidth = 1200;
+		ogImageHeight = 630;
+	}
+}
 
 let pageTitle: string;
 if (title) {
@@ -74,30 +118,9 @@ const bannerOffset =
 				c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
 				t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
 				y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-			})(window, document, "clarity", "script", "tajp0d55h4");
+			})(window, document, "clarity", "script", "jv2ye14zs0");
 		</script>
-		
-		<!-- Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-D8YKHXY480"></script>
-		<script>
-			// Google Analytics setup
-			// biome-ignore lint/suspicious/noExplicitAny: Google Analytics requires any type
-			const dataLayer: any[] = (window as any).dataLayer || [];
-			(window as any).dataLayer = dataLayer;
-			
-			// biome-ignore lint/suspicious/noExplicitAny: Google Analytics requires any type
-			function gtag(...args: any[]) {
-				(window as any).dataLayer = (window as any).dataLayer || [];
-				(window as any).dataLayer.push(args);
-			}
-			
-			gtag('js', new Date());
-			gtag('config', 'G-D8YKHXY480');
-		</script>
-		
-		<!-- Umami -->
-		<script type="text/partytown" src="https://cloud.umami.is/script.js" data-website-id="a1a1f897-326f-4e68-a6f0-54e9dc361522"></script>
-		
+				
 		<title>{pageTitle}</title>
 
 		<meta charset="UTF-8" />
@@ -118,6 +141,17 @@ const bannerOffset =
 		<meta property="twitter:url" content={Astro.url}>
 		<meta name="twitter:title" content={pageTitle}>
 		<meta name="twitter:description" content={description || pageTitle}>
+
+		<!-- OpenGraph Image -->
+		{ogImage && (
+			<>
+				<meta property="og:image" content={ogImage} />
+				<meta property="og:image:width" content={ogImageWidth} />
+				<meta property="og:image:height" content={ogImageHeight} />
+				<meta property="og:image:alt" content={description || pageTitle} />
+				<meta name="twitter:image" content={ogImage} />
+			</>
+		)}
 
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />

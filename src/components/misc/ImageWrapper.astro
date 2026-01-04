@@ -35,7 +35,7 @@ if (isLocal) {
 		import: "default",
 	});
 	let normalizedPath = path
-		.normalize(path.join("../../", basePath, src))
+		.normalize(path.join("../../assets/", src))
 		.replace(/\\/g, "/");
 	const file = files[normalizedPath];
 	if (!file) {
