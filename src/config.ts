@@ -45,16 +45,6 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Series,
 		LinkPreset.About,
 		LinkPreset.Friends,
-		/*{
-			name: "GitHub",
-			url: "https://github.com/yCENzh", // Internal links should not include the base path, as it is automatically added
-			external: true, // Show an external link icon and will open in a new tab
-		},*/
-		{
-			name: "Travelling",
-			url: "https://www.travellings.cn/train.html",
-			external: true,
-		},
 	],
 };
 
@@ -63,33 +53,31 @@ export const profileConfig: ProfileConfig = {
 	name: "Sean Patterson",
 	bio: "Bonum, Veritas, Pulcher, Technae",
 	links: [
-		/*{
-			name: "Twitter",
-			icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-			url: "https://twitter.com",
-		},
 		{
-			name: "Steam",
-			icon: "fa6-brands:steam",
-			url: "https://store.steampowered.com",
-		},*/
+			name: "LinkedIn",
+			icon: "fa6-brands:linkedin",
+			url: "https://www.linkedin.com/in/dillieo/",
+		},
 		{
 			name: "GitHub",
 			icon: "fa6-brands:github",
-			url: "https://github.com/yCENzh",
+			url: "https://github.com/dillie-o",
 		},
 		{
-			name: "Telegram",
-			icon: "fa6-brands:telegram",
-			url: "https://t.me/yCENzh",
-		},/*
+			name: "Instagram",
+			icon: "fa6-brands:instagram",
+			url: "https://instagram.com/dillieo",
+		},		
 		{
-			name: "开往",
-			icon: "fa6-solid:train-subway",
-			url: "https://www.travellings.cn/train.html",
-		},*/
+			name: "StackOverflow",
+			icon: "fa6-brands:stack-overflow",
+			url: "https://stackoverflow.com/users/71/dillie-o",
+		},
+		{
+			name: "StoryGraph",
+			icon: "fa6-brands:goodreads",
+			url: "https://app.thestorygraph.com/profile/dillieo",
+		},
 	],
 };
 
