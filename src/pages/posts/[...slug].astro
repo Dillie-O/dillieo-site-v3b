@@ -21,6 +21,11 @@ export async function getStaticPaths() {
 }
 
 const { entry } = Astro.props;
+
+// Return 404 if trying to access a draft post directly
+if (import.meta.env.PROD && entry.data.draft === true) {
+	return Astro.redirect("/404", 404);
+}
 const { Content, headings } = await entry.render();
 
 const { remarkPluginFrontmatter } = await entry.render();

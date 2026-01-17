@@ -5,6 +5,8 @@ import { type BlogPostData } from "../types/config";
 // // Retrieve posts and sort them by publication date
 async function getRawSortedPosts() {
 	const allBlogPosts = await getCollection("posts", ({ data }) => {
+		// Filter out draft posts in production
+		// In development, show all posts including drafts
 		return import.meta.env.PROD ? data.draft !== true : true;
 	});
 
