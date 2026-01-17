@@ -1,25 +1,25 @@
 # 🍥Fuwari
 
-基于 [Astro](https://astro.build) 开发的静态博客模板。
+A static blog template developed based on [Astro](https://astro.build).
 
-本开源项目仅我本人在维护
+This open source project is maintained only by me.
 
-[**🖥️在线预览**](https://fuwari.oh1.top)
+[**🖥️Live Preview**](https://fuwari.oh1.top)
 
 ![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
 
-## 食用方法(以Netlify举例)
-1.  [Fork本项目](https://github.com/yCENzh/fuwari/fork)
-2.  使用 [Cloudflare](https://netlify.com/) 创建一个项目 -> 导入现有Git存储库 -> 保存并构建(本项目以pnpm构建)
-3.  没了,非常的简单,后续食用方法请查看我的博客
+## How to Use (using Netlify as example)
+1.  [Fork this project](https://github.com/yCENzh/fuwari/fork)
+2.  Use [Cloudflare](https://netlify.com/) to create a project -> Import existing Git repository -> Save and build (this project is built with pnpm)
+3.  That's it, very simple. For further usage instructions, please check my blog
 
-Fuwari 是一个开源的主题。本网站用于该项目的文档、演示与社区信息。
+Fuwari is an open source theme. This website is used for the project's documentation, demonstration, and community information.
 
-- 网站： https://fuwari.oh1.top
-- 仓库： https://github.com/yCENzh/fuwari
-- License： MIT（见 ./LICENSE）
-- Code of Conduct： ./CODE_OF_CONDUCT.md
-- Contributing： ./CONTRIBUTING.md
+- Website: https://fuwari.oh1.top
+- Repository: https://github.com/yCENzh/fuwari
+- License: MIT (see ./LICENSE)
+- Code of Conduct: ./CODE_OF_CONDUCT.md
+- Contributing: ./CONTRIBUTING.md
 
 ## 📄 License
 
