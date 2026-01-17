@@ -110,3 +110,36 @@ export type FriendCategory = {
 export type FriendsConfig = {
 	categories: FriendCategory[];
 };
+
+export type CVSection = {
+	title: string;
+	type: 'summary' | 'skills' | 'experience' | 'education' | 'projects' | 'contact';
+	content?: string;
+	items?: CVItem[];
+};
+
+export type CVItem = {
+	title?: string;
+	company?: string;
+	period?: string;
+	description?: string;
+	degree?: string;
+	institution?: string;
+	category?: string;
+	skills?: string[];
+	technologies?: string[];
+	url?: string;
+	achievements?: string[];
+	highlights?: string[];
+};
+
+export type CVContent = {
+	email?: string;
+	location?: string;
+	linkedin?: string;
+	github?: string;
+};
+
+export type CVConfig = {
+	sections: CVSection[];
+};

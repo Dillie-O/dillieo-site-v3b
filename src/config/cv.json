@@ -1,0 +1,88 @@
+{
+  "sections": [
+    {
+      "title": "Professional Summary",
+      "type": "summary",
+      "content": "Software developer passionate about creating elegant, user-focused web experiences with modern technologies."
+    },
+    {
+      "title": "Skills & Expertise",
+      "type": "skills",
+      "items": [
+        {
+          "category": "Frontend Development",
+          "skills": ["Astro", "TypeScript", "Tailwind CSS", "React", "Svelte"]
+        },
+        {
+          "category": "Backend Development", 
+          "skills": ["Node.js", "Python", "PostgreSQL", "REST APIs"]
+        },
+        {
+          "category": "Programming Languages",
+          "skills": ["C#", "Dart", "JavaScript", "Q#", "PHP", "Python"]
+        },
+        {
+          "category": "Tools & Platforms",
+          "skills": ["Git", "Docker", "Vercel", "AWS"]
+        }
+      ]
+    },
+    {
+      "title": "Professional Experience",
+      "type": "experience",
+      "items": [
+        {
+          "title": "Senior Web Developer",
+          "company": "Tech Company Inc.",
+          "image": "images/cv/usafacts_logo.webp",
+          "period": "2020 - Present",
+          "description": "Lead development of modern web applications using cutting-edge technologies and best practices.",
+          "achievements": [
+            "Improved application performance by 40%",
+            "Led team of 5 developers",
+            "Implemented CI/CD pipelines"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "type": "education",
+      "items": [
+        {
+          "degree": "Bachelor of Science in Computer Science",
+          "institution": "University Name",
+          "period": "2016 - 2020",
+          "description": "Graduated magna cum laude with focus on software engineering and web technologies."
+        }
+      ]
+    },
+    {
+      "title": "Featured Projects",
+      "type": "projects",
+      "items": [
+        {
+          "name": "Personal Blog Platform",
+          "description": "Modern blog built with Astro, featuring responsive design and optimized performance.",
+          "technologies": ["Astro", "TypeScript", "Tailwind CSS"],
+          "url": "https://github.com/username/blog-platform",
+          "highlights": [
+            "Implemented custom CMS",
+            "Achieved 95+ Lighthouse score",
+            "Deployed with zero-downtime CI/CD"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Contact",
+      "type": "contact",
+      "content": {
+        "email": "sean.dillieo@example.com",
+        "location": "San Francisco, CA",
+        "linkedin": "https://linkedin.com/in/dillieo",
+        "github": "https://github.com/dillie-o"
+      }
+    }
+  ]
+}

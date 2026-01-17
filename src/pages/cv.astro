@@ -1,0 +1,244 @@
+---
+import { Icon } from "astro-icon/components";
+import MainGridLayout from "../layouts/MainGridLayout.astro";
+import ImageWrapper from "../components/misc/ImageWrapper.astro";
+import cvData from "../config/cv.json";
+import type { CVConfig } from "../types/config";
+
+// Load CV data from JSON file
+const cv: CVConfig = cvData;
+
+// Map technology names to their icons
+const iconMap: { [key: string]: string } = {
+    // Frontend
+    "Astro": "mdi:rocket",
+    "TypeScript": "mdi:code-tags",
+    "Tailwind CSS": "mdi:palette",
+    "React": "mdi:react",
+    "Svelte": "mdi:lightning-bolt",
+    "Vue": "mdi:triangle-outline",
+    "Angular": "mdi:hexagon-outline",
+    
+    // Backend
+    "Node.js": "mdi:nodejs",
+    "Python": "mdi:language-python",
+    "PostgreSQL": "mdi:database",
+    "MongoDB": "mdi:leaf",
+    "Docker": "mdi:docker",
+    "REST APIs": "mdi:api",
+    
+    // Programming Languages
+    "C#": "mdi:microsoft-visual-studio-code",
+    "Dart": "mdi:language-cpp",
+    "JavaScript": "mdi:language-javascript",
+    "Q#": "mdi:chip",
+    "PHP": "mdi:language-php",
+    
+    // Tools & Platforms
+    "Git": "mdi:git",
+    "Vercel": "mdi:rocket-launch",
+    "AWS": "mdi:aws",
+    "GitHub": "mdi:github",
+    "Linux": "mdi:linux",
+    "VS Code": "mdi:code-json",
+};
+---
+<MainGridLayout title="CV" description="Professional resume and career overview">
+    <div class="flex w-full rounded-[var(--radius-large)] overflow-hidden relative min-h-32">
+        <div class="card-base z-10 px-9 py-6 relative w-full">
+            {cv.sections.map((section, sectionIndex) => (
+                <div class="mb-12">
+                    <!-- Section header -->
+                    <div class="mb-8">
+                        <h2 class="text-2xl font-bold text-[var(--primary)] mb-4 flex items-center gap-3">
+                            <span>{section.title}</span>
+                            <Icon name="material-symbols:bookmark-outline-rounded" class="w-8 h-8 opacity-70 flex-shrink-0"></Icon>
+                        </h2>
+                    </div>
+                    
+                    <!-- Section content based on type -->
+                    {section.type === 'summary' && (
+                        <div class="prose prose-neutral dark:prose-invert max-w-none">
+                            <p class="text-lg leading-relaxed">{section.content}</p>
+                        </div>
+                    )}
+                    
+                    {section.type === 'skills' && (
+                        <div class="space-y-6">
+                            {section.items?.map((skillGroup) => (
+                                <div class="mb-6">
+                                    <h3 class="text-lg font-semibold text-neutral-800 dark:text-neutral-200 mb-3">{skillGroup.category}</h3>
+                                    <div class="flex flex-wrap gap-2">
+                                        {skillGroup.skills?.map((skillName) => (
+                                            <div class="flex items-center gap-2 px-3 py-1 bg-[var(--codeblock-bg)] text-[var(--primary)] rounded-full text-sm font-medium">
+                                                {iconMap[skillName] && <Icon name={iconMap[skillName]} class="text-xs" />}
+                                                <span>{skillName}</span>
+                                            </div>
+                                        ))}
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
+                    )}
+                    
+                    {section.type === 'experience' && (
+                        <div class="space-y-6">
+                            {section.items?.map((item) => (
+                                <div class="mb-8 border-l-2 border-[var(--primary)] pl-6 relative">
+                                    <div class="absolute -left-2 top-0 w-2 h-full bg-[var(--primary)] rounded-full"></div>
+                                    <div class="flex gap-4 mb-3">
+                                        {item.image && (
+                                            <ImageWrapper 
+                                                src={item.image}
+                                                alt={`${item.company} logo`}
+                                                class="w-16 h-16 rounded-lg flex-shrink-0"
+                                                transparent={true}
+                                            />
+                                        )}
+                                        <div class="flex-1">
+                                            <h3 class="text-lg font-semibold text-neutral-800 dark:text-neutral-200 mb-1">{item.title}</h3>
+                                            <p class="text-sm text-[var(--primary)] font-medium mb-1">{item.company}</p>
+                                            <p class="text-sm text-neutral-600 dark:text-neutral-400">{item.period}</p>
+                                        </div>
+                                    </div>
+                                    <div class="w-full mt-3">
+                                        <p class="text-neutral-700 dark:text-neutral-300 mb-3">{item.description}</p>
+                                        {item.achievements && (
+                                            <ul class="list-disc list-inside space-y-2 ml-4">
+                                                {item.achievements.map((achievement) => (
+                                                    <li class="text-sm text-neutral-600 dark:text-neutral-400">{achievement}</li>
+                                                ))}
+                                            </ul>
+                                        )}
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
+                    )}
+                    
+                    {section.type === 'education' && (
+                        <div class="space-y-6">
+                            {section.items?.map((item) => (
+                                <div class="mb-6 border-l-2 border-[var(--primary)] pl-6 relative">
+                                    <div class="absolute -left-2 top-0 w-2 h-full bg-[var(--primary)] rounded-full"></div>
+                                    <div class="flex gap-4">
+                                        {item.image && (
+                                            <ImageWrapper 
+                                                src={item.image}
+                                                alt={`${item.institution} logo`}
+                                                class="w-16 h-16 rounded-lg flex-shrink-0"
+                                            />
+                                        )}
+                                        <div class="flex-1">
+                                            <div class="mb-2">
+                                                <h3 class="text-lg font-semibold text-neutral-800 dark:text-neutral-200">{item.degree}</h3>
+                                                <p class="text-sm text-[var(--primary)] font-medium mb-2">{item.institution}</p>
+                                                <p class="text-sm text-neutral-600 dark:text-neutral-400 mb-3">{item.period}</p>
+                                            </div>
+                                            <p class="text-neutral-700 dark:text-neutral-300 mb-3">{item.description}</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
+                    )}
+                    
+                    {section.type === 'projects' && (
+                        <div class="space-y-6">
+                            {section.items?.map((projectItem) => (
+                                <div class="mb-8 p-6 border border-[var(--line-divider)] rounded-xl">
+                                    <div class="flex gap-4 mb-3">
+                                        {projectItem.image && (
+                                            <ImageWrapper 
+                                                src={projectItem.image}
+                                                alt={`${projectItem.name} thumbnail`}
+                                                class="w-16 h-16 rounded-lg flex-shrink-0"
+                                            />
+                                        )}
+                                        <div class="flex-1">
+                                            <div class="flex justify-between items-start">
+                                                <div>
+                                                    <h3 class="text-lg font-semibold text-neutral-800 dark:text-neutral-200">{projectItem.name}</h3>
+                                                    {projectItem.url && (
+                                                        <a href={projectItem.url} target="_blank" rel="noopener noreferrer" class="text-[var(--primary)] hover:underline text-sm font-medium">
+                                                            View Project →
+                                                        </a>
+                                                    )}
+                                                </div>
+                                                {projectItem.technologies && (
+                                                    <div class="flex flex-wrap gap-2">
+                                                        {projectItem.technologies.map((tech) => (
+                                                            <div class="flex items-center gap-1 px-2 py-1 bg-neutral-100 dark:bg-neutral-800 text-neutral-700 dark:text-neutral-300 rounded text-xs font-medium">
+                                                                {iconMap[tech] && <Icon name={iconMap[tech]} class="text-xs" />}
+                                                                <span>{tech}</span>
+                                                            </div>
+                                                        ))}
+                                                    </div>
+                                                )}
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <p class="text-neutral-700 dark:text-neutral-300 mb-3">{projectItem.description}</p>
+                                    {projectItem.highlights && (
+                                        <ul class="list-disc list-inside space-y-1 ml-4">
+                                            {projectItem.highlights.map((highlight) => (
+                                                <li class="text-sm text-neutral-600 dark:text-neutral-400">{highlight}</li>
+                                            ))}
+                                        </ul>
+                                    )}
+                                </div>
+                            ))}
+                        </div>
+                    )}
+                    
+                    {section.type === 'contact' && (
+                        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                            {section.content?.email && (
+                                <div class="flex items-center gap-3">
+                                    <Icon name="material-symbols:mail-outline-rounded" class="text-[var(--primary)]"></Icon>
+                                    <div>
+                                        <div class="text-sm text-neutral-600 dark:text-neutral-400">Email</div>
+                                        <a href={`mailto:${section.content.email}`} class="text-[var(--primary)] hover:underline font-medium">{section.content.email}</a>
+                                    </div>
+                                </div>
+                            )}
+                            {section.content?.location && (
+                                <div class="flex items-center gap-3">
+                                    <Icon name="material-symbols:location-on-outline-rounded" class="text-[var(--primary)]"></Icon>
+                                    <div>
+                                        <div class="text-sm text-neutral-600 dark:text-neutral-400">Location</div>
+                                        <div class="text-neutral-800 dark:text-neutral-200 font-medium">{section.content.location}</div>
+                                    </div>
+                                </div>
+                            )}
+                            {section.content?.linkedin && (
+                                <div class="flex items-center gap-3">
+                                    <Icon name="fa6-brands:linkedin" class="text-[var(--primary)]"></Icon>
+                                    <div>
+                                        <div class="text-sm text-neutral-600 dark:text-neutral-400">LinkedIn</div>
+                                        <a href={section.content.linkedin} target="_blank" rel="noopener noreferrer" class="text-[var(--primary)] hover:underline font-medium">Connect</a>
+                                    </div>
+                                </div>
+                            )}
+                            {section.content?.github && (
+                                <div class="flex items-center gap-3">
+                                    <Icon name="fa6-brands:github" class="text-[var(--primary)]"></Icon>
+                                    <div>
+                                        <div class="text-sm text-neutral-600 dark:text-neutral-400">GitHub</div>
+                                        <a href={section.content.github} target="_blank" rel="noopener noreferrer" class="text-[var(--primary)] hover:underline font-medium">@dillie-o</a>
+                                    </div>
+                                </div>
+                            )}
+                        </div>
+                    )}
+                </div>
+            ))}
+            
+            <div class="mt-8 text-center">
+                <p class="text-sm text-neutral-600 dark:text-neutral-400">
+                    Last updated: {new Date().toLocaleDateString()}
+                </p>
+            </div>
+        </div>
+    </div>
+</MainGridLayout>
