@@ -1,14 +1,52 @@
-[
-  {
-    "name": "Astro",
-    "icon": "https://avatars.githubusercontent.com/u/44914786?s=48&v=4",
-    "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
-    "url": "https://github.com/withastro/astro"
-  },
-  {
-    "name": "yogurtsのblogs",
-    "icon": "https://yogurts.top/img/avatar.webp",
-    "description": "Yogurtsの博客",
-    "url": "https://yogurts.top/"
-  }
-]
+{
+  "categories": [
+    {
+      "name": "Technologies",
+      "description": "Development tools, frameworks, and platforms I use and recommend",
+      "items": [
+        {
+          "name": "Astro",
+          "icon": "https://avatars.githubusercontent.com/u/44914786?s=48&v=4",
+          "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
+          "url": "https://github.com/withastro/astro"
+        }
+      ]
+    },
+    {
+      "name": "Books",
+      "description": "Great reads that have influenced my thinking and work",
+      "items": [
+        {
+          "name": "The Design of Everyday Things",
+          "icon": "https://covers.openlibrary.org/b/id/8353579-L.jpg",
+          "description": "Don Norman's classic on usability and design psychology",
+          "url": "https://openlibrary.org/works/OL45804W/The_Design_of_Everyday_Things"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "description": "Artists and albums that inspire my creative process",
+      "items": [
+        {
+          "name": "Lo-fi Hip Hop Beats",
+          "icon": "https://i.scdn.co/image/ab67616a00000027f7ffed5c6c1ab67616a000000027f7ffed5c6c1a-default",
+          "description": "Chill beats for coding and focus",
+          "url": "https://open.spotify.com/playlist/37i9dRZ2ZfX2T0J5E5"
+        }
+      ]
+    },
+    {
+      "name": "Inspiration",
+      "description": "Blogs and creators that inspire my work",
+      "items": [
+        {
+          "name": "yogurtsのblogs",
+          "icon": "https://yogurts.top/img/avatar.webp",
+          "description": "Yogurtsの博客",
+          "url": "https://yogurts.top/"
+        }
+      ]
+    }
+  ]
+}

@@ -44,7 +44,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Archive,
 		//LinkPreset.Series,
 		LinkPreset.About,
-		LinkPreset.Friends,
+		LinkPreset.Discoveries,
 	],
 };
 
