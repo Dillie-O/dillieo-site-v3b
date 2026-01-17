@@ -1,0 +1,85 @@
+# 🍥Fuwari
+
+A static blog theme built with [Astro](https://astro.build).
+
+[**🖥️ Live Demo (Vercel)**](https://fuwari.vercel.app)
+
+![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+
+## ✨ Features
+
+- [x] Built with [Astro](https://astro.build) and [Tailwind CSS](https://tailwindcss.com)
+- [x] Smooth animations and page transitions
+- [x] Light / Dark mode
+- [x] Customizable theme colors and banner
+- [x] Responsive design
+- [ ] Comments
+- [x] Search
+- [x] TOC (Table of Contents)
+
+## 👀 Requirements
+
+- Node.js <= 22
+- pnpm <= 9
+
+## 🚀 How to Use 1
+
+Initialize the project locally using [create-fuwari](https://github.com/L4Ph/create-fuwari).
+
+```sh
+# npm
+npm create fuwari@latest.
+
+# yarn
+yarn create fuwari.
+
+# pnpm
+pnpm create fuwari@latest
+
+# bun
+bun create fuwari@latest
+
+# deno
+deno run -A npm:create-fuwari@latest
+```
+
+1. Edit the configuration file `src/config.ts` to customize your blog.
+2. Run `pnpm new-post <file-name>` to create a new post and edit it in `src/content/posts/`.
+3. Deploy your blog to Vercel, Netlify, GitHub Pages, etc., following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment.
+
+## 🚀 How to Use 2
+
+1. [Generate a new repository](https://github.com/saicaca/fuwari/generate) from this template or fork this repository.
+2. To edit your blog locally, clone your repository, run `pnpm install` and `pnpm add sharp` to install dependencies.
+   - Install [pnpm](https://pnpm.io) `npm install -g pnpm` if you don't have it yet.
+3. Edit the configuration file `src/config.ts` to customize your blog.
+4. Run `pnpm new-post <file-name>` to create a new post and edit it in `src/content/posts/`.
+5. Deploy your blog to Vercel, Netlify, GitHub Pages, etc., following [the guides](https://docs.astro.build/en/guides/deploy/). You need to edit the site configuration in `astro.config.mjs` before deployment.
+
+## ⚙️ Post Frontmatter
+
+```yaml
+---
+title: My First Blog Post
+published: 2023-09-09
+description: This is the first post of my new blog with Astro.
+image: /images/cover.jpg
+tags: [Foo, Bar]
+category: Front-end
+draft: false
+---
+```
+
+## 🧞 Commands
+
+All commands are run from the root of the project, from a terminal:
+
+| Command                             | Action                                            |
+|:------------------------------------|:--------------------------------------------------|
+| `pnpm install` and `pnpm add sharp`   | Install dependencies                              |
+| `pnpm dev`                          | Starts local development server at `localhost:4321` |
+| `pnpm build`                        | Build your production site to `./dist/`          |
+| `pnpm preview`                      | Preview your site locally, before deployment     |
+| `pnpm new-post <file-name>`         | Create a new post                                |
+| `pnpm astro ...`                    | Run CLI commands like `astro add`, `astro check` |
+| `pnpm astro --help`                 | Get help using the Astro CLI                     |
