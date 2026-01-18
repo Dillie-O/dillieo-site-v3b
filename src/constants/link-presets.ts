@@ -17,6 +17,10 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
 		name: "Series",
 		url: '/series/',
 	},
+	[LinkPreset.CV]: {
+		name: "CV",
+		url: "/cv",
+	},
 	[LinkPreset.Discoveries]: {
 		name: "Discoveries",
 		url: '/discoveries/',
