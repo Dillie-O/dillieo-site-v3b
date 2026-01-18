@@ -1,50 +1,68 @@
 {
-  "categories": [
-    {
-      "name": "Technologies",
-      "description": "Development tools, frameworks, and platforms I use and recommend",
-      "items": [
-        {
-          "name": "Astro",
-          "icon": "https://avatars.githubusercontent.com/u/44914786?s=48&v=4",
-          "description": "The web framework for content-driven websites. ⭐️ Star to support our work!",
-          "url": "https://github.com/withastro/astro"
-        }
-      ]
-    },
+  "categories": [    
     {
       "name": "Books",
-      "description": "Great reads that have influenced my thinking and work",
+      "description": "Great reads that have influenced my thinking, work, and life",
       "items": [
         {
-          "name": "The Design of Everyday Things",
-          "icon": "https://covers.openlibrary.org/b/id/8353579-L.jpg",
-          "description": "Don Norman's classic on usability and design psychology",
-          "url": "https://openlibrary.org/works/OL45804W/The_Design_of_Everyday_Things"
+          "name": "Wool",
+          "icon": "https://covers.openlibrary.org/b/isbn/1476735115-S.jpg",
+          "description": "In a ruined and hostile landscape, in a future few have been unlucky enough to survive, a community exists in a giant underground silo.",
+          "url": "https://app.thestorygraph.com/books/4cbd5c57-4f37-4399-a61b-206894d1a48f"
+        },
+        {
+          "name": "A Wrinkle in Time Trilogy",
+          "icon": "https://covers.openlibrary.org/b/isbn/0374303223-S.jpg",
+          "description": "Meg's father had been experimenting with time-travel when he suddenly disappeared. Will Meg, Charles Wallace, and their friend Calvin outwit the forces of evil as they search through space for their father?",
+          "url": "https://app.thestorygraph.com/books/9cbae71a-350d-4cd3-96ef-945695f3aede"
+        },
+        {
+          "name": "The Hobbit & Lord of the Rings",
+          "icon": "https://covers.openlibrary.org/b/isbn/9780008376109-S.jpg",
+          "description": "Set in the mythical world of Middle-earth, J. R. R. Tolkien’s ‘The Hobbit’ and ‘The Lord of the Rings’ follow the adventures of a hobbit named Bilbo Baggins and a fellowship of creatures in their quest to defeat the Dark Lord Sauron.",
+          "url": "https://app.thestorygraph.com/books/42257547-34b5-4ca9-a005-4d7c888e172f"
+        },
+        {
+          "name": "Leadershift: The 11 Essential Changes Every Leader Must Embrace",
+          "icon": "https://covers.openlibrary.org/b/isbn/1400212944-S.jpg",
+          "description": "John C. Maxwell revealing the eleven shifts you should make over the course of you career to keep innovating, improving, and influencing others to the highest levels of success in today's unprecedented business climate.",
+          "url": "https://app.thestorygraph.com/books/6db1f81e-5617-4430-b33a-abfd5b995143"
         }
       ]
     },
     {
       "name": "Music",
-      "description": "Artists and albums that inspire my creative process",
+      "description": "Artists and albums that keep me going",
       "items": [
         {
-          "name": "Lo-fi Hip Hop Beats",
-          "icon": "https://i.scdn.co/image/ab67616a00000027f7ffed5c6c1ab67616a000000027f7ffed5c6c1a-default",
-          "description": "Chill beats for coding and focus",
-          "url": "https://open.spotify.com/playlist/37i9dRZ2ZfX2T0J5E5"
+          "name": "Lofi Girl",
+          "icon": "https://yt3.googleusercontent.com/_BSh2VVvVMzqBoKyWbQnyC35XFOV-ZbXavf9nfu3ZjpFUGEImQnlWt9ZlpfGQBqWEbGNc4rPWg=s160-c-k-c0x00ffffff-no-rj",
+          "description": "Connecting people through music. Lofi and Synthwave music for focus, relaxing, gaming, or chilling.",
+          "url": "https://www.youtube.com/c/LofiGirl"
         }
       ]
     },
     {
       "name": "Inspiration",
-      "description": "Blogs and creators that inspire my work",
+      "description": "Blogs and creators that inspire and provoke thought",
       "items": [
         {
-          "name": "yogurtsのblogs",
-          "icon": "https://yogurts.top/img/avatar.webp",
-          "description": "Yogurtsの博客",
-          "url": "https://yogurts.top/"
+          "name": "Experimental Theology with Richard Beck",
+          "icon": "https://substackcdn.com/image/fetch/$s_!5ET0!,w_176,h_176,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F4053736e-5a51-4c0a-bec7-fc99e23ccd6e_1102x1102.png",
+          "description": "Drawing Large and Startling Figures",
+          "url": "https://richardbeck.substack.com/"
+        }
+      ]
+    },
+    {
+      "name": "Tech",
+      "description": "Tools, frameworks, and platforms I use and recommend",
+      "items": [
+        {
+          "name": "Todoist",
+          "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/70/0d/bb/700dbb15-c155-5b05-8dce-ce6f7b869d2d/AppIcon-0-0-85-220-0-0-6-0-2x.png/400x400ib-75.webp",
+          "description": "Trusted by 30 million people and teams. Todoist is the world's favorite task manager and to-do list app. Finally become focused, organized and calm.",
+          "url": "https://www.todoist.com"
         }
       ]
     }
