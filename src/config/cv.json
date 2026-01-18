@@ -11,11 +11,11 @@
       "items": [
         {
           "category": "Frontend Development",
-          "skills": ["Astro", "TypeScript", "Tailwind CSS", "React", "Svelte"]
+          "skills": ["Angular", "Astro", "Bootstrap", "Flutter", "TypeScript", "Tailwind CSS", "React", "Svelte", "Wordpress"]
         },
         {
           "category": "Backend Development", 
-          "skills": ["Node.js", "Python", "PostgreSQL", "REST APIs"]
+          "skills": ["dotnet", "Node.js", "Python", "PostgreSQL", "REST APIs"]
         },
         {
           "category": "Programming Languages",
@@ -23,7 +23,7 @@
         },
         {
           "category": "Tools & Platforms",
-          "skills": ["Git", "Docker", "Vercel", "AWS"]
+          "skills": ["AWS", "Azure", "Docker", "Firebase", "Git", "Vercel"]
         }
       ]
     },
@@ -62,15 +62,52 @@
       "type": "projects",
       "items": [
         {
-          "name": "Personal Blog Platform",
-          "description": "Modern blog built with Astro, featuring responsive design and optimized performance.",
-          "technologies": ["Astro", "TypeScript", "Tailwind CSS"],
-          "url": "https://github.com/username/blog-platform",
+          "name": "One Minute to Breathe",
+          "description": "One minute to breathe is an experiment in mindfulness. One minute videos to allow you to simply breathe and refocus.",
+          "technologies": ["Dart", "Flutter", "YouTubeAPI"],
+          "url": "https://oneminutetobreathe.com",
           "highlights": [
-            "Implemented custom CMS",
-            "Achieved 95+ Lighthouse score",
-            "Deployed with zero-downtime CI/CD"
+            "Daily reminders.",
+            "Searchable library of videos."
           ]
+        },
+        {
+          "name": "Prayer Odyssey",
+          "description": "See how God answers prayer in your life with the option to share with others.",
+          "technologies": ["Dart", "Flutter", "Firebase"],
+          "url": "https://prayerodyssey.com",
+          "highlights": [
+            "Create small groups.",
+            "Get notified when people are praying for you."
+          ]
+        },
+        {
+          "name": "Bookmarkinator",
+          "description": "Behold... The ultimate inator for all your bookmarks! See how it will take over the tri-browser area with its tagification and organizational prowess!!!",
+          "technologies": ["Bootstrap", "C#", "dotnet", "HTML5", "SQL Server", "MVC"],
+          "url": "https://dillieo.visualstudio.com/Bookmarkinator",
+          "highlights": []
+        },
+        {
+          "name": "Trellodoro",
+          "description": "Trello + Pomodoro = Personal Kanban Bliss",
+          "technologies": ["JavaScript", "HTML5", "SCSS", "WebAPI"],
+          "url": "https://github.com/Dillie-O/trellodoro",
+          "highlights": []
+        },
+        {
+          "name": "Blog Migrator",
+          "description": "A tool to migrate your blog across services",
+          "technologies": ["dotnet", "XML", "Wordpress"],
+          "url": "https://github.com/Dillie-O/blogmigrator",
+          "highlights": []
+        },
+        {
+          "name": "CCG Toolkit",
+          "description": "A suite of applications for the Yu-Gi-Oh TCG (full source to come)",
+          "technologies": ["dotnet", "HTML5", "JavaScript", "SASS", "MySQL", "SQL Server"],
+          "url": "https://web.archive.org/web/20140702231119/http://ccgtoolkit.codeplex.com/",
+          "highlights": []
         }
       ]
     },
