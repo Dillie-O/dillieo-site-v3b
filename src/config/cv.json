@@ -3,7 +3,7 @@
     {
       "title": "Professional Summary",
       "type": "summary",
-      "content": "Software developer passionate about creating elegant, user-focused web experiences with modern technologies."
+      "content": "As a seasoned and innovative software engineer, I have 20+ years of experience in designing and building web sites and web applications for both small department and enterprise clients. As a manager and architect, I work to inspire, and empower our teams to complete projects of all sizes and complexity. I am a hardworking, self-motivated individual that also works well in team environments. I passionately believe that if you can dream it, I can build it."
     },
     {
       "title": "Skills & Expertise",
@@ -32,16 +32,44 @@
       "type": "experience",
       "items": [
         {
-          "title": "Senior Web Developer",
-          "company": "Tech Company Inc.",
+          "title": "Software Development Manager",
+          "company": "USAFacts",
           "image": "images/cv/usafacts_logo.webp",
-          "period": "2020 - Present",
-          "description": "Lead development of modern web applications using cutting-edge technologies and best practices.",
+          "period": "2023 - Present",
+          "description": "USAFacts is a not-for-profit, nonpartisan civic initiative making government data easy for all Americans to access and understand. Landing somewhere between the responsibilities of project lead, architect, and manager, I guide and support my team in collaboration with the org to build great things.",
           "achievements": [
-            "Improved application performance by 40%",
-            "Led team of 5 developers",
-            "Implemented CI/CD pipelines"
+            "Led discovery of new CMS platform that reduced content creation time by 50%",
+            "Expanded team from 4 to 8 engineers.",
+            "Improved DORA metrics for overall development productivity."
           ]
+        },
+        {
+          "title": "Senior Software Director",
+          "company": "Fresh Consulting",
+          "image": "images/cv/freshconsulting_logo.webp",
+          "period": "2011 - 2023",
+          "description": "Fresh Consulting is a strategy, design, software, and hardware innovation company that offers end-to-end services with integrated teams. We design and build strategies, brands, products, robotics, systems, and apps to help you stay fresh. Whether your plan is to stay ahead or your need is to stay relevant, our multifaceted teams quickly integrate with yours to help you transform and create the future, together. In addition to coding and architecture, I empower and inspire teams to complete projects of all sizes and complexity. As a mentor, I seek to identify the strengths of my mentees, challenging them to grow to their best potential. As a manager, I help identify the ideal team for a project, partnering seasoned and junior devs while building something innovative and fresh.",
+          "achievements": [
+            "Moab - Partnering w/Microsoft, Moab is a device & system for those interested in reinforcement learning. Moab takes a simple problem, balancing a ball on a plate, & empowers a person to build their own 'brain' to solve this using the Bonsai AI platform.",
+            "Delivery Tracking Platform - A leading cement & aggregate material company needed a modern platform to handle the volume of data. Tickets, vehicles, & locations needed to be tracked from generation in a legacy system to a new platform with updates in real time.",
+            "Legal Bundling App - Fulfilling a vital need in the international legal workflow process, this tool is an Angular/.Net WebAPI app that allows legal groups to collaborate & organize documents during the 'pre-trial' phase of a legal matter. The data tier uses an existing framework, providing offline access. The platform was built with scalability & internationalization in mind, using configuration over customization."
+          ]
+        },
+        {
+          "title": "Programmer/Analyst II",
+          "company": "Yavapai County Government",
+          "image": "images/cv/yavapaicounty_logo.webp",
+          "period": "2006 - 2011",
+          "description": "Yavapi County serves and protects its citizens through efficient management of all its resources to enhance the lives of those we serve. I was responsible creating web-based applications to serve the various internal departments meeting their specialized needs for day to day operations. I maintain database tables, procedures, and data for affected applications. I also assisted co-workers with miscellaneous design and programming issues.",
+          "achievements": []
+        },
+        {
+          "title": "Programmer/Analyst II",
+          "company": "UNLV",
+          "image": "images/cv/unlv_logo.webp",
+          "period": "2002 - 2006",
+          "description": "Since our first classes were held on campus in 1957, UNLV has transformed itself from a small branch college into a thriving urban research institution. Along the way, our urban university has become an indispensable resource in one of the country's fastest-growing and most enterprising cities. I was responsible for creating web based applications for various departments within the University that relied upon the Student Information System (SIS) data. I maintained data warehouse that retrieved SIS data from state mainframe system on a daily basis for use in local applications. I served as primary developer on university wide committee to establish a universal ID for use with all applications and upcoming University portal.",
+          "achievements": []
         }
       ]
     },
@@ -61,6 +89,16 @@
       "title": "Featured Projects",
       "type": "projects",
       "items": [
+        {
+          "name": "BTW AI Daily News",
+          "description": "An experiment in AI audio generated daily news. Unbiased news sources are scraped and a simple transcript is generated every morning for your morning commute.",
+          "technologies": ["AI", "n8n", "OpenAI", "Ollama"],
+          "url": "https://podcastindex.org/podcast/7563076",
+          "highlights": [
+            "AI automation",
+            "Transcript and audio generation"
+          ]
+        },
         {
           "name": "One Minute to Breathe",
           "description": "One minute to breathe is an experiment in mindfulness. One minute videos to allow you to simply breathe and refocus.",
@@ -115,8 +153,8 @@
       "title": "Contact",
       "type": "contact",
       "content": {
-        "email": "sean.dillieo@example.com",
-        "location": "San Francisco, CA",
+        "email": "dillieo@gmail.com",
+        "location": "Fife Heights, WA",
         "linkedin": "https://linkedin.com/in/dillieo",
         "github": "https://github.com/dillie-o"
       }
