@@ -1,0 +1,29 @@
+---
+title: This Whole Social Media Thing
+description: Social Media Lunch
+published: 2011-06-06
+image: images/posts/this_whole_social_media_thing.webp
+imageAlt: Social Media Lunch
+category: Default
+tags: [facebook, geekery, sm301, smc301, social-media, twitter]
+---
+
+![Social Media Lunch](../img_post/2011-06-06-this-whole-social-media-thing/2011-06-sociallunch.jpg "SocialLunch")
+
+I was given a fabulous opportunity this past week to take part in the [Social Media 301 conference](http://socialmedia301.com/) put on by my new employer [Fresh Consulting](http://www.freshconsulting.com). I'll admit I've had limited to social media in the bigger picture. I do a bit of tweeting, I keep dibs on friends via Facebook, but that's really about the extent of my knowledge on the topic. This conference was entertaining and enlightening in ways I never knew.
+
+<!--more-->
+
+To some extent, I think a lot of folks get the wrong impression of social media in the business realm. Most likely they've found a twitter feed of a company that is doing nothing but rehashing all of the news blurbs or commercials you can already see on their main page. Or they may have a Facebook page but with nothing really on it, or nobody to actually engage with you to discuss the product.
+
+Social Media 301 went into this to really help define what it means to be an effective business with a social media presence. The keynote speaker was [@briansolis](http://twitter.com/briansolis), who is probably the leading authority on new media. But on top of this there was [@coryedwards](http://twitter.com/coryedwards), the social director for Dell, [@elhoust](http://twitter.com/elhoust), the global events social media manager for Cisco, [@theclimbergirl](http://twitter.com/theclimbergirl), the social media specialist for REI, and a whole heap more. The [entire list](http://socialmedia301.com/speakers/) of speakers is very impressive indeed!
+
+Among the list of stories and tools used for social media, the underlying concept that was reiterated, surprisingly enough, was that nothing can top the face to face contact between company and user. Ultimately the person needs to be reached, and social media can help get them there. Did you know that Dell has a program where all the naysayers and trolls get to come in and vent their frustrations with a real life person?! They've converted a couple of folks to come work with them that way. REI has some regional twitter accounts in hopes to get a more intimate connection with some of users it supports. Boeing took the hint and converted their site from being more investor oriented to being more informative and user friendly, posting some test videos of new braking systems where the wheels caught fire at the end, demonstrating how their emergency braking system preserved the plane from crashing. As the Boeing person explained, sure the person seeing this video can't afford to purchase a Boeing plane, but the next time that person is at the airport chatting with their airline representative and say, " I really like Boeing" then that connection is made and their brand is enhanced.
+
+Behind the scenes, so to speak, was the actual twitter feed going on for the conference. You could call it the "meta conference" if you'd like. You can still view the archive of the event by checking out the #sm301 or #smc301 hash tags. To some extent this amazed me more than the presentations. As the conference is going, you have a good dozen or so folks tweeting good points the speaker makes, adding insightful questions, and re-tweeting insights by fellow members. The keynote speaker joked (or maybe not so much) that if you were looking up at him while he spoke, then he wasn't being effective. To some degree, listing, glancing at a slide, and then interacting with the speakers statements, and the other participants, was when a truly successful presentation was occuring. The photo above was taken during the lunch break, where a lot of folks folks (I'm sure) got to meet for the first time (or a reunion) and chat in person, where the best connections occur.
+
+At one point during the conference, the #sm301 hash tag was invaded by spammers, looking to find the largest current trends and sucker some people into spam/virus/mayhem type sites. Without much effort, the group simply "changed rooms" by using the #smc301 hash tag for all of the conversations and things were back to business as usual. I even put in a request to twitter support to see if they could clean things up in there and by the late afternoon it was safe to swim in both waters for a while.
+
+At another point during the conference, it was announced that a guy had tickets to the U2 concert that was going on Saturday in town. Adding a social media angle to things, he wanted to bring people from four different generations (Millenialist, Baby Boomer, Traditionalist, Gen X) of twitter users to get to the concert together. There was one slot left and a gal in our group was interested. Without fail I think about half a dozen of us tweeted this guy and pointing to the gal that wanted to go and she got the ticket! Good deed done through the power of social media.
+
+This conference really helped show where social media can do things right, by being an extension to touch the people behind the twitter handles and facebook pages to do some good. To help them connect with other users of their product, or help them troubleshoot an issue. Sometimes just having a little bit of fun with your fellow users isn't too shabby either. While I'm no business man myself, this conference exposed me to some really great things that can happen through social media.

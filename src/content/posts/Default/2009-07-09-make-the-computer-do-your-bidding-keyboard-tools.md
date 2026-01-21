@@ -1,0 +1,31 @@
+---
+title: Make The Computer Do Your Bidding Keyboard Tools
+description: Make The Computer Do Your Bidding Keyboard Tools
+published: 2009-07-09
+image: images/posts/make_the_computer_do_your_bidding_keyboard_tools.webp
+imageAlt: Make The Computer Do Your Bidding Keyboard Tools
+category: Default
+tags: [coding]
+---
+
+When I'm programming at work, or even at home on the side, one of the biggest wastes of time is launching applications. I'll be writing some code, realize I need to fire up another application to process a screen shot or look into the underlying data. So I take my hand off the keyboard to grab my trackball _\[yep, I'm one of THOSE people]_, go to my start menu, dig through the lengthy tree of applications to find (or sometimes not find if it is an app I use only on occasion), start it up, and move my hand back to the keyboard to continue. You'd be amazed at how much time this takes when you're frequently jumping in and out of applications or tasks.
+
+I tend to classify my apps into three categories:
+
+- **Primary**: The heavy hitters I'm running all day long, like Visual Studio, Chrome (current preferred browser), Internet Explorer (for testing internal apps), iTunes (podcasts and music to keep the brain flowin'), etc.
+- **Secondary**: Apps that I use a lot, but maybe for a quick file transfer or verification like FreeCommander (file exploer app), Paint.net
+- **The Rest**: Pretty much everything else I use, but not all that frequently.
+
+In order to get "instant" access to these apps and eliminate the "mouse seek" time, I leverage a the following tools. There's a good chance that these are all familar to you, but it never hurts to spread the love again. Plus they are all high quality and free:
+
+- [Rocket Dock](http://rocketdock.com/): This great tool essentially recreates the OSX style of application launcher, and keeps an indicator marker next to running apps. It also has a snazzy "zoom in" style when you mouse over an icon, which helps when you have a large list. You may be calling me on the carpet for still using a program that requires me to use the mouse, but I keep all my Primary apps here since I only fire them off once a day and it functions better than the Quick Launch Toolbar bar built into Windows.
+- [Q-Liner Hotkeys](http://www.qliner.com/hotkeys/default.htm): This tools allows you to map your Windows Key as an application launcher based on your keystrokes. This is where I put all of my secondary applications that I need to launch. A simple Windows+F to get to Free Commander, or Windows+P to get to Process Explorer goes a long way. You can even map other system controls, such as increasing the volume through Hotkeys. In addition, they have a great screen capture program built into the application as well. I haven't seen an update on this app in a year or so, but it still runs rock solid. One small caveat, their current build does not work on 64 bit processors, due to a keyflag issue, so sadly Hotkeys is not on my laptop at home. There are a couple of workarounds, but I'm hoping the Qliner guys will update it soon.
+- [Launchy](http://www.launchy.net/): Launchy essentially indexes all the items in your start menu, and then gives you a simple "command bar" that you can start them up from. It uses the autocomplete style, and remembers the apps you've recently launched, so you can typically start up your app in about 5 characters or less. It will also allow you to index web history and other items through it. I use this for all "the rest" of my apps and I haven't even seen my start menu in a good 6 months or so. I used to keep my start menu finely tuned and organized, but I don't have to worry about that anymore.
+
+I use all three of these apps in an overlapping fashion, there are times when I'll use launchy to start something up that already has a hotkey for. I even have a few hotkeys for apps that are in Rocket Dock. Depending on what mindset I'm in at the time I can fire up what I need immediately. Sometimes I'm already doing some editing with the mouse and it is easy to swing over to Rocket Dock and fire off the tool I need. I could be typing so furiously that it is easier to press ALT + Space to bring up launchy instead of pausing to use Windows + hotkey.
+
+What's really great is that Windows 7 already has a rocket dock and launchy type interface built into it. With Windows 7 you can "pin" items to your task bar, effectively making them indicators of which programs are running and a quick launch bar to start them up. I've discovered I can also assign hot keys to them, so I'm working with that option now too. In addition, when you hit the Window key in Windows 7, you'll see a new "search" box that show up in the start menu, which searches your system, including the start menu. Just like with launchy, I can get to all my apps within about 5 characters or less.
+
+By combining these tools with a great freeware virtual desktop program called [Dexpot](http://dexpot.de/) (which also has hotkeys to manipulate windows), I can keep my hands on they keyboard much longer and increase my productivity that much more! I don't quite feel like Tom Cruise in Minority Report, but I do feel like the computer screen is doing my bidding serving as a natural extension of my programming actions, as opposed to me having to clunk back and forth between two different monitors and two different input sources to work on my projects.
+
+If you have any other tools (free or otherwise), please share them. I'm always looking to check out something new.

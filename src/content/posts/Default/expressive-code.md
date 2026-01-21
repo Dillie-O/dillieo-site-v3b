@@ -2,10 +2,10 @@
 title: Expressive Code Example
 published: 1002-04-10
 description: How code blocks look in Markdown using Expressive Code.
-image: "https://api.lxtu.cn/api.php?category=pcbz"
+image: https://api.lxtu.cn/api.php?category=pcbz
 tags: [Markdown, Blogging, Demo]
 category: Default
-draft: false
+draft: true
 series: Examples
 ---
 

@@ -1,0 +1,29 @@
+---
+title: A Geekish Tribute To My Computers Part 1
+description: A Geekish Tribute To My Computers Part 1
+published: 2009-05-19
+image: images/posts/a_geekish_tribute_to_my_computers_part_1.webp
+imageAlt: A Geekish Tribute To My Computers Part 1
+category: Default
+tags: [life]
+---
+
+I just finished listening to [Scott Hanselman's interview with the Wildcat! BBS guys](http://www.hanselman.com/blog/HanselminutesPodcast161BBSsAndWildcatFromMustangSoftware.aspx) and it stirred up too many memories that I wanted to just get out in the open.
+
+The year was 1987. I was 9 years old and in third grade. On one fateful trip down to my aunt's house in San Dimas, I think I spent the entire visit in front their 286 IBM PC clone doing this think called "Print Shop." It didn't matter to me that I was working on this black screen with green text, I was making cool "Keep Out" signs to keep my little brother out of my room. I was hooked. We made a few more trips down that summer and I got to play away.
+
+That Christmas my fate was sealed. My aunt and uncle gave me their older computer that my cousin wasn't using: a [TI 99-4/A](http://www.old-computers.com/MUSEUM/computer.asp?c=236). This system had a color display, but I was stuck using the TV adapter on an old Black and White television for my monitor. It didn't matter. I HAD MY OWN COMPUTER!!! I spent many an hour playing what 3 games I had for it (mainly educational stuff). Even more important, I started dabbling in the back of one of the user manuals that had this "TI Basic" thing in the back. I started typing in what it told me to do and _hazzah_, the computer was doing cool tricks like having a ball bounce around the screen and make a beep noise when it hit the edge. I also learned the valuable lesson of saving your work since one flick of the power switch made all that hard work disappear.
+
+My TI had lasted me a few years, but I had seen the computers that some of my friends were getting and I was chomping at the bit to upgrade. I'll admit that a decent chunk was due to games, but by the same token, my computer skills had availed to me that my TI had no way of saving anything. I was just stuck doing "one time" jobs unless I wanted to leave the system running all night and day. Finally in the spring of '92, as I was finishing off my 8th grade year, my parents purchased a IBM Clone from a friend for \$1200: Specs: 386 SX-16 with a 20 MB hard drive, 2MB of RAM, SVGA graphics card, and a 2400 baud modem. I also learned the valuable lesson of UI development, since the folks we purchased the computer from forgot to give us the mouse and it took me a full day to discover the tab key moved me around the various windows in DOS Shell.
+
+While slated (probably for purchase justification) as a "family computer" my brother and parents didn't really know how to use the computer, it essentially was my own playground. I quickly got rid of the DOS Shell and enjoyed many an hour in the world of DOS: Batch files, program executables, I even started dabbling a bit in C, though it was a lot more daunting to me than Basic.
+
+This "family computer" also became a test ground to learn the internals of a machine too. I'll never forget when I saved up my money to purchase a Sound Blaster Pro and had one of my "expert" friends come over and show me how to drop the card in, just to make sure I didn't break anything. I later upgraded to a 33.6K baud modem thanks to most savings and a good deal at Costco.
+
+Most importantly though, this computer survived all through high school thanks to some upgrading along the way. At the end of its life, the machine was sporting a nice 486-DX33 processor with a whopping 5 MB of RAM. Yes, 5MB of RAM. Impossible, you say. Typically yes, but here was the interesting fluke _\[and bragging rights]_ about the upgrade. The old machine was using a SIMM chip format for its RAM. The new motherboard required me to purchase DIMM chip format RAM. I may be off with the format names, but you get the drift. The minimum I could get was 4MB. It was rather costly, but worth it. However, as the computer shop owners were installing the motherboard _\[I didn't trust my Jedi skills THIS much yet]_, they discovered that there was actually one memory bank available on the motherboard for SIMM RAM. Unsure if the system was exclusive to which bank was used, they went ahead and loaded up the SIMM bank with some of my old RAM and the system worked! It booted up to a nice and funky 5120 bytes on the memory check and I was all set!
+
+The most influential aspect of my computing during this phase was the modem itself. A friend of mine was pretty hard core into the computers, so he invited me over one day and gave me the ropes of modem/BBS etiquette and a couple of local BBSes that were up and running locally. From here I met some older friends that mentored me in the wide world of computing _\[heck I think I was at least 20 years younger than all of them 8^D]_ and generally got my geek knack into high gear. I was quite proud of the fact that I wrote my own script from Qmodem that called out to a custom batch file that initiated a ZModem transfer of files, and eventually I moved to Windows 3.1, only to wrestle with Trumpet Winsock to get things going with the Internet. That said, seeing that first download of some Hieronymous Bosch artwork from the Louvre Museum online was insanely cool.
+
+In the next chapter, the rest of my computer "family."
+
+![](/blogengine/image.axd?picture=2009%2f8%2fClassicAtariDeskSmall.jpg)

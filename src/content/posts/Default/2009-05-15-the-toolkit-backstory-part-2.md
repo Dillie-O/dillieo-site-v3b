@@ -1,0 +1,27 @@
+---
+title: The Toolkit Backstory Part 2
+description: The Toolkit Backstory Part 2
+published: 2009-05-15
+image: images/posts/the_toolkit_backstory_part_2.webp
+imageAlt: The Toolkit Backstory Part 2
+category: Default
+tags: [ccg-toolkit, coding, deck-studio, netrep, ronin]
+---
+
+So I was in! I was part of a group making some good software and overall improving the Yu-Gi-Oh! community. To my suprise, there was already a decent infrastructure in place. There was the [netrep site](http://netrep.net/), quickly moving up the ranks since it had card data and rulings. There was [RONIN](http://roninpro.com/), being quickly consumed by judges everywhere, and the [City of Gamers](http://cogonline.net/) website, which was kind of the hub for the applications, but more importantly was standing out as a forum site that didn't tolerate the flaming and trolling that a lot of other sites were known for.
+
+So my task was to become a giant like the rest of the ones already in place. I was intimidated, to say the least _\[shoot, I'm still getting my feet wet in any kind of intensive app outside of CRUD stuff]_. However, the lead RONIN guy took me under his wing and gave me lots of advice when I needed it and showed me how to link into the existing RONIN database to solve one piece of the puzzle _\[Forever my Yoda, you ROCK djp952]_.
+
+From the beginning, I always wanted Deck Studio to be a "by duelists for duelists" type program. Since I had recently converted to the fiendish arts in my own playstyle, and barely any cards to support it, this was the perfect time to [eat my own dogfood](http://en.wikipedia.org/wiki/Eating_one's_own_dog_food). The first thing on my mind was the cards themselves. I'm somewhat of a data junkie anyway, so being able to see a complete list of cards was simply golden. In addition, there was so much good artwork going on to these cards that it was a must to have it available for the duelists. Even now I like to take a peek at Crush Card Virus and dream of the day I'll have an actual card in my hands.
+
+The wish list then began to flow of all the things that needed to go into the application. The entire deck contents needed to be viewed, but being able to drill down into your monster lineup to verify you didn't have too many tribute monsters was also needed. Spells and Traps would also need to have this kind of drill down ability. In my own deck building, I started to track what kind of strengths and weaknesses the deck had. I'm also a technical and combo-style duelist, so I needed a place to be able to track all the combos the deck posessed. I'm well aware that a lot of folks probably wouldn't want to track this data, but it was easier to have it there and not use it, than put it in later.
+
+It was a given that the application should validate against the current ban lists. One of the goals of Deck Studio was to allow duelists to scrutinize their deck the day before a big tourney, trying out various incarnations, without having to constantly be pulling cards in and out of their tins/binders/whatever until the final deck was polished and ready to roll. This is also what led into the deck printing feature. I never did find out how much that feature was actually used, outside of a judge who was using it for printing deck lists at tournaments.
+
+Organizing all of this information into a layout that comprehensive, but not obtrusive, proved to be the biggest challenge. Part of the reason "Studio" exists in the name of the program is that I was inspired by the layout Visual Studio uses. By having the tools and properties available on the "edges" of the workspace, it allowed you to focus on the deck itself (in the center) and easily drag in the components as you needed them. If you were really focusing on deck layout, or didn't have enough space, you could simply hide the panels you don't need, or slide them out temporarily to drag items over. Similarly, items like the deck validation and simulation were important pieces to the application, but the average user wasn't using them all the time, since the primary activity was building the deck. Having a slide up "status" window worked perfectly since it was akin to the "build" process that occurs when compiling the source code in Visual Studio.
+
+So all of this thought, coding, messing up _\[extensively]_, and testing led us through several beta cycles _\[named aptly after fiends of course]_ until Deck Studio went to 1.0 status. As satisfying and exciting as the 1.0 release date was, it was only a quick stop off. There were still so many features that didn't make it into 1.0 and there were now plenty of small bugs and support features that needed to go into things. Maintenance life had begun, which was a mixed blessing. It was great to see that there was enough use of Deck Studio that people were finding bugs, but a little tedious in that it prevented me from being able to work on feature enhancements.
+
+Sadly, around the time Deck Studio was at 1.5 status, Empyre Group was not faring too well, and I'd be spending the next year or so making some big decisions on my own and having to divert feature enhancements even more. That we'll save for the final installment of the back story.
+
+:: Peace out homeskillets! ::

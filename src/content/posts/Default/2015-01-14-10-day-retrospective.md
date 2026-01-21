@@ -1,0 +1,21 @@
+---
+title: 10 Day Retrospective
+description: 10 Day Retrospective
+published: 2015-01-14
+image: images/posts/10_day_retrospective.webp
+imageAlt: 10 Day Retrospective
+category: Default
+tags: [goals, life, pensee, workshop]
+---
+
+Finish line crossed. Goal achieved. Expanded levels unlocked. I did it! Today is the final day of the [10 days to a better blog](http://talk.desk.pm/t/10-days-to-a-better-blog-day-10/947) workshop and I’m proud to say that I’ve made it all the way through! I’ve been able to blog consistently for 10 days, but MORE importantly, I’ve been able to develop some patterns, habits, and goals to help me move forward. I’ve met some great fellow bloggers (digitally) and now have their stories to add to my reading list for encouragement and inspiration. Today is also a day of reflection upon the process and here are some things that come to mind.
+
+<!--more-->
+
+The thing that most profoundly hit me was how effective a small block of time and space can be. The first day of the challenge was just to take 15 to 20 minutes, no more than that, and simply write. Open your soul to whatever it may be thinking and expose it in front of your eyes. Try not to edit those words either. Those first few minutes were intense! But once I dropped any remaining barriers, it was beautiful. The words weren’t terribly profound, but they were my words, and they were out. Refinement can come later. We all are refined over time. More importantly, they were there in the first place!
+
+Before I knew it, 20 minutes had passed. I could have continued, but I think I would have been stretching myself to far and started over editing everything. So I thought that if I can give myself a 15 minute block, good things can come from it. This amount of time isn’t terribly intimidating either. It’s half a sitcom, or about the amount of time it takes for the tea pot to come to a full boil on the kettle. It’s something that can be easily inserted into your life, nearly any part of the day, and can grow from there as your needs and desires expand. Morning is my main slot to do this, but if I had to do it later in the afternoon, then it ins’t that bad of a thing.
+
+I’ve also come to value the environment or space of my blogging “canvas.” Over the years I’ve thrown together posts over the course of the day, and while they weren’t bad, they were rather disjointed and even then they were pieced together in an environment where there was a lot conflicting with it. One day in the workshop revolved around your blogging environment and what works best for you, with a focus on removing all distractions. So here I am again, starting this off about 6:30 in the morning, with some of my favorite light Norah Jones and Harry Connick Jr. music in a fresh playlist, a quiet house, and a simple writing screen (thank you [Desk](http://desk.pm) for this!) and it feels great. Barriers are removed and words can flow. I also know that if the morning is rough, I can carve out a few minutes in the afternoon, close everything up, fire up Desk and the playlist, and I’m in that state or mode to do write. It’s almost like some old cross country preparation our team learned to do. Give yourself a spark, a tap on the chest, something unique to you, and mentally shut everything out except for the run. The empty canvas and the opening chord of Harry Connick Jr.’s _Stardust_ does that for me now.
+
+I think these two things, a simple block of time and space, were the biggest impacts to me and my blogging. It has encouraged me that consistently blogging isn’t as insurmountable and I tended to think of it before and a few small tools and dedication can go a long way.

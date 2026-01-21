@@ -2,10 +2,10 @@
 title: Markdown Example
 published: 1001-10-01
 description: A simple example of a Markdown blog post.
-image: "https://api.boxmoe.com/random.php"
+image: https://api.boxmoe.com/random.php
 tags: [Markdown, Blogging, Demo]
 category: Default
-draft: false
+draft: true
 series: Examples
 ---
 

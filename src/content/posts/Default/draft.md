@@ -1,11 +1,12 @@
 ---
 title: Draft Example
 published: 1000-07-01
-image: "https://api.lxtu.cn/api.php?category=ecy"
+image: https://api.lxtu.cn/api.php?category=ecy
 tags: [Markdown, Blogging, Demo]
 category: Default
 draft: true
 series: Examples
+description: This Article is a Draft 本文是草稿
 ---
 
 # This Article is a Draft

@@ -1,9 +1,9 @@
 ---
-title: The Year in Photos 2025
+title: The Year In Photos 2025
 description: Another year, another collection of my favorite pics
 published: 2025-12-29
-image: "images/posts/year_in_photos_2025.webp"
-imageAlt: Collage of photos from 2025
+image: images/posts/the_year_in_photos_2025.webp
+imageAlt: 2025 photo collage
 category: Default
 tags: [photos, memories, pensee]
 ---

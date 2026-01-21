@@ -1,0 +1,15 @@
+---
+title: Bienvenue Mmxv
+description: Bienvenue Mmxv
+published: 2014-12-31
+image: images/posts/bienvenue_mmxv.webp
+imageAlt: Bienvenue Mmxv
+category: Default
+tags: [life, new-year, pensee, resolutions]
+---
+
+hello 2015.
+
+what do you have in store for me?
+
+or more importantly... what do I have in store for you?

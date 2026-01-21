@@ -2,10 +2,10 @@
 title: Include Video in the Posts
 published: 1001-08-01
 description: This post demonstrates how to include embedded video in a blog post.
-image: "https://api.lxtu.cn/api.php?category=clysj"
+image: https://api.lxtu.cn/api.php?category=clysj
 tags: [Example, Video]
 category: Default
-draft: false
+draft: true
 series: Examples
 ---
 

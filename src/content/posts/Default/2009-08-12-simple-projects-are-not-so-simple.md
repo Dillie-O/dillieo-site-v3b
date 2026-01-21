@@ -1,0 +1,17 @@
+---
+title: Simple Projects Are Not So Simple
+description: Simple Projects Are Not So Simple
+published: 2009-08-12
+image: images/posts/simple_projects_are_not_so_simple.webp
+imageAlt: Simple Projects Are Not So Simple
+category: Default
+tags: [architecture, coding, pensee, projects]
+---
+
+A week or so ago, a request came in to help provide a notification system to the public based on news/announcements from various departments. We already had a module that generated an RSS feed based off of news items in our CMS, so extending this a bit for e-mail and SMS (text messages) notifications would be a snap. Departments could have notifications for a few different categories, and we'd structure the summary, the link, and the title accordingly. _\[Hot dang! I just found an RSS specific library to make generation of new items even simpler!]_ We'd keep the titles short, so if we ever moved into Twitter or something, we wouldn't have length issues.
+
+Being good programmers, we started outlining the workflow and that's when all the fun begins. While it would be great to have a "low latency" subscription model to say "just enter your e-mail address, select the department(s) you want and go," there are too many bots and folks out there that would want to subscribe somebody else to the list just to annoy somebody. Then the complaint would be written in the local paper (I work for the county government), and things would really get crazy. As a result, having a simple confirmation e-mail and code (like you see in a lot of subscription services) would need to be put in place, and that wasn't so bad. We just need to track the codes and write some kind of bot to check an e-mail inbox and have some additional pages to handle those that click the link to confirm/unsubscribe.
+
+But now we move into the text messaging system. How the heck do you send out messages to ALL of those services?! _\[Whew, thank you _[_wikipedia_](http://en.wikipedia.org/wiki/SMS_gateway)_, you have a list of SMS e-mail gateways that we can use.]_ But how are we going to do subscription confirmations over the cell?! We can use the code, but you only get 160 characters in a standard SMS message, and the default code takes up a lot. We then send out messages to about 5 of us, all with different cell phones, and the text message coming in was grossly different for each device. Some had the code in the subject, some didn't. Even better, two of us had web enabled phones, where they could click a link to activate the subscription, but my little phone isn't web enabled, so a web link would be pointless for me! Even when the messages came in, I could only see the summary/title, I couldn't go to a full article.
+
+All of this indicated that our first releae needs to be e-mail based where we have a bit more control over subscriptions and have more flexibility with content link. It also reminded me of a profound truth...simple projects are not so simple a lot of the time when programming. This is also why I love programming so much. Coming up with simple solutions that are also elegant and mucking through all the challenges they throw at you. Consider it the joys of engineer/ninja/artist programming or something. 8^D
