@@ -1,7 +1,7 @@
 /// <reference types="mdast" />
 import { h } from "hastscript";
 
-// 常量定义
+// Constant definitions
 const CONSTANTS = {
   FAVICON_API: 'https://www.google.com/s2/favicons',
   FAVICON_SIZE: 32,
@@ -10,15 +10,15 @@ const CONSTANTS = {
   LOADING_DESC: 'Loading description...',
 };
 
-// 错误信息
+// Error messages
 const ERRORS = {
   INVALID_DIRECTIVE: 'Invalid directive. ("link-card" directive must be leaf type "::link-card{url="https://example.com"}")',
   INVALID_URL: 'Invalid URL. ("url" attribute must be a valid HTTP/HTTPS URL)',
 };
 
 /**
- * 生成唯一的卡片ID
- * 使用时间戳和随机数确保唯一性
+ * Generate unique card ID
+ * Use timestamp and random number to ensure uniqueness
  */
 function generateCardId() {
   const timestamp = Date.now().toString(36);
@@ -27,7 +27,7 @@ function generateCardId() {
 }
 
 /**
- * 安全地提取域名
+ * Safely extract domain name
  */
 function extractDomain(url) {
   try {
@@ -38,7 +38,7 @@ function extractDomain(url) {
 }
 
 /**
- * 验证URL是否有效
+ * Validate if URL is valid
  */
 function isValidUrl(url) {
   if (!url) return false;
@@ -51,15 +51,15 @@ function isValidUrl(url) {
 }
 
 /**
- * 转义字符串用于安全插入到JavaScript中
+ * Escape string for safe insertion into JavaScript
  */
 function escapeForScript(str) {
   return JSON.stringify(str);
 }
 
 /**
- * 生成获取元数据的脚本
- * 使用IIFE避免全局污染，使用JSON.stringify防止XSS
+ * Generate script to fetch metadata
+ * Use IIFE to avoid global pollution, use JSON.stringify to prevent XSS
  */
 function generateMetadataScript(cardId, url, domain) {
   return `
@@ -75,7 +75,7 @@ function generateMetadataScript(cardId, url, domain) {
           return;
         }
 
-        // 只有在没有自定义内容时才设置默认值
+        // Only set default values when there is no custom content
         if (!titleElement.dataset.hasCustomTitle) {
           titleElement.textContent = ${escapeForScript(domain)};
         }
@@ -109,12 +109,12 @@ function generateMetadataScript(cardId, url, domain) {
  * @returns {Object} HAST element representing the link card
  */
 export function LinkCardComponent(properties = {}, children = []) {
-  // 验证：确保是叶子指令（没有子元素）
+  // Validation: ensure it's a leaf directive (no child elements)
   if (Array.isArray(children) && children.length !== 0) {
     return h("div", { class: "hidden" }, ERRORS.INVALID_DIRECTIVE);
   }
 
-  // 验证URL
+  // Validate URL
   if (!isValidUrl(properties.url)) {
     return h("div", { class: "hidden" }, ERRORS.INVALID_URL);
   }
@@ -123,7 +123,7 @@ export function LinkCardComponent(properties = {}, children = []) {
   const domain = extractDomain(url);
   const cardId = generateCardId();
   
-  // 解构自定义属性，提供默认值
+  // Destructure custom properties, provide default values
   const {
     title: customTitle = null,
     description: customDescription = null,
@@ -131,22 +131,22 @@ export function LinkCardComponent(properties = {}, children = []) {
     icon: customIcon = null
   } = properties;
 
-  // 判断是否需要获取元数据
+  // Determine if metadata needs to be fetched
   const needsFetch = !customTitle || !customDescription;
 
-  // 构建favicon URL，使用自定义图标或Google的favicon服务
+  // Build favicon URL, use custom icon or Google's favicon service
   const iconUrl = customIcon || 
     `${CONSTANTS.FAVICON_API}?domain=${encodeURIComponent(domain)}&sz=${CONSTANTS.FAVICON_SIZE}`;
 
-  // 创建favicon元素
+  // Create favicon element
   const nFavicon = h(`div#${cardId}-favicon`, {
     class: "lc-favicon",
     style: `background-image: url(${iconUrl})`,
-    // 添加错误处理：如果图标加载失败，使用默认背景色
+    // Add error handling: if icon fails to load, use default background color
     onerror: "this.style.backgroundImage='none'; this.style.backgroundColor='#f0f0f0';"
   });
 
-  // 创建标题栏
+  // Create title bar
   const nTitle = h("div", { class: "lc-titlebar" }, [
     h("div", { class: "lc-titlebar-left" }, [
       h("div", { class: "lc-site" }, [
@@ -157,7 +157,7 @@ export function LinkCardComponent(properties = {}, children = []) {
     h("div", { class: "lc-external-icon" }),
   ]);
 
-  // 创建卡片标题
+  // Create card title
   const nCardTitle = h(
     `div#${cardId}-title`,
     { 
@@ -167,7 +167,7 @@ export function LinkCardComponent(properties = {}, children = []) {
     customTitle || CONSTANTS.LOADING_TITLE
   );
 
-  // 创建描述
+  // Create description
   const nDescription = h(
     `div#${cardId}-description`,
     { 
@@ -177,10 +177,10 @@ export function LinkCardComponent(properties = {}, children = []) {
     customDescription || CONSTANTS.LOADING_DESC
   );
 
-  // 构建卡片内容数组
+  // Build card content array
   const cardContent = [nTitle, nCardTitle, nDescription];
 
-  // 如果有自定义图片，添加图片元素
+  // If there is a custom image, add image element
   if (customImage) {
     const nImage = h(
       `div#${cardId}-image`,
@@ -188,14 +188,14 @@ export function LinkCardComponent(properties = {}, children = []) {
       h("img", { 
         src: customImage, 
         alt: customTitle || "Link preview",
-        loading: "lazy", // 添加懒加载
-        onerror: "this.style.display='none';" // 图片加载失败时隐藏
+        loading: "lazy", // Add lazy loading
+        onerror: "this.style.display='none';" // Hide image when it fails to load
       })
     );
     cardContent.push(nImage);
   }
 
-  // 如果需要获取元数据，添加脚本
+  // If metadata needs to be fetched, add script
   if (needsFetch) {
     const nScript = h(
       `script#${cardId}-script`,
@@ -208,21 +208,21 @@ export function LinkCardComponent(properties = {}, children = []) {
     cardContent.push(nScript);
   }
 
-  // 创建并返回链接卡片
+  // Create and return link card
   return h(
     `a#${cardId}-card`,
     {
       class: needsFetch ? "card-link fetch-waiting no-styling" : "card-link no-styling",
       href: url,
       target: "_blank",
-      rel: "noopener noreferrer", // 安全性：防止新页面访问 window.opener
+      rel: "noopener noreferrer", // Security: prevent new page from accessing window.opener
       'data-url': url,
-      'aria-label': `Link to ${domain}`, // 无障碍：添加屏幕阅读器标签
-      title: customTitle || `Visit ${domain}` // 添加悬停提示
+      'aria-label': `Link to ${domain}`, // Accessibility: add screen reader label
+      title: customTitle || `Visit ${domain}` // Add hover tooltip
     },
     cardContent
   );
 }
 
-// 导出默认函数，保持向后兼容
+// Export default function, maintain backward compatibility
 export default LinkCardComponent;

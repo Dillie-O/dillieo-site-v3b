@@ -3,7 +3,7 @@ import Icon from "@iconify/svelte";
 import { url } from "@utils/url-utils.ts";
 import { onMount } from "svelte";
 
-// 防抖函数
+// Debounce function
 function debounce<T extends (...args: any[]) => any>(
 	func: T,
 	wait: number
@@ -29,11 +29,11 @@ let keywordMobile = "";
 let result: SearchResult[] = [];
 let isSearching = false;
 let posts: any[] = [];
-let rssLoaded = false; // 标记 RSS 是否已加载
+let rssLoaded = false; // Flag to track if RSS is loaded
 
-// 按需加载 RSS 数据
+// Load RSS data on demand
 const loadRSS = async (): Promise<void> => {
-	if (rssLoaded) return; // 如果已经加载过，直接返回
+	if (rssLoaded) return; // Return early if already loaded
 	
 	try {
 		const response = await fetch("/rss.xml");
@@ -43,7 +43,7 @@ const loadRSS = async (): Promise<void> => {
 		const items = xml.querySelectorAll("item");
 
 		posts = Array.from(items).map((item) => {
-			// 尝试多种方式获取content:encoded内容
+			// Try multiple ways to get content:encoded content
 			let content = "";
 			const contentEncoded = 
 				item.getElementsByTagNameNS("*", "encoded")[0]?.textContent ||
@@ -51,25 +51,25 @@ const loadRSS = async (): Promise<void> => {
 				"";
 			
 			if (contentEncoded) {
-				// 移除HTML标签并解码HTML实体
+				// Remove HTML tags and decode HTML entities
 				const tempDiv = document.createElement("div");
 				tempDiv.innerHTML = contentEncoded;
 				content = tempDiv.textContent || tempDiv.innerText || "";
 			}
 
-			// 从link中提取相对路径
+			// Extract relative path from link
 			const linkText = item.querySelector("link")?.textContent || "";
 			let relativePath = "";
 			
-			// 处理多种可能的URL格式
+			// Handle multiple possible URL formats
 			if (linkText.includes("/posts/")) {
-				// 匹配 /posts/ 后的所有内容（包括多级路径）
+				// Match everything after /posts/ (including multi-level paths)
 				const match = linkText.match(/\/posts\/(.+?)(?:\/$|$)/);
 				if (match) {
 					relativePath = match[1];
 				}
 			} else {
-				// 如果不包含 /posts/，尝试获取最后的路径部分
+				// If doesn't contain /posts/, try to get the last path part
 				const urlParts = linkText.split('/').filter(Boolean);
 				relativePath = urlParts[urlParts.length - 1] || "";
 			}
@@ -79,11 +79,11 @@ const loadRSS = async (): Promise<void> => {
 				description: item.querySelector("description")?.textContent || "",
 				content: content,
 				link: relativePath,
-				fullLink: linkText // 保留完整链接以备用
+				fullLink: linkText // Keep full link as backup
 			};
 		});
 		
-		rssLoaded = true; // 标记为已加载
+		rssLoaded = true; // Mark as loaded
 	} catch (error) {
 		console.error("Error fetching RSS:", error);
 	}
@@ -112,7 +112,7 @@ const highlightText = (text: string, keyword: string): string => {
     return text.replace(regex, "<mark>$1</mark>");
 };
 
-// 优化的搜索函数，提升性能
+// Optimized search function for better performance
 const search = async (keyword: string, isDesktop: boolean): Promise<void> => {
 	if (!keyword.trim()) {
 		setPanelVisibility(false, isDesktop);
@@ -120,7 +120,7 @@ const search = async (keyword: string, isDesktop: boolean): Promise<void> => {
 		return;
 	}
 
-	// 在搜索前确保 RSS 数据已加载
+	// Ensure RSS data is loaded before searching
 	await loadRSS();
 
 	isSearching = true;
@@ -129,7 +129,7 @@ const search = async (keyword: string, isDesktop: boolean): Promise<void> => {
 		const keywordLower = keyword.toLowerCase().trim();
 		const searchResults = posts
 			.filter((post) => {
-				// 优化搜索逻辑，减少字符串操作
+				// Optimize search logic, reduce string operations
 				const titleMatch = post.title.toLowerCase().includes(keywordLower);
 				const descMatch = post.description?.toLowerCase().includes(keywordLower);
 				const linkMatch = post.link.toLowerCase().includes(keywordLower);
@@ -175,12 +175,12 @@ const search = async (keyword: string, isDesktop: boolean): Promise<void> => {
 	}
 };
 
-// 创建防抖搜索函数
+// Create debounced search function
 const debouncedSearch = debounce(search, 300);
 
-// 不再在组件挂载时自动加载 RSS，改为按需加载
+// No longer auto-load RSS on component mount, changed to on-demand loading
 // onMount(async () => {
-// 	// RSS 现在会在首次搜索时按需加载
+// 	// RSS now loads on-demand when first search is performed
 // });
 
 $: if (keywordDesktop !== undefined) {
