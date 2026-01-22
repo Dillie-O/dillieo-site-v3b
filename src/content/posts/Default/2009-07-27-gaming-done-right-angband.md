@@ -2,7 +2,7 @@
 title: Gaming Done Right Angband
 description: Angband Single Window Screen
 published: 2009-07-27
-image: images/posts/2009-07-angbandsingle.webp
+image: images/posts/2009-07-angbandsingle.png
 imageAlt: Angband Single Window Screen
 category: Default
 tags: [life]
