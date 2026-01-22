@@ -12,7 +12,7 @@ When you add the year that we became friends and the 4 years we courted, I can n
 
 <!--more-->
 
-![](../img_post/2015-06-09-milestones/2015-06-fullsizerender.jpg)
+![](@assets/images/posts/2015-06-fullsizerender.jpg)
 
 When I wake up in a funk, or have had a rough day, or even when something dramatic happens, my wife is typically the first to know. I don’t even have to say anything, she just knows. I marvel at why this is, but then if the tables were turned she’d say the exact same thing about me and I would just simply smile and say, “Well, I know you my love.” 8^D Know. We lose the meaning in english sometimes. Often we say we know somebody in regards to how we have met them once or twice, or ackowledge they exist. But the way my wife knows me is the French verb connaître, which implies a personal, or deeper and intimate knowledge of someone. Jesus knows and loves me this way, and having somebody on this earth with that kind of an understanding of me is amazing, and comforting, and sacred.
 

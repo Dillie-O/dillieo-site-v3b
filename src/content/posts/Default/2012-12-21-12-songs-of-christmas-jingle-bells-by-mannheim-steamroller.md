@@ -8,7 +8,7 @@ category: Default
 tags: [christmas, jingle-bells, life, mannheim-steamroller, music]
 ---
 
-![English: A rendition of the musical notation f...](../img_post/2012-12-21-12-songs-of-christmas-jingle-bells-by-mannheim-steamroller/wikipedia-commons-thumb-0-0f-Jingle-Bells-Sheet-Music-chorus-SS.jpg-300px-Jingle-Bells-Sheet-Music-chorus-SS.jpg "English: A rendition of the musical notation f...")
+![English: A rendition of the musical notation f...](@assets/images/posts/wikipedia-commons-thumb-0-0f-Jingle-Bells-Sheet-Music-chorus-SS.jpg-300px-Jingle-Bells-Sheet-Music-chorus-SS.jpg "English: A rendition of the musical notation f...")
 
 A double post today, and we'll start getting nestling into the winter night with Jingle Bells by [Mannheim Steamroller](http://mannheimsteamroller.com/ "Mannheim Steamroller"). This is a lovely group that has been around forever and does a lot of nice synthesizer work, amongst other things.
 

@@ -8,7 +8,7 @@ category: Default
 tags: [android, apache, emulator, geekery, ios, mobile, virtual-host]
 ---
 
-![ADV Results](../img_post/2012-03-19-soup-to-nuts-getting-your-android-emulator-to-read-virtual-hosts-on-your-development-machine/2012-03-advresults.png)
+![ADV Results](@assets/images/posts/2012-03-advresults.png)
 
 So you're setting up a new website, and need to test out your mobile functionality. Sadly you don't have a development server in which you can push everything up to and test that way. Instead, you need to take the "localhost" route. In addition, you do a lot of web development, so you have your websites setup using virtual hosts in Apache. So to get your site, you type in something like "demopyrocms.localhost" to access your individual sites. Here's a breakdown of what you need to do to get everything running smooth.
 
@@ -16,11 +16,11 @@ So you're setting up a new website, and need to test out your mobile functionali
 
 If you're using a Mac, you'll kick up your iOS simulator, type in your url, and you're all set:
 
-![iOS Screenshot](../img_post/2012-03-19-soup-to-nuts-getting-your-android-emulator-to-read-virtual-hosts-on-your-development-machine/2012-03-iosscreenshot.png "iOS Screenshot")
+![iOS Screenshot](@assets/images/posts/2012-03-iosscreenshot.png "iOS Screenshot")
 
 However, if you start up your Android emulator, and try the same thing, you'll get something like this:
 
-![AVD Screenshot](../img_post/2012-03-19-soup-to-nuts-getting-your-android-emulator-to-read-virtual-hosts-on-your-development-machine/2012-03-avdscreenshot.png "AVD Screenshot")
+![AVD Screenshot](@assets/images/posts/2012-03-avdscreenshot.png "AVD Screenshot")
 
 The reason for this, is that unlike the iPad / iPhone emulators, which are simply simulated, the Android emulators are truly emulated, so they get their own networking environment. The Android environment does provide a workaround for this. They setup the address 10.0.2.2 as a "redirect" of sorts to localhost on the development machine that you're working on. This works great if you have a single site.
 
@@ -34,7 +34,7 @@ The first step is to fire up the virtual machine and give it a little extra spac
 
 And you'll get a listing something like this:
 
-![Android Device List](../img_post/2012-03-19-soup-to-nuts-getting-your-android-emulator-to-read-virtual-hosts-on-your-development-machine/2012-03-androiddevicelist.png "Android Device List")
+![Android Device List](@assets/images/posts/2012-03-androiddevicelist.png "Android Device List")
 
 The android program will be in the "tools" directory within your install path. For me it's ~/Applications/android-sdk/tools. Most likely it'll be different for you. Once you know the name of the device you need, you can start it up from the command prompt:
 
@@ -56,7 +56,7 @@ Sometimes the adb manager may be running, but has not properly detected the emul
 
 Your device list will look something like this:
 
-![ADB Screenshot](../img_post/2012-03-19-soup-to-nuts-getting-your-android-emulator-to-read-virtual-hosts-on-your-development-machine/2012-03-adbscreenshot.png "ADB Screenshot")
+![ADB Screenshot](@assets/images/posts/2012-03-adbscreenshot.png "ADB Screenshot")
 
 Now that you have the ID of the device, you need to mount it to the debugger:
 
@@ -64,7 +64,7 @@ Now that you have the ID of the device, you need to mount it to the debugger:
 
 You'll get a confirmation that the device has been mounted:
 
-![ADB Remount](../img_post/2012-03-19-soup-to-nuts-getting-your-android-emulator-to-read-virtual-hosts-on-your-development-machine/2012-03-adbremount.png "ADB Remount")
+![ADB Remount](@assets/images/posts/2012-03-adbremount.png "ADB Remount")
 
 ### 3. Update the hosts file
 
@@ -86,7 +86,7 @@ Then push it back on to the emulator:
 
 It'll look something like this through your command prompt:
 
-![ADB Pull/Push](../img_post/2012-03-19-soup-to-nuts-getting-your-android-emulator-to-read-virtual-hosts-on-your-development-machine/2012-03-adbpullpush.png "ADB Pull/Push")
+![ADB Pull/Push](@assets/images/posts/2012-03-adbpullpush.png "ADB Pull/Push")
 
 ### Option 2: Edit the hosts file through the ADB shell.
 
@@ -104,7 +104,7 @@ Then exit out of the shell.
 
 Iti'll look something like this through the command prompt:
 
-![ADB Echo](../img_post/2012-03-19-soup-to-nuts-getting-your-android-emulator-to-read-virtual-hosts-on-your-development-machine/2012-03-adbecho.png "ADB Echo")
+![ADB Echo](@assets/images/posts/2012-03-adbecho.png "ADB Echo")
 
 _Note:_ After some additional testing, I've found that your emulators will vary as to the location of your hosts file. Some devices like to store it in /system/etc/, some like to store it in /etc/. If one path doesn't work, try the other.
 
@@ -112,7 +112,7 @@ _Note:_ After some additional testing, I've found that your emulators will vary 
 
 Open up the browser and load up the site. You should now be able to see it through the emulator:
 
-![ADV Results](../img_post/2012-03-19-soup-to-nuts-getting-your-android-emulator-to-read-virtual-hosts-on-your-development-machine/2012-03-advresults.png "ADV Results")
+![ADV Results](@assets/images/posts/2012-03-advresults.png "ADV Results")
 
 There you have it! Now you can do some local testing with your Android emulator. I haven't tried it yet, but I believe if you plug in your Android phone and load it up through ADB, you can do the same thing. I'll try to report back on that a little later.
 

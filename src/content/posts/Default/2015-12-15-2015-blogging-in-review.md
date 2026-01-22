@@ -12,7 +12,7 @@ I realize it could be a bit premature since there are a couple of weeks left in 
 
 <!--more-->
 
-![](../img_post/2015-12-15-2015-blogging-in-review/2015-12-2016-new-year-ss-1920.jpg)
+![](@assets/images/posts/2015-12-2016-new-year-ss-1920.jpg)
 
 ### The Biggest Year Yet
 

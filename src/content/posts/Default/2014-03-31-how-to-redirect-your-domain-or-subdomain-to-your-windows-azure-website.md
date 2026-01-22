@@ -32,21 +32,21 @@ messagecube.cu.cc TO messagecube.azurewebsites.net
 
 Your screen will vary based on your domain provider, but mine looks like this:
 
-![Message Cube CNAME Example](../img_post/2014-03-31-how-to-redirect-your-domain-or-subdomain-to-your-windows-azure-website/2014-03-messagecube_cname_sample.png)
+![Message Cube CNAME Example](@assets/images/posts/2014-03-messagecube_cname_sample.png)
 
 You can verify that this is working when doing a ping on your "awverify" domain resolves to the IP addresses listed in your "configure domain" settings on your website. This may take minutes or hours depending on how your particular domain provider propagates their changes and for them to spread.
 
-![Message Cube IP Address Example](../img_post/2014-03-31-how-to-redirect-your-domain-or-subdomain-to-your-windows-azure-website/2014-03-messagecube_ipaddress_sample.png)
+![Message Cube IP Address Example](@assets/images/posts/2014-03-messagecube_ipaddress_sample.png)
 
 ### Second Step: Creating the A Record Redirect
 
 Once you've verified that the CNAME record is propagating properly, now you can create an A record that will redirect the IP address of your domain to the Azure IP for your website (see screenshot above). The first step is to log in to your Azure website, go to the "Configure" section. Scroll down to the "domain names" section, and click the "Manage Domains" button. Type in the URL of your subdomain, and wait for the green checkbox to light up next to the domain name.
 
-![Message Cube Domain Configuration.](../img_post/2014-03-31-how-to-redirect-your-domain-or-subdomain-to-your-windows-azure-website/2014-03-messagecube_domain_verify.png)
+![Message Cube Domain Configuration.](@assets/images/posts/2014-03-messagecube_domain_verify.png)
 
 Then, go back to your domain provider, and add an A name record that points your subdomain to the IP address of your Azure site:
 
-![Message Cube A Record Example](../img_post/2014-03-31-how-to-redirect-your-domain-or-subdomain-to-your-windows-azure-website/2014-03-messagecube_aname_sample.png)
+![Message Cube A Record Example](@assets/images/posts/2014-03-messagecube_aname_sample.png)
 
 That's it! Again, depending on how long your domain provider propagates the settings, it may take a few minutes to a couple of hours to finalize.
 
@@ -54,6 +54,6 @@ That's it! Again, depending on how long your domain provider propagates the sett
 
 Finally, open up your domain in the browser and make sure the redirects are working!
 
-![Message Cube Redirect Sample](../img_post/2014-03-31-how-to-redirect-your-domain-or-subdomain-to-your-windows-azure-website/2014-03-messagecube_final.png)
+![Message Cube Redirect Sample](@assets/images/posts/2014-03-messagecube_final.png)
 
 There you have it! Hopefully this gets you past any tricky ends you may have run into redirecting your subdomains to Windows Azure websites. Enjoy!

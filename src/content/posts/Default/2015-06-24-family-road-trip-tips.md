@@ -12,7 +12,7 @@ Last week I spent an amazing vacation with my family out in the Texas country. P
 
 <!--more-->
 
-![](../img_post/2015-06-24-family-road-trip-tips/2015-06-20150615_205222341_ios.jpg)
+![](@assets/images/posts/2015-06-20150615_205222341_ios.jpg)
 
 ### Music
 

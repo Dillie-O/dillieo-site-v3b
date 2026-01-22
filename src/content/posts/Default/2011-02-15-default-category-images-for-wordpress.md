@@ -12,7 +12,7 @@ I’ve been working on a news oriented WordPress site lately. One of the nice th
 
 In the site I’m working on, there isn’t a featured image for every single news item available. Sometimes the news item is simply a repeat of a notice from another source. Since the home page of the site looked for an image to display in its list, the page became unattractive since there were a lot of “no image available” boxes scattered on the page:
 
-![Site without categories](../img_post/2011-02-15-default-category-images-for-wordpress/2011-02-categories_before_thumb.png "categories_before")
+![Site without categories](@assets/images/posts/2011-02-categories_before_thumb.png "categories_before")
 
 The idea then arose about having an icon or default image for each category, and displaying that when an image was not available. Since I’m still honing my WordPress chops, so I needed to develop a solution that didn’t involve creating plugins and wasn’t too deeply embedded within the site that it would make it hard to update down the road. The home page has several widgets that retrieve the featured image in various formats (full, medium, small) so I needed to find a single point of entry in which to return the image, and let the theme do its own resizing.
 
@@ -87,6 +87,6 @@ function get_images($iPostID,$img_size='thumb')
  </span> <span style="font-family:Georgia, 'Times New Roman', 'Bitstream Charter', Times, serif;font-size:13px;line-height:19px;white-space:normal;">WordPress makes it easy to retrieve category, and even parent category information for the post, and we use as much built in methods as possible so that the URL to the images changes easily if the site changes.</span>
 ```
 
-![Site with categories.](../img_post/2011-02-15-default-category-images-for-wordpress/2011-02-categories_after_thumb.png "categories_after")
+![Site with categories.](@assets/images/posts/2011-02-categories_after_thumb.png "categories_after")
 
 I’ve seen a few WordPress plugins to assign images to a category, but they were going to be more trouble than it was worth to integrate it into the current theme. Hopefully this gives you a direction to look at if you need to setup category images for your site, or maybe it’ll inspire a WordPress theme creator out there to build this in to the next theme they create. I’m sure there are plenty of sites that can benefit from this.

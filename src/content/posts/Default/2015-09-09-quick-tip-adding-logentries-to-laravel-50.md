@@ -14,7 +14,7 @@ While there isn't a "specialized" plugin for Laravel, Laravel does use MonoLog b
 
 <!--more-->
 
-![Quick Tips](../img_post/2015-09-09-quick-tip-adding-logentries-to-laravel-50/2014-05-quick-tips.jpg)
+![Quick Tips](@assets/images/posts/2014-05-quick-tips.jpg)
 
 Laravel 5.0 now takes advantage of service providers, instead of the "catch all" that was typically used in the global.php file. While you could build out your own logging provider, I found that since all I'm doing is registering LogEntries in addition to the default file logger, I would use the existing providers. Here's what you need to do.
 

@@ -16,11 +16,11 @@ We originally planned on having them in a stir fry. After cutting into the first
 
 You still may be wondering what cut of meat this is. When you typically buy ribs from the grocery store, you get the "unbutchered" rack, which looks like this (minus the rub):
 
-![Pork Ribs Unbutchered](../img_post/2012-04-04-worth-sharing-rib-tips/2012-04-pork_ribs_unprepared.jpg)
+![Pork Ribs Unbutchered](@assets/images/posts/2012-04-pork_ribs_unprepared.jpg)
 
 Once you're done properly preparing the rack, it looks like this:
 
-![Pork Ribs Prepared](../img_post/2012-04-04-worth-sharing-rib-tips/2012-04-pork_ribs_prepared.jpg)
+![Pork Ribs Prepared](@assets/images/posts/2012-04-pork_ribs_prepared.jpg)
 
 Notice the nice clean rectangular shape? The back also has a "skin" removed from the back of it as well. Where did the rest of the meat go? It's definitely edible, and THAT is where the rib tips come from. We're not wasting any meat, and we're getting some good food out of it as well!
 

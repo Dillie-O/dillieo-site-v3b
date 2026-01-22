@@ -12,9 +12,9 @@ No matter what day you mark it (day after Thanksgiving, Advent Sunday, December 
 
 <!--more-->
 
-![](../img_post/2015-12-01-lets-start-the-advent-music/2015-11-xmas_songs1.jpg)
+![](@assets/images/posts/2015-11-xmas_songs1.jpg)
 
-![ChristmasLounge.jpg](../img_post/2015-12-01-lets-start-the-advent-music/2014-11-christmaslounge.jpg)For starters, let’s get to the streaming radio! Look no further than [SOMA.fm’s Christmas Lounge](http://somafm.com/christmas/) (previously known as the Santa Lounge). It contains “chilled holiday grooves and classic winter lounge tracks” and is safe for the office and for home. They surprise me with some new tracks every year.
+![ChristmasLounge.jpg](@assets/images/posts/2014-11-christmaslounge.jpg)For starters, let’s get to the streaming radio! Look no further than [SOMA.fm’s Christmas Lounge](http://somafm.com/christmas/) (previously known as the Santa Lounge). It contains “chilled holiday grooves and classic winter lounge tracks” and is safe for the office and for home. They surprise me with some new tracks every year.
 
 When I’m not streaming, I’ve thrown together a playlist of all time favorites that I’ve affectionately called my “Phat Chunk ‘O Christmas”. It covers everything from the classic Charlie Brown Christmas to the eclectic Nitro Praise Christmas collection. You can give it a listen below.
 

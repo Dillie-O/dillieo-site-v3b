@@ -8,7 +8,7 @@ category: Default
 tags: [aspnet, button, coding, controls, disable, double-click, jquery, onclick, onclientclick, quick-tip, usesubmitbehavior]
 ---
 
-![Quick Tip](../img_post/2012-07-05-quick-tip-how-to-use-onclick-and-onclientclick-events-to-prevent-double-clicking-on-your-aspnet-buttons/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 While ASP.Net provides an excellent validator set of controls, sometimes you need to "roll your own" so to speak when creating your controls. In addition, if you have some AJAX processing with your buttons behind the scenes (for example, saving a record in a popup window) you run the risk of having "double saves" occurring when the user clicks on the button and nothing happens immediately.
 

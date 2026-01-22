@@ -8,11 +8,11 @@ category: Default
 tags: [acs-495, altec-lansing, fx5051, geekery, life, speakers]
 ---
 
-![Altec Lansing Logo](../img_post/2010-01-27-in-which-i-graciously-thank-altec-lansing-for-their-generous-gift/2010-01-alteclogo1.jpg "AltecLogo")
+![Altec Lansing Logo](@assets/images/posts/2010-01-alteclogo1.jpg "AltecLogo")
 
 The year was 1997. Pentium IIs were starting to invade the market and I was a budding college student and had scored a paid internship (yes, they still had paid ones back then!) at Tandem Computers (bought out by Compaq, then absorbed into HP) with a fellow geek buddy from school. His parents were gracious enough to let me live with them, so we had a blast playing computer games into the late night.
 
-![Altec Lansing ACS495](../img_post/2010-01-27-in-which-i-graciously-thank-altec-lansing-for-their-generous-gift/2010-01-altecacs495.jpg "AltecACS495")Being my first real venture into endless summer nights of computer gaming, I wanted to get me a really nice set of computer speakers to go with the experience. Drifting down the aisle at Fry's Electronics, I stumbled up on a set of Altec Lansing ACS 495 speakers.
+![Altec Lansing ACS495](@assets/images/posts/2010-01-altecacs495.jpg "AltecACS495")Being my first real venture into endless summer nights of computer gaming, I wanted to get me a really nice set of computer speakers to go with the experience. Drifting down the aisle at Fry's Electronics, I stumbled up on a set of Altec Lansing ACS 495 speakers.
 
 These speakers were awesome. There was a really crisp sound and the subwoofer pounded some great beats. My computer only had a basic sound card installed on it, but using the USB port and special drivers, I was able to get a surround sound experience. The design was nice too since the 4 speakers were mounted into two "towers" so I didn't have to send wires everywhere. There was many a game, and a DVD (the quality was just as great) enjoyed on these speakers that summer.
 
@@ -30,7 +30,7 @@ This couldn't be real now, could it'! I checked out the profile, poked around th
 
 We exchanged a few more twitter messages, an e-mail or so, and the following package arrived on my doorstep yesterday:
 
-![Altec Lansing FX5051](../img_post/2010-01-27-in-which-i-graciously-thank-altec-lansing-for-their-generous-gift/2010-01-altecfx50511.jpg "AltecFX5051")
+![Altec Lansing FX5051](@assets/images/posts/2010-01-altecfx50511.jpg "AltecFX5051")
 
 That, my friends, is the [Altec Lansing FX5051](http://www.alteclansing.com/ae/us/archive-computer-speakers/fx5051/invt/fx5051/). A 6 speaker system (including the subwoofer) that delivers amazing performance out of some pretty small speakers that are unobtrusive to the desk in which the family computer sits. It uses a similar USB connector, but now no special software is needed. Windows 7 detects a 5.1 speaker system and away you go!
 

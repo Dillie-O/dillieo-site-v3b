@@ -14,4 +14,4 @@ In the end, it's a bit of a pain, but worthwhile to simply flush the partition a
 
 <!--more-->
 
-![quick-tips.jpg](../img_post/2015-11-13-quick-tip-dont-resize-the-bootcamp-partition/2015-01-quick-tips.png)
+![quick-tips.jpg](@assets/images/posts/2015-01-quick-tips.png)

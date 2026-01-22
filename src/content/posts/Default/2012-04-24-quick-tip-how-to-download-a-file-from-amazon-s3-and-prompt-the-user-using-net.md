@@ -8,7 +8,7 @@ category: Default
 tags: [net, amazon, aws, c, coding, download, getobject, httpresponse, prompt, quick-tip, s3, transmitfile]
 ---
 
-![Quick Tip](../img_post/2012-04-24-quick-tip-how-to-download-a-file-from-amazon-s3-and-prompt-the-user-using-net/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 Amazon S3 is a wonderfully simple and powerful way to have mass storage at your disposal in the cloud. Amazon provides a wonderful SDK with great examples on how to do the common tasks. However, I ran into one issue I didn't see an example for, and spend the better part of a day piecing my way though. How do download a file from S3 using a web application and prompt the user on what to do with the file.
 

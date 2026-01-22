@@ -14,7 +14,7 @@ Fast forward about a quarter of a century. As I finished [finding some old photo
 
 <!--more-->
 
-![](../img_post/2015-04-20-ack-im-becoming-a-default-user/2015-04-keyboard-anykey1.jpg)Photo courtesy of [Wikipedia](http://nl.wikipedia.org/wiki/Bestand:Keyboard-anykey.jpg)
+![](@assets/images/posts/2015-04-keyboard-anykey1.jpg)Photo courtesy of [Wikipedia](http://nl.wikipedia.org/wiki/Bestand:Keyboard-anykey.jpg)
 
 …and surprisingly enough iTunes isn’t that bad _\[I can hear the unfollow clicks going like mad right now]_. It’s giving me podcasts, my personal music, and my internet streams nice and simple. There’s the added perk that when work calls in via Skype, the music automatically pauses itself and resumes after the call. I have my background set to cycle through the photo library _\[family pics is always a great motivator]_ and that is pretty much it.
 

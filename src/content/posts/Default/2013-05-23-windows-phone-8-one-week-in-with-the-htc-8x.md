@@ -8,7 +8,7 @@ category: Default
 tags: [family-room, geekery, htc, live-tiles, people-hub, windows-phone, windows-phone-8, wp8]
 ---
 
-![It looks long, but it's one quick flick of the thumb to access what I need.](../img_post/2013-05-23-windows-phone-8-one-week-in-with-the-htc-8x/2013-05-wp8_home.png)_It looks long, but it's one quick flick of the thumb to access what I need._
+![It looks long, but it's one quick flick of the thumb to access what I need.](@assets/images/posts/2013-05-wp8_home.png)_It looks long, but it's one quick flick of the thumb to access what I need._
 
 As a random, and unexpectedly happy, Mothers Day present, my wife and I were able to get an early start on our "phone upgrades". I had been wanting to check out the [Windows Phone 8](http://www.windowsphone.com "Windows Phone 8") ecosystem for a while now, and my wife went ahead and made the plunge as well. Now we're one week in and I'm happy as a clam. My wife says she's about 92% there. Here are a few thoughts about it all.
 

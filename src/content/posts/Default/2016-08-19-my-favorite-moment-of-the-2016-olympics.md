@@ -12,7 +12,7 @@ I've been fortunate enough to see a lot of the Olympics this year, thanks to the
 
 <!--more-->
 
-![dagostino_hamblin.jpg](../img_post/2016-08-19-my-favorite-moment-of-the-2016-olympics/2016-08-dagostino_hamblin.jpg)
+![dagostino_hamblin.jpg](@assets/images/posts/2016-08-dagostino_hamblin.jpg)
 
 You may have heard the story already, but having been a competitive runner, let's look at the great moments in this story.
 

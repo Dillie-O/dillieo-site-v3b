@@ -18,13 +18,13 @@ Give a listen while you read...
 
 |                                                                                                                                                                                                        |                                                                                                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![Verve Jazz Masters 20]](../img_post/2013-04-23-dillieo-delights-quintessential-jazz/2013-04-verve_jazz_masters_20.jpg) | ![Verve Jazz Masters 60](../img_post/2013-04-23-dillieo-delights-quintessential-jazz/2013-04-verve_jazz_masters_60.jpg) |
+| ![Verve Jazz Masters 20]](@assets/@assets/images/posts/2013-04-verve_jazz_masters_20.jpg) | ![Verve Jazz Masters 60](@assets/images/posts/2013-04-verve_jazz_masters_60.jpg) |
 
 During the early years of jazz, the Verve record label was the predominant label for jazz legends. To that extent, they released an entire "Jazz Masters" series. Among the series (which spans a good 60 albums) are two "compilation" albums that give you a great exposure to the variety of artists over time. I've had these for a while and they are fabulous. We'll toss those in.
 
 ## Blue Note Records
 
-![Best Blue Note Album](../img_post/2013-04-23-dillieo-delights-quintessential-jazz/2013-04-best_blue_note_album.jpg)
+![Best Blue Note Album](@assets/images/posts/2013-04-best_blue_note_album.jpg)
 
 Looking towards the modern era of Jazz, Blue Note records stands out as the dominant label. While they don't have a "masters" series, they have a great 2 disc album humbly called "The Best Blue Note Album In the World ...Ever!" Indeed it is a fabulous album. You get some of the newer vocals by Bobby McFerrin and the fusion styling of Us3 with the well known "Cantaloop (Flip Fantasia).
 
@@ -34,7 +34,7 @@ With the 4 discs worth of music above, I think anybody looking to get a solid fo
 
 |                                                                                                                                                                                            |                                                                                                                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Chick Corea Works](../img_post/2013-04-23-dillieo-delights-quintessential-jazz/2013-04-chick_corea_works.jpg) | ![Ellington Armstrong Summit](../img_post/2013-04-23-dillieo-delights-quintessential-jazz/2013-04-ellington_armstrong_summit.jpg) |
+| ![Chick Corea Works](@assets/images/posts/2013-04-chick_corea_works.jpg) | ![Ellington Armstrong Summit](@assets/images/posts/2013-04-ellington_armstrong_summit.jpg) |
 
 Chick Corea makes some amazing fusion jazz that shows you that your typical ensemble is not necessary. He pioneered the use of the "electric piano" in jazz music in the 70s. I particularly love his album "Works" because he uses a variety of stringed instruments (cello, violin, etc.) to make some wonderful jazz on top of his classic electric piano sound. "La Fiesta" (the last track on the album) is particularly wonderful and I can't help but dance every time I hear it.
 

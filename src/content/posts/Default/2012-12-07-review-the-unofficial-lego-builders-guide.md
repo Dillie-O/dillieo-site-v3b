@@ -8,7 +8,7 @@ category: Default
 tags: [guides, legos, reviews]
 ---
 
-![lego_builders_guide_cover](../img_post/2012-12-07-review-the-unofficial-lego-builders-guide/2012-12-lego_builders_guide_cover.gif)
+![lego_builders_guide_cover](@assets/images/posts/2012-12-lego_builders_guide_cover.gif)
 
 I love legos! I still have my functioning train set from when I was 10 years old that we pull out at Christmas. I have the 1st edition lego death star that took a week to put together, and a handful of other items around. My girls are getting into legos now too, which adds to the fun. We spend hours putting together the designs on the pages, or making our own, like a fire station, movie theatre, or even "Captain Frank's Emporium". So when I stumbled upon _The Unofficial LEGO Builder's Guide_ by Allan Bedford, I had to look to see what new inspirations I could find with them.
 

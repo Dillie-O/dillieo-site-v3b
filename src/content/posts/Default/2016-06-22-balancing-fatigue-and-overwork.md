@@ -12,7 +12,7 @@ When you house is up on a hill, pretty much every run you go on is going to requ
 
 <!--more-->
 
-![20160622_134927766_iOS](../img_post/2016-06-22-balancing-fatigue-and-overwork/2016-06-20160622_134927766_ios.jpg)
+![20160622_134927766_iOS](@assets/images/posts/2016-06-20160622_134927766_ios.jpg)
 
 I've been working on my RAGNAR training and have reached some new milestones and observations. There's a point where you finish a run, and while you feel great, your legs are sore, you give yourself a headache, your lungs are extremely fatigued, and the rest of the day you barely trudge through. This is when I've overworked myself. It's okay to do on some days, but most of the time not, especially when you have to put in 8 hours of work and do other duties.
 

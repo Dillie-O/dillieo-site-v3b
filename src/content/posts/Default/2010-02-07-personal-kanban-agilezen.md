@@ -14,7 +14,7 @@ In a random twitter reply last week, I had suggested to somebody that they try p
 
 So after signing up (took less than a minute), accessing my account, and doing getting familiar with the environment (maybe five minutes tops), I setup my workload board to look like this:
 
-![](../img_post/2010-02-07-personal-kanban-agilezen/2010-02-agilezenhome1.jpg "AgileZenHome")
+![](@assets/images/posts/2010-02-agilezenhome1.jpg "AgileZenHome")
 
 Notice the following things I've done slightly different here:
 
@@ -25,11 +25,11 @@ Notice the following things I've done slightly different here:
 
 If I need to add new tasks, or "stories" as they are called in classic Scrum language, the screen is nicely integrated into the main page:
 
-![](../img_post/2010-02-07-personal-kanban-agilezen/2010-02-agilezenaddtask1.jpg "AgileZenAddTask")
+![](@assets/images/posts/2010-02-agilezenaddtask1.jpg "AgileZenAddTask")
 
 You'll notice that you can add items to your Backlog or directly to your board. I personally like to see my backlog just to keep in mind upcoming items I may have to change priorities on. A simple click and the Backlog and Archives are integrated:
 
-![](../img_post/2010-02-07-personal-kanban-agilezen/2010-02-agilezenfullboard1.jpg "AgileZenFullBoard")
+![](@assets/images/posts/2010-02-agilezenfullboard1.jpg "AgileZenFullBoard")
 
 All in all I find AgileZen very flexible, easy to work with, and the free account works perfectly with what I need in my Personal Kanban account. This also resolves the issue that arose in the original twitter discussion about how you can take your personal kanban board with you if you're working out of multiple offices.
 

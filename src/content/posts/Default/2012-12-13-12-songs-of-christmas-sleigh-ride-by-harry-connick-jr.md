@@ -8,7 +8,7 @@ category: Default
 tags: [christmas, harry-connick-jr, jazz, life, music, sleigh-ride]
 ---
 
-![When My Heart Finds Christmas](../img_post/2012-12-13-12-songs-of-christmas-sleigh-ride-by-harry-connick-jr/wikipedia-en-f-f1-HCjrWMHFChristmas.jpg "When My Heart Finds Christmas")
+![When My Heart Finds Christmas](@assets/images/posts/wikipedia-en-f-f1-HCjrWMHFChristmas.jpg "When My Heart Finds Christmas")
 
 Here's another classic, but Harry puts such a swing to it you can't help but grab somebody and celebrate!
 

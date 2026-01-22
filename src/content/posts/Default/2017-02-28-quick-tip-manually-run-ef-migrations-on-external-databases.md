@@ -20,4 +20,4 @@ Enjoy!
 
 <!--more-->
 
-![quick_tip_banner](../img_post/2017-02-28-quick-tip-manually-run-ef-migrations-on-external-databases/2017-02-quick_tip_banner.jpg)
+![quick_tip_banner](@assets/images/posts/2017-02-quick_tip_banner.jpg)

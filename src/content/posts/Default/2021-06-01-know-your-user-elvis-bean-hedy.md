@@ -22,7 +22,7 @@ While working on Project Moab, we encountered a really interesting, and nuanced 
 
 <!-- wp:image {"id":7124,"sizeSlug":"large","linkDestination":"media"} -->
 
-![](../img_post/2021-06-01-know-your-user-elvis-bean-hedy/2021-05-elvis-bean-hedy.png)
+![](@assets/images/posts/2021-05-elvis-bean-hedy.png)
 
 <!-- /wp:image -->
 

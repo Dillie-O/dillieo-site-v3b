@@ -16,7 +16,7 @@ So you may have seen in a [previous article](/removing-rows-with-duplicate-ids-i
 
 Here's the situation. In one app I maintain, we have keep a "version" record each time an update is made. We also use a "lock_version" column as a way of preventing concurrency issues when it comes to updating/removing records. Every time a record is updated, the lock version is incremented and a copy of the record is made into our versions table. A quick glance looks something like this:
 
-![Duplicate Rows Sample](../img_post/2012-09-11-advanced-removal-of-duplicate-rows-in-sql-server/2012-09-duplicaterowssample.png)
+![Duplicate Rows Sample](@assets/images/posts/2012-09-duplicaterowssample.png)
 
 The problem occurred where we were doing multiple updates simultaneously. There are a couple of other tables (an analysis and package table) that were updated in batch with the applications table. This was due to a request of the client. However, the code in place was creating a versions record regardless if the application record was updated itself (since the version or analysis record was updated). As a result, our history (created based off of our versions) was getting corrupted. Running the following query helped us discover these issues:
 
@@ -24,7 +24,7 @@ The problem occurred where we were doing multiple updates simultaneously. There 
 
 This gives us the following results:
 
-![Duplicate Rows Count](../img_post/2012-09-11-advanced-removal-of-duplicate-rows-in-sql-server/2012-09-duplicaterowscount.png)
+![Duplicate Rows Count](@assets/images/posts/2012-09-duplicaterowscount.png)
 
 Wow! That's some interesting duplicates in there. You may wonder why I'm grouping based off of all of the fields instead of just the application_id and lock_version. While doing some diagnosis into the table, I discovered a second bug (sheesh I know!) that had duplicate lock_version records, but different data. For example, the lock_version may be the same, but the fee_amount is different. This is a secondary issue I need to resolve, but I don't want to lose the record (which would happen if I group simply off application_id and lock_version. As a result, I group on all the fields so it verifies completely identical records.
 

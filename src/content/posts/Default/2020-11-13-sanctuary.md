@@ -28,7 +28,7 @@ Three years is an incredibly short and long period of time all at once. A lot of
 
 <!-- wp:image {"id":7012,"width":384,"height":512,"sizeSlug":"large","linkDestination":"media"} -->
 
-![](../img_post/2020-11-13-sanctuary/2020-11-pxl_20201101_154412503.jpg)
+![](@assets/images/posts/2020-11-pxl_20201101_154412503.jpg)
 
 I could drink coffee here forever...
 

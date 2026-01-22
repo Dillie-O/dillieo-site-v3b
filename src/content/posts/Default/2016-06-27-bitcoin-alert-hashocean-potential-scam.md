@@ -16,4 +16,4 @@ For the moment, I can't recommend HashOcean until I know for sure, and you shoul
 
 <!--more-->
 
-![bitcoin-digital](../img_post/2016-06-27-bitcoin-alert-hashocean-potential-scam/2016-06-bitcoin-digital.jpg)
+![bitcoin-digital](@assets/images/posts/2016-06-bitcoin-digital.jpg)

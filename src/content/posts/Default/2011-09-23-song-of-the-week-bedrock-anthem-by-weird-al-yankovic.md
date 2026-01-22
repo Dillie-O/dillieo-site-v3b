@@ -8,7 +8,7 @@ category: Default
 tags: [parody, red-hot-chili-peppers, song-of-the-week, weird-al-yankovic]
 ---
 
-![Weird Al - Alapalooza](../img_post/2011-09-23-song-of-the-week-bedrock-anthem-by-weird-al-yankovic/2011-09-alapalooza.jpg "Alapalooza Cover")
+![Weird Al - Alapalooza](@assets/images/posts/2011-09-alapalooza.jpg "Alapalooza Cover")
 
 Sometimes I wonder what is better, a really good song, or a really good parody of that song. Weird Al has been the king of parody since I was just a kid.
 

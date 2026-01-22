@@ -8,4 +8,4 @@ category: Default
 tags: [life, image]
 ---
 
-![](../img_post/2013-07-19-crazy-runners-and-gorgeous-scenery-this-is-ragnarnwp-freshconsulting/2013-07-savedpicture-2013719185133.jpg)
+![](@assets/images/posts/2013-07-savedpicture-2013719185133.jpg)

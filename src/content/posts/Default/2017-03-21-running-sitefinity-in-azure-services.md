@@ -12,7 +12,7 @@ A couple years back, I outlined how you could get [Sitefinity](http://www.sitefi
 
 <!--more-->
 
-![sitefinity_logo1.jpg](../img_post/2017-03-21-running-sitefinity-in-azure-services/2015-09-sitefinity_logo11.jpg)
+![sitefinity_logo1.jpg](@assets/images/posts/2015-09-sitefinity_logo11.jpg)
 
 ## Install Sitefinity
 

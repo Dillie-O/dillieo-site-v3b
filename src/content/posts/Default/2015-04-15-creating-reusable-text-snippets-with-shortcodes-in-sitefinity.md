@@ -12,7 +12,7 @@ One of the requests/challenges that I’ve come up against while working on a ne
 
 <!--more-->
 
-![](../img_post/2015-04-15-creating-reusable-text-snippets-with-shortcodes-in-sitefinity/2015-04-feeratesresult.png "ShortCode Achievement: Unlocked!")
+![](@assets/images/posts/2015-04-feeratesresult.png "ShortCode Achievement: Unlocked!")
 
 ### Scenario
 
@@ -38,15 +38,15 @@ Since we are going to have multiple shortcodes in our content block, we use a re
 
 With our content block template updated to look for shortcodes, we can get to work. Go into the SiteFinity admin panel and create a new content block. Give it a simple title, and down at the bottom, make sure to assign it to the “RateValues” category we are going to filter off of:
 
-![](../img_post/2015-04-15-creating-reusable-text-snippets-with-shortcodes-in-sitefinity/2015-04-newcontentblock.png)
+![](@assets/images/posts/2015-04-newcontentblock.png)
 
 Keep adding codes as needed. Once these are in place, you can go to your page (or create a new one) and start typing in shortcodes as we outlined earlier.
 
-![](../img_post/2015-04-15-creating-reusable-text-snippets-with-shortcodes-in-sitefinity/2015-04-shortcodeseditor.png)
+![](@assets/images/posts/2015-04-shortcodeseditor.png)
 
 Notice how we have two different shortcode tags here, RateValue and FeeValue. We have two separate methods that do the parsing for them independently (full source code below). Once the page is finished, we publish and we can see the results on the page.
 
-![](../img_post/2015-04-15-creating-reusable-text-snippets-with-shortcodes-in-sitefinity/2015-04-1_feeratesresult.png)
+![](@assets/images/posts/2015-04-1_feeratesresult.png)
 
 Hazzah! Reusable text anywhere we want!
 

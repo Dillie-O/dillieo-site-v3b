@@ -16,7 +16,7 @@ He proposed two alternative lists, which I really really liked and had to share 
 
 <!--more-->
 
-![Ponyo](../img_post/2015-11-30-a-hayao-miyazaki-primer-two-alternative-lists/2015-11-ponyo.jpg)
+![Ponyo](@assets/images/posts/2015-11-ponyo.jpg)
 
 Tim's lists provide two routes: one to ease you into it, and one to jump in the deep end. Here are his lists and comments regarding them.
 

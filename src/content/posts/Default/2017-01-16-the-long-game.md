@@ -12,7 +12,7 @@ I'm not sure about you, but for myself, I have a hard time thinking what lies be
 
 <!--more-->
 
-![A photo by Priscilla Westra. unsplash.com/photos/YeBXoqD_VOo](../img_post/2017-01-16-the-long-game/2017-01-long-road.jpg)
+![A photo by Priscilla Westra. unsplash.com/photos/YeBXoqD_VOo](@assets/images/posts/2017-01-long-road.jpg)
 
 Between school schedules, work projects, work meetings, chores around the house, assisting with meals, family events, and more, I tend to just focus on making it through the week, often one day at a time. I've gotten into a bit of a routine to help me through each weekly "sprint" of life and not make it too chaotic. Keeping a mindset on just one week at a time helps keep things digestible.
 

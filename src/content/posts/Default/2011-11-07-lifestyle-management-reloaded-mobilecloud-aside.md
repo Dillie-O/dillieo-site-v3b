@@ -8,7 +8,7 @@ category: Default
 tags: [android, cloud, geekery, iphone, ipod-touch, lifestyle-management, mobile-computing]
 ---
 
-![Mobile Devices](../img_post/2011-11-07-lifestyle-management-reloaded-mobilecloud-aside/2011-11-mobiledevices.jpg)
+![Mobile Devices](@assets/images/posts/2011-11-mobiledevices.jpg)
 
 I'm still on my quest for my [one tool](/lifestyle-management-reloaded) to handle "lifestyle management" online, but I wanted to take a moment to cover a couple of topics that have jumped out at me that I wasn't necessarily expecting: The Could, and Mobile Devices.<!--more-->Don't get me wrong. I'm fully aware that these factors are out there. I've recently become an [Android owner](/what-cool-things-can-i-do-with-my-droid) and a while ago I blogged about how the [cloud ](/life-in-the-cloud)can really be your "digital home" for things. However, as I've been looking through various options, I noticed that nearly all of them have a mobile version available. [Netvibes](http://netvibes.com) has a very responsive and compact mobile version of their site available, no installation required. Google has mobile apps for everything they provide (reader, mail, plus, etc.), but even have mobile optimized versions of their sites to. I was surprised at how much I had been using all of these too! I have a laptop, but even then a "quick" e-mail update called for running into the bedroom, getting the laptop out of sleep mode, firing up the... whoops, commercial break is over. Now I just pull out Whistler (my iPod Touch) or Fiver (my Droid) and I look for notifications and proceed if I want. Afterwards I can start some hot chocolate for me and the Mrs. and be back in plenty of time.
 

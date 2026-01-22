@@ -18,4 +18,4 @@ What's on your nightstand?
 
 <!--more-->
 
-![This is books scramble. Many books on white background.](../img_post/2016-10-13-too-many-books-not-enough-time/2016-10-pile-of-books.jpg)
+![This is books scramble. Many books on white background.](@assets/images/posts/2016-10-pile-of-books.jpg)

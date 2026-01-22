@@ -8,7 +8,7 @@ category: Default
 tags: [dj-lorraine, house, music, song-of-the-week, trance]
 ---
 
-![djlorraineheadphonesgreenpic](../img_post/2011-03-18-song-of-the-week-reverence-by-dj-lorraine/2011-03-djlorraineheadphonesgreenpic_thumb.jpg)
+![djlorraineheadphonesgreenpic](@assets/images/posts/2011-03-djlorraineheadphonesgreenpic_thumb.jpg)
 
 I’ve been a long time fan of the house and trance music. There’s something about the beats, the mixing, the effects, and the vocals that can be mind blowing. I also like the fact that a lot of these mixes are an hour long provides for a “long form” way of expressing a lot of complex music and emotions that you can’t easily shove into 3 or 4 minutes of music.
 

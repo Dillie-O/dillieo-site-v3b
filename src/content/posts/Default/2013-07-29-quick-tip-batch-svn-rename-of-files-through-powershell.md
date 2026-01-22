@@ -8,7 +8,7 @@ category: Default
 tags: [apache-subversion, Batch, files, geekery, powershell, quick-tip, rename, scripting, svn, windows-powershell]
 ---
 
-![Quick Tip](../img_post/2013-07-29-quick-tip-batch-svn-rename-of-files-through-powershell/2011-12-quicktip.jpg)I'm trying to use Powershell more and more, and today I ran into a directory in one of my projects that had a lot of files that needed renaming. Here's the trick on how to do it in Powershell.
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)I'm trying to use Powershell more and more, and today I ran into a directory in one of my projects that had a lot of files that needed renaming. Here's the trick on how to do it in Powershell.
 
 <!--more-->
 

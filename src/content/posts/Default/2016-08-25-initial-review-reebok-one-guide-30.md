@@ -12,7 +12,7 @@ Thanks to the generosity of [RAGNAR](https://www.runragnar.com) and [Reebok](htt
 
 <!--more-->
 
-![20160825_125014605_iOS](../img_post/2016-08-25-initial-review-reebok-one-guide-30/2016-08-20160825_125014605_ios.jpg)
+![20160825_125014605_iOS](@assets/images/posts/2016-08-20160825_125014605_ios.jpg)
 
 ## Quick Summary
 

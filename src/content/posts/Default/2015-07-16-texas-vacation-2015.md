@@ -12,8 +12,8 @@ It’s been nearly a month since our big Texas vacation, but I’ve been busy en
 
 <!--more-->
 
-![](../img_post/2015-07-16-texas-vacation-2015/2015-07-20150611_125107833_ios1.png "On the road...")
+![](@assets/images/posts/2015-07-20150611_125107833_ios1.png "On the road...")
 
-![](../img_post/2015-07-16-texas-vacation-2015/2015-07-20150614_120442149_ios.png "Carriage ride...")![](../img_post/2015-07-16-texas-vacation-2015/2015-07-20150614_120706578_ios.png "Love...")![](../img_post/2015-07-16-texas-vacation-2015/2015-07-20150618_180335666_ios.png "Old Town Gainesville")
+![](@assets/images/posts/2015-07-20150614_120442149_ios.png "Carriage ride...")![](@assets/images/posts/2015-07-20150614_120706578_ios.png "Love...")![](@assets/images/posts/2015-07-20150618_180335666_ios.png "Old Town Gainesville")
 
 You can see the entire highlight album [here](https://flic.kr/s/aHskghWv5A).

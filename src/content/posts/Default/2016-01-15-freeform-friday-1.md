@@ -14,7 +14,7 @@ It’s not that I necessarily have writers block at times, it’s just that soem
 
 <!--more-->
 
-![1452865048_1.jpeg](../img_post/2016-01-15-freeform-friday-1/2016-01-1452865048_1.jpg)
+![1452865048_1.jpeg](@assets/images/posts/2016-01-1452865048_1.jpg)
 
 Powerball mania has come and gone again and admittedly I was sucked into it. I only spent a whopping 12 bucks total, but it made me start to wonder where the tipping point is at where things get exponential in purchasing. This small town had a few lines outside of the convenience stores and you could hear people talking about it. Now that are winner and things are back to normal, I’ll forget about it again, and think about what if those numbers from Lost are powerful enough. 8^D
 

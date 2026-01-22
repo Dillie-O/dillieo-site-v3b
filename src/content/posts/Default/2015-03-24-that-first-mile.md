@@ -12,7 +12,7 @@ When I run, the first mile is always the trickiest thing for me.
 
 <!--more-->
 
-![](../img_post/2015-03-24-that-first-mile/2015-03-running-hill.jpg)
+![](@assets/images/posts/2015-03-running-hill.jpg)
 
 I have a tendency to go out too hard when I first start running. I think that I’m still in the prime of my college years, pulling down 15 miles without much effort on a long day. I guess when I was in college I thought I was in the peak of my high school career, slamming some laps around the track without much of a sweat. 8^D While the notions of pushing yourself and attacking the run are admirable (I try to do this on all my runs), putting all of your effort into that first mile when you have another 2 (or 4, or 6) to go saps you of all your energy and the remainder of the run is painful, and not in the good way.
 

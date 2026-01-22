@@ -8,7 +8,7 @@ category: Default
 tags: [net, coding, iis, iis-express, php, visual-studio]
 ---
 
-![A PHP app launched from Visual Studio 2012](../img_post/2013-04-17-how-to-run-php-applications-in-visual-studio-2012/2013-04-visualstudio_php_editor.png)![]()![]()
+![A PHP app launched from Visual Studio 2012](@assets/images/posts/2013-04-visualstudio_php_editor.png)![]()![]()
 
 _Note: This post comes as a HT to [this StackOverflow question](http://stackoverflow.com/questions/6099143/enabling-php-on-iis-express-with-visual-studio-sans-webmatrix), I'm just tweaking a few things to accomodate for VSMMXII..._
 
@@ -32,19 +32,19 @@ Note that the quotes are specific to the command prompt. You may need to update 
 
 Yes, this step sounds confusing, even if you already have your PHP site code. Visual Studio won't let you create a basic web application solution in an existing folder, so I create an empty Web Application project file.
 
-![Visual Studio Empty Web Application Project](../img_post/2013-04-17-how-to-run-php-applications-in-visual-studio-2012/2013-04-visualstudio_php_project.png)
+![Visual Studio Empty Web Application Project](@assets/images/posts/2013-04-visualstudio_php_project.png)
 
 ## 4. Add your PHP Files.
 
 Once the project is created, copy all of your files into the project folder. Then, make sure your project is set to view all files, and click the refresh icon. You'll see all of your PHP files and you can right click on them and specify "Include in Project".
 
-![Visual Studio Add PHP Files](../img_post/2013-04-17-how-to-run-php-applications-in-visual-studio-2012/2013-04-visual_studio_addfiles.png)
+![Visual Studio Add PHP Files](@assets/images/posts/2013-04-visual_studio_addfiles.png)
 
 ## 5. Configure Web Application Startup Parameters
 
 The final step is to configure the startup parameters for your site. Right click on your project name in the Solutions Explorer, select "Properties", and then select the "Web" tab on the left hand side in the properties window. Change the "Start Action" option to be "Specific Page" and enter "index.php" or whatever your starting page needs to be. In addition, make sure that the "Servers" option is set to use the "Local IIS Web Server" and that IIS Express is selected. Make sure to save your options before closing the window.
 
-![Visual Studio Project Settings](../img_post/2013-04-17-how-to-run-php-applications-in-visual-studio-2012/2013-04-visualstudio_project_settings.png)
+![Visual Studio Project Settings](@assets/images/posts/2013-04-visualstudio_project_settings.png)
 
 ## 6. Build and Run!
 

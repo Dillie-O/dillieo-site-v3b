@@ -8,7 +8,7 @@ category: Default
 tags: [collectible-card-game, games, geekery, l5r, legend-of-the-five-rings, tournament]
 ---
 
-![Omigawa](../img_post/2013-04-22-kotei-report-tucson-az/2013-04-avatar_omigawa300.png)
+![Omigawa](@assets/images/posts/2013-04-avatar_omigawa300.png)
 
 One of my hobbies is playing a [CCG](http://en.wikipedia.org/wiki/Collectible_card_game "Collectible card game") (collectible card game) called "[Legend of the Five Rings](http://l5r.com "Legend of the Five Rings")". There's a lot of strategy involved, plus cool samurai and ninjas. 8^D I prefer to play the Monk/Kensai out of the Spider clan. They're the nice evil monks that get two wield two weapons and do lots of fiendish mayhem (see avatar above 8^D). Fortunately I was able to go to a tournament this weekend with some of the friends I play with at the local card shop. As is somewhat customary in the forum I frequent, here is a tournament report, for those interested.
 

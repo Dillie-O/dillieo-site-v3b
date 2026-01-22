@@ -8,7 +8,7 @@ category: Default
 tags: [audio-adrenaline, grits, music, song-of-the-week, steven-curtis-chapman]
 ---
 
-![Smash-Ups Cover](../img_post/2011-05-20-song-of-the-week-the-smashup/2011-05-smashupscover.jpg)
+![Smash-Ups Cover](@assets/images/posts/2011-05-smashupscover.jpg)
 
 So what do you get when you take Audio Adrenaline, Steven Curtis Chapman, and Grits? A pretty kickin' track, that's what!
 

@@ -22,7 +22,7 @@ In my [last entry](/bootstrap-your-app-for-free-part-1-tools-and-resources), I o
 
 <!-- wp:image {"id":"media-30"} -->
 
-![Apple Laptop](../img_post/2019-01-23-bootstrap-your-app-for-free-part-2-hosting/2019-01-macbook-apple-imac-computer-39284.jpg)
+![Apple Laptop](@assets/images/posts/2019-01-macbook-apple-imac-computer-39284.jpg)
 
 Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/apple-laptop-notebook-office-39284/)
 

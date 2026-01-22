@@ -12,7 +12,7 @@ When I [first shifted my career](/the-remote-worker-one-month-in) to one as a re
 
 <!--more-->
 
-![man-person-hands-coffee](../img_post/2016-12-13-five-tips-for-remote-developers/2016-12-man-person-hands-coffee.jpg)
+![man-person-hands-coffee](@assets/images/posts/2016-12-man-person-hands-coffee.jpg)
 
 ## 1. Communicate (Real Time)
 

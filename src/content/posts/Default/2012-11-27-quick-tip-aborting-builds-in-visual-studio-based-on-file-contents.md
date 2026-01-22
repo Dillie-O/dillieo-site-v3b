@@ -8,7 +8,7 @@ category: Default
 tags: [net, coding, error, error-checking, events, file-contents, pre-build, quick-tip, visual-studio]
 ---
 
-![Quick Tip](../img_post/2012-11-27-quick-tip-aborting-builds-in-visual-studio-based-on-file-contents/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 Remember a little while back when I had that problem with [Entity Framework and SQL Server 2005/2008 databases](/quick-tip-fixing-the-datetime2-problem-with-entity-framework)? Well, it raised it's ugly head again, and I was looking for a way to detect our error. Fortunately, we can setup a pre-build event to detect the bug and stop the process from going further.
 
@@ -18,7 +18,7 @@ Visual Studio has a wonderful little feature in the project settings for pre-bui
 
 Open your solution in Visual Studio, right click on the project and select "Properties". From there, click the tab that says "Build Events." You'll see something like this:
 
-![Build Events Screen](../img_post/2012-11-27-quick-tip-aborting-builds-in-visual-studio-based-on-file-contents/2012-11-buildeventsscreen.png)
+![Build Events Screen](@assets/images/posts/2012-11-buildeventsscreen.png)
 
 From here, either click the "Edit Pre-build" button or you can type directly into the window. Here's the basic format of what you need your script to say
 
@@ -30,7 +30,7 @@ In my case, I'm checking my cptt.edmx file in my DAL folder to make sure that th
 
 That's all there is to it! If I modify my cptt.edmx file in Notepad and change the value to 2008 (what we don't want), the next time I do a build I see the following:
 
-![Build Events Error](../img_post/2012-11-27-quick-tip-aborting-builds-in-visual-studio-based-on-file-contents/2012-11-buildeventserror.png "Build Events Error")
+![Build Events Error](@assets/images/posts/2012-11-buildeventserror.png "Build Events Error")
 
 My build won't continue after that, and I know that I need to fix things before I can continue.
 

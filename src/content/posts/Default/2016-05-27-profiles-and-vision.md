@@ -14,4 +14,4 @@ More progress!
 
 <!--more-->
 
-![20160526_185247000_ios](../img_post/2016-05-27-profiles-and-vision/2016-05-20160526_185247000_ios.png)
+![20160526_185247000_ios](@assets/images/posts/2016-05-20160526_185247000_ios.png)

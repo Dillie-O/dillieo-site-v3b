@@ -16,4 +16,4 @@ To fix it: I disabled FileVault and re-enabled it again, but used a GUID generat
 
 <!--more-->
 
-![quick-tips.jpg](../img_post/2016-11-16-quick-tip-removing-the-double-login-from-macos-sierra/2015-01-quick-tips.png)
+![quick-tips.jpg](@assets/images/posts/2015-01-quick-tips.png)

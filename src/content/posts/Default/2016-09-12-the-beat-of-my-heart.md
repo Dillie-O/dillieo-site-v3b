@@ -14,7 +14,7 @@ This is the line shortly into the _[Reverence](https://soundcloud.com/laladee/dj
 
 <!--more-->
 
-![heart_music](../img_post/2016-09-12-the-beat-of-my-heart/2016-09-1a797ab51f8227a26a72bcadc4c30dd3-d3emw4q.jpg)
+![heart_music](@assets/images/posts/2016-09-1a797ab51f8227a26a72bcadc4c30dd3-d3emw4q.jpg)
 
 At first it sounds like kind of a clever and catchy one liner. Those in to EDM can have a bit of a “hardcore” love of the genre and tying the beat of the music with the beat of one’s own heart is a clever play on words that goes nicely into this. But over time the lyrics have struck me as something deeper.
 

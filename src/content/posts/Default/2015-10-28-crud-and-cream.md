@@ -14,7 +14,7 @@ My history teacher for my sophomore year in high school was also the football co
 
 <!--more-->
 
-![](../img_post/2015-10-28-crud-and-cream/2015-10-blur-station.jpg)
+![](@assets/images/posts/2015-10-blur-station.jpg)
 
 Being the “cream of the crud” is so nice. It provides a sense of accomplishment. It’s a bit of an ego booster too. There may be a fair amount, but not a whole lot of effort that goes into maintaining your place as the “cream". It’s a bit like the “big fish in a small pond” scenario. It also provides a wonderful opportunity to help and mentor others. They look up to you and you can share your knowledge with others. There’s respect that comes with that as well.
 

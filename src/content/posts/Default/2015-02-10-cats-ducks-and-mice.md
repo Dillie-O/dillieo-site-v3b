@@ -12,7 +12,7 @@ Sadly I don’t have an actual picture of this, but a funny thing yesterday even
 
 <!--more-->
 
-![](../img_post/2015-02-10-cats-ducks-and-mice/2015-02-piper_box1.jpg)
+![](@assets/images/posts/2015-02-piper_box1.jpg)
 
 _Our mouser in training…_
 

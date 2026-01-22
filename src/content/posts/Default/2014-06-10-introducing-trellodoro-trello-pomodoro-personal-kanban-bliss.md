@@ -22,11 +22,11 @@ The beauty is in the simplicity.
 
 First, connect to your Trello account. Then select a card that has been assigned to you that you want to work on.
 
-![](../img_post/2014-06-10-introducing-trellodoro-trello-pomodoro-personal-kanban-bliss/2014-06-1402336996_1.png)Then click the "Go" button.
+![](@assets/images/posts/2014-06-1402336996_1.png)Then click the "Go" button.
 
 This will open up the timer. Then click the "Start" button. The timer will give you a 25 minute countdown and ring when time is up. It will immediately jump into a 5 minute break timer for you.
 
-![](../img_post/2014-06-10-introducing-trellodoro-trello-pomodoro-personal-kanban-bliss/2014-06-1402336998_2.png)
+![](@assets/images/posts/2014-06-1402336998_2.png)
 
 Once your break is up (or anytime really). Click the "Pomodoro" button. This will add a sticker to your card in Trello (it shows up almost immediately!). Each sticker is offset, so you can see how many pomodoros you've completed.
 

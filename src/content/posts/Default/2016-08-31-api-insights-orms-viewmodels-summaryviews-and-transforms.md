@@ -12,7 +12,7 @@ I've been working through another project lately that is being build using a Web
 
 <!--more-->
 
-![Matrix Code Tunnel](../img_post/2016-08-31-api-insights-orms-viewmodels-summaryviews-and-transforms/2010-09-matrixmini.jpg)
+![Matrix Code Tunnel](@assets/images/posts/2010-09-matrixmini.jpg)
 
 Most application platforms are using some form of ORM (object relational manager) to make your life a lot easier. Most of the time this does make your life easier. Instead of having to write out all your CRUD operations for basic tables, you simply build an object model, let it map to a table, and when you update an object and tell it to save, it'll make the appropriate changes. This gives you the added benefit of using actual objects with fully typed properties in your code, as opposed to looking at row columns or other abstractions.
 

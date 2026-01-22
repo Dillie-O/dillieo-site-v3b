@@ -8,7 +8,7 @@ category: Default
 tags: [audio-adrenaline, coffee-house, house-plant, rock, song-of-the-week]
 ---
 
-![House Plant](../img_post/2012-03-02-song-of-the-week-the-houseplant-song-by-audio-adrenaline/2012-03-houseplant.jpg)
+![House Plant](@assets/images/posts/2012-03-houseplant.jpg)
 
 We're going to take a quirky angle this week and listen to one of the "other" songs by my favorite band: Audio Adrenaline
 

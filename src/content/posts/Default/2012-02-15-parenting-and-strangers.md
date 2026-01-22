@@ -8,7 +8,7 @@ category: Default
 tags: [kids, life, parenting, socialization, strangers]
 ---
 
-![Parent Child Sign](../img_post/2012-02-15-parenting-and-strangers/2012-02-parent-child.png "Parent Child Sign")
+![Parent Child Sign](@assets/images/posts/2012-02-parent-child.png "Parent Child Sign")
 
 Being a parent has some really gray areas at times. Such as strangers...
 

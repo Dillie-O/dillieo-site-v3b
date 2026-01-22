@@ -82,7 +82,7 @@ From here, we update our WarnTimeout method in our JavaScript file to include th
 
 You're all set! Build the app, navigate to the page and wait for the notification to appear:
 
-![TimeoutSampleToolkit](../img_post/2011-04-05-soup-to-nuts-creating-a-timeout-notifier-in-aspnet-using-ajax-toolkit-or-jquery/2011-04-timeoutsampletoolkit.png)
+![TimeoutSampleToolkit](@assets/images/posts/2011-04-timeoutsampletoolkit.png)
 
 ## Warning Box using jQuery
 
@@ -102,7 +102,7 @@ Finally, we update our WarnTimeout method in our JavaScript file to include the 
 
 You're all set! Build the app, navigate to the page and wait for the notification to appear:
 
-![TimeoutSamplejquery](../img_post/2011-04-05-soup-to-nuts-creating-a-timeout-notifier-in-aspnet-using-ajax-toolkit-or-jquery/2011-04-timeoutsamplejquery.png)
+![TimeoutSamplejquery](@assets/images/posts/2011-04-timeoutsamplejquery.png)
 
 ## Conclusion
 

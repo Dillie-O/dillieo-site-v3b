@@ -12,7 +12,7 @@ This is a complete HT (hat tip) to [Tip Hero](http://tiphero.com), but I had to 
 
 <!--more-->
 
-![](../img_post/2016-02-17-worth-sharing-fried-apple-cinnamon-rings/2016-02-1455720416_1.jpg)
+![](@assets/images/posts/2016-02-1455720416_1.jpg)
 
 ### 1 - Prep Apples
 

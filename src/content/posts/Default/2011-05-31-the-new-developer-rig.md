@@ -8,7 +8,7 @@ category: Default
 tags: [computer, developer, geekery, hardware, setup]
 ---
 
-![My development setup.](../img_post/2011-05-31-the-new-developer-rig/2011-05-sam_1250.jpg)
+![My development setup.](@assets/images/posts/2011-05-sam_1250.jpg)
 
 Tomorrow I start my new job at [Fresh Consulting](http://freshconsulting.com), for which I'm extremely excited. As part of the process, we both agreed that I should be ready to hit the ground running once I get up there and have my developer setup ready to roll. They have been VERY gracious in supporting me and here is the result!
 

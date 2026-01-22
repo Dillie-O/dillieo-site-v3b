@@ -12,7 +12,7 @@ As a father of multiple kids, I forget at times that I treat my kids differently
 
 <!--more-->
 
-![](../img_post/2016-01-27-same-and-different/2016-01-1453901624_1.jpg)
+![](@assets/images/posts/2016-01-1453901624_1.jpg)
 
 The way I interact and connect with my girls is unique. Rylee would love to just spend time building something with legos (or even organizing them). When I talk with her, often I’m “breaking things down” a bit more with her because she’s very analytical that way. Haylee on the other hand, is more the “runner and jumper” of the two. Most of the time, she’s more “matter of fact”. I can tell her this is why something is and she’s fine with it. When left to a daddy/daughter day Rylee would enjoy being home crafting something up or playing pretend, while Haylee would rather go somewhere. It’s these unique facets of their personalities I take into consideration when I’m with them.
 

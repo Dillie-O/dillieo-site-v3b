@@ -12,7 +12,7 @@ Yep, a long title, and a a complete HT to this [StackOverflow post](http://stack
 
 <!--more-->
 
-![quick-tips.jpg](../img_post/2016-06-17-quick-tip-run-entityframework-migration-seeds-for-migratedatabasetolatestversion-configuration/2015-01-quick-tips.png)
+![quick-tips.jpg](@assets/images/posts/2015-01-quick-tips.png)
 
 ## Background
 

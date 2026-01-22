@@ -8,7 +8,7 @@ category: Default
 tags: [audio-adrenaline, christmas, rock, song-of-the-week]
 ---
 
-![Audio Adrenaline Santa](../img_post/2011-12-02-song-of-the-week-little-drummer-boy-by-audio-adrenaline/2011-12-audioadrenalinesanta.png)
+![Audio Adrenaline Santa](@assets/images/posts/2011-12-audioadrenalinesanta.png)
 
 Let's get the Christmas season going by rockin' out to a holiday classic, courtesy of my favorite band, [Audio Adrenaline](http://en.wikipedia.org/wiki/Audio_Adrenaline)!
 

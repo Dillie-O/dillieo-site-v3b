@@ -8,7 +8,7 @@ category: Default
 tags: [coding, css, graphics, javascript, point, quick-tip, star, svg]
 ---
 
-![Quick Tip](../img_post/2013-01-16-quick-tip-how-to-draw-a-star-with-svg-and-javascript/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 [SVG](http://www.w3.org/Graphics/SVG/ "Scalable Vector Graphics") provides a powerful way to create graphics that will scale to any size in your application. It's easy enough to draw a star, but you need to work with the polygon shape to work with. Ideally you'd want a way to calculate your star shapes, similar to how you can specify a radius or width/height with circles and rectangles. Fortunately there is a way to calculate the points on a star, and here is how.
 
@@ -28,7 +28,7 @@ d3.select("#star_svg") .append("svg:polygon") .attr("id", "star_1") .attr("visib
 
 After you apply a little CSS formatting you get the final result (as applied onto a map)
 
-![Arizona SVG Star](../img_post/2013-01-16-quick-tip-how-to-draw-a-star-with-svg-and-javascript/2013-01-arizonasvgstar.png)
+![Arizona SVG Star](@assets/images/posts/2013-01-arizonasvgstar.png)
 
 There you have it! You can easily modify this function to work with other libraries, including those that draw the lines between points.
 

@@ -8,7 +8,7 @@ category: Default
 tags: [christmas, jazz, new-orleans, song-of-the-week, studio-60, troy-tombone-shorty-andrews]
 ---
 
-![Studio 60 Santa](../img_post/2011-12-16-song-of-the-week-o-holy-night-by-studio-60-new-orleans-band/2011-12-studio60santa.png)
+![Studio 60 Santa](@assets/images/posts/2011-12-studio60santa.png)
 
 It's don't know how many times I've shared this one now, but it's always worth sharing. Add a some soft, luscious, New Orleans jazz brass ensemble to your Christmas collection this season.
 

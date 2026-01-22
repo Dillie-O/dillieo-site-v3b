@@ -8,7 +8,7 @@ category: Default
 tags: [coding, entity-framework, quick-tip, sql-server, version]
 ---
 
-![Quick Tip](../img_post/2011-12-20-quick-tip-fixing-the-datetime2-problem-with-entity-framework/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 Ever run into the error "Type datetime2 is not a defined system type." when working with your newly polished and adored Entity Framework model? I did, and here's how you fix it.
 

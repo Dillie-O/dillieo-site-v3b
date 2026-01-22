@@ -14,7 +14,7 @@ This past week my girls (nearly 9 now themselves) dived into their first world o
 
 <!--more-->
 
-![](../img_post/2015-03-12-programming-for-kids/2015-03-1_code_org_screenshot.png)
+![](@assets/images/posts/2015-03-1_code_org_screenshot.png)
 
 It wasn’t nearly as “syntax rich” with commands, but it it was more “semantically” rich with concepts. In one particular “puzzle” they had to move a friend around a tennis net to the other and have them do a little dance or something when done. Another one they had to get through a maze. The girls are just starting out but are hooked! They are working their way through the intro series, and then who knows where we’ll go from there. There are tons of options to go through.
 

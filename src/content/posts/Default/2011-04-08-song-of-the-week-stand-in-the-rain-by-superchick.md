@@ -8,7 +8,7 @@ category: Default
 tags: [endurance, rock, song-of-the-week, superchick]
 ---
 
-![album-beauty-from-pain](../img_post/2011-04-08-song-of-the-week-stand-in-the-rain-by-superchick/2011-04-album-beauty-from-pain.jpg)
+![album-beauty-from-pain](@assets/images/posts/2011-04-album-beauty-from-pain.jpg)
 
 Yeah, I'll admit it. I've got kind of a thing for rock bands with female vocalists. There's something to that balance between slamming sound and soft vocals (or sometimes loud) that I really like. Ever since my all time favorite band Audio Adrenaline moved on to bigger things, I've been looking for some good bands to rock out to.
 

@@ -8,7 +8,7 @@ category: Default
 tags: [life, pensee, thankfulness]
 ---
 
-![ThankfulTree](../img_post/2010-11-24-the-thankful-tree/2010-11-thankfultree_thumb.jpg) _Our tree isn’t quite like this…_
+![ThankfulTree](@assets/images/posts/2010-11-thankfultree_thumb.jpg) _Our tree isn’t quite like this…_
 
 This year, Jen found a great project online called a “Thankful Tree.” It was a simple printout that we put on a wall and had leaves that we cut out. Every day the girls would write down something they were thankful for and tape it on to the tree. Our tree is just about full and it is really interesting to listen to the different things the girls are thankful for.
 

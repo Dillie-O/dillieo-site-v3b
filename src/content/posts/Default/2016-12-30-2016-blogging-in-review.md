@@ -12,7 +12,7 @@ Another year has come and gone and being the data junkie that I am, it's time to
 
 <!--more-->
 
-## ![2017-1](../img_post/2016-12-30-2016-blogging-in-review/2016-12-2017-1.jpg)
+## ![2017-1](@assets/images/posts/2016-12-2017-1.jpg)
 
 ## By the numbers: Down a Bit
 

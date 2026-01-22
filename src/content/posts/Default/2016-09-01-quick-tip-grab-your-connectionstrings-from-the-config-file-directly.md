@@ -20,4 +20,4 @@ However, I was getting an error when connecting. A little digging brought to lig
 
 <!--more-->
 
-![quick-tips.jpg](../img_post/2016-09-01-quick-tip-grab-your-connectionstrings-from-the-config-file-directly/2015-01-quick-tips.png)
+![quick-tips.jpg](@assets/images/posts/2015-01-quick-tips.png)

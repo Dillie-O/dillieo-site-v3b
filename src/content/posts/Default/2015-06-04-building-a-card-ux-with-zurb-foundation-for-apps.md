@@ -12,7 +12,7 @@ As I’ve been working through my [Prayer Journal](http://prayerjournal.apphb.co
 
 <!--more-->
 
-![](../img_post/2015-06-04-building-a-card-ux-with-zurb-foundation-for-apps/2015-06-zurb_card_swipe1.jpg)
+![](@assets/images/posts/2015-06-zurb_card_swipe1.jpg)
 
 To start, we’ll put together a simple unordered list and for each list item, we have take advantage of the card layout provided by Z4A. In addition, we install a great [angular touch carousel](https://github.com/revolunet/angular-carousel) library that installs easily into your application through bower. Make sure to update your app.scss to include the angular-carousel.css file, as well as update your gulp script to copy all the appropriate resources during the build.
 

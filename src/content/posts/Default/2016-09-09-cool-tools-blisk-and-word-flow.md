@@ -18,7 +18,7 @@ Nowadays, nearly every web site or app I work on is designed to be responsive. M
 
 Enter Blisk. It provides fully emulated phones and tables within the web browser that sits right next to you. A picture is worth a thousand words (and devices):
 
-![blisk_screenshot](../img_post/2016-09-09-cool-tools-blisk-and-word-flow/2016-09-blisk_screenshot.png)
+![blisk_screenshot](@assets/images/posts/2016-09-blisk_screenshot.png)
 
 You can instantly see what your site looks like on mobile AND on the desktop at the same time. There are tons of device options to emulate, both phone and tablet based. You can also have actions/scrolling sync so you can track the same actions/functionality without having to click in both places. Blisk is using the Google Chrome browser as a shell for all of this, so you instantly have access to all of their dev tool goodness to tweak on stylesheets, debug javascript, and everything else. I just might have to retire Firefox Developer Edition for this.
 
@@ -28,7 +28,7 @@ The thing I love about my Nexus tablet, and old Android phone, was the "swipe" m
 
 Interestingly enough, as I was following up on my blog post earlier this week about [Microsoft Apps on Apple platforms](/microsoft-on-apple), I stumbled across Word Flow. It's a free keyboard that enhances your typing productivity. It has the swipe mechanics in place, and even does some rather crazy things like providing easy access to an animated gif library (since we like to send our giffies nowadays), your contacts, and more. But the thing that REALLY caught my eye was this:
 
-![word_flow_action_shot](../img_post/2016-09-09-cool-tools-blisk-and-word-flow/2016-09-word_flow_action_shot.jpg)
+![word_flow_action_shot](@assets/images/posts/2016-09-word_flow_action_shot.jpg)
 
 Yep, you can "bend" the keyboard to the let or the right to provide easier access to that single thumb typing you do so often. Swipe function works just fine in this mode, and you can easily "straighten" the keyboard with a swipe of the thumb if you need to go into traditional mode. Admittedly I've only been using this for a couple of days, but I picked it up immediately and have been swiping away with fury! Kudos Microsoft!
 

@@ -8,7 +8,7 @@ category: Default
 tags: [bonding, events, friends, impact, life, significance, talking]
 ---
 
-![Trench Digging](../img_post/2011-08-02-in-the-trench/2011-08-civiliantrench.jpg "Trench Digging")
+![Trench Digging](@assets/images/posts/2011-08-civiliantrench.jpg "Trench Digging")
 
 A lot of times I think that the biggest moments in life happen when you win that big game, or have the big showdown with a person, or write that one "killer app" that gets you noticed or sells a million a copies.
 

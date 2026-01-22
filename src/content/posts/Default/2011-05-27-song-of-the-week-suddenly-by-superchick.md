@@ -8,7 +8,7 @@ category: Default
 tags: [endurance, rock, song-of-the-week, superchick]
 ---
 
-![](../img_post/2011-05-27-song-of-the-week-suddenly-by-superchick/2011-05-beautyfrompainalbum.jpg "Beauty From Pain Album")
+![](@assets/images/posts/2011-05-beautyfrompainalbum.jpg "Beauty From Pain Album")
 
 It's been a long road for my family over the past few years. Finances, health, family events, you name it. There's been a lot of prayer and a lot of sheer will power to keep things going at times, but I think things are finally at the end and a new chapter is coming.
 

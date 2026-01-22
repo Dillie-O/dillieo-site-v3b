@@ -8,7 +8,7 @@ category: Default
 tags: [cloud, data, e-mail, geekery, social, technology]
 ---
 
-![DigitalCloud](../img_post/2010-11-30-life-in-the-cloud/2010-11-digitalcloud.jpg)
+![DigitalCloud](@assets/images/posts/2010-11-digitalcloud.jpg)
 
 As I had mentioned [a little while back](/whats-in-a-domain-name), having your own “digital cottage” can be a bit issue for a geek out there. After dropping my domain name and hosting, I found that keeping my “digital cottage” in order wasn’t as bad as I had thought. As more and more services are being offered online, or in the “cloud” as they say, I’ve found that it is a lot easier to setup shop in the cloud than I thought.
 

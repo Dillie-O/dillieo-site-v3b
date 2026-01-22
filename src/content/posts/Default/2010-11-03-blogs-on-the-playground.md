@@ -8,7 +8,7 @@ category: Default
 tags: [blogging, coding, conversion, xml]
 ---
 
-[![direction-confusion](../img_post/2010-11-03-blogs-on-the-playground/2010-11-direction-confusion_thumb.jpg)
+[![direction-confusion](@assets/images/posts/2010-11-direction-confusion_thumb.jpg)
 
 The best way I can describe it is this:
 

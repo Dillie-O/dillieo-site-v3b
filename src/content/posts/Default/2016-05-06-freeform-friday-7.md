@@ -30,4 +30,4 @@ Any other handy SQL Server tricks to share?
 
 <!--more-->
 
-![art-graffiti-abstract-vintage.jpg](../img_post/2016-05-06-freeform-friday-7/2016-01-art-graffiti-abstract-vintage.jpg)
+![art-graffiti-abstract-vintage.jpg](@assets/images/posts/2016-01-art-graffiti-abstract-vintage.jpg)

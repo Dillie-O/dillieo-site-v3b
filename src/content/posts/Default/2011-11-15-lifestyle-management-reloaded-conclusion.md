@@ -8,7 +8,7 @@ category: Default
 tags: [e-mail, facebook, geekery, lifestyle-management, rss, twitter]
 ---
 
-![Lifestyle Management](../img_post/2011-11-15-lifestyle-management-reloaded-conclusion/2011-11-lifestylemanagement.png)
+![Lifestyle Management](@assets/images/posts/2011-11-lifestylemanagement.png)
 
 So here we are at the end of our [quest](/lifestyle-management-reloaded) to find the "one tool" or tools to help with "lifestyle management". I hope this has given you a few ideas on some apps you can use. Maybe it even gave you some ideas for something you've never tried before, aggregating all your social communications into a single place.
 

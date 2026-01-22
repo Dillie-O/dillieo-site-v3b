@@ -81,15 +81,15 @@ Since we’re using ZFA for our front end, we’ll tie the backend to a standard
 
 1. Start up a new project in Visual Studio. Use the “Empty” project template and check the “WebAPI” option to include the appropriate libraries. We’re calling our app “zurb-app” but you can use whatever you want.
 
-![Windows_10_x64](../img_post/2014-12-11-soup-to-nuts-using-zurb-foundation-for-apps-in-net/2014-12-windows_10_x64.png)
+![Windows_10_x64](@assets/images/posts/2014-12-windows_10_x64.png)
 
-![Windows_10_x64 2](../img_post/2014-12-11-soup-to-nuts-using-zurb-foundation-for-apps-in-net/2014-12-windows_10_x64-2.png)
+![Windows_10_x64 2](@assets/images/posts/2014-12-windows_10_x64-2.png)
 
 2\. Once Visual Studio gets the project started, jump over to your zurb-base folder and copy everthing into the root of your zurb-app project (not solution) except for the “build” folder.
 
 3\. Click “view all files” then “refresh” in solution explorer and you’ll see the additional files/folders.
 
-![Windows_10_x64 3](../img_post/2014-12-11-soup-to-nuts-using-zurb-foundation-for-apps-in-net/2014-12-windows_10_x64-3.png)
+![Windows_10_x64 3](@assets/images/posts/2014-12-windows_10_x64-3.png)
 
 4\. Right click and select “include in project” for the following items:
 
@@ -102,11 +102,11 @@ Since we’re using ZFA for our front end, we’ll tie the backend to a standard
 
 6\. Once this is complete, right click on the gulpfile.js, select gulp option, and then “build”.
 
-![Fullscreen_12_10_14__6_44_AM](../img_post/2014-12-11-soup-to-nuts-using-zurb-foundation-for-apps-in-net/2014-12-fullscreen_12_10_14__6_44_am.png)
+![Fullscreen_12_10_14__6_44_AM](@assets/images/posts/2014-12-fullscreen_12_10_14__6_44_am.png)
 
 Another option is to right click on the gulpfile.js and select the “Task Runner Explorer” option. This brings up a nice window (that you can dock) with the actions associated with the gulp file. You can then double click the “build” action whenever you need it.
 
-![Windows_10_x64 4](../img_post/2014-12-11-soup-to-nuts-using-zurb-foundation-for-apps-in-net/2014-12-windows_10_x64-4.png)
+![Windows_10_x64 4](@assets/images/posts/2014-12-windows_10_x64-4.png)
 
 7\. After the gulp build completes, refresh the solution explorer and add the following items to the project:
 
@@ -117,7 +117,7 @@ Another option is to right click on the gulpfile.js and select the “Task Runne
 
 8\. Now it’s time to see the basics in action. Build and run the project using your old friend CTRL+F5. Hazzah! We have zurb!
 
-![Windows_10_x64 5](../img_post/2014-12-11-soup-to-nuts-using-zurb-foundation-for-apps-in-net/2014-12-windows_10_x64-5.png)
+![Windows_10_x64 5](@assets/images/posts/2014-12-windows_10_x64-5.png)
 
 The default items in Zurb is EXTREMELY basic (none of the header links even work), so let’s add a few things to prove things are functional.
 
@@ -139,7 +139,7 @@ The default items in Zurb is EXTREMELY basic (none of the header links even work
 
 5\. Refresh the browser. There’s no need to rebuild the .Net code since none was affected. Click on the news link, we now have a news page! You can click the home link again to go back too. If you don’t see this right away, you might have to hit enter in the URL bar instead of a simple refresh.
 
-![Fullscreen_12_10_14__7_52_AM](../img_post/2014-12-11-soup-to-nuts-using-zurb-foundation-for-apps-in-net/2014-12-fullscreen_12_10_14__7_52_am.png)
+![Fullscreen_12_10_14__7_52_AM](@assets/images/posts/2014-12-fullscreen_12_10_14__7_52_am.png)
 
 Now let’s add some dynamic stuff...
 
@@ -147,9 +147,9 @@ Now let’s add some dynamic stuff...
 
 1\. Right click on the “Controllers” folder and select “Add Controller” In the scaffold options that come up, select “Web API 2 Controller with read/write actions”. In the next screen, Give it the name “InfoController”.
 
-![Windows_10_x64 6](../img_post/2014-12-11-soup-to-nuts-using-zurb-foundation-for-apps-in-net/2014-12-windows_10_x64-6.png)
+![Windows_10_x64 6](@assets/images/posts/2014-12-windows_10_x64-6.png)
 
-![Windows_10_x64 7](../img_post/2014-12-11-soup-to-nuts-using-zurb-foundation-for-apps-in-net/2014-12-windows_10_x64-7.png)
+![Windows_10_x64 7](@assets/images/posts/2014-12-windows_10_x64-7.png)
 
 2\. We’ll modify the default Get() method to return a single string instead with the current date/time. WebAPI2 works with JSON by default, so we are all set.
 
@@ -163,7 +163,7 @@ public string Get()
 
 3\. Now it’s time to compile the API and verify it’s functionality. I like to use a Chrome tool called [PostMan](http://getpostman.com) that allows us to easily make REST calls and see our results:
 
-![Windows_10_x64 8](../img_post/2014-12-11-soup-to-nuts-using-zurb-foundation-for-apps-in-net/2014-12-windows_10_x64-8.png)
+![Windows_10_x64 8](@assets/images/posts/2014-12-windows_10_x64-8.png)
 
 Finally, let's wire up some AJAX fun.
 
@@ -195,11 +195,11 @@ angular.module('application').controller('NewsController', ['$scope', '$statePar
 
 3\. Finally, run the gulp build command and refresh the page. Our news page now looks like this:
 
-![Windows_10_x64 9](../img_post/2014-12-11-soup-to-nuts-using-zurb-foundation-for-apps-in-net/2014-12-windows_10_x64-9.png)
+![Windows_10_x64 9](@assets/images/posts/2014-12-windows_10_x64-9.png)
 
 Go ahead and click the button. You’ll get something like this.
 
-![Windows_10_x64 10](../img_post/2014-12-11-soup-to-nuts-using-zurb-foundation-for-apps-in-net/2014-12-windows_10_x64-10.png)
+![Windows_10_x64 10](@assets/images/posts/2014-12-windows_10_x64-10.png)
 
 There you have it! A fully functional .Net WebAPI application using the new Zurb Foundation for Apps on the front end!
 

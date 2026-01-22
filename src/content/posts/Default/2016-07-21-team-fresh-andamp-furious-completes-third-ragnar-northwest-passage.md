@@ -14,4 +14,4 @@ Here's the recap I penned on my RAGNAR experience this past weekend. I can't wai
 
 <!--more-->
 
-![20160716_213003289_iOS](../img_post/2016-07-21-team-fresh-andamp-furious-completes-third-ragnar-northwest-passage/2016-07-20160716_213003289_ios.jpg)
+![20160716_213003289_iOS](@assets/images/posts/2016-07-20160716_213003289_ios.jpg)

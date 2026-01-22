@@ -22,7 +22,7 @@ As I continue to mentor new and seasoned developers in their growth... Scratch t
 
 <!-- wp:image {"align":"center","id":6906,"sizeSlug":"medium"} -->
 
-![Letter T](../img_post/2020-01-09-tshaped-goals-deeper-and-wider/2020-01-letter-t.png)
+![Letter T](@assets/images/posts/2020-01-letter-t.png)
 
 <!-- /wp:image -->
 
@@ -64,7 +64,7 @@ When you map out your skills an measure your experience with them, most likely y
 
 <!-- wp:image {"align":"center","id":6911,"sizeSlug":"medium"} -->
 
-![](../img_post/2020-01-09-tshaped-goals-deeper-and-wider/2020-01-t-shaped-individual.png)
+![](@assets/images/posts/2020-01-t-shaped-individual.png)
 
 <!-- /wp:image -->
 

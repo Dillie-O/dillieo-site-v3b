@@ -8,7 +8,7 @@ category: Default
 tags: [geekery, kanban, list-of-lists, lists, organization, tools, trello]
 ---
 
-![Trello Logo](../img_post/2012-02-10-hello-trello-my-fine-fellow/2012-02-trello-logo.png )
+![Trello Logo](@assets/images/posts/2012-02-trello-logo.png )
 
 Last week you may remember my [article from last week](/cloud-life-5-free-tools-to-get-what-you-need-whenever-and-wherever-you-need-it) outlining the cloud tools I use to make my life easier hopping around from Mac to PC to Android all on the road. I have one more to add to the mix, which I stumbled upon only a few weeks ago: [Trello](http://trello.com).
 
@@ -18,7 +18,7 @@ Quite simply, and I think they mentioned this in a podcast or on their blog, Tre
 
 Let's say we're organizing a LAN party. In Trello, we have a "board" called a LAN Party. There's several aspects that need to be handled for the LAN party: inviting guests, getting food, schedule planning, computer setup. Each one of items is called a "List". On the list we have various activities that need to be done, such as planning activities, setting up sofware, etc. All of these items are called "cards" in Trello. Just like that, we have a full Trello board. Want to see it?! Here you go!
 
-![Trello LAN Board](../img_post/2012-02-10-hello-trello-my-fine-fellow/2012-02-trellolanboard.png)
+![Trello LAN Board](@assets/images/posts/2012-02-trellolanboard.png)
 
 Better yet, you can make board public to share with everybody, or private to share with friends. Here, check out my board and do what you need to!
 
@@ -28,7 +28,7 @@ From here, Trello gets even more simple, you can simply drag a card to and from 
 
 Oh yeah, and my [Personal Kanban board](/personal-kanban-3-weeks-in)? Done.
 
-![Trello Kanban Board](../img_post/2012-02-10-hello-trello-my-fine-fellow/2012-02-trellokanbanboard.png)
+![Trello Kanban Board](@assets/images/posts/2012-02-trellokanbanboard.png)
 
 <https://trello.com/board/personal-kanban-sample/4f35473e6468d63459011e7b>
 

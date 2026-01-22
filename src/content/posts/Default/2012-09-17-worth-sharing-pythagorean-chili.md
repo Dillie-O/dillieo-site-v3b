@@ -8,7 +8,7 @@ category: Default
 tags: [chili, recipe, recipes]
 ---
 
-![Chili starting to cook](../img_post/2012-09-17-worth-sharing-pythagorean-chili/2012-09-chili_start.jpg) My wife gets credit for getting this recipe started, though she won't take it for some reason. 8^D This weekend we made some chili and we've finally finalized our hopefully famous "pythagorean" chili (5 different types of beans, 12 different cans, 13 dimensions of flavor) and I had to pass it along. Don't worry the "5" doesn't mean five alarm, but you can make it that way if needs be. This recipe will easily feed 8 people, and you might have a few leftovers for the next day as well! Our "5-12" chili gets it's name from the fact that we use 5 different types of beans and 12 cans worth of ingredients. It also helped me remember exactly how we were making it 8^D I realize some of the "chili heads" out there might ran on the fact that it isn't really from scratch, but hey, it tastes great and can be a easy dinner. 8^D
+![Chili starting to cook](@assets/images/posts/2012-09-chili_start.jpg) My wife gets credit for getting this recipe started, though she won't take it for some reason. 8^D This weekend we made some chili and we've finally finalized our hopefully famous "pythagorean" chili (5 different types of beans, 12 different cans, 13 dimensions of flavor) and I had to pass it along. Don't worry the "5" doesn't mean five alarm, but you can make it that way if needs be. This recipe will easily feed 8 people, and you might have a few leftovers for the next day as well! Our "5-12" chili gets it's name from the fact that we use 5 different types of beans and 12 cans worth of ingredients. It also helped me remember exactly how we were making it 8^D I realize some of the "chili heads" out there might ran on the fact that it isn't really from scratch, but hey, it tastes great and can be a easy dinner. 8^D
 
 <!--more-->
 
@@ -48,6 +48,6 @@ Like most of our recipes, we like to tweak them out to various degrees depending
 
 **Five Alarm** Since most of the family isn't into the hot chili, we leave all the spice out of it. However, if I were to make a five alarm chili, I'd grab me a bottle of "Dave's Insanity Sauce" and slowly add a drop or two of it about half way through cooking. WARNING: I kid you not when I say that this sauce is INSANELY hot. Make sure to only add a drop or two, stir really well, and then taste it before adding more. There you have it! Our 5-12 chili. The other great thing about this recipe is that it is gluten free, for those of you that are concerned with that. If you do use a different brand than what we have listed above, make sure to check the ingredients to verify they are gluten free.
 
-![Chili with cornbread](../img_post/2012-09-17-worth-sharing-pythagorean-chili/2012-09-chili_finish.jpg)
+![Chili with cornbread](@assets/images/posts/2012-09-chili_finish.jpg)
 
 Enjoy! Let me know if you have any other garnishes to add to it 8^D.

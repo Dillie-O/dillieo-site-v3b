@@ -14,4 +14,4 @@ Things are really starting to move now!!!
 
 <!--more-->
 
-![PrayerOdyssey_Simulations](../img_post/2016-06-08-mobile-screen-1-and-xamarin-notes/2016-06-prayerodyssey_simulations.png)
+![PrayerOdyssey_Simulations](@assets/images/posts/2016-06-prayerodyssey_simulations.png)

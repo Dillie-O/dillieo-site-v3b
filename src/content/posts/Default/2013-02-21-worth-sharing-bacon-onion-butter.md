@@ -8,7 +8,7 @@ category: Default
 tags: [bacon, bbq, butter, grilling, hamburger, mustard, onion, recipes]
 ---
 
-![Bacon Butter Plate](../img_post/2013-02-21-worth-sharing-bacon-onion-butter/2013-02-baconbutterfinal.jpg)
+![Bacon Butter Plate](@assets/images/posts/2013-02-baconbutterfinal.jpg)
 
 I discovered this little gem in my amazing [BBQ Sauces, Rubs, and Marinades](http://www.amazon.com/Barbecue-Bible-Sauces-Marinades-Butters/dp/0761119795/ref=sr_1_1?ie=UTF8&qid=1361199031&sr=8-1&keywords=barbeque+sauces%2C+rubs%2C+and+marinades) book yesterday and it was PHENOMINAL on our hamburgers. I just had to share, because it was simple too!
 
@@ -36,10 +36,10 @@ If you're in a hurry (like I was last night) after cooking the bacon and onion, 
 
 Once you've whipped everything together, place it onto a large piece of saran wrap. You can then roll and shape the butter into a log, which makes it easy to slice for later on. You can refrigerate it for 5 days or keep it for a couple of months in the freezer.
 
-![Bacon Butter Roll](../img_post/2013-02-21-worth-sharing-bacon-onion-butter/2013-02-baconbutterroll.jpg)
+![Bacon Butter Roll](@assets/images/posts/2013-02-baconbutterroll.jpg)
 
 One of the best places to use this butter is on top of hamburgers. About 3 to 5 minutes before the burger is done, take good quarter inch slice off your roll and place it on top to melt.
 
-![Bacon Butter Melting](../img_post/2013-02-21-worth-sharing-bacon-onion-butter/2013-02-baconbuttermelting.jpg)
+![Bacon Butter Melting](@assets/images/posts/2013-02-baconbuttermelting.jpg)
 
 Enjoy! Let me know if you find other uses for this wonderful stuff!

@@ -12,7 +12,7 @@ A kid that discovers that he has amazing powers. An epic struggle between good a
 
 <!--more-->
 
-![mithermage_series](../img_post/2016-11-30-review-the-mither-mage-series-by-orson-scott-card/2016-11-mithermage_series.png)
+![mithermage_series](@assets/images/posts/2016-11-mithermage_series.png)
 
 Being a fan of Orson Scott card and having a growing interest in the urban fantasy genre of books (think magic in modern times), I decided to give this series a try after my wife picked it up for me on a whim from the library.
 

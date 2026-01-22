@@ -24,4 +24,4 @@ Thank you.
 
 <!--more-->
 
-![](../img_post/2015-05-25-gratitude/2015-05-memorial1.jpg)
+![](@assets/images/posts/2015-05-memorial1.jpg)

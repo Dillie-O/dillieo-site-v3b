@@ -14,4 +14,4 @@ I had a guest post over at my company’s blog, talking about the need to evalua
 
 <!--more-->
 
-![yagni_hero-1024x427](../img_post/2016-10-28-dev-principle-8-yagni-ya-aint-gonna-need-it/2016-10-yagni_hero-1024x427.jpg)
+![yagni_hero-1024x427](@assets/images/posts/2016-10-yagni_hero-1024x427.jpg)

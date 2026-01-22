@@ -12,7 +12,7 @@ As mentioned before, I’m a big fan of [Zurb Foundation for Applications](http:
 
 <!--more-->
 
-![ZANSTitleBinding.png](../img_post/2015-02-20-dynamically-changing-titles-in-zurb-foundation-for-applications/2015-02-zanstitlebinding.png)
+![ZANSTitleBinding.png](@assets/images/posts/2015-02-zanstitlebinding.png)
 
 ### Step 1: Move Application Declaration
 

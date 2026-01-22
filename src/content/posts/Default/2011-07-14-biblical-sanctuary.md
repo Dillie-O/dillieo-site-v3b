@@ -8,7 +8,7 @@ category: Default
 tags: [bible, calm, life, peace, sanctuary]
 ---
 
-![Sanctuary: A Place of Refuge](../img_post/2011-07-14-sanctuary/2011-07-stainedglasswindow.jpg)
+![Sanctuary: A Place of Refuge](@assets/images/posts/2011-07-stainedglasswindow.jpg)
 
 Yesterday during my "God Time" (as I tell the girls) I came across the following passage:
 

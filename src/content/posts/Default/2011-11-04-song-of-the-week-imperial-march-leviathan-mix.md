@@ -8,7 +8,7 @@ category: Default
 tags: [imperial-march, remix, rock, song-of-the-week, soundtrack, star-wars]
 ---
 
-![Darth Vader - Punk Style](../img_post/2011-11-04-song-of-the-week-imperial-march-leviathan-mix/2011-11-punkdarthvader.jpg "Punk Darth Vader")
+![Darth Vader - Punk Style](@assets/images/posts/2011-11-punkdarthvader.jpg "Punk Darth Vader")
 
 It's Star Wars!!! It's Darth Vader's theme song!!! It's got a nice industrial/metal edge to it!!!! There's really nothing more to say!
 

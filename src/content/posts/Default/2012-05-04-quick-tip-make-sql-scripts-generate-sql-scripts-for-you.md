@@ -8,7 +8,7 @@ category: Default
 tags: [coding, foreign-key, generation, quick-tip, script, sql, table]
 ---
 
-![Quick Tip](../img_post/2012-05-04-quick-tip-make-sql-scripts-generate-sql-scripts-for-you/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 So the synopsis is this: sometimes you have a TON of rows you need to insert into a database from a spreadsheet, but you need to do some custom massaging of the data to generate the statements. While a few dozen rows is okay, try doing this with 10,000+ rows! The nice thing is that you can make the database do the work for you.
 

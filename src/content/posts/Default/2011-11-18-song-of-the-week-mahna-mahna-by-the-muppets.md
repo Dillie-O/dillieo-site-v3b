@@ -8,7 +8,7 @@ category: Default
 tags: [muppets, song-of-the-week]
 ---
 
-![Mahnamahna](../img_post/2011-11-18-song-of-the-week-mahna-mahna-by-the-muppets/2011-11-mahnamahna.jpg)
+![Mahnamahna](@assets/images/posts/2011-11-mahnamahna.jpg)
 
 In honor of the upcoming movie, you get a song AND a movie!
 

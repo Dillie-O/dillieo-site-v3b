@@ -8,7 +8,7 @@ category: Default
 tags: [fresh-consulting, life, remote-work, technology, telecommute]
 ---
 
-![My home office...](../img_post/2011-09-06-the-remote-worker-three-months-in/2011-07-photo-jul-05-1-48-26-pm.jpg)
+![My home office...](@assets/images/posts/2011-07-photo-jul-05-1-48-26-pm.jpg)
 
 So in the blink of an eye, I've started up with my third months now working for [Fresh Consulting](http://freshconsulting.com). While I'm not planning on giving a month to month report on the live of a telecommuter, I did have some more notable experiences I thought was worth sharing...
 

@@ -22,7 +22,7 @@ I’ve been away from my office desk for a few months now, but when I was bringi
 
 <!-- wp:image {"id":6980,"sizeSlug":"large"} -->
 
-![sticky note with core values](../img_post/2020-08-18-sticky-note-leadership-core-values/2020-08-stickynote_corevalues.jpg)
+![sticky note with core values](@assets/images/posts/2020-08-stickynote_corevalues.jpg)
 
 <!-- /wp:image -->
 

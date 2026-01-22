@@ -12,7 +12,7 @@ Last night the family enjoyed a bittersweet and powerful end to the short run se
 
 <!--more-->
 
-![gortimer_gibbons_cover](../img_post/2016-08-09-worth-watching-gortimer-gibbons-life-on-normal-street/2016-08-gortimer_gibbons_cover1.jpg)
+![gortimer_gibbons_cover](@assets/images/posts/2016-08-gortimer_gibbons_cover1.jpg)
 
 Here’s a brief rundown: Gortimer and his two best friends, Mel and Ranger, live on Normal Street. It’s a pretty normal street, as Gortimer likes to explain in the opening credits, with a lake at one end and a forest at the other, but what happens in between is a whole different story. Each episode has the trio (and sometimes additional friends) solving some kind of mystery or problem that has beset them or someone else. One time it was a man who has seemed to have forgotten everything. Another time it was a mysterious library van that shows up once a year, which oddly enough ties to a girl who has been missing the same amount of time. Sometimes the mysteries or problems involve themselves. Gortimer struggles with being average and wants to be amazing at everything. Mel is an overachiever that starts to get caught up in what she does instead of who she is. Ranger volunteers as a peer counselor and takes on the burdens of others, but doesn’t want to share his own.
 

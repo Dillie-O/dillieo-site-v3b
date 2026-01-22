@@ -8,7 +8,7 @@ category: Default
 tags: [imperial-march, remix, rock, song-of-the-week, soundtrack, star-wars]
 ---
 
-![Jedi Duel](../img_post/2012-02-17-song-of-the-week-duel-of-the-fates-star-wars-episode-1/2012-02-maul_quigon_obiwan.jpg)
+![Jedi Duel](@assets/images/posts/2012-02-maul_quigon_obiwan.jpg)
 
 In honor of seeing Star Wars Episode 1 in 3D last night, I thought it would be fitting to put in one of my favorite songs from the soundtracks!
 

@@ -12,7 +12,7 @@ I still find it a little funny every time I recall the story, but I got the job 
 
 <!--more-->
 
-![](../img_post/2015-06-01-fabulous-fresh-four-fenomenon/2015-06-fresh-artwork.png)
+![](@assets/images/posts/2015-06-fresh-artwork.png)
 
 Four years ago today I was rather star struck as I drifted into an office nearly 1400 miles away from home and immediately to a social media conference we were hosting. Shortly after that we ran over to do a checkin with a major telecommunications provider, and I was sent home to build an RSS feed for the high school sports association here in Arizona. There weren’t a whole lot of us, but we were going places!
 

@@ -8,7 +8,7 @@ category: Default
 tags: [christmas, life, magic, opa, santa, train]
 ---
 
-![Girls on Polar Express](../img_post/2012-12-20-a-bit-of-christmas-magic/2012-12-imag0471.jpg)
+![Girls on Polar Express](@assets/images/posts/2012-12-imag0471.jpg)
 
 Last night my girls had the pleasure of riding the [Polar Express](http://www.thetrain.com/polar-express-5679.html). This was a wonderful trip on a cold night with snow on the ground from the night before. We made it all the way to Santa's village at the North Pole thanks to a magic tunnel. The most magical part of the night came when Santa himself boarded the train to give gifts to the children aboard.
 
@@ -18,7 +18,7 @@ Now for a brief moment of back story...
 
 Opa is one of the girls' grandfathers. He's also the "direct link" to Santa. See, Santa and Opa are best buddies. The girls call Opa around Christmastime so that they can talk to Santa. Opa figures out a time when Santa is passing through and they make it work out. This works out in all sorts of situations.
 
-![Santa on the Polar Express](../img_post/2012-12-20-a-bit-of-christmas-magic/2012-12-imag0468.jpg) So now back to our story. Santa boards the train and is handing out special Polar Express jingle bells to everybody on board. He even takes a moment or two with each child. He truly is magical and wonderful this way, especially with such a large amount of children on the train that he is to visit.
+![Santa on the Polar Express](@assets/images/posts/2012-12-imag0468.jpg) So now back to our story. Santa boards the train and is handing out special Polar Express jingle bells to everybody on board. He even takes a moment or two with each child. He truly is magical and wonderful this way, especially with such a large amount of children on the train that he is to visit.
 
 As Santa approaches our seats, the girls light up, and Rylee says "Santa! Do you know my Opa, he..."
 

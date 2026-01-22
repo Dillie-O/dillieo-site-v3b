@@ -14,4 +14,4 @@ I have a post over at my company's blog today regarding optimizing Laravel. Chec
 
 <!--more-->
 
-![laravel-logo-big](../img_post/2016-04-28-guest-post-optimizing-laravel-performance/2016-04-laravel-logo-big.png)
+![laravel-logo-big](@assets/images/posts/2016-04-laravel-logo-big.png)

@@ -8,7 +8,7 @@ category: Default
 tags: []
 ---
 
-![MacroCosmos Image](../img_post/2010-03-08-your-career-the-microcosm-of-your-life-part-2/2010-03-macrocosmos1.png)
+![MacroCosmos Image](@assets/images/posts/2010-03-macrocosmos1.png)
 
 [Last week](/your-career-the-microcosm-of-your-life-part-1), I commented on how I’ve been finding a lot of aspects to my career that function as a microcosm to my life as a whole. In particular, I noted how life needs to be “1.0” release, in that we need to get out there and live. If we take too much time waiting to get everything perfect, we’ll never get our life going. Similarly, by getting our life at 1.0 status, we can then slowly work “upgrading or modifying” our life to 1.1 status, 1.2 status, and so on.
 

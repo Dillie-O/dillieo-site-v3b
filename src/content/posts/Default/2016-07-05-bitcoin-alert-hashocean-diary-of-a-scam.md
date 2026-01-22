@@ -12,7 +12,7 @@ Well, it's been a week since I first reported the [potential of HashOcean being 
 
 <!--more-->
 
-![bitcoin-scam-alert](../img_post/2016-07-05-bitcoin-alert-hashocean-diary-of-a-scam/2016-07-bitcoin-scam-alert.jpg)
+![bitcoin-scam-alert](@assets/images/posts/2016-07-bitcoin-scam-alert.jpg)
 
 After a relaxing weekend I went to log in to check how my bitcoin mining fared over the weekend. I wasn't expecting any major spikes, but I was looking to either withdrawal my small amount of profits or reinvest it again. Oddly enough the website wasn't responding. Up to this point the communication stream from HashOcean had been pretty minimal. They had a Twitter and Facebook account, but they were mainly for small updates or marketing, so I figured I would try out Twitter, since it tends to have a more "geekish" pulse on these types of things.
 

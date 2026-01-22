@@ -8,7 +8,7 @@ category: Default
 tags: [christmas, jazz, life, music, o-holy-night, rock]
 ---
 
-![Christmas Ornament - Ornamento de Natal - 2010](../img_post/2012-12-24-12-songs-of-christmas-o-holy-night-three-versions/4088-5176562216_ba399370c4_m.jpg "Christmas Ornament - Ornamento de Natal - 2010")
+![Christmas Ornament - Ornamento de Natal - 2010](@assets/images/posts/4088-5176562216_ba399370c4_m.jpg "Christmas Ornament - Ornamento de Natal - 2010")
 
 Here it is! Christmas Eve! And for our final day before Christmas, I wanted to share my all time favorite Christmas carol, [O Holy Night](http://en.wikipedia.org/wiki/O_Holy_Night "O Holy Night").
 

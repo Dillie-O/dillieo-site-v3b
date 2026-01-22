@@ -8,7 +8,7 @@ category: Default
 tags: [life]
 ---
 
-![Grandpa's Sunset Photo](../img_post/2009-08-27-old-age-is-not-for-sissies/2009-08-100_97481.jpg "Grandpa's Sunset Photo")
+![Grandpa's Sunset Photo](@assets/images/posts/2009-08-100_97481.jpg "Grandpa's Sunset Photo")
 
 ...is the hat my grandfather wore quite often for I think a good 10/15 years, if memory serves. I love it. My grandfather passed away about a week and a half ago and we had the memorial service about a week ago. He was 87 years old and was a few days shy of his 63 year anniversary with my grandma. One of the things my grandfather was best at was his photography, so I went walking around the house with Rylee looking for some of his photos to take home.
 
@@ -28,4 +28,4 @@ Grandpa always wanted to "offer you some free advice" even though "nobody wants 
 
 The profound paradox with death is that through Christ, he lives on. I'm sure he may be trying to offer free advice to Paul or John up in heaven and I'm sure they're getting a big kick out of that. More importantly, he'll be seeing his son, my father, who he hasn't seen in a good 10 years or so. I'm sure they have a lot of catching up to do. These facts give my soul a smile, but only while the tears stream over the face of it all the same. I miss grandpa already. It will be hard going to visit my mom and seeing the house next door, which is empty, and eventually will be lived in by somebody I don't know. All the same there is peace through it all. Rest now grandpa. You've finished the race and kept the faith. The rest of the family will eventually be there too.
 
-![Grandpa's Egypt Photo](../img_post/2009-08-27-old-age-is-not-for-sissies/2009-08-100_97491.jpg "Grandpa's Egypt Photo")
+![Grandpa's Egypt Photo](@assets/images/posts/2009-08-100_97491.jpg "Grandpa's Egypt Photo")

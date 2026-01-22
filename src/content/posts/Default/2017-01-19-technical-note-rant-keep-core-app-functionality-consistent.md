@@ -12,7 +12,7 @@ We're moving into a time when most apps need to run on multiple platforms in ord
 
 <!--more-->
 
-![outlook-logo](../img_post/2017-01-19-technical-note-rant-keep-core-app-functionality-consistent/2017-01-outlook-logo.png)
+![outlook-logo](@assets/images/posts/2017-01-outlook-logo.png)
 
 I've been a fan of Outlook for quite a while now. The fusion of the calendar and e-mail in a single app, plus the conversational view and management of multiple accounts, makes it a powerful tool. To add to this, Outlook offers a free Android / iOS that is one of the best out there. With a "focused" inbox and simple, yet powerful calendar component (thanks to the Sunrise acquisition), I can keep on top of three accounts (and two calendars) little hassle.
 

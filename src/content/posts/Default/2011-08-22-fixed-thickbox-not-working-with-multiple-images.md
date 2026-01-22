@@ -8,7 +8,7 @@ category: Default
 tags: [coding, jquery, quick-tip, selector, thickbox]
 ---
 
-![jQuery Logo](../img_post/2011-08-22-fixed-thickbox-not-working-with-multiple-images/2011-08-jquery_logo.png "jQuery Logo")
+![jQuery Logo](@assets/images/posts/2011-08-jquery_logo.png "jQuery Logo")
 
 This is really a triple Hat Tip (HT to my wife for dealing with this issue, HT to [Websites in a Flash](http://websitedesign.websitesinaflash.com/2009/07/jquery-thickbox-gallery-images-not-working/) where the solution was found, HT to [Stuff by Sarah](http://www.stuffbysarah.net/2009/02/16/thickbox-and-jquery-131/) where the original solution was found), but it bears repeating again.
 

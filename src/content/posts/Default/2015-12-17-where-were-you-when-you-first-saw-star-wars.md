@@ -12,7 +12,7 @@ The original Star Wars trilogy started with “A New Hope” back in 1977. The s
 
 <!--more-->
 
-![star_wars_force_awakens](../img_post/2015-12-17-where-were-you-when-you-first-saw-star-wars/2015-12-star_wars_force_awakens.jpg)
+![star_wars_force_awakens](@assets/images/posts/2015-12-star_wars_force_awakens.jpg)
 
 From there, the countless hours of lightsabers, Darth Vader, X-Wings and more as a kid made some strong bonds with friends that last until this day. I never did see any of the originals in the theatres, but I’m pretty sure I saw it every time it was on TV and I remember the day I bought my first copy of the trilogy on VHS (look it up kids). This was the “restored” one, not the updated one where Han shoots second (though that comes later 8^D).
 
@@ -22,10 +22,10 @@ When the prequel trilogy started, it was 1999. I was well on my way into college
 
 Then there was opening night itself! Having dressed for the occasion (with tons of others) it turned into this crazy family reunion of sorts. I remember walking around, cheering with other people, having my picture taken with a kid or two (Darth Vader is always the coolest), and cooking some form of food on a disposable hibachi grill behind the movie theatre building (since that’s where this particular line was wrapping). It makes for great “war stories”. I was king of the world because a special woman (who would later become my wife) made the trek down for one of the showings as well.
 
-![star_wars_me_zach](../img_post/2015-12-17-where-were-you-when-you-first-saw-star-wars/2015-12-star_wars_me_zach.jpg)
+![star_wars_me_zach](@assets/images/posts/2015-12-star_wars_me_zach.jpg)
 
-![star_wars_me_jen_old](../img_post/2015-12-17-where-were-you-when-you-first-saw-star-wars/2015-12-star_wars_me_jen_old.jpg)
+![star_wars_me_jen_old](@assets/images/posts/2015-12-star_wars_me_jen_old.jpg)
 
 What are your Star Wars stories and memories? Where were you when first saw the movies? Keep the legacy alive and share!
 
-![](../img_post/2015-12-17-where-were-you-when-you-first-saw-star-wars/2015-12-img_1468.jpg)
+![](@assets/images/posts/2015-12-img_1468.jpg)

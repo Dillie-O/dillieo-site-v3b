@@ -8,7 +8,7 @@ category: Default
 tags: [dystopia, gale, hunger-games, katniss, movie, peeta, reviews]
 ---
 
-![The Hunger Games Mockingjay](../img_post/2012-04-11-review-the-hunger-games-movie/2012-04-the-hunger-games-mockingjay.jpg)
+![The Hunger Games Mockingjay](@assets/images/posts/2012-04-the-hunger-games-mockingjay.jpg)
 
 My wife and I finally got to see The Hunger Games in the theatre this past Friday! Having [read all three books](/review-the-hunger-games-trilogy-by-suzanne-collins) in less than a week, I was very excited, and a little nervous to see how the movie would stack up to the books.
 

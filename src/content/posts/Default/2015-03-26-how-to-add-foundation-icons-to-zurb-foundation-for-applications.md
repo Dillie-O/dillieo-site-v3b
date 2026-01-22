@@ -12,7 +12,7 @@ I’ve been working on my [prayer journal](http://prayerjournalapp.wordpress.com
 
 <!--more-->
 
-![](../img_post/2015-03-26-how-to-add-foundation-icons-to-zurb-foundation-for-applications/2015-03-foundation-icons-yeti1.png)
+![](@assets/images/posts/2015-03-foundation-icons-yeti1.png)
 
 ### 1. Get the icons and transfer to your app
 
@@ -40,6 +40,6 @@ Finally, add icons to one of your HTML templates, run your gulp build, and enjoy
 
 That looks like this:
 
-![](../img_post/2015-03-26-how-to-add-foundation-icons-to-zurb-foundation-for-applications/2015-03-fullscreen_3_26_15__9_36_am.png)
+![](@assets/images/posts/2015-03-fullscreen_3_26_15__9_36_am.png)
 
 There you have it! Not terribly difficult and you have a whole slew of icons at your disposal. Enjoy!

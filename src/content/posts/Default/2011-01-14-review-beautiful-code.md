@@ -8,7 +8,7 @@ category: Default
 tags: [algorithms, problem-solving, programming, reviews]
 ---
 
-![BeautifulCodeCover](../img_post/2011-01-14-review-beautiful-code/2011-01-beautifulcodecover_thumb.gif)
+![BeautifulCodeCover](@assets/images/posts/2011-01-beautifulcodecover_thumb.gif)
 
 I heard about _Beautiful Code, by Andy Oram and Greg Wilson_ a few years back, but haven’t had the chance to read the book until now. It was worth the wait. This book is a challenging and inspiring read for new and seasoned programmers.
 

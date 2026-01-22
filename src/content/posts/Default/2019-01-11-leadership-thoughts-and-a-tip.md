@@ -22,7 +22,7 @@ I've been doing a lot of thinking now specifically asking myself, "What does lea
 
 <!-- wp:image -->
 
-![](../img_post/2019-01-11-leadership-thoughts-and-a-tip/2019-01-pexels-photo-718759.jpg)
+![](@assets/images/posts/2019-01-pexels-photo-718759.jpg)
 
 Photo by Sydney Troxell on [Pexels.com](https://www.pexels.com/photo/assorted-color-nips-718759/)
 

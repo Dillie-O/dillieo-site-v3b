@@ -18,11 +18,11 @@ You can make your own e-mail “templates” by simply hacking up a signature. D
 
 2\. Hilight the entire message (or use CMD+A) and copy it to the clipboard.
 
-![](../img_post/2014-04-30-quick-tip-creating-outlook-templates-for-mac/2014-04-1398917478_1.png) 3. Click the _Signatures_ button in the ribbon and select _Edit Signatures:_ ![](../img_post/2014-04-30-quick-tip-creating-outlook-templates-for-mac/2014-04-1398917480_2.png)
+![](@assets/images/posts/2014-04-1398917478_1.png) 3. Click the _Signatures_ button in the ribbon and select _Edit Signatures:_ ![](@assets/images/posts/2014-04-1398917480_2.png)
 
 4\. Click the + button to add a new signature. Paste in your content, then click the “Untitled” section and rename your signature:
 
-![](../img_post/2014-04-30-quick-tip-creating-outlook-templates-for-mac/2014-04-1398917482_3.png) That’s it! Close the window and next time you create a new e-mail message, you can simply select the template from the signatures section and you’re all set!
+![](@assets/images/posts/2014-04-1398917482_3.png) That’s it! Close the window and next time you create a new e-mail message, you can simply select the template from the signatures section and you’re all set!
 
 Hope this helps!
 

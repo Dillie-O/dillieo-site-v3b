@@ -8,7 +8,7 @@ category: Default
 tags: [frank-sinatra, harry-connick-jr, jazz, song-of-the-week, vocal]
 ---
 
-![Red Light, Blue Light](../img_post/2011-08-26-song-of-the-week-red-light-blue-light-by-harry-connick-jr/2011-08-harryconnickjrredlightbluelightcover.jpg "Harry Connick Jr Red Light Blue Light Cover")
+![Red Light, Blue Light](@assets/images/posts/2011-08-harryconnickjrredlightbluelightcover.jpg "Harry Connick Jr Red Light Blue Light Cover")
 
 I truly think that Harry Connick Jr. is the Frank Sinatra of my generation (or maybe tecnically a generation ahead 8^D). He has such a smooth voice, but lots of style, and can puts his own New Orleans flair on a lot of songs he does. Here's the very first song I heard by him, and it made me fall immediately in love with him.
 

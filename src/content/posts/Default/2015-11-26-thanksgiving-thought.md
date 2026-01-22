@@ -14,4 +14,4 @@ tags: [life]
 
 <!--more-->
 
-![ThanksgivingTable.jpg](../img_post/2015-11-26-thanksgiving-thought/2010-11-thanksgivingtable.jpg)
+![ThanksgivingTable.jpg](@assets/images/posts/2010-11-thanksgivingtable.jpg)

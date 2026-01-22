@@ -12,7 +12,7 @@ As I’ve been working through my [prayer journal](http://prayerjournal.apphb.co
 
 <!--more-->
 
-![](../img_post/2015-07-09-getting-appharbor-build-messages-in-slack-using-zapier/2015-07-1_zapierdashboard.jpg)
+![](@assets/images/posts/2015-07-1_zapierdashboard.jpg)
 
 We can get from AppHarbor to Slack thanks to a great online service called [Zapier](http://zapier.com). If you’re familiar with IFTT (If This, Then That), Zapier is a similar service. It allows you to connect various applications and services together in ways previously unavailable, thanks to wide availability of APIs that are out there. We’ll assume you already have an AppHarbor application in place and running, as well as a Slack instance setup. I created a channel in Slack called “builds” that I want all of my build messages to go to. Here’s what you do next.
 
@@ -20,17 +20,17 @@ We can get from AppHarbor to Slack thanks to a great online service called [Zapi
 
 The first thing to do is to log in to Zapier and start a new Zap. Click the “Make a Zap!” link at the top of the page or the button on the right in your dashboard.
 
-![](../img_post/2015-07-09-getting-appharbor-build-messages-in-slack-using-zapier/2015-07-apphb_2_slack_step1.jpg)
+![](@assets/images/posts/2015-07-apphb_2_slack_step1.jpg)
 
 ### Setup Triggers/Actions for the Zap
 
 AppHarbor has the ability to publish build status messages to wherever you want through the use of “Service Hooks.” These are simple HTTP POST requests that have the information we need. Fortunately, Zapier has the ability to listen to these items through their own “Web Hooks”. In the “Choose a Trigger” dropdown list use the search feature to type in “WebHook” and select the “WebHook by Zapier” option.
 
-![](../img_post/2015-07-09-getting-appharbor-build-messages-in-slack-using-zapier/2015-07-apphb_2_slack_step2.jpg)
+![](@assets/images/posts/2015-07-apphb_2_slack_step2.jpg)
 
 Once selected, you’ll see a “Choose Trigger…” option. Click that and choose the “Catch Hook” option.
 
-![](../img_post/2015-07-09-getting-appharbor-build-messages-in-slack-using-zapier/2015-07-1_apphb_2_slack_step3.jpg)
+![](@assets/images/posts/2015-07-1_apphb_2_slack_step3.jpg)
 
 To complete the process, we need to select the “Slack” option in the “Choose an Action app…” option and use the “Send new Message” action. Once those are selected, we can click the “Continue” button in Zapier.
 
@@ -38,7 +38,7 @@ To complete the process, we need to select the “Slack” option in the “Choo
 
 Once you click the “next” button, you’ll be given the webhook URL that Zapier will listen to. Copy that URL. Now log into AppHarbor and select your application. On the side menu is a “Service Hooks” section. Click the “Add Service Hook” link and paste in the URL you have. Click the “Create Service Hook” button. When all is said and done, your screen should look something like this.
 
-![](../img_post/2015-07-09-getting-appharbor-build-messages-in-slack-using-zapier/2015-07-apphb_2_slack_step4.jpg)
+![](@assets/images/posts/2015-07-apphb_2_slack_step4.jpg)
 
 Once this is complete, you can go back to Zapier and click the “Continue” button.
 
@@ -52,7 +52,7 @@ The next section outlines what channel and what message to publish to the channe
 
 The message is where the real magic occurs. The Zapier webhook will look at a recent action to provide these fields, so we need to push some code to our repository really quick to get that. I simply modified a readme file and pushed it up to my repostitory. Once that is done, you can click on the “Insert Fields” button to get a list of fields available.
 
-![](../img_post/2015-07-09-getting-appharbor-build-messages-in-slack-using-zapier/2015-07-apphb_2_slack_step5.jpg)
+![](@assets/images/posts/2015-07-apphb_2_slack_step5.jpg)
 
 By doing this, I decided to craft my message as
 
@@ -62,7 +62,7 @@ I like to have the commit message in there as reference point for the code. I us
 
 The rest of the fields here are optional. I did track down an AppHarbor icon online and added it just for some added “cool factor” in my slack channel. Here’s what my final settings look like:
 
-![](../img_post/2015-07-09-getting-appharbor-build-messages-in-slack-using-zapier/2015-07-1_apphb_2_slack_step6.jpg)
+![](@assets/images/posts/2015-07-1_apphb_2_slack_step6.jpg)
 
 Scroll down to the bottom and click the “Continue” button.
 
@@ -70,7 +70,7 @@ Scroll down to the bottom and click the “Continue” button.
 
 Now we get to click the “Test” button to have some sample data passed through. Go ahead and click on it. If you’re running Slack, you’ll see your message:
 
-![](../img_post/2015-07-09-getting-appharbor-build-messages-in-slack-using-zapier/2015-07-apphb_2_slack_step7.jpg)
+![](@assets/images/posts/2015-07-apphb_2_slack_step7.jpg)
 
 ### Finish Things Up
 

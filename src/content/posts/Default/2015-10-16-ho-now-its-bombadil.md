@@ -14,7 +14,7 @@ So my new computer has arrived and after an unusually difficult pondering sessio
 
 <!--more-->
 
-![](../img_post/2015-10-16-ho-now-its-bombadil/2015-10-20151016_002313904_ios.jpg "Ho there on the left!")
+![](@assets/images/posts/2015-10-20151016_002313904_ios.jpg "Ho there on the left!")
 
 Bombadil!
 

@@ -14,4 +14,4 @@ Here we go!
 
 <!--more-->
 
-![xamagon](../img_post/2016-06-01-into-the-foray-of-mobile/2016-06-xamagon.png)
+![xamagon](@assets/images/posts/2016-06-xamagon.png)

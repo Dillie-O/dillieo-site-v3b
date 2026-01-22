@@ -12,7 +12,7 @@ Past and future have really been dancing around lately, with the latest trailer 
 
 <!--more-->
 
-![](../img_post/2015-10-22-technology-flip/2015-10-bttf_mematic1.jpg)
+![](@assets/images/posts/2015-10-bttf_mematic1.jpg)
 
 Back in good ‘ol ’99, Star Wars Episode 1 came out. Me, as well as a bunch of my buddies, did what any die hard fan growing up with dreams of the Force and X-Wings would do. We camped out to get tickets. Yep, a week before the release, we went down to Edwards Big in Newport Beach and camped out in a crazy long line, playing toilet paper volleyball, listening (and speculating) over what the pre-released soundtrack means, and all sorts of other fun things. The following week we wore our costumes (many hand made) and celebrated at a midnight showing.
 

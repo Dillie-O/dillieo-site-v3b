@@ -8,7 +8,7 @@ category: Default
 tags: [a-cappella, christmas, jazz, life, manhattan-transfer, music, santa-claus-is-coming-to-town]
 ---
 
-![The Christmas Album (The Manhattan Transfer album)](../img_post/2012-12-21-12-songs-of-christmas-santa-claus-is-coming-to-town-by-manhattan-transfer/wikipedia-en-thumb-4-4f-The_Christmas_Album.jpg-300px-The_Christmas_Album.jpg "The Christmas Album (The Manhattan Transfer album)")
+![The Christmas Album (The Manhattan Transfer album)](@assets/images/posts/wikipedia-en-thumb-4-4f-The_Christmas_Album.jpg-300px-The_Christmas_Album.jpg "The Christmas Album (The Manhattan Transfer album)")
 
 The first time I ever heard [Manhattan Transfer](http://www.manhattantransfer.net/ "The Manhattan Transfer") was singing this song on the TV show [Home Improvement](http://www.imdb.com/title/tt0101120/ "Home Improvement (TV series)"). I loved their jazz a cappella and picked up this album shortly after!
 

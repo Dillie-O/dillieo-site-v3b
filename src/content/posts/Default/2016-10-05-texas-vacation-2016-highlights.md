@@ -12,12 +12,12 @@ Another fabulous vacation has been road tripped, tractored, ran, ridden, faired,
 
 <!--more-->
 
-![img_3380](../img_post/2016-10-05-texas-vacation-2016-highlights/2016-09-img_3380.jpg)
+![img_3380](@assets/images/posts/2016-09-img_3380.jpg)
 
-![20160930_162427366_ios](../img_post/2016-10-05-texas-vacation-2016-highlights/2016-10-20160930_162427366_ios.png)
+![20160930_162427366_ios](@assets/images/posts/2016-10-20160930_162427366_ios.png)
 
-![20160927_194112945_ios](../img_post/2016-10-05-texas-vacation-2016-highlights/2016-10-20160927_194112945_ios.png)
+![20160927_194112945_ios](@assets/images/posts/2016-10-20160927_194112945_ios.png)
 
-![20160930_181224373_ios](../img_post/2016-10-05-texas-vacation-2016-highlights/2016-10-20160930_181224373_ios.png)
+![20160930_181224373_ios](@assets/images/posts/2016-10-20160930_181224373_ios.png)
 
 Check out the full album of highlights [here](https://flic.kr/s/aHskJ78Hjx).

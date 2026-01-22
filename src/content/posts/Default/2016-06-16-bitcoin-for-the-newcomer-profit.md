@@ -12,7 +12,7 @@ A couple months ago [I had expressed hope](/bitcoin-for-the-newcomer-hope-again)
 
 <!--more-->
 
-![bitcoin-digital](../img_post/2016-06-16-bitcoin-for-the-newcomer-profit/2016-06-bitcoin-digital.jpg)
+![bitcoin-digital](@assets/images/posts/2016-06-bitcoin-digital.jpg)
 
 About a week shy of two months ago, I signed up with [HashOcean](https://hashocean.com/?rid=499884), a cloud mining service that has a low price point of entry, and had demonstrated continuous payouts through a bitcoin review site called [BitMakler](https://bitmakler.net/). So I gave it a go. I took a measly .01366 BTC (\$6.32 USD) bought some hashing power, and waited. The estimated "ROI" was two and a half months. However, thanks to the 15KH bonus given for signing up and the 2KH bonus I received from a referral, that time was shaved down to just shy of two months.
 

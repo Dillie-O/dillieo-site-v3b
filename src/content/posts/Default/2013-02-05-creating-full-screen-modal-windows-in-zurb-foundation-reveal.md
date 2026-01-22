@@ -8,7 +8,7 @@ category: Default
 tags: [cascading-style-sheets, coding, javascript, modal-window, zurb]
 ---
 
-![Zurb Yeti](../img_post/2013-02-05-creating-full-screen-modal-windows-in-zurb-foundation-reveal/2013-02-zurbyeti.png)
+![Zurb Yeti](@assets/images/posts/2013-02-zurbyeti.png)
 
 I really love [Zurb Foundation](http://foundation.zurb.com/). It's allowed me to quickly get a simple little "timer" app off the ground for a friend of mine. The "reveal" library makes for simple modal windows of varying sizes. However, I really wanted to get a full screen reveal window to work with. After a few tweaks I made it happen!
 
@@ -16,7 +16,7 @@ I really love [Zurb Foundation](http://foundation.zurb.com/). It's allowed me to
 
 Taking the default reveal code, and using the "expand" size option, you can generate a modal like this:
 
-![Timer Normal](../img_post/2013-02-05-creating-full-screen-modal-windows-in-zurb-foundation-reveal/2013-02-timernormal.png)
+![Timer Normal](@assets/images/posts/2013-02-timernormal.png)
 
 To make this full size. We take three simple steps:
 
@@ -95,7 +95,7 @@ Here's our updated reveal window (notice the full-modal and close-full-modal add
 
 and here's the result
 
-![Timer Full Screen](../img_post/2013-02-05-creating-full-screen-modal-windows-in-zurb-foundation-reveal/2013-02-timerfullscreen.png) 
+![Timer Full Screen](@assets/images/posts/2013-02-timerfullscreen.png) 
 
 ### Final Thoughts
 

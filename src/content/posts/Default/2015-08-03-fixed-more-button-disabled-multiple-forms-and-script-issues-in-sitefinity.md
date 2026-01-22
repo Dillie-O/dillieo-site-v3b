@@ -12,7 +12,7 @@ I can take no credit for these fixes, but I left enough of a dent in my desk goi
 
 <!--more-->
 
-### ![sitefinity_logo.jpg](../img_post/2015-08-03-fixed-more-button-disabled-multiple-forms-and-script-issues-in-sitefinity/2015-04-sitefinity_logo1.jpg)
+### ![sitefinity_logo.jpg](@assets/images/posts/2015-04-sitefinity_logo1.jpg)
 
 ### Custom Scripts Conflicting with the Editor
 

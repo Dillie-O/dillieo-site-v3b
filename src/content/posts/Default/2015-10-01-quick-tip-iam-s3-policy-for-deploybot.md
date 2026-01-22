@@ -12,7 +12,7 @@ For one of the projects I’m working on, we’re using [DeployBot](http://www.d
 
 <!--more-->
 
-![Quick Tip](../img_post/2015-10-01-quick-tip-iam-s3-policy-for-deploybot/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 You can build this using the “Inline Policy” feature in AWS IAM. If you had a S3 bucket named “bucket-of-fish”, your policy would look like this:
 

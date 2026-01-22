@@ -8,7 +8,7 @@ category: Default
 tags: [career, geekery, life, pensee, programming]
 ---
 
-![MacroCosmos Image](../img_post/2010-03-08-your-career-the-microcosm-of-your-life-part-2/2010-03-macrocosmos1.png)
+![MacroCosmos Image](@assets/images/posts/2010-03-macrocosmos1.png)
 
 While I've been categorically a geek for all of my life, I've only really been a software engineer for about 10 years now, starting with an online profile creator I created for a person using Perl and flat files. _\[ahh the memories]_
 

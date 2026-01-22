@@ -14,4 +14,4 @@ _Simply write about the first thing that comes to your mind …. NOW!_
 
 <!--more-->
 
-![1452865048_1.jpeg](../img_post/2016-04-15-freeform-friday-6/2016-01-1452865048_1.jpg)
+![1452865048_1.jpeg](@assets/images/posts/2016-01-1452865048_1.jpg)

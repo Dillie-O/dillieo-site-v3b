@@ -16,4 +16,4 @@ Me: Well, at least I can get a few burritos for the family now... \[:: sigh ::]
 
 <!--more-->
 
-![home-ownership](../img_post/2017-04-12-the-joys-of-home-ownership/2017-04-home-ownership.jpg)
+![home-ownership](@assets/images/posts/2017-04-home-ownership.jpg)

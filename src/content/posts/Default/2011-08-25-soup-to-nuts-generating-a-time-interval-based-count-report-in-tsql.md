@@ -8,7 +8,7 @@ category: Default
 tags: [coding, interval, query, report, sql, t-sql, time]
 ---
 
-![Soup to Nuts - The Complete Package](../img_post/2011-08-25-soup-to-nuts-generating-a-time-interval-based-count-report-in-tsql/2011-08-soup2nuts.jpg "Soup To Nuts Can")
+![Soup to Nuts - The Complete Package](@assets/images/posts/2011-08-soup2nuts.jpg "Soup To Nuts Can")
 
 At the beginning of the week I was tasked with generating a count based report of various records. The tricky part to this was that the report needed to be based over a certain period of time and in a 30 minute time interval. In other words, they wanted to see a report that looked something like.
 

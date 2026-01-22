@@ -12,7 +12,7 @@ A few months back the Mozilla Foundation released a new version of their browser
 
 <!--more-->
 
-![](../img_post/2015-02-05-a-new-devtool-on-the-block/2015-02-firefoxdev_win101.png)
+![](@assets/images/posts/2015-02-firefoxdev_win101.png)
 
 They say a picture is worth a thousand words, so here’s a screenshot of the browser in action (click on it to get a larger version). Here are all the things that have struck me so far.
 

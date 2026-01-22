@@ -18,9 +18,9 @@ Yep, the commercials are quite accurate. You can easily swap faces and create th
 
 We wanted to add a photo to our Christmas cards this year, and had a great couple of pictures from Thanksgiving, but there were a couple of small problems:
 
-![FamilyPhoto1](../img_post/2010-12-13-how-to-swap-faces-using-windows-live-photo-gallery/2010-12-familyphoto1_thumb.jpg) Doh! Honnie was looking down to make sure Rylee was looking at the camera.
+![FamilyPhoto1](@assets/images/posts/2010-12-familyphoto1_thumb.jpg) Doh! Honnie was looking down to make sure Rylee was looking at the camera.
 
-![FamilyPhoto2](../img_post/2010-12-13-how-to-swap-faces-using-windows-live-photo-gallery/2010-12-familyphoto2_thumb.jpg) Doh! Rylee wasn’t too happy at the moment. I think Maggie the dog was going after her food.
+![FamilyPhoto2](@assets/images/posts/2010-12-familyphoto2_thumb.jpg) Doh! Rylee wasn’t too happy at the moment. I think Maggie the dog was going after her food.
 
 **The Solution**
 
@@ -28,16 +28,16 @@ _To the cloud!!!!_ At least that’s what they say in the commercial. Start up [
 
 Once the two photos are selected, click on the “Create” menu option and select the “Photo Fuse” option that is available. This is where the magic begins.
 
-![PhotoFuse1](../img_post/2010-12-13-how-to-swap-faces-using-windows-live-photo-gallery/2010-12-photofuse1_thumb.png)
+![PhotoFuse1](@assets/images/posts/2010-12-photofuse1_thumb.png)
 
 When the photo fuse window pops up, it will give you the option to select a person, and choose from the available faces for that person. What is REALLY nice is that it will allow you to scale the area that you want to select. In our case, we needed to shrink the selection area a little bit, so we didn’t overlap on Rylee’s head at all.
 
-![PhotoFuse2](../img_post/2010-12-13-how-to-swap-faces-using-windows-live-photo-gallery/2010-12-photofuse2_thumb.png)
+![PhotoFuse2](@assets/images/posts/2010-12-photofuse2_thumb.png)
 
 **The Result:**
 
 Once you’ve tweaked and replaced to your liking, simply click the “Save” button and it will save the changes as a fresh photo. And voila! Christmas photos are saved!
 
-![Christmas2010](../img_post/2010-12-13-how-to-swap-faces-using-windows-live-photo-gallery/2010-12-christmas2010_thumb.jpg)
+![Christmas2010](@assets/images/posts/2010-12-christmas2010_thumb.jpg)
 
 We’ve been experimenting with [Windows Live Photo Gallery](http://explore.live.com/windows-live-photo-gallery) for a little while now and really like what it is offering, especially with this photo. There’s also a built in panoramic “stitching tool” that works really well too. Give it a whirl sometime and let me know what you think.

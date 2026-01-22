@@ -8,7 +8,7 @@ category: Default
 tags: [christmas, life, music, pensee, thanksgiving]
 ---
 
-![ThanksgivingTable](../img_post/2010-11-26-give-thanksgiving-its-due-a-pseudo-rant/2010-11-thanksgivingtable.jpg "ThanksgivingTable")
+![ThanksgivingTable](@assets/images/posts/2010-11-thanksgivingtable.jpg "ThanksgivingTable")
 
 Thanksgiving doesn’t get its due anymore. While I used to complain a little about the Christmas products and music going up in the stores before Thanksgiving came, this year I saw them the day before Halloween in a few places! But that’s another story (to quote an old history professor of mine).
 

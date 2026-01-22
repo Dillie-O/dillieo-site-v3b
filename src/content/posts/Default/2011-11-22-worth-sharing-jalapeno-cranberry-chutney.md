@@ -8,7 +8,7 @@ category: Default
 tags: [chutney, cranberries, grandpa, recipes, thanksgiving]
 ---
 
-![Cranberry Chutney](../img_post/2011-11-22-worth-sharing-jalapeno-cranberry-chutney/2011-11-cranberrychutney.jpg)
+![Cranberry Chutney](@assets/images/posts/2011-11-cranberrychutney.jpg)
 
 This was my grandfather's recipe, and a wonderful addition to the Thanksgiving table. It has a tart taste, unlike your typically sweet cranberry sauce, so it can compliment other foods quite well. Jalapeno is optional
 

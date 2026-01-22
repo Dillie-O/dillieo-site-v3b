@@ -12,7 +12,7 @@ I've been running through PHPUnit a bit lately, and sometimes I need to track so
 
 <!--more-->
 
-![Quick Tip](../img_post/2015-07-03-quick-tip-outputting-variables-in-phpunit/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 ### var_dump and --debug
 

@@ -8,7 +8,7 @@ category: Default
 tags: [centroid, coding, d3, quick-tip, svg]
 ---
 
-![Quick Tip](../img_post/2013-02-13-quick-tip-getting-the-centroid-of-an-individual-svg-path-selection-in-d3/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 If you're using [D3](d3.org) to render SVG paths, you'll find that you can iterate through a collection of paths and get the centroids of each one through a simple loop:
 

@@ -8,7 +8,7 @@ category: Default
 tags: [facebook, geekery, sm301, smc301, social-media, twitter]
 ---
 
-![Social Media Lunch](../img_post/2011-06-06-this-whole-social-media-thing/2011-06-sociallunch.jpg "SocialLunch")
+![Social Media Lunch](@assets/images/posts/2011-06-sociallunch.jpg "SocialLunch")
 
 I was given a fabulous opportunity this past week to take part in the [Social Media 301 conference](http://socialmedia301.com/) put on by my new employer [Fresh Consulting](http://www.freshconsulting.com). I'll admit I've had limited to social media in the bigger picture. I do a bit of tweeting, I keep dibs on friends via Facebook, but that's really about the extent of my knowledge on the topic. This conference was entertaining and enlightening in ways I never knew.
 

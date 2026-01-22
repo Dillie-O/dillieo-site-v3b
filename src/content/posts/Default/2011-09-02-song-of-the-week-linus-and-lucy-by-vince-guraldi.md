@@ -8,7 +8,7 @@ category: Default
 tags: [birthday, jazz, jennifer, linus, lucy, snoopy, song-of-the-week, vince-guraldi]
 ---
 
-![Snoopy](../img_post/2011-09-02-song-of-the-week-linus-and-lucy-by-vince-guraldi/2011-09-snoopy-5368.jpg)
+![Snoopy](@assets/images/posts/2011-09-snoopy-5368.jpg)
 
 In honor of my wife's birthday, I thought I'd toss in a family favorite song, especially since it was in one of the cards she received too...
 

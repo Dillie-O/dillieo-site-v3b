@@ -8,7 +8,7 @@ category: Default
 tags: [dungeon, embermage, games, geekery, mage, rpg, torchlight]
 ---
 
-![Torchlight 2 Logo](../img_post/2012-05-21-quick-review-torchlight-2/2012-05-torchlight2logo.jpg)
+![Torchlight 2 Logo](@assets/images/posts/2012-05-torchlight2logo.jpg)
 
 I've been a big fan of Torchlight since it first came out. My wife loves it too! I consider it a really good "modern" version of [Angband](/gaming-done-right-angband) with some extra perks, given the quests, UI, graphics, and overall fun. Needless to say, I was tickled pink when a special beta release for [Torchlight 2](http://www.torchlight2game.com/) came out this weekend, and my wife and I received access keys to try it out!
 

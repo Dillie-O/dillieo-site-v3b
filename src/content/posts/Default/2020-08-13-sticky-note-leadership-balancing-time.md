@@ -22,7 +22,7 @@ I’ve been away from my office desk for a few months now, but when I was bringi
 
 <!-- wp:image {"id":6972,"sizeSlug":"large"} -->
 
-![sticky note](../img_post/2020-08-13-sticky-note-leadership-balancing-time/2020-08-stickynote_balancingtime.jpg)
+![sticky note](@assets/images/posts/2020-08-stickynote_balancingtime.jpg)
 
 <!-- /wp:image -->
 

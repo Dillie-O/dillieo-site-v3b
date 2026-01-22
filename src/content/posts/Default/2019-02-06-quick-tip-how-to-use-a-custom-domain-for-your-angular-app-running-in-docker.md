@@ -22,7 +22,7 @@ So you've used one of the default templates out there to build and deploy your A
 
 <!-- wp:image {"id":6566} -->
 
-![](../img_post/2019-02-06-quick-tip-how-to-use-a-custom-domain-for-your-angular-app-running-in-docker/2017-02-quick_tip_banner.jpg)
+![](@assets/images/posts/2017-02-quick_tip_banner.jpg)
 
 <!-- /wp:image -->
 

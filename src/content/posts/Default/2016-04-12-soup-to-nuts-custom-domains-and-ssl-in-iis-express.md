@@ -16,11 +16,11 @@ Nowadays, nearly every site out there is using SSL, and for good reason. Securit
 
 Starting with Visual Studio 2012, IIS Express became a first class citizen, and the recommended way for running your web apps locally through Visual Studio. Visual Studio took it one step further and made it "one click" simple to setup your web app to use SSL. Simply select your web app project, and press F4 to bring up the properties window. From there, change the option to enable SSL and say yes to any prompts that ask to install a certificate and create an exception rule.
 
-![SSL_Dev_Step1](../img_post/2016-04-12-soup-to-nuts-custom-domains-and-ssl-in-iis-express/2016-04-ssl_dev_step1.png)
+![SSL_Dev_Step1](@assets/images/posts/2016-04-ssl_dev_step1.png)
 
 After that, launch your site (good 'ol CTRL+F5 you...) and change your URL to check out your new SSL address. You may need to add an exception rule in your browser before seeing the site.
 
-![SSL_Dev_Step2](../img_post/2016-04-12-soup-to-nuts-custom-domains-and-ssl-in-iis-express/2016-04-ssl_dev_step2.png)
+![SSL_Dev_Step2](@assets/images/posts/2016-04-ssl_dev_step2.png)
 
 SSL has never been easier.
 
@@ -32,19 +32,19 @@ Custom domains take a little bit more work, due to the firewall and security per
 
 IIS Express uses a file named applicationhost.config to store the basic configuration details for your site. In Visual Studio 2012/2013, this is typically located in your Documents\\IISExpress folder. However, in 2015, there is a .vs folder at the project solution level where this file is stored. If you open this file and scroll down a little, you'll see the bindings section where the default high number ports are listed. We want to add to lines right below that, using our custom domain, and to use the standard port 80/443 associated with websites. Your updated file will look something like this:
 
-![SSL_Dev_Step3.png](../img_post/2016-04-12-soup-to-nuts-custom-domains-and-ssl-in-iis-express/2016-04-ssl_dev_step3.png)
+![SSL_Dev_Step3.png](@assets/images/posts/2016-04-ssl_dev_step3.png)
 
 You'll also need to update your hosts file so that your custom domain points to the local 127.0.0.1 address. Otherwise the DNS will look "outside" and not find your custom URL.
 
 Once saved, IIS Express will now "listen" for those URLs/ports and serve your web app. Conveniently, I update my web app project settings to load my new custom URL whenever I launch it.
 
-![SSL_Dev_Step5.png](../img_post/2016-04-12-soup-to-nuts-custom-domains-and-ssl-in-iis-express/2016-04-ssl_dev_step51.png)
+![SSL_Dev_Step5.png](@assets/images/posts/2016-04-ssl_dev_step51.png)
 
 ### Add Security Exceptions
 
 At this point, if you attempt to launch IIS Express again for your app, you may see some errors:
 
-![SSL_Dev_Step4.png](../img_post/2016-04-12-soup-to-nuts-custom-domains-and-ssl-in-iis-express/2016-04-ssl_dev_step4.png)
+![SSL_Dev_Step4.png](@assets/images/posts/2016-04-ssl_dev_step4.png)
 
 There are two things at play here. The first is that in order to run IIS Express on low number ports, you need to run Visual Studio as an Administrator. Yes, it is a slight annoyance, but you can configure your shortcut to always run as Administrator and move forward.
 
@@ -66,7 +66,7 @@ When Visual Studio created a self signed certificate and linked it to IISExpress
 
 This will dump the details into a file. Open up the file and find the following values near the top of the file:
 
-![SSL_Dev_Step6.png](../img_post/2016-04-12-soup-to-nuts-custom-domains-and-ssl-in-iis-express/2016-04-ssl_dev_step6.png)
+![SSL_Dev_Step6.png](@assets/images/posts/2016-04-ssl_dev_step6.png)
 
 Using this information, we can add another entry for port 443 using the following commands:
 
@@ -82,7 +82,7 @@ Don't forget to replace those values with the ones that match your file.
 
 Once that is complete. Close IIS Express (if it is running) and launch your site again. You should now have your custom URL running over SSL for your site!
 
-![SSL_Dev_Step7.png](../img_post/2016-04-12-soup-to-nuts-custom-domains-and-ssl-in-iis-express/2016-04-ssl_dev_step7.png)
+![SSL_Dev_Step7.png](@assets/images/posts/2016-04-ssl_dev_step7.png)
 
 While this is a little tedious, it's about the same amount of work if you were to generate a SSL cert, update your apache configuration, update your hosts file, and everything else for a PHP based app. This will give you a closer "real" environment when developing locally, and can help you catch any pesky SSL or domain redirect issues you might not see when running as localhost.
 

@@ -8,7 +8,7 @@ category: Default
 tags: [jquery, reviews]
 ---
 
-![jQueryCover](../img_post/2011-02-11-review-jquery-pocket-reference/2011-02-jquerycover.gif "jQueryCover")
+![jQueryCover](@assets/images/posts/2011-02-jquerycover.gif "jQueryCover")
 
 jQuery is the most popular JavaScript library currently on the web. It has revolutionized the way developers provide a user interface to the user without worrying about compatibility issues or complex code. I’m a recent convert to jQuery myself, but cheat sheets have not been helpful and I don’t have the time to read a large and detailed book on the entire framework. I recently discovered _jQuery Pocket Reference_ by David Flanagan just the book I needed to learn while implementing jQuery into my site.
 

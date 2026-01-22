@@ -12,7 +12,7 @@ Last night a couple of coworkers and I drifted out to what was described to me a
 
 <!--more-->
 
-![](../img_post/2015-03-06-fancy-coffee/2015-03-wp_20150305_005.jpg)
+![](@assets/images/posts/2015-03-wp_20150305_005.jpg)
 
 We went about 9:30 at night, which apparently was a good thing because the last time my coworker went the line was out the door and then some. When you go in there is a great smell of coffee and a somewhat “overwhelming” site to behold. If you’ve been to a brewery you’ll see those large silos of beer and ingredients, but this time they have coffee beans. From what we were told, some of the beans are roasted on site (they have two machines for that) and then they travel through a pneumatic tube (or conveyer in other places) into the main “station” where things are brewed.
 
@@ -22,10 +22,10 @@ After I settled down with a clover brewed coffee (the name of the bean escapes m
 
 It’s definitely not a place you’re going to when you’re running off to work, but for a late evening gathering with some friends, it was a very nice experience and something I’d like to do again. There was no “burnt” coffee taste here and some flavor combinations that definitely didn’t sound good, but tasted wonderful. If you’re a coffee junkie, give it a whirl sometime!
 
-![](../img_post/2015-03-06-fancy-coffee/2015-03-wp_20150305_003.jpg)
+![](@assets/images/posts/2015-03-wp_20150305_003.jpg)
 
-![](../img_post/2015-03-06-fancy-coffee/2015-03-wp_20150305_007.jpg)
+![](@assets/images/posts/2015-03-wp_20150305_007.jpg)
 
-![](../img_post/2015-03-06-fancy-coffee/2015-03-wp_20150305_002.jpg)
+![](@assets/images/posts/2015-03-wp_20150305_002.jpg)
 
-![Serious Coffee Junkie](../img_post/2015-03-06-fancy-coffee/2015-03-gr002220_edited.jpg)
+![Serious Coffee Junkie](@assets/images/posts/2015-03-gr002220_edited.jpg)

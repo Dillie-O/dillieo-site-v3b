@@ -12,7 +12,7 @@ It’s a big day today. My girls are 10 years old. I blinked and the two little 
 
 <!--more-->
 
-![IMG_2223](../img_post/2016-05-16-the-decade/2016-05-img_2223.jpg)
+![IMG_2223](@assets/images/posts/2016-05-img_2223.jpg)
 
 Up to this point, the birthdays have been simple birthdays. Sure year 1 was huge, given their premature birth, 3 months in the NICU, and plenty of other adventures early on, but after that they were birthdays. It is exciting each year to see them grow more, to see how unique each one is becoming and to still have that inseparable bond to their sister. In a lot of ways I’m excited to see them grow up. I’m excited to see how God works in each of their lives, shapes them individually, and how I get to be an influence in this part of their life too. I get to hear their own thoughts, dreams, stories, and so much more.
 

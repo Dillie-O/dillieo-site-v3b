@@ -8,7 +8,7 @@ category: Default
 tags: [calculation, coding, distance, geolocation, map, sql]
 ---
 
-![Map Points](../img_post/2011-06-16-sorting-latitudelongitude-positions-by-distance-in-sql/2011-06-mappoints.jpg)
+![Map Points](@assets/images/posts/2011-06-mappoints.jpg)
 
 My recent project involved a database with lots of "location points" that were based on latitude and longitude. A user would be able to specify some pertinent information (such as address, state, or even county) and the location points would be displayed for the user. The results from this search came back in a relatively random order, but what we needed was a way to sort our search results in relation to the center point in our map "view box".
 

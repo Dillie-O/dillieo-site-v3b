@@ -12,7 +12,7 @@ My iPhone finally arrived and while all of my Google Contacts and Hotmail contac
 
 <!--more-->
 
-![](../img_post/2015-05-12-quick-tip-transferring-contacts-from-htc-8x-to-ios-or-android-on-verizon/2015-05-verizon_cloud1.jpg)
+![](@assets/images/posts/2015-05-verizon_cloud1.jpg)
 
 Skip any documentation you find about using a USB transfer program, or trying to track down a fresh copy of Backup Assistant. I suspect all of this is old documentation. Instead, grab a copy of Verizon’s new app “Verizon Cloud.” You can get it for iPhone [here](https://itunes.apple.com/us/app/verizon-cloud/id645682444?mt=8) and Android [here](https://play.google.com/store/apps/details?id=com.vcast.mediamanager).
 

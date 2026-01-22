@@ -24,17 +24,17 @@ One of the big reasons I was looking for something new was because of the issues
 
 With all the talk of simplicity, Strava does an amazing job of aggregating and presenting the data that it does work with. My favorite feature is how Strava automatically tracks your runs based on where you ran. This is a little different than the "routes" feature that you have. For example, I can load up one of my runs...
 
-![Strava_Run](../img_post/2016-06-06-running-tech-huzzah-for-strava/2016-06-strava_run.png)
+![Strava_Run](@assets/images/posts/2016-06-strava_run.png)
 
 ...click the "View Matched Runs" link, and get this...
 
-![Strava_Matched_Runs](../img_post/2016-06-06-running-tech-huzzah-for-strava/2016-06-strava_matched_runs.png)
+![Strava_Matched_Runs](@assets/images/posts/2016-06-strava_matched_runs.png)
 
 No route creation and linking necessary! I can see how my runs are improving, and easily dive into one of those individual runs if I want to track run splits and the like.
 
 Another interesting thing is Strava has that I haven't seen elsewhere is a thing called "GAP" pace. GAP pace essentially tells you how fast you'd be running on a flat course vs a hilly course. Given that all of my runs involve some kind of hill, it makes for an interesting measure to translate to, especially with my upcoming RAGNAR relay where a lot of the course is predominantly flat.
 
-![Strava_GAP_Pace](../img_post/2016-06-06-running-tech-huzzah-for-strava/2016-06-strava_gap_pace.png)
+![Strava_GAP_Pace](@assets/images/posts/2016-06-strava_gap_pace.png)
 
 ## Minimal Intrusion on Free Version
 

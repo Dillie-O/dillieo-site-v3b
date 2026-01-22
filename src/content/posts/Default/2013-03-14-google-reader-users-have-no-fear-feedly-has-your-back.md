@@ -8,7 +8,7 @@ category: Default
 tags: [blogging, feedly, geekery, google, reader, reading, rss, subscription]
 ---
 
-![Feedly Shirt](../img_post/2013-03-14-google-reader-users-have-no-fear-feedly-has-your-back/2013-03-feedly_shirt.jpg)
+![Feedly Shirt](@assets/images/posts/2013-03-feedly_shirt.jpg)
 
 I was rather distraught (just like a lot of other folks) when Google announced yesterday that it was [shutting down Google Reader](http://googleblog.blogspot.com/2013/03/a-second-spring-of-cleaning.html). [I've been a long](/lifestyle-management-reloaded-feedl) time [Feedly](http://feedly.com) user, and my blogs synchronizes directly through Google Reader. I wasn't sure which direction I would go. Until Feedly swooped in and saved the day!
 

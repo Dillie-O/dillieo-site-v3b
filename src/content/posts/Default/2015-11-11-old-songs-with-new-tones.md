@@ -12,7 +12,7 @@ Often times the best and wisest things that can be said aren’t particularly ne
 
 <!--more-->
 
-![](../img_post/2015-11-11-old-songs-with-new-tones/2015-11-peanuts-insideout.jpg)
+![](@assets/images/posts/2015-11-peanuts-insideout.jpg)
 
 Note: Spoilers Ahead
 

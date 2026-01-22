@@ -8,7 +8,7 @@ category: Default
 tags: [birthday, haylee, kids, life, pensee, rylee]
 ---
 
-![Rylee & Haylee getting ready to blow out their candles.](../img_post/2010-05-17-four-by-two-reflections-on-a-birthday/2010-05-img_0423_0001.jpg "Girls' 4th Birthday")
+![Rylee & Haylee getting ready to blow out their candles.](@assets/images/posts/2010-05-img_0423_0001.jpg "Girls' 4th Birthday")
 
 It's amazing how one day changes things. My girls turned 4 yesterday and it seems like overnight they became new girls all at once! I'm sure when I stop and think about it I can see the subtle changes. But for some reason, they looked a lot older today than the other day. They talked a lot older than the other day. They even acted a lot older than the other day. I reflected upon this a bit last night in my weariness and could only comment as follows:
 

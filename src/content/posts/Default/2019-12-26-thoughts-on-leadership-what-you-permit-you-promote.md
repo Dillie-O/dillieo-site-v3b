@@ -22,7 +22,7 @@ As I've continued to grow as a leader and mentor over this past year, there's on
 
 <!-- wp:image {"id":6834,"sizeSlug":"large"} -->
 
-![](../img_post/2019-12-26-thoughts-on-leadership-what-you-permit-you-promote/2019-12-priscilla-du-preez-w3seyzodn8u-unsplash.jpg)
+![](@assets/images/posts/2019-12-priscilla-du-preez-w3seyzodn8u-unsplash.jpg)
 
 Photo by [Priscilla Du Preez](https://unsplash.com/@priscilladupreez?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/eating?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
 

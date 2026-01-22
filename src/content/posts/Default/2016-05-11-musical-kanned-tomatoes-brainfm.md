@@ -12,7 +12,7 @@ While I haven’t been the best at adhering to it, I’m still a big fan of Kanb
 
 <!--more-->
 
-![cannedtomatoesbrainfm](../img_post/2016-05-11-musical-kanned-tomatoes-brainfm/2016-05-cannedtomatoesbrainfm.jpg)
+![cannedtomatoesbrainfm](@assets/images/posts/2016-05-cannedtomatoesbrainfm.jpg)
 
 I recently saw a post about [brain.fm](http://www.brain.fm) by [John Saddington](http://www.john.do) and had to give it a try. They are a site that provides music for focusing, relaxing, and sleep. While there are plenty of other sites and Spotify playlists out there, this one sets itself apart by highlighting a lot of science that goes into how their music is generated and recommendations on how to use it properly.
 

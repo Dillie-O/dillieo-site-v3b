@@ -12,7 +12,7 @@ My new MacBook Pro is here and the first step is to get all the tools up and run
 
 <!--more-->
 
-![superlumic-logo](../img_post/2015-10-14-new-tool-for-rebuilding-your-dev-environment/2015-10-superlumic-logo.jpg)
+![superlumic-logo](@assets/images/posts/2015-10-superlumic-logo.jpg)
 
 SuperLumic was created by the same person that created [KitchenPlan](https://github.com/kitchenplan/kitchenplan), so there's a lot of similar things working for it. However, this is built on top of Ansible, so it provides [more speed and maintainability](http://vanderveer.be/2015/09/27/using-ansible-to-automate-osx-installs-via-superlumic.html). SuperLumic allows you to "rerun" your scripts as much as you want, and it will simply bypass (or update if necessary) the apps you have installed, making it easy to change your configuration as you need.
 

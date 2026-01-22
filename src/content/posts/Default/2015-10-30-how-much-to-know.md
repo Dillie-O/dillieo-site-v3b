@@ -17,7 +17,7 @@ It's a great line from a beautiful song and wonderful musician. However, that se
 
 <!--more-->
 
-![](../img_post/2015-10-30-how-much-to-know/2015-10-sky-earth-galaxy-universe.jpg)
+![](@assets/images/posts/2015-10-sky-earth-galaxy-universe.jpg)
 
 I’ve always thought myself a rather “knowledgable” soul. I try to make it a point to learn something new, even if it is small, every day. To some degree I have to in order to stay on top of my job. Amidst all this are my kids, learning large number multiplcation and Mandarin far sooner than I did. I had to teach and train myself on the ins and outs of my computers, and my girls are flying through their tablets with ease. I was the kid in the house that had to teach my parents how to use the computer, and now I’m starting to wonder what things my kids are going to teach me how to use, since I’ll be completely ignorant on what it is or how it works!
 

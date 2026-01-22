@@ -8,7 +8,7 @@ category: Default
 tags: [christmas, life, music]
 ---
 
-![christmas scene](../img_post/2010-12-01-christmas-is-here-again/2010-12-christmasscene.jpg)
+![christmas scene](@assets/images/posts/2010-12-christmasscene.jpg)
 
 _Note: This is a repost from back in the summer, but the Season of Advent is here, so it's worth sharing!_
 

@@ -12,7 +12,7 @@ Here we are! Advent season is here again! To say I’m a fan of the season is pu
 
 <!--more-->
 
-![](../img_post/2014-12-01-christmas-advent-music/2014-11-spotifyplaylist.png)I've been building up my own collection of holiday favorites over the years and put them together in what I affectionately call my “Phat Chunk O Christmas” collection. There’s a great collection of timeless classics and some eclectic charts, old and new, that will keep your work days flying by. You can play it through Spotify or right through the web page here:
+![](@assets/images/posts/2014-11-spotifyplaylist.png)I've been building up my own collection of holiday favorites over the years and put them together in what I affectionately call my “Phat Chunk O Christmas” collection. There’s a great collection of timeless classics and some eclectic charts, old and new, that will keep your work days flying by. You can play it through Spotify or right through the web page here:
 
 http://open.spotify.com/user/dillie-o/playlist/6iapIFkfx2L1RVJ4eXUQRL
 
@@ -26,7 +26,7 @@ http://open.spotify.com/user/dillie-o/playlist/2bJa1XC3Oy2EVLLiHPyOoT
 
 In the next few days I’ll pull together some old blog posts of my 12 favorite Christmas songs (and their variations into a post that you can listen to as well.
 
-![](../img_post/2014-12-01-christmas-advent-music/2014-11-christmaslounge.jpg)When I’m not listening to my mix, I’m grooving to the sounds of the “Christmas Lounge” provided by Soma.FM. They describe it as "Chilled holiday grooves and classic winter lounge tracks.” It’s fabulous and perfectly safe for work (and the kids).
+![](@assets/images/posts/2014-11-christmaslounge.jpg)When I’m not listening to my mix, I’m grooving to the sounds of the “Christmas Lounge” provided by Soma.FM. They describe it as "Chilled holiday grooves and classic winter lounge tracks.” It’s fabulous and perfectly safe for work (and the kids).
 
 Give it a listen [here](http://somafm.com/christmas/) (and make a donation if you can).
 

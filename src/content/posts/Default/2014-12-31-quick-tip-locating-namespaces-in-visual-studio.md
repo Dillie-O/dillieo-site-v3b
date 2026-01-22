@@ -16,19 +16,19 @@ Here are the quick pictures/steps.
 
 ### 1. Build and see your problems…
 
-![findnamespace_1](../img_post/2014-12-31-quick-tip-locating-namespaces-in-visual-studio/2014-12-findnamespace_1.png)
+![findnamespace_1](@assets/images/posts/2014-12-findnamespace_1.png)
 
 Yep, I can’t compile, a couple namespaces are missing.
 
 ### 2. Move the cursor to the object and press F12
 
-![findnamespace_2](../img_post/2014-12-31-quick-tip-locating-namespaces-in-visual-studio/2014-12-findnamespace_2.png)
+![findnamespace_2](@assets/images/posts/2014-12-findnamespace_2.png)
 
 The F12 command is the “Go to Definition” command used to easily navigate to a function or object definition, giving you the details on its structure and methods. Click the cursor on the type of object you need the details for and press F12. The “symbol results” window will pop up some options for you.
 
 ### 3. Add using statement for the namespace you need.
 
-![findnamespace_3](../img_post/2014-12-31-quick-tip-locating-namespaces-in-visual-studio/2014-12-findnamespace_3.png)
+![findnamespace_3](@assets/images/posts/2014-12-findnamespace_3.png)
 
 Once you know the namespace you need add the appropriate using statement to the top of the page. In my case, I added two or three and bingo I have properly compiling code!
 

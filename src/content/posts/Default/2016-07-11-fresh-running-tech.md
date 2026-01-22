@@ -14,4 +14,4 @@ tags: [life, link, ragnar, ragnarnwp, running, tech]
 
 <!--more-->
 
-![Running-Tech-2-1024x427](../img_post/2016-07-11-fresh-running-tech/2016-07-running-tech-2-1024x427.png)
+![Running-Tech-2-1024x427](@assets/images/posts/2016-07-running-tech-2-1024x427.png)

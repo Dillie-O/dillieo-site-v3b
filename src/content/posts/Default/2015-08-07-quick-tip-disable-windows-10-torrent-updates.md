@@ -18,7 +18,7 @@ If you haven't read about it already, Windows 10 came out with a new feature tha
 4. In the "Advanced Options" section, select the "Choose how updates are delivered" option.
 5. Under the section "Updates in One Place" click the switch so that this option is turned off. This will make sure your updates come from Microsoft only, and that you aren't sharing "partial updates" with others.
 
-![DisableWin10TorrentUpdate](../img_post/2015-08-07-quick-tip-disable-windows-10-torrent-updates/2015-08-disablewin10torrentupdate.png)
+![DisableWin10TorrentUpdate](@assets/images/posts/2015-08-disablewin10torrentupdate.png)
 
 That's it. You can close the window and continue as usual.
 

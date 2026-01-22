@@ -12,7 +12,7 @@ At the beginning of the year, I decided to give myself a little book challenge b
 
 <!--more-->
 
-![](../img_post/2016-04-27-review-the-foundation-trilogy-by-isaac-asimov/2016-04-foundation_covers.jpg)
+![](@assets/images/posts/2016-04-foundation_covers.jpg)
 
 Some time in the far distant future, the universe has become one great galactic empire. At the center of it lies the planet Trantor, a planet blanketed entirely with cities, streets, infrastructure, running the galaxy. Here a man named Hari Seldon perfected the mathematics/science of psychohistory. It can effectively predict the future of civilizations as a whole. It comes with some catastrophic news. The galaxy is about to collapse horrifically and plunge itself into barbarism and won’t recover from this for nearly 30 thousand years. This can’t be avoided. However, if permitted, Seldon can enact a plan that will allow the galaxy to recover in a mere 1 thousand years instead. Seldon is granted his plan. He is given a no-name planet at the far end of the galaxy to establish a “Foundation”. There a galactic encyclopedia will be created and maintained, and distributed throughout the galaxy with all of the technology, history, and other information needed to help mankind continue through, and beyond it’s dark time.
 

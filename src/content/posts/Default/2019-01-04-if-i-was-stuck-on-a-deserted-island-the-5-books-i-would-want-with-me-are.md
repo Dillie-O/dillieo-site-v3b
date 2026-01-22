@@ -22,7 +22,7 @@ In an effort to mix things up a bit, I'm taking my "Freeform Friday" down a slig
 
 <!-- wp:image {"id":"media-45"} -->
 
-![](../img_post/2019-01-04-if-i-was-stuck-on-a-deserted-island-the-5-books-i-would-want-with-me-are/2019-01-pexels-photo-1166657.jpg)
+![](@assets/images/posts/2019-01-pexels-photo-1166657.jpg)
 
 Photo by Mikes Photos on [Pexels.com](https://www.pexels.com/photo/books-on-bookshelves-1166657/)
 

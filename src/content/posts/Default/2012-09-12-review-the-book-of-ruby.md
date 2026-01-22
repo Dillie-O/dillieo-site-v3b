@@ -8,7 +8,7 @@ category: Default
 tags: [dynamic-programming, programming, rails, reviews, ruby, ruby-on-rails, web-development]
 ---
 
-![Book of Ruby Cover](../img_post/2012-09-12-review-the-book-of-ruby/2012-09-bookofrubycover.gif)
+![Book of Ruby Cover](@assets/images/posts/2012-09-bookofrubycover.gif)
 
 Ruby is one of the most popular of the "newer" languages out on the market. In particular, it is the "Rails" framework for building web sites and applications that has made it so. As a perpetual learner, especially of coding languages and techniques, I was eager to give Ruby a try and decided to take a look at _The Book of Ruby: A Hands-On Guide for the Adventurous_ by Huw Collingbourne.
 

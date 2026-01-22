@@ -8,7 +8,7 @@ category: Default
 tags: [dj-jazzy-jeff, fresh-prince, hip-hop, image, song-of-the-week, will-smith]
 ---
 
-![DJ Jazzy Jeff and the Fresh Prince Greatest Hits](../img_post/2011-07-01-song-of-the-week-dj-jazzy-jeff-and-the-fresh-prince-megamix/2011-07-jazzyjeffcover.jpg)
+![DJ Jazzy Jeff and the Fresh Prince Greatest Hits](@assets/images/posts/2011-07-jazzyjeffcover.jpg)
 
 In honor of my brother's birthday today, I figured I'd toss one out from some of the old music we listened to.
 

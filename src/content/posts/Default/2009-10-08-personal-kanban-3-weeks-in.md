@@ -8,7 +8,7 @@ category: Default
 tags: [agile, coding, kanban, workflow]
 ---
 
-![Personal Kanban Board](../img_post/2009-10-08-personal-kanban-3-weeks-in/2009-10-101_24041.jpg "Personal Kanban Board")
+![Personal Kanban Board](@assets/images/posts/2009-10-101_24041.jpg "Personal Kanban Board")
 
 I've been on a quest to work the [Agile](http://agilemanifesto.org/)/[SCRUM](http://www.scrumalliance.org/) methodologies into my workplace for a while now. I'm still in the preparation/evaluation phase. We're a decent size shop, with 6 developers, but the current nature of our work and the departments we support force us to be "lone gun programmers" for the most part. Most of the stuff I've read up to this point (and there is a lot out there) point to the concept that you typically have about 7 to 10 members in a SCRUM team.
 

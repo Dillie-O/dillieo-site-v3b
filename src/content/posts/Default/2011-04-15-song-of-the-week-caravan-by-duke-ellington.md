@@ -8,7 +8,7 @@ category: Default
 tags: [duke-ellington, jazz, song-of-the-week]
 ---
 
-!["Duke Ellington"](../img_post/2011-04-15-song-of-the-week-caravan-by-duke-ellington/2011-04-dukeellington.jpg)
+!["Duke Ellington"](@assets/images/posts/2011-04-dukeellington.jpg)
 
 Duke Ellington is my all time favorite jazz musician. Technically he was a composer and band leader, but the music he made and pioneered is phenomenal. Every emotion imaginable has been captured through his music, and there is energy in every piece he wrote.
 

@@ -8,7 +8,7 @@ category: Default
 tags: [apache, coding, osx-mavericks, servers, tips, virtual-hosting]
 ---
 
-![Quick Tip](../img_post/2013-10-23-quick-tip-getting-apache-up-and-running-after-updating-to-osx-mavericks-109/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 So you've taken the plunge and are now running the latest and greatest OSX Mavericks. You've hit one snag though. All of your local websites that you've built and run through apache are simply returning an "It Works!" page. Don't Fret! When OSX updated itself, it updated it's Apache install, essentially overwriting your /private/etc/apache2/httpd.conf file. However, before doing this, it created a backup of this file and named it https.conf.pre-update.
 

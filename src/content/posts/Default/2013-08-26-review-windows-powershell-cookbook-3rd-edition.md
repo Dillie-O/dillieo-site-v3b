@@ -8,7 +8,7 @@ category: Default
 tags: [cmdlets, powershell, programming, reviews, scripting, windows-powershell]
 ---
 
-![PowerShell Cookbook](../img_post/2013-08-26-review-windows-powershell-cookbook-3rd-edition/2013-08-powershellcookbook.gif)
+![PowerShell Cookbook](@assets/images/posts/2013-08-powershellcookbook.gif)
 
 I've become an increasing fan of Windows PowerShell. It's additional use of variables, scripts, and libraries opens up doors to some powerful scripting options that I need. I'm working on creating some deployment scripts for web applications I maintain across various web servers, and simple batch files wouldn't fit the bill. Having worked a little bit with PowerShell, I really needed something that would provide a reference guide for all the tasks I wanted to accomplish. I also needed to learn a bit more about the fundamental concepts and features of PowerShell itself. _Windows PowerShell Cookbook, 3rd Edition_ by Lee Holmes provides that provides the examples and reference guide necessary for nearly all of my PowerShell needs.
 

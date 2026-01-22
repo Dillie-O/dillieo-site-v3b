@@ -8,7 +8,7 @@ category: Default
 tags: [bb-king, blues, eric-clapton, song-of-the-week]
 ---
 
-![Riding With The King Cover](../img_post/2011-05-06-song-of-the-week-riding-with-the-king-by-bb-king-and-eric-clapton/2011-05-ridingwiththekingcover.jpg)
+![Riding With The King Cover](@assets/images/posts/2011-05-ridingwiththekingcover.jpg)
 
 Similar to what happens when Duke Ellington and Louie Armstrong get together (will be another song of the week I promise), bringing together B.B. King and Eric Clapton can only result in an album that is amazing.
 

@@ -8,7 +8,7 @@ category: Default
 tags: [codeigniter, coding, javascript, jquery, nivo, php, slider]
 ---
 
-![Soup to Nuts - The Complete Package](../img_post/2011-08-18-integrating-the-nivo-slider-into-a-codeigniter-site/2011-08-soup2nuts.jpg)
+![Soup to Nuts - The Complete Package](@assets/images/posts/2011-08-soup2nuts.jpg)
 
 Yesterday's adventure in coding involved getting a slider type control integrated into the site we're redesigning. We're taking the old system that was PHP based with its own "templating" sytem and putting into [CodeIgniter](http://codeigniter.com), which is the MVC framework that [PyroCMS](http://pyrocms.com) is based off of (if you remember [my post from last week](/soup-to-nuts-extending-the-user-module-in-pyrocms)).
 

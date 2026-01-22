@@ -8,7 +8,7 @@ category: Default
 tags: [life]
 ---
 
-![](../img_post/2013-05-26-why-the-internet-is-cool/2013-05-savedpicture-201352611932.jpg)
+![](@assets/images/posts/2013-05-savedpicture-201352611932.jpg)
 
 Me: Okay, so we now know the item that is not stolen is the didgeridoo.
 

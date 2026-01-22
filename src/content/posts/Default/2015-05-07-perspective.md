@@ -14,7 +14,7 @@ An interesting question was posed at bible study this week...
 
 <!--more-->
 
-![](../img_post/2015-05-07-perspective/2015-05-drops.jpg "Dreary rainy day or beautiful inspection of unique water droplets?")
+![](@assets/images/posts/2015-05-drops.jpg "Dreary rainy day or beautiful inspection of unique water droplets?")
 
 This question took me off guard. Paul was in prison several times throughout his ministry. Prison is no fun (at least I can only imagine) and the ability to go to the world and spread the gospel was hindered. I suspect the person asking us this smiled inwardly since I wager most of us had this perplexed look on our face.
 

@@ -8,7 +8,7 @@ category: Default
 tags: [casserole, chicken, recipes, sage, sausage]
 ---
 
-![Chicken Sausage Recipe](../img_post/2012-01-31-worth-sharing-chicken-and-sausage-with-sage-and-onion/2012-01-chicken-sausage.jpg "Chicken Sausage Recipe")
+![Chicken Sausage Recipe](@assets/images/posts/2012-01-chicken-sausage.jpg "Chicken Sausage Recipe")
 
 I modified this recipe slightly from it's [original](http://www.foodnetwork.com/recipes/nigella-lawson/one-pan-sage-and-onion-chicken-and-sausage-recipe/index.html), but it was so amazing I should have made a double batch. The recipe is extremely simple, and the way the flavors all blend together at the end will make you coming back for more.
 

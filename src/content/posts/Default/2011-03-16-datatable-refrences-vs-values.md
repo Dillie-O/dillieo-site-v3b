@@ -8,7 +8,7 @@ category: Default
 tags: [coding, datatable, pass-by-reference, pass-by-value]
 ---
 
-![evil-computer-monitor](../img_post/2011-03-16-datatable-refrences-vs-values/2011-03-evil-computer-monitor_thumb.jpg)
+![evil-computer-monitor](@assets/images/posts/2011-03-evil-computer-monitor_thumb.jpg)
 
 I was bit by this issue for the **third** time last week and as a result I felt I should remind myself here.
 

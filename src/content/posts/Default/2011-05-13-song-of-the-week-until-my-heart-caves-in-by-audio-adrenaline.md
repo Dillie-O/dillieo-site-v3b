@@ -8,7 +8,7 @@ category: Default
 tags: [audio-adrenaline, daddy, daughters, rock, song-of-the-week]
 ---
 
-![Until My Heart Caves In Cover](../img_post/2011-05-13-song-of-the-week-until-my-heart-caves-in-by-audio-adrenaline/2011-05-untilmyheartcavesincover.jpg)
+![Until My Heart Caves In Cover](@assets/images/posts/2011-05-untilmyheartcavesincover.jpg)
 
 This song of the week is part repost, part celebration, and also to feature my favorite band, Audio Adrenaline. My girls turn 5 years old this weekend (wow where does the time go?!?!?!), and this song is my "anthem" to them. Here's the repost from nearly 2 years ago...
 

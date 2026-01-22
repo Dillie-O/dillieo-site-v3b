@@ -8,7 +8,7 @@ category: Default
 tags: [geekery, life, running]
 ---
 
-![running tech](../img_post/2010-08-17-running-tech/2010-08-runningtrail1.jpg)
+![running tech](@assets/images/posts/2010-08-runningtrail1.jpg)
 
 Back when I was in high school, I ran cross county and track. Outside of the shoes and some of the "power bar" type food we had, the most tech we had for our runs was a a simple watch with a stopwatch on it. You could check your start and stop time, that was it. I kept a log on paper of all the miles I ran. My coach was pretty serious about our progress, so he invested in a large stop watch that had a tiny receipt printer attached to it. It could track splits so he could send us around the track for workouts and keep all of our times.
 

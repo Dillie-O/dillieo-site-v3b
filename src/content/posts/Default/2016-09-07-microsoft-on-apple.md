@@ -12,7 +12,7 @@ As I've started toying around with a new camera app for my iPhone from Microsoft
 
 <!--more-->
 
-![20160907_144724000_ios](../img_post/2016-09-07-microsoft-on-apple/2016-09-20160907_144724000_ios.png)
+![20160907_144724000_ios](@assets/images/posts/2016-09-20160907_144724000_ios.png)
 
 While some have criticized Microsoft in the past for not reaching out and creating their own "walled garden" of products, they have made leaps and bounds over the last few years. Technically Office has been available for the Mac since 2011, but it really wasn't until the 2013/2016 editions that the app really started working as they should. I currently use Outlook on a daily basis and aside from the Google Calendar integration (one last piece that the Sunrise acquisition should cover) it works just as well as the PC counterpart.
 

@@ -8,7 +8,7 @@ category: Default
 tags: [cheese, potato, recipes, soup]
 ---
 
-![Potato Cheese Soup](../img_post/2011-12-05-worth-sharing-potato-cheese-soup/2011-12-potatocheesesoup.jpg)
+![Potato Cheese Soup](@assets/images/posts/2011-12-potatocheesesoup.jpg)
 
 This is an old family recipe that has many augmentations. I made it this weekend without any exact measurements, so you want to keep an eye as you add the ingredients. All in all it is simple and VERY good, especially old cold, snowy days.
 

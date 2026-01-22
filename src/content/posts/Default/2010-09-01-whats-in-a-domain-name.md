@@ -8,7 +8,7 @@ category: Default
 tags: [domain, geekery, internet, life, pensee]
 ---
 
-![Matrix Code Tunnel]((../img_post/2010-09-01-whats-in-a-domain-name/2010-09-matrixmini.jpg)
+![Matrix Code Tunnel]((@assets/@assets/images/posts/2010-09-matrixmini.jpg)
 
 When I was first getting into computers, the BBS was the "internet" of the day, and it was confined to your local area. If you were lucky, you had big pockets and could afford the phone bills to call out to other systems, or just decided to eat my "double credits" by accessing the 800 number line (MetroBBS was well worth it).
 

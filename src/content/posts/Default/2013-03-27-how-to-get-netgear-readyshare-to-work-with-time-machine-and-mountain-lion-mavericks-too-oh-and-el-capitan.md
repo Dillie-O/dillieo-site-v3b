@@ -8,7 +8,7 @@ category: Default
 tags: [format, geekery, mac, mountain-lion, netgear, osx, partition, readyshare, samba]
 ---
 
-![ReadyShare Final Result](../img_post/2013-03-27-how-to-get-netgear-readyshare-to-work-with-time-machine-and-mountain-lion-mavericks-too-oh-and-el-capitan/2013-03-readyshare_finalresult.png)
+![ReadyShare Final Result](@assets/images/posts/2013-03-readyshare_finalresult.png)
 
 Note: I just upgraded to OSX Mavericks (10.9) and the ReadyShare drive is still readable and functional in Time Machine. You shouldn't run into any trouble if you decide to upgrade. If you do run into problems (I did later on), I have some notes below to help.
 
@@ -36,9 +36,9 @@ One other important note, and this comes from Fernando who commented below:
 
 One very important thing I did not see in the instructions is to make sure the backup image has the option to “Ignore ownership on this volume” set to OFF or unchecked. Apple warns that using Time Machine on a disk with the option turned on can result in the backups missing some user settings. My guess is that the average person is likely to go on without noticing this until it is too late. (!!)
 
-![ReadyShare Drive Partition Setup](../img_post/2013-03-27-how-to-get-netgear-readyshare-to-work-with-time-machine-and-mountain-lion-mavericks-too-oh-and-el-capitan/2013-03-readyshare_drivepartition.png)
+![ReadyShare Drive Partition Setup](@assets/images/posts/2013-03-readyshare_drivepartition.png)
 
-![ReadyShare Drive Partition Options](../img_post/2013-03-27-how-to-get-netgear-readyshare-to-work-with-time-machine-and-mountain-lion-mavericks-too-oh-and-el-capitan/2013-03-readyshare_drivepartition_options.png)
+![ReadyShare Drive Partition Options](@assets/images/posts/2013-03-readyshare_drivepartition_options.png)
 
 Once your options are set. Click the "Apply" button to repartition the drive. This make take a little time based on the size of the drive.
 
@@ -55,7 +55,7 @@ Close the Disk Utility program and open it back up again. Click the "New Image" 
 - Partitions: Single Partition - Apple Partition Map
 - Image Format: sparse bundle disk image
 
-![Ready Share Disk Image Settings](../img_post/2013-03-27-how-to-get-netgear-readyshare-to-work-with-time-machine-and-mountain-lion-mavericks-too-oh-and-el-capitan/2013-03-readysharediskimagesettings.png)
+![Ready Share Disk Image Settings](@assets/images/posts/2013-03-readysharediskimagesettings.png)
 
 Once all the settings are in place, click the "Create" button and wait for the process to finish.
 
@@ -65,11 +65,11 @@ Now you can eject your drive and plug it into the router to finish off the proce
 
 After plugging in the drive to your router. Launch the router admin tool (http://routerlogin.net), select the "Advanced" tab, expand the "USB Storage" section, and click the "Advanced Settings" link.
 
-![Ready Share USB Settings](../img_post/2013-03-27-how-to-get-netgear-readyshare-to-work-with-time-machine-and-mountain-lion-mavericks-too-oh-and-el-capitan/2013-03-readyshareusbsettings.png)
+![Ready Share USB Settings](@assets/images/posts/2013-03-readyshareusbsettings.png)
 
 From here we want to verify that we can see both of our drives listed. If not, you can use the "Create Network Folder" option and add the necessary folders.
 
-![Ready Share Settings](../img_post/2013-03-27-how-to-get-netgear-readyshare-to-work-with-time-machine-and-mountain-lion-mavericks-too-oh-and-el-capitan/2013-03-readysharesettings.png)
+![Ready Share Settings](@assets/images/posts/2013-03-readysharesettings.png)
 
 Our final step is to map up Time Machine.
 
@@ -77,11 +77,11 @@ Our final step is to map up Time Machine.
 
 Now that we have our drives available in ReadyShare, we need to connect them to the server and setup our mappings. From Finder, select Go -> Connect to Server and enter the address smb://readyshare and click "Connect". After connecting, select the drive your Time Machine image is on (or both in my case since I'm sharing music on my WinBackup drive) and click connect.
 
-![Ready Share Connect](../img_post/2013-03-27-how-to-get-netgear-readyshare-to-work-with-time-machine-and-mountain-lion-mavericks-too-oh-and-el-capitan/2013-03-readyshareconnect.png)
+![Ready Share Connect](@assets/images/posts/2013-03-readyshareconnect.png)
 
 By default, your Time Machine image will not have been mounted. We need to do this. Open up the drive that your Time Machine partition is on and double click on the .sparsebundle file that is there. After a minute you will see that your image has been mounted
 
-![Ready Share Mount Image](../img_post/2013-03-27-how-to-get-netgear-readyshare-to-work-with-time-machine-and-mountain-lion-mavericks-too-oh-and-el-capitan/2013-03-readysharemountimage.png)
+![Ready Share Mount Image](@assets/images/posts/2013-03-readysharemountimage.png)
 
 Finally, we need to select this image for our Time Machine backups. We do this through the Terminal window. Open up a new terminal, and enter the following commands:
 
@@ -89,7 +89,7 @@ Finally, we need to select this image for our Time Machine backups. We do this t
 
 If all is still working smoothly, you'll see your Time Machine image listed
 
-![Ready Share Terminal List](../img_post/2013-03-27-how-to-get-netgear-readyshare-to-work-with-time-machine-and-mountain-lion-mavericks-too-oh-and-el-capitan/2013-03-readyshare_terminallist.png)
+![Ready Share Terminal List](@assets/images/posts/2013-03-readyshare_terminallist.png)
 
 Now enter the command (we need to do this as room) to do our mapping
 
@@ -103,13 +103,13 @@ Note: If you're using OSX 10.6 (Snow Leopard) and below the process seems to be 
 
 If there's no errors, you have success! You can even verify things in Time Machine itself.
 
-![ReadyShare Terminal Mapping](../img_post/2013-03-27-how-to-get-netgear-readyshare-to-work-with-time-machine-and-mountain-lion-mavericks-too-oh-and-el-capitan/2013-03-readyshare_terminalmaping.png)
+![ReadyShare Terminal Mapping](@assets/images/posts/2013-03-readyshare_terminalmaping.png)
 
-![ReadyShare Time Machine Settings](../img_post/2013-03-27-how-to-get-netgear-readyshare-to-work-with-time-machine-and-mountain-lion-mavericks-too-oh-and-el-capitan/2013-03-readyshare_timemachinesettings.png)
+![ReadyShare Time Machine Settings](@assets/images/posts/2013-03-readyshare_timemachinesettings.png)
 
 And you're all set! Now you can run your Time Machine backups and leave your drive on the network. I find this particularly helpful since sometimes I'm working upstairs or down in my office, and don't want to drag the USB drive with me. Plus I can share the MP3 collection across my virtual machines and other Windows machines in the house.
 
-![ReadyShare Final Result](../img_post/2013-03-27-how-to-get-netgear-readyshare-to-work-with-time-machine-and-mountain-lion-mavericks-too-oh-and-el-capitan/2013-03-readyshare_finalresult.png)
+![ReadyShare Final Result](@assets/images/posts/2013-03-readyshare_finalresult.png)
 
 ##
 

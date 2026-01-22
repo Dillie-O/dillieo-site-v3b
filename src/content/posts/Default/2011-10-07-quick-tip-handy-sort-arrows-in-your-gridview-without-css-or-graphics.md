@@ -8,7 +8,7 @@ category: Default
 tags: [coding, css, graphics, gridview, quick-tip, sorting]
 ---
 
-![GridView with Arrows](../img_post/2011-10-07-quick-tip-handy-sort-arrows-in-your-gridview-without-css-or-graphics/2011-10-sortingwitharrows.png "SortingGridViewWithArrows")
+![GridView with Arrows](@assets/images/posts/2011-10-sortingwitharrows.png "SortingGridViewWithArrows")
 
 The nice thing about the GridView in .Net is that there is a plethora of built in controls that simply need enabling. One of them is Sorting. Simply set the AllowSorting property to "true" in your and then make sure to write up some code for the Sorting event to adjust your data source, and you're set.
 

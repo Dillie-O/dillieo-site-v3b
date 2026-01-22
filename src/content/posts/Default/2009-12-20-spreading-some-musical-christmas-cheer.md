@@ -8,7 +8,7 @@ category: Default
 tags: [christmas, life, music, studio-60]
 ---
 
-![](../img_post/2009-12-20-spreading-some-musical-christmas-cheer/2010-08-studio601.jpg)
+![](@assets/images/posts/2010-08-studio601.jpg)
 
 _O Holy Night_ is by far my favorite Christmas carol of the season. While I'm not a collector of different versions of the song, I do tend to attune ear a bit more when I hear a new version on the radio or elsewhere.
 

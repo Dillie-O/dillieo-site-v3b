@@ -12,7 +12,7 @@ One evening, when my girls were about four years old, we were playing in the off
 
 <!--more-->
 
-![](../img_post/2015-05-21-the-tale-of-gary-and-rassasassafratz/2015-05-gary-n-rassasassafratz.jpg)
+![](@assets/images/posts/2015-05-gary-n-rassasassafratz.jpg)
 
 That’s Gary on the right. He’s a bit shy, and seems a bit slow talking at times, but he has a heart of gold. He gives good hugs and is always asking about how the girls’ are doing and what they’re learning and wants to learn a few things himself. RassaSassafratz is on the left. About him. Well, we’ll just say that with a name like RassaSassafratz, you can imagine that there is a lot of craziness to ensue. Fortunately, as brothers, they help balance each other out really well.
 

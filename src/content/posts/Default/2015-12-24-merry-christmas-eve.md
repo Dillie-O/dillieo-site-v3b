@@ -14,4 +14,4 @@ tags: [life]
 
 <!--more-->
 
-![Courthouse Christmas Lights](../img_post/2015-12-24-merry-christmas-eve/2011-12-imag0290.jpg)
+![Courthouse Christmas Lights](@assets/images/posts/2011-12-imag0290.jpg)

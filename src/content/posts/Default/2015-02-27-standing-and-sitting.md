@@ -12,6 +12,6 @@ It’s been a crazy couple of days, between Internet outages and having to refor
 
 <!--more-->
 
-![](../img_post/2015-02-27-standing-and-sitting/2015-02-wp_20150226_001.jpg)
+![](@assets/images/posts/2015-02-wp_20150226_001.jpg)
 
 This is an adjustable standing desk, with handy digital controls on the far right (you can’t see) to have preset values for standing and sitting. I’ll go into more detail on the benefits after giving it a run. Thanks [Fresh](http://freshconsulting.com/)!!!

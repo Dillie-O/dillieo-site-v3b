@@ -12,4 +12,4 @@ I noticed my Developer's Toolkit was very outdated and needed a refresh. Have a 
 
 <!--more-->
 
-![](../img_post/2015-02-18-updated-developers-toolkit/2015-02-tools.jpg)
+![](@assets/images/posts/2015-02-tools.jpg)

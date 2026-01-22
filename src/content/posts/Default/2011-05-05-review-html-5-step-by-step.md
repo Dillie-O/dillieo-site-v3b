@@ -8,7 +8,7 @@ category: Default
 tags: [html, html5, reviews]
 ---
 
-![Step by Step Book Cover(../img_post/2011-05-05-review-html-5-step-by-step/2011-05-stepbystephtml5.gif)
+![Step by Step Book Cover(@assets/@assets/images/posts/2011-05-stepbystephtml5.gif)
 
 I've been trying to get whatever reference books I can find to learn about HTML 5. Being a seasoned HTML web coder, I was surprisingly refreshed by the "ground up" approach I found in _HTML5 Step By Step_ by Faithe Wempten.
 

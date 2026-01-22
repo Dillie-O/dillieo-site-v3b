@@ -12,7 +12,7 @@ Yesterday was [Pi day](/pi-music), and while I enjoyed the links to the music I 
 
 <!--more-->
 
-![pi-music](../img_post/2016-03-15-pi-music-decatonic-style/2016-03-pi-music.png)
+![pi-music](@assets/images/posts/2016-03-pi-music.png)
 
 ### TL;DR;
 

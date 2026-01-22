@@ -8,7 +8,7 @@ category: Default
 tags: [sesame-street, smart-e, song-of-the-week, techno]
 ---
 
-![Sesame's Treet Cover](../img_post/2012-01-06-song-of-the-week-sesames-treet-by-smarte/2012-01-smart-es-sesames-treet.jpg "Sesame's Treet Cover")
+![Sesame's Treet Cover](@assets/images/posts/2012-01-smart-es-sesames-treet.jpg "Sesame's Treet Cover")
 
 Let's start off the new year with a song that get's Big Bird jumpin'! It's also the song that let me down the road to techno/house music.
 

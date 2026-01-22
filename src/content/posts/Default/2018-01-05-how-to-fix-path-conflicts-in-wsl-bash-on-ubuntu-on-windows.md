@@ -12,7 +12,7 @@ WSL (also known as Bash on Ubuntu on Windows) has been a game changer for me wit
 
 <!--more-->
 
-### ![quicktip](../img_post/2018-01-05-how-to-fix-path-conflicts-in-wsl-bash-on-ubuntu-on-windows/2018-01-quicktip.jpg)
+### ![quicktip](@assets/images/posts/2018-01-quicktip.jpg)
 
 ### The problem...
 
@@ -22,7 +22,7 @@ Certain bower / gulp / grunt commands (particularly those dealing with SASS) hav
 
 What's happening is that when WSL starts up, the default environment setup adds all of the windows paths into the environment path. I suspect this is to help you get access to some of your tools (like Visual Studio Code) from both environments, but it can cause conflicts. if you type "echo \$PATH" you'll see what I mean:
 
-![Cursor_and_Win10x64-Fresh2018](../img_post/2018-01-05-how-to-fix-path-conflicts-in-wsl-bash-on-ubuntu-on-windows/2018-01-cursor_and_win10x64-fresh2018.png)
+![Cursor_and_Win10x64-Fresh2018](@assets/images/posts/2018-01-cursor_and_win10x64-fresh2018.png)
 
 ### The solution...
 
@@ -34,7 +34,7 @@ You can just as easily run this in your .bashrc if you're using bash.
 
 The next time you start up your environment, you can check and verify that the Ruby path is gone:
 
-![Cursor_and_Win10x64-Fresh2018](../img_post/2018-01-05-how-to-fix-path-conflicts-in-wsl-bash-on-ubuntu-on-windows/2018-01-cursor_and_win10x64-fresh20181.png)
+![Cursor_and_Win10x64-Fresh2018](@assets/images/posts/2018-01-cursor_and_win10x64-fresh20181.png)
 
 Voila! The problem is solved. Everything should build nice and friendly for you now as before. You can easily update this statement to include other paths as needed.
 

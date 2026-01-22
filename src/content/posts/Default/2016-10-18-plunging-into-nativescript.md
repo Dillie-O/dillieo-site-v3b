@@ -12,7 +12,7 @@ Late last week I had the opportunity to sit in on a demo for [NativeScript](http
 
 <!--more-->
 
-![nativescript_logo](../img_post/2016-10-18-plunging-into-nativescript/2016-10-nativescript_logo.png)
+![nativescript_logo](@assets/images/posts/2016-10-nativescript_logo.png)
 
 ...and I don't say that lightly either, considering how long I've been itching and finally dug into Xamarin to start off my [Prayer Odyssey](http://www.prayerodyssey.com) project. One of the things I've been struggling a little bit with is the "update curve" that occurs during each update. There's a fresh compile, potentially something I missed for a specific platform, then a delay to push things to the emulator or device and then relaunch. Whoops, something was wonky so the launch crashed. now I have to start that process over again.
 

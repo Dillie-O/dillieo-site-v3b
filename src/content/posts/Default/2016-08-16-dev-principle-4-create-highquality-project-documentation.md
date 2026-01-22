@@ -14,4 +14,4 @@ I had a guest post over at my company's blog, reflecting a bit on why the ugly "
 
 <!--more-->
 
-![project_documentation](../img_post/2016-08-16-dev-principle-4-create-highquality-project-documentation/2016-08-project_documentation.png)
+![project_documentation](@assets/images/posts/2016-08-project_documentation.png)

@@ -8,7 +8,7 @@ category: Default
 tags: [books, reviews, sharepoint-2010]
 ---
 
-![PlainSimpleSharePoint2010](../img_post/2010-12-15-review-plain-andamp-simple-microsoft-sharepoint-2010/2010-12-plainsimplesharepoint2010.gif "PlainSimpleSharePoint2010")
+![PlainSimpleSharePoint2010](@assets/images/posts/2010-12-plainsimplesharepoint2010.gif "PlainSimpleSharePoint2010")
 
 After completing some SharePoint 2010 training that was very focused on code and “under the hood” concepts, I needed a book to walk me through the basic tasks found in SharePoint. I found _Plain & Simple – Microsoft SharePoint 2010_ by _Johnathan Lightfoot and Chris Beckett_ to be the perfect book to get me through the day to day tasks involved with SharePoint 2010.
 

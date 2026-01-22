@@ -8,7 +8,7 @@ category: Default
 tags: [death, dystopia, future, hunger-games, katniss, love, peeta, reviews, war]
 ---
 
-![Hunger Games Trilogy](../img_post/2012-01-19-review-the-hunger-games-trilogy-by-suzanne-collins/2012-01-the_hunger_games_trilogy_by_rjvg92-d341yoq.png)
+![Hunger Games Trilogy](@assets/images/posts/2012-01-the_hunger_games_trilogy_by_rjvg92-d341yoq.png)
 
 What started out as a Christmas gift for my wife turned into a 1200 page AMAZING read that I finished in 5 days, probably a new record for me. Yes, I enjoyed the series THAT much. The [Hunger Games](http://www.thehungergames.co.uk/home) trilogy by [Suzanne Collins](http://www.suzannecollinsbooks.com/) is an intense and exciting story that also covers a wide variety of important and difficult issues that continue to face humanity today.
 

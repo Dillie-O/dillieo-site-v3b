@@ -14,4 +14,4 @@ I have another guest post today over at my work blog about one of Donald Knuth's
 
 <!--more-->
 
-![optimization_slide](../img_post/2016-11-22-dev-principle-10-do-performance-optimization-when-needed/2016-11-optimization_slide.jpg)
+![optimization_slide](@assets/images/posts/2016-11-optimization_slide.jpg)

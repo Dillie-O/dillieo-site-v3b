@@ -16,4 +16,4 @@ Sidenote, and slightly more serious. [Azure Media Services](https://azure.micros
 
 <!--more-->
 
-![1452865048_1.jpeg](../img_post/2016-01-29-freeform-friday-3/2016-01-1452865048_1.jpg)
+![1452865048_1.jpeg](@assets/images/posts/2016-01-1452865048_1.jpg)

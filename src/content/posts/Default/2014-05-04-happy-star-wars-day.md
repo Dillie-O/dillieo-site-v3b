@@ -8,10 +8,10 @@ category: Default
 tags: [life]
 ---
 
-![](../img_post/2014-05-04-happy-star-wars-day/2014-05-1399215328_1.png)
+![](@assets/images/posts/2014-05-1399215328_1.png)
 
 From our house to yours, wishing you a Happy Star Wars day!!!
 
-_May the Fourth be with you!!!_![](../img_post/2014-05-04-happy-star-wars-day/2014-05-1399215351_2.png)
+_May the Fourth be with you!!!_![](@assets/images/posts/2014-05-1399215351_2.png)
 
 ###### _...Proudly published using [Desk PM](http://desk.pm)_

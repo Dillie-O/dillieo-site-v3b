@@ -12,7 +12,7 @@ In an unexpected change of events during the morning, I wound up hauling a piano
 
 <!--more-->
 
-![](../img_post/2015-06-30-doctor-who-is-forever/2015-06-1_20150630_173256858_ios.jpg)
+![](@assets/images/posts/2015-06-1_20150630_173256858_ios.jpg)
 
 As I was walking with the man over to the trail that would lead him home, he notes my shirt and says, “Oh are you a doctor?” I replied, “No, but I love this TV show on called _Doctor Who_. Have you heard of it?"
 

@@ -14,7 +14,7 @@ Books!!!!! I found this really interesting article a while back called "[10 Book
 
 <!--more-->
 
-![1452865048_1.jpeg](../img_post/2016-01-22-freeform-friday-2/2016-01-1452865048_1.jpg)
+![1452865048_1.jpeg](@assets/images/posts/2016-01-1452865048_1.jpg)
 
 I'm going out of order, but I've started with [Asimov's Foundation](https://en.wikipedia.org/wiki/Foundation_series). I'm going to read the "original three" to start and then branch out to others. I remember back in junior high trying to read Foundation and getting bored with it pretty fast. But starting it up again, this book feels like a "legacy" type book spanning multiple generation, and I really enjoy the long story at this point, probably not so much back then. 8^D
 

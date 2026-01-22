@@ -12,7 +12,7 @@ Masculinity has struggled lately with what it’s definition is. From the entrep
 
 <!--more-->
 
-![](../img_post/2015-07-07-review-man-enough-by-nate-pyle/2015-07-manenoughcover1.jpg)
+![](@assets/images/posts/2015-07-manenoughcover1.jpg)
 
 What I really like about this book is how Pyle takes a historical look at masculinity through the ages, showing how it has changed over time. It was really interesting to note how the definition of masculinity began to shift more as a result of the American revolution. “Rather than being defined by owning land and embodying certain values, a man began to be seen as someone who was independent, useful, heroic, and industrious.” This is where the term “breadwinner” started to gain traction, as well as the stigma that if you can’t provide for your family, then you aren’t a man. The weight of this view can be particularly heavy on the stay at home dads out there today. Pyle also goes back to the bible and notes how we often favor the “strong” heroes, like David. In doing so, we often forget that it wasn't Esau, the strong, hairy, older brother that spent the day outside hunting, but Jacob, the one who stayed at home all day with his mother, whom God chose to build his nation through.
 

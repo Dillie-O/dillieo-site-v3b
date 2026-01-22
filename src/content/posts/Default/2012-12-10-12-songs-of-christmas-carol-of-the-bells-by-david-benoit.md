@@ -8,7 +8,7 @@ category: Default
 tags: [carol-of-the-bells, christmas, david-benoit, jazz, life, music, piano]
 ---
 
-![GRP Christmas Volume 1](../img_post/2012-12-10-12-songs-of-christmas-carol-of-the-bells-by-david-benoit/2012-12-grp-christmas-vol1.jpg)
+![GRP Christmas Volume 1](@assets/images/posts/2012-12-grp-christmas-vol1.jpg)
 
 This lovely jazz piece opens up with soft and light piano and gradually builds in intensity with the full jazz quartet, only to calm down again at the end. Perfect of a snowy Christmas night!
 

@@ -12,7 +12,7 @@ For about the past month or so now, I’ve been able to settle into a pretty goo
 
 <!--more-->
 
-![](../img_post/2015-03-31-routines-work-90percent-of-the-time/2015-03-clock-deadline-departure-4090.jpg)
+![](@assets/images/posts/2015-03-clock-deadline-departure-4090.jpg)
 
 Lately my mornings involve getting up a bit earlier than the rest of the family so I can get some “God time” in _\[as I call it to the kids]_, followed by some reading or blogging and some coding on my [prayer journal project](http://prayerjournal.apphb.com). Twice a week now I’m swapping the reading/coding for running. It’s fabulous to get into that groove again.
 

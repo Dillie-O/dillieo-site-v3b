@@ -12,7 +12,7 @@ I ran into this problem yesterday. In the process of flushing and reloading a lo
 
 <!--more-->
 
-![quick-tips.jpg](../img_post/2015-11-04-quick-tip-insert-sequentially-random-data-in-mysql/2015-01-quick-tips.png)
+![quick-tips.jpg](@assets/images/posts/2015-01-quick-tips.png)
 
 I needed to reseed this table in two ways. The first was the job_id field, which was sequential for all the job records I had. The second was the category_id table, which at this point could be a random id from 1 to 6 for testing purposes. While I could have manually done this for a trivial amount of rows, I had 3000 rows to update and not a lot of time, so I needed a smarter solution.
 

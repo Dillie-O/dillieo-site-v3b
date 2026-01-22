@@ -12,7 +12,7 @@ I’ve had the opportunity the last few days to be the “guest instructor” fo
 
 <!--more-->
 
-![teaching](../img_post/2016-02-26-the-teacher/2016-02-teaching.jpg)
+![teaching](@assets/images/posts/2016-02-teaching.jpg)
 
 It’s amazing to see how fast they pick up concepts, how excited they are, and seeing how the bigger picture is coming more in focus for them as they learn about the world about them. It also helped that I was able to teach them a bit about weather, something that I’m a bit of a hobbyist on anyway. Having my fancy weather station only made it more fun 8^D
 

@@ -8,7 +8,7 @@ category: Default
 tags: [fresh-consulting, life, remote-work, technology, telecommute]
 ---
 
-![My home office...](../img_post/2011-07-05-the-remote-worker-one-month-in/2011-07-photo-jul-05-1-48-26-pm.jpg)
+![My home office...](@assets/images/posts/2011-07-photo-jul-05-1-48-26-pm.jpg)
 
 The 1st of the month was my 1 month anniversary working for [Fresh Consulting](http://freshconsulting.com). There been a whole lot of crazy and a whole lot of good things that have happened within 1 month of working here:
 
@@ -26,9 +26,9 @@ The transition process has been a bit more difficult than I had planned. I think
 
 After this things got a lot easier to keep dibs on, especially since we pull our tasks from a couple different management tools. I also was able to refine a few of my internal processes a bit more to handle changes a bit quicker. There is a lot more communication going on between me and my fellow programmer, and with screen sharing available through Skype and a few other methods, he's been able to point me in the right direction on issues I've encountered quickly.
 
-![The front door view of the office.](../img_post/2011-07-05-the-remote-worker-one-month-in/2011-07-photo-jun-19-3-29-07-pm.jpg "Office Front View")
+![The front door view of the office.](@assets/images/posts/2011-07-photo-jun-19-3-29-07-pm.jpg "Office Front View")
 
-![Office Death Star](../img_post/2011-07-05-the-remote-worker-one-month-in/2011-07-photo-jun-19-3-29-20-pm.jpg "Office Death Star")
+![Office Death Star](@assets/images/posts/2011-07-photo-jun-19-3-29-20-pm.jpg "Office Death Star")
 
 In addition, we went ahead and converted the downstairs area from a storage area to an office. There's still some tidy up work to do, but I'm really happy being down here and the kids can come down and visit off and on. Besides, every office needs their own Lego Death Star next to their coffee pot. 8^D We're getting a weatherproof door and tapping into the AC/Heater line in the next week or so to properly heat/cool it during the extreme times of the year
 

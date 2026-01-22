@@ -12,7 +12,7 @@ I take absolutely no credit for this one. I just happened to be at the right pla
 
 <!--more-->
 
-![terminal_snow](../img_post/2015-12-10-coding-snow/2015-12-terminal_snow1.gif)
+![terminal_snow](@assets/images/posts/2015-12-terminal_snow1.gif)
 
 Looking to add a bit of festiveness to your OSX terminal this winter? As long as you have ruby installed ([Superlumic](/new-tool-for-rebuilding-your-dev-environment) is a nice way to make this happen), simply drop this command into your terminal and enjoy!
 

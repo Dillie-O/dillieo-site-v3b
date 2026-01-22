@@ -14,4 +14,4 @@ The solution is simple enough. Make sure to change your compile target to “Deb
 
 <!--more-->
 
-![](../img_post/2015-12-28-quick-tip-breakpoint-failed-to-bind-in-visual-studio-2015/2015-12-1451322919_1.png)
+![](@assets/images/posts/2015-12-1451322919_1.png)

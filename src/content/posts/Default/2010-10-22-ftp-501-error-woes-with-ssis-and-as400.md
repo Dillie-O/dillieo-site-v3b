@@ -27,10 +27,10 @@ After a few proverbial beatings of the head against a wall ni search of details,
 
 With this info, and a few more tweaks to the task, we finally got things to work. Instead of downloading our data into a .txt file, we downloaded it directly into the filename we needed:
 
-![FTPAS400File](../img_post/2010-10-22-ftp-501-error-woes-with-ssis-and-as400/2010-10-ftpas400file.png)
+![FTPAS400File](@assets/images/posts/2010-10-ftpas400file.png)
 
 Secondly, in the FTP task, we specifed only the path to the location that we were to upload to. We could even overwrite an existing file if it was already there on the server.
 
-![FTPAS400Task](../img_post/2010-10-22-ftp-501-error-woes-with-ssis-and-as400/2010-10-ftpas400task.png)
+![FTPAS400Task](@assets/images/posts/2010-10-ftpas400task.png)
 
 Success! There were a total of three files that needed to go through this routine, and the rest of them took on the magnitude of minutes to accomplish, as opposed to a good 2 hours for the first one. Enjoy!

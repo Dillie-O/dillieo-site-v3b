@@ -8,7 +8,7 @@ category: Default
 tags: [photos, life, memories, pensee]
 ---
 
-| ![2024 photo collage](../img_post/2024-12-31-the-year-in-photos-2024/year_in_photos_2024.webp) | 
+| ![2024 photo collage](@assets/images/posts/year_in_photos_2024.webp) | 
 |:--:| 
 | *...just a snapshot filed under 'L' for Life* |
 

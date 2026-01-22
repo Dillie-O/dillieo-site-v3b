@@ -8,7 +8,7 @@ category: Default
 tags: [e-mail, facebook, geekery, lifestyle-management, livego, twitter]
 ---
 
-![LiveGo Logo](../img_post/2011-11-08-lifestyle-management-reloaded-livego/2011-11-livegologo.jpg)
+![LiveGo Logo](@assets/images/posts/2011-11-livegologo.jpg)
 
 As I mentioned in my [earlier](/lifestyle-management-reloaded), I'm on a hunt to find the "one tool" or tools to help my "lifestyle management" of being able to check e-mail, facebook, twitter, and more without having tons of applications or browser windows open. The next tool I found seems to be the most promising so far: [LiveGo](http://livego.com).
 
@@ -16,7 +16,7 @@ As I mentioned in my [earlier](/lifestyle-management-reloaded), I'm on a hunt to
 
 LiveGo is still in beta, and says on their website "Collect, Organize, Simplify, Share". If you take a peek at their demo page, it looks something like this:
 
-![LiveGo Home Page](../img_post/2011-11-08-lifestyle-management-reloaded-livego/2011-11-livegohome.png)
+![LiveGo Home Page](@assets/images/posts/2011-11-livegohome.png)
 
 This is probably the closest thing to the Threadsy interface I've seen to date. What is really nice is how the Twitter and Facebook feeds are merged together below your mail Inbox. You can even reply or like/share directly within the feed. Images that are attached to a post can be viewed full sized (or at least larger) by simply hovering the mouse over the image. If you do need to get more in depth social interaction, you can click on the appropriate option on the sidebar and dig in. This feature provides something that Threadsy didn't have, and I like how I can dig into my Facebook or Twitter stream on occasion. I can also view just my Hotmail/Gmail as I please. This merge/separation option is VERY helpful.
 

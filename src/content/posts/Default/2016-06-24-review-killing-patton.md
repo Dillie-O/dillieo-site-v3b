@@ -12,7 +12,7 @@ I've never been much of a history kind of reader, but having heard good things a
 
 <!--more-->
 
-![killing_patton_cover](../img_post/2016-06-24-review-killing-patton/2016-06-81nulpeybnl.jpg)
+![killing_patton_cover](@assets/images/posts/2016-06-81nulpeybnl.jpg)
 
 I found the book very heavy, but fascinating to read. There were a lot of details poured into some of the most significant battles of World War II that gave a deeper picture of what was going on. There was a lot of backstory that I had never heard about in my history classes, and I enjoyed it a lot. I also was reminded of the atrocities of war and of Hitler, which made for some rough reading in some pages.
 

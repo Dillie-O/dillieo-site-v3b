@@ -8,7 +8,7 @@ category: Default
 tags: [e-mail, facebook, geekery, lifestyle-management, netvibes, twitter]
 ---
 
-![iGoogle Logo](../img_post/2011-11-03-lifestyle-management-reloaded-igoogle/2011-11-igooglelogo.png "iGoogle Logo")
+![iGoogle Logo](@assets/images/posts/2011-11-igooglelogo.png "iGoogle Logo")
 
 As I mentioned in my [earlier](/lifestyle-management-reloaded), I'm on a hunt to find the "one tool" or tools to help my "lifestyle management" of being able to check e-mail, facebook, twitter, and more without having tons of applications or browser windows open. The next stop is one of those oldies but goodies, [iGoogle](http://igoogle.com).
 
@@ -16,7 +16,7 @@ As I mentioned in my [earlier](/lifestyle-management-reloaded), I'm on a hunt to
 
 I believe iGoogle hit the scenes around the time Netvibes and a couple other sites of a similar nature were hitting the scene. iGoogle is designed to be "your personal Google page" and they provide a wide variety of gadgets to customize your page. For instance, here's what a new page looks like if you let Google design it for you:
 
-![iGoogle Home](../img_post/2011-11-03-lifestyle-management-reloaded-igoogle/2011-11-igooglehome.png)
+![iGoogle Home](@assets/images/posts/2011-11-igooglehome.png)
 
 True to Google's form there isn't necessarily the most visual design, but the design itself is clean and very functional. You can add a wide variety of gadets, which will also read RSS feeds, similar to Netvibes. One added benefit is that there is a gadget for Google Reader, which will display the most recent items for you. Just like Netvibes, there are gadgets for nearly everything out there, from some of your favorite news sources, to your favorite diversions ([LOL Cats](http://icanhascheezburger.com) anyone?). Probably the most notable gadgets are those that tie directly into Google applications (Gmail, Documents, etc) because they work the best with iGoogle. You can even respond and create e-mail messages directly within the GMail gadget. Unfortunately at this point Google+ doesn't have a gadget, but I'm not sure if that is because they are moving some aspects of Google Reader (such as sharing links/posts) into Google+ instead.
 

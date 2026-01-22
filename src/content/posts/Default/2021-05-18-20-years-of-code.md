@@ -22,7 +22,7 @@ Sometime around now, some 20 years back, I had my first gig as a "professional" 
 
 <!-- wp:image {"id":7103,"sizeSlug":"large","linkDestination":"media"} -->
 
-![](../img_post/2021-05-18-20-years-of-code/2021-05-pexels-photo-1089438.jpg)
+![](@assets/images/posts/2021-05-pexels-photo-1089438.jpg)
 
 Photo by Markus Spiske on [Pexels.com](https://www.pexels.com/photo/matrix-background-1089438/)
 

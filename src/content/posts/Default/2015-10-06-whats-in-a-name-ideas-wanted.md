@@ -12,7 +12,7 @@ Some people like to name their vehicles, but I like to name my electronics _\[we
 
 <!--more-->
 
-![](../img_post/2015-10-06-whats-in-a-name-ideas-wanted/2015-10-hello-my-name-is1.jpg)
+![](@assets/images/posts/2015-10-hello-my-name-is1.jpg)
 
 I typically name my phones after droids, since my first smartphone was indeed an droid. There was R4, then Whistler on my Windows Phone, and now IG-88 on my iPhone. With my new found love of Doctor Who, I named my 9” Nexus tablet K9. See what I did there?
 

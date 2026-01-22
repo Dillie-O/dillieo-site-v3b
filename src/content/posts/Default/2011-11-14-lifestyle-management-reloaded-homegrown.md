@@ -8,7 +8,7 @@ category: Default
 tags: [e-mail, facebook, geekery, lifestyle-management, rss, twitter]
 ---
 
-![Homegrown]((../img_post/2011-11-14-lifestyle-management-reloaded-homegrown/2011-11-homegrown.jpg)
+![Homegrown]((@assets/@assets/images/posts/2011-11-homegrown.jpg)
 
 As we continue on our [quest](/lifestyle-management-reloaded) to find the "one tool" or tools to help my "lifestyle management", I must admit that it's been difficult because there really hasn't been anything that perfectly fits the gap. So let's stop for a moment and think, what about building it myself?
 

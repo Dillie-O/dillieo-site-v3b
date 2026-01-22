@@ -8,7 +8,7 @@ category: Default
 tags: [chick-corea, jazz, latin, song-of-the-week]
 ---
 
-![Corea_Chick_Works](../img_post/2011-03-25-song-of-the-week-la-fiesta-by-chick-corea/2011-03-corea_chick_works_thumb.jpg "Corea_Chick_Works")
+![Corea_Chick_Works](@assets/images/posts/2011-03-corea_chick_works_thumb.jpg "Corea_Chick_Works")
 
 My first music love is jazz. I’ll admit I’m more of a classic jazz type person (Duke Ellington music to follow in the next few weeks), but along my “jazz journey” I stumbled upon Chick Corea. He does truly amazing things with the electric keyboard. But he really used a lot of different styles and instruments in the pieces he did.
 

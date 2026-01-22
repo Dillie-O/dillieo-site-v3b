@@ -8,7 +8,7 @@ category: Default
 tags: [life]
 ---
 
-![Matrix Code Tunnel](../img_post/2013-01-17-technology-is-crazy-cool/2010-09-matrixmini.jpg)
+![Matrix Code Tunnel](@assets/images/posts/2010-09-matrixmini.jpg)
 
 I have a job as a programmer, but I'm not in the office. I live in a small town in [Arizona](<http://maps.google.com/maps?ll=34.0,-112.0&spn=3.0,3.0&q=34.0,-112.0 (Arizona)&t=h> "Arizona"), but my boss (and the main office) is in Washington, next to one of the major tech hubs of [Seattle](<http://maps.google.com/maps?ll=47.6097222222,-122.333055556&spn=0.1,0.1&q=47.6097222222,-122.333055556 (Seattle)&t=h> "Seattle"). Thanks to technology, I can e-mail updates to my boss, use instant messenger to ask questions of my coworkers and clients, and even get in on video chat from time to time.
 

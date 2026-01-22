@@ -8,7 +8,7 @@ category: Default
 tags: [apps, droid, geekery, htc, thunderbolt, ui]
 ---
 
-![Me with Fiver](../img_post/2011-10-13-what-cool-things-can-i-do-with-my-droid/2011-10-imag0003.jpg "Me with Fiver")
+![Me with Fiver](@assets/images/posts/2011-10-imag0003.jpg "Me with Fiver")
 
 Yesterday we took the big step into the smartphone world. There's me with "Fiver" (named after a notable droid in the Star Wars NJO books) since I don't feel it proper to name it "Artoo" unless it really was one. 8^D
 

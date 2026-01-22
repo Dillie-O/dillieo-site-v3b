@@ -22,7 +22,7 @@ I've been away from my office desk for a few months now, but when I was bringing
 
 <!-- wp:image {"id":6960,"sizeSlug":"large","ampLightbox":false} -->
 
-![](../img_post/2020-08-11-sticky-note-leadership-mentorship/2020-08-stickynote_mentorship.jpg)
+![](@assets/images/posts/2020-08-stickynote_mentorship.jpg)
 
 <!-- /wp:image -->
 

@@ -12,7 +12,7 @@ They say the third time is the charm, and so it was!
 
 <!--more-->
 
-![Bacon](../img_post/2015-08-18-homemade-bacon-round-3-success/2015-08-20150815_145911810_ios.jpg)
+![Bacon](@assets/images/posts/2015-08-20150815_145911810_ios.jpg)
 
 I was under a deadline to have some bacon ready before I went out of town for work. Most of the recipes I found took a week or longer to cure, so they were out. So I went back to my [first recipe](/yes-you-too-can-make-your-own-bacon) that showed a lot of promise but made a couple small tweaks:
 

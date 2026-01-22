@@ -12,7 +12,7 @@ We ran into an issue with our Sitefinity instance where the default menu navigat
 
 <!--more-->
 
-![](../img_post/2015-05-13-quick-tip-setting-active-classes-within-templates-in-sitefinity/2015-05-sitefinity_custom_class1.png)
+![](@assets/images/posts/2015-05-sitefinity_custom_class1.png)
 
 For a quick background, we have a custom master template that outlines our page structure. Within that master template, we have a [custom formatted layout widget](/creating-custom-formatted-layout-widgets-in-sitefinity) that we put our navigation items in. This navigation widget is using your typical format, with <ul> and <li> tags for our section/subsections, as well as class definitions for styling. In our case, we want to apply the “active” class based on the current page the user is on. While I could have done this inline, I chose instead to make a helper function, so that our navigation (which is already a bit complex) reads a bit simpler.
 

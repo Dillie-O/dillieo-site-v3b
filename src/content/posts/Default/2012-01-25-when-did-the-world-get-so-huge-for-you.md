@@ -8,7 +8,7 @@ category: Default
 tags: [experience, life, pensee, world]
 ---
 
-![World Map](../img_post/2012-01-25-when-did-the-world-get-so-huge-for-you/2012-01-world-map.jpg "World Map")
+![World Map](@assets/images/posts/2012-01-world-map.jpg "World Map")
 
 When I was a kid, even into my early teens, the world was relatively small to me. Sure my grandparents went on a trip to a foreign country nearly every year, and in school we learned about the various countries, but they still seemed abstract to me.
 

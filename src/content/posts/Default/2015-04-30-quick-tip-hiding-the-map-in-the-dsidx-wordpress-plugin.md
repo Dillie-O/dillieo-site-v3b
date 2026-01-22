@@ -12,7 +12,7 @@ I have a site I helped a friend put together that has real estate listings. It�
 
 <!--more-->
 
-![](../img_post/2015-04-30-quick-tip-hiding-the-map-in-the-dsidx-wordpress-plugin/2015-04-real_estate_matching_your_search___jerry_fohrman3.png)
+![](@assets/images/posts/2015-04-real_estate_matching_your_search___jerry_fohrman3.png)
 
 As of this writing, there was no “toggle” parameter to add in the URL to let the map remain hidden by default. I’ve been told that once the user hides the map, the parameter is “remembered” during the next refresh, but this wasn’t desired either. After some poking and experimenting, the solution was to add simple batch of Javascript to run after the page loads. You can modify your theme or use a plugin that adds the code at the bottom of the page.
 
@@ -37,6 +37,6 @@ Why the delay? Well, the IDX plugin loads the data first and then makes a call t
 
 Next time you load the page, it’ll look like this:
 
-![](../img_post/2015-04-30-quick-tip-hiding-the-map-in-the-dsidx-wordpress-plugin/2015-04-real_estate_matching_your_search___jerry_fohrman21.png)
+![](@assets/images/posts/2015-04-real_estate_matching_your_search___jerry_fohrman21.png)
 
 …and that’s it! Hope this helps! Enjoy!

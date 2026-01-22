@@ -12,7 +12,7 @@ Roughly 7 years ago, I started out on this adventure called blogging. Interestin
 
 <!--more-->
 
-![Me-JournalinFrance.jpg](../img_post/2016-03-02-blogaversary/2015-04-me-journalinfrance.jpg)
+![Me-JournalinFrance.jpg](@assets/images/posts/2015-04-me-journalinfrance.jpg)
 
 Last year, I did a big "blog renovation" of sorts by following the [10 days to a better blog](/new-year-new-me-sorta) series. In there I gave some serious thought to [why I blog](/why-i-blog), and interestingly enough, a lot of those core ideas are the same as when [I launched the blog](/sup-a-dillie-o) in the first place.
 

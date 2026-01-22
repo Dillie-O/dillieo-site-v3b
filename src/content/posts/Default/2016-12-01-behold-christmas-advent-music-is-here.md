@@ -14,7 +14,7 @@ If you want to get technical, Advent technically started on Sunday, but I'm more
 
 <!--more-->
 
-![christmas_music](../img_post/2016-12-01-behold-christmas-advent-music-is-here/2016-11-christmas_music.jpg)
+![christmas_music](@assets/images/posts/2016-11-christmas_music.jpg)
 
 ## Phat Chunk 'O Christmas
 
@@ -28,7 +28,7 @@ A year or so back I decided to take advantage of crowd sourcing and I had all my
 
 https://open.spotify.com/user/dillie-o/playlist/4sTdb9paGcm6GSZFoYiSj4
 
-![](../img_post/2016-12-01-behold-christmas-advent-music-is-here/2014-11-christmaslounge.jpg)
+![](@assets/images/posts/2014-11-christmaslounge.jpg)
 
 ## Soma.FM Christmas Lounge
 

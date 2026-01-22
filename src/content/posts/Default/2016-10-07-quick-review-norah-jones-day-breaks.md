@@ -12,7 +12,7 @@ Being a long time Norah Jones fan, I pre-ordered this album as soon as my Amazon
 
 <!--more-->
 
-![norah-jones-day-breaks](../img_post/2016-10-07-quick-review-norah-jones-day-breaks/2016-10-norah-jones-day-breaks.jpg)
+![norah-jones-day-breaks](@assets/images/posts/2016-10-norah-jones-day-breaks.jpg)
 
 This album is a fabulous return to some of her original works, with her smooth, sometimes sultry, and jazzy feel I've come to love about Norah. Nearly all of the tracks have a laid back feel, except for "Flipside" which is pretty upbeat, and just might be my favorite. I'm torn between that "And Then There Was You".
 

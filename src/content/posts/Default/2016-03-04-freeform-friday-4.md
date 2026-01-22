@@ -14,4 +14,4 @@ It's amazing the odd joy that comes when your body finds its running groove. It'
 
 <!--more-->
 
-![1452865048_1.jpeg](../img_post/2016-03-04-freeform-friday-4/2016-01-1452865048_1.jpg)
+![1452865048_1.jpeg](@assets/images/posts/2016-01-1452865048_1.jpg)

@@ -8,7 +8,7 @@ category: Default
 tags: [ccg-toolkit, coding, deck-studio, netrep, ronin]
 ---
 
-![CCG Toolkit](../img_post/2010-09-15-new-home-for-the-ccg-toolkit/2010-09-ccgtoolkitbanner.png)
+![CCG Toolkit](@assets/images/posts/2010-09-ccgtoolkitbanner.png)
 
 With the transfer of the blog and the shut down of the domain, I needed to find a new home for the CCG Toolkit code (Deck Studio, Netrep, RONIN), since I believe it is a great resource for anybody looking to cut their teeth on some code or want an idea for building a similar application suite. Most notably I think the use of separate libraries in a SQLite format, plus the potential use of the EAV database model to add new CCGs into the system has a lot of merit.
 

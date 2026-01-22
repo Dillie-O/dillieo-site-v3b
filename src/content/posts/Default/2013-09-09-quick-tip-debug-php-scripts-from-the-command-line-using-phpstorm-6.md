@@ -8,7 +8,7 @@ category: Default
 tags: [cli, coding, command-line, command-line-interface, debugging, php, php-development, phpstorm]
 ---
 
-![Quick Tip](../img_post/2013-09-09-quick-tip-debug-php-scripts-from-the-command-line-using-phpstorm-6/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 I'm a big fan of [PHPStorm](http://www.jetbrains.com/phpstorm/). It has made my PHP development life so much easier, especially with debugging. I've been trying to debug a PHP script from the command line (to diagnose a cron job that runs on our server) and here's how you can do it using PHP Storm.
 

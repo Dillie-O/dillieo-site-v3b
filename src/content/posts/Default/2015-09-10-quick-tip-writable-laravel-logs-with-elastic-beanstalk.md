@@ -12,7 +12,7 @@ A while ago I wrote an article outlining deploying [Laravel to Elastic Beanstalk
 
 <!--more-->
 
-![Laravel-5.png](../img_post/2015-09-10-quick-tip-writable-laravel-logs-with-elastic-beanstalk/2015-05-laravel-51.png)
+![Laravel-5.png](@assets/images/posts/2015-05-laravel-51.png)
 
 In your .ebextensions folder, create a file and name it what you like, as long as it is sequentially at the end. Mine is named '04postdeploy.config' Then in that file add the following code:
 

@@ -22,13 +22,13 @@ Screaming 256MB graphics card with 15FPS: Nah Dolby Digital 7.1 surround card: N
 
 Fire up the game, get your character going a bit, and here's what you'll see:
 
-![Angband Single Window Screen](../img_post/2009-07-27-gaming-done-right-angband/2009-07-angbandsingle.png)
+![Angband Single Window Screen](@assets/images/posts/2009-07-angbandsingle.png)
 
 That's with the "Old Tiles" mode on, the original form is just pure ASCII text.
 
 If you tweak the settings up, get yourself some nice macros (as all good text based programs do) and get "hard core" you can get your setup to look like this:
 
-![Angband Full Screen](../img_post/2009-07-27-gaming-done-right-angband/2009-07-angbandfull)
+![Angband Full Screen](@assets/images/posts/2009-07-angbandfull)
 
 That's it! What makes this game so great (as well as all the other vintage game in my opinion) is playability. We spend HOURS on this game, working our way through the dungeons, getting our characters stronger, making small modifications here and there. There are unique items in the game as well as unique enemies, and you never know where and when you'll run into them (within reason). I haven't even gotten into the "standard" items in the game, for which there are tons, and you can do your own modifications at times to beef up some relatively standard items.
 

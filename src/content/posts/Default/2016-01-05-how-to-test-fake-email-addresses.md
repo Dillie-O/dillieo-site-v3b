@@ -14,7 +14,7 @@ As part of an ongoing project, we needed to setup a large amount of dummy accoun
 
 <!--more-->
 
-![](../img_post/2016-01-05-how-to-test-fake-email-addresses/2016-01-1452002376_1.jpg)
+![](@assets/images/posts/2016-01-1452002376_1.jpg)
 
 ...one day we received an e-mail message from an actual person, wondering why they were getting a notification about Event X occurring. This was a genuine surprise, especially considering the “fake” e-mail address wasn’t attached to a hotmail or gmail domain, but to a randomized domain that was generated as well. Discovering this issue also led into some further investigation which showed that our Mandrill rating had been tarnished due to the large volume of “rejected” e-mails that the testing attempted to send. Mandrill does have a test mode, but we hadn’t turned this on.
 

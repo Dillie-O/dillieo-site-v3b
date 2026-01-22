@@ -12,7 +12,7 @@ I’ve been itching to expand my [Prayer Odyssey](http://www.prayerodyssey.com) 
 
 <!--more-->
 
-![xamarin-logo](../img_post/2016-04-19-cross-platform-coding-is-cheaper-than-before/2016-04-xamarin-logo.jpg)
+![xamarin-logo](@assets/images/posts/2016-04-xamarin-logo.jpg)
 
 But not anymore!!! In case you missed it (because I sure did), it was announced that [Xamarin will now be included free in Visual Studio](https://blog.xamarin.com/xamarin-for-all/) thanks to Microsoft’s acquistion of Xamarin. This is all access, with the individual platforms as well as the Xamarin.Forms library which makes it really fast and simple to build cross platform apps using all the C# goodness you know and love (at least I do) 8^D
 

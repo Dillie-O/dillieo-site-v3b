@@ -12,7 +12,7 @@ TL;DR; - When using multiple project solutions, make sure you database context a
 
 <!--more-->
 
-![](../img_post/2015-11-02-azure-tip-check-cross-project-connection-strings/2015-11-azure-logo21.jpg)
+![](@assets/images/posts/2015-11-azure-logo21.jpg)
 
 I spent a good 4 hours last week (probably more) going slightly mad trying to diagnose an odd Azure issue. I had setup a web app, setup a database, and all of the deployment / synchronization goodies that went with it. However, when I went to launch and work with the application, I was getting the dreaded “network” error indicating that the application couldn’t find the database specified. To make matters even more maddening, I was able to setup a firewall rule and connect to the database from my local machine without a hassle.
 

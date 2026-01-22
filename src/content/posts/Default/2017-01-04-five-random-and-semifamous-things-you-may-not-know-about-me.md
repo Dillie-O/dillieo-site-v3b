@@ -12,7 +12,7 @@ So here we are, a brand new year and I thought I'd go off on a tangent and see i
 
 <!--more-->
 
-## ![wallpaperz-random-17724984-1920-1080](../img_post/2017-01-04-five-random-and-semifamous-things-you-may-not-know-about-me/2017-01-wallpaperz-random-17724984-1920-1080.jpg)
+## ![wallpaperz-random-17724984-1920-1080](@assets/images/posts/2017-01-wallpaperz-random-17724984-1920-1080.jpg)
 
 ## I Wear a Toe Ring
 

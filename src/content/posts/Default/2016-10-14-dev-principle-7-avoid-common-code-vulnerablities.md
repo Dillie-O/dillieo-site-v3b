@@ -14,4 +14,4 @@ I had a guest post over at my company's blog, reflecting a bit on some of the co
 
 <!--more-->
 
-![vulnerability](../img_post/2016-10-14-dev-principle-7-avoid-common-code-vulnerablities/2016-10-vulnerability.jpg)
+![vulnerability](@assets/images/posts/2016-10-vulnerability.jpg)

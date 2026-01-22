@@ -8,7 +8,7 @@ category: Default
 tags: [audio-adrenaline, christmas, life, little-drummer-boy, music, rock]
 ---
 
-![Audio Adrenaline Santa](../img_post/2012-12-04-12-songs-of-christmas-the-little-drummer-boy-by-audio-adrenaline/2011-12-audioadrenalinesanta.png)
+![Audio Adrenaline Santa](@assets/images/posts/2011-12-audioadrenalinesanta.png)
 
 If we're going to kick off some songs with a bang, no better than Audio Adrenaline to do it! Here's a Christmas classic, with a good straight rock feel!
 

@@ -12,7 +12,7 @@ The day has finally arrived. Earlier this week the girls picked up the “cardbo
 
 <!--more-->
 
-![](../img_post/2016-03-11-throw-down-some-cards/2016-03-kids_learning_pokemon.jpg)
+![](@assets/images/posts/2016-03-kids_learning_pokemon.jpg)
 
 _Note: I’ve been a judge and in the tournament scene long enough to know that some of these concepts don’t apply at the "top" levels, but hey, I’m talking about some run of the mill fun around here… 8^D_
 

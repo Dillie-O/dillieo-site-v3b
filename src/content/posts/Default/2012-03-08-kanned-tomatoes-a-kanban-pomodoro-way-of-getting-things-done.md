@@ -8,7 +8,7 @@ category: Default
 tags: [geekery, getting-things-done, gtd, kanban, pomodoro, pomodoro-crate, tools, trello]
 ---
 
-![Pomodoro Kanban](../img_post/2012-03-08-kanned-tomatoes-a-kanban-pomodoro-way-of-getting-things-done/2012-03-cannedtomatoes.jpg)
+![Pomodoro Kanban](@assets/images/posts/2012-03-cannedtomatoes.jpg)
 
 _Edit: I've finally built a tool to integrate Trello and Pomodoro! Check out [Trellodoro](/introducing-trellodoro-trello-pomodoro-personal-kanban-bliss)._
 
@@ -22,7 +22,7 @@ How has the Pomodoro Technique worked for me? So far I like it, but I've been hi
 
 So what tools am I using for my Pomodoro use? The original way was to use a simple piece of paper and a pencil. Outline which tasks you were to do for the day, then pick one, start your timer, and go. You'd mark down successful or interrupted pomodoros as you went. However, doing work on my computer all day, having some digital resources at your fingertips works best for me. Ideally I would LOVE to have a combined Kanban/Pomodoro tool to get my work done. As it turns out, there is one, it's called [Kanban Flow](http://kanbanflow.com). Kanban Flow is a nicely developed Kanban board that has the option to track Pomodoros as well:
 
-![Kanban Flow Screenshot](../img_post/2012-03-08-kanned-tomatoes-a-kanban-pomodoro-way-of-getting-things-done/2012-03-kanbanflowscreenshot.png)
+![Kanban Flow Screenshot](@assets/images/posts/2012-03-kanbanflowscreenshot.png)
 
 However, at this point I don't think the Pomodoro aspect of the appliation is a first class citizen. I keep popping back and forth into the app to try things out, but one major thing for me are the audio cues and some kind of alarm that goes off at the end of the Pomodoro. That would be a huge help. The app is still in beta, so I'm sure I'll be looking at them again soon.
 
@@ -30,7 +30,7 @@ An honorable mentions go out to [Orkanizer](http://orkanizer.com), which is stil
 
 Eventually I stumbled upon [Pomodoro Crate](http://pomodorocrate.com). This is a fully featured Pomodoro App that runs on in the browser. It allows me to organize my activities into projects (very helpful) it gives you a nice large timer that also gives you audio cues at various minute marks in the Pomodoro. It also has a quick button to do your short and long breaks. I haven't started looking into the analysis tools yet, but with Crate, I was able to get up and running in minutes AND be able to functionally accomplish some Pomodoros at the same time.
 
-![Pomodoro Crate Screenshot](../img_post/2012-03-08-kanned-tomatoes-a-kanban-pomodoro-way-of-getting-things-done/2012-03-pomodorocreatescreenshot.jpg)
+![Pomodoro Crate Screenshot](@assets/images/posts/2012-03-pomodorocreatescreenshot.jpg)
 
 Sure there's no Kanban integration with Crate, but that's okay. Between [Trello](http://trello.com) and [Pomodoro Crate](http://pomodorocrate.com), I have a HIGHLY functional task tracking and work management environment that goes wherever I am working. I'll admit I'm still fine tuning my pomodoro life, but I think it will be quite beneficial to me moving forward. And I'm sure I'll figure out how to write a widget or plugin that will create Trello cards as Pomodoro Tasks for me as well 8^D
 

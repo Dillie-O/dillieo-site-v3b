@@ -12,7 +12,7 @@ I’m working on a new project that is running an API using Laravel 5. We’re a
 
 <!--more-->
 
-![](../img_post/2015-05-29-laravel-5-configurations-in-aws-elastic-beanstalk/2015-05-laravel-51.png)
+![](@assets/images/posts/2015-05-laravel-51.png)
 
 With Laravel 5, they have adopted the [phpdotenv](https://github.com/vlucas/phpdotenv) library to provide a flexible configuration setup. Simply create a .env file in the root of the site with the configuration overrides that you need, and the library will load them into the environment variables. You’ll see that in configuration files in Laravel will contain code such as:
 

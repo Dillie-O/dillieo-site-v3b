@@ -8,7 +8,7 @@ category: Default
 tags: [coding, extend, modules, php, pyrocms]
 ---
 
-![Soup to Nuts - The Complete Package](../img_post/2011-08-11-soup-to-nuts-extending-the-user-module-in-pyrocms/2011-08-soup2nuts.jpg "Soup To Nuts Can")
+![Soup to Nuts - The Complete Package](@assets/images/posts/2011-08-soup2nuts.jpg "Soup To Nuts Can")
 
 I've been helping get a new site off the ground that uses the [PyroCMS](http://pyrocms.com) system. If you haven't heard of it, it is a CMS (content management system) that is built on top of the [CodeIgniter](http://codeigniter.com/) PHP framework. Having recently gone back into PHP and starting fresh with the [MVC](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) approach to web development, I've been quite impressed with how easy I've been able to get things up and running.
 

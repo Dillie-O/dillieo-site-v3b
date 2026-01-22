@@ -8,7 +8,7 @@ category: Default
 tags: [jazz, little-broken-hearts, norah-jones, reviews]
 ---
 
-![Norah Jones Little Broken Hearts Cover](../img_post/2012-04-26-quick-review-norah-jones-little-broken-hearts/2012-04-norah-jones-little-broken-hearts.jpg)
+![Norah Jones Little Broken Hearts Cover](@assets/images/posts/2012-04-norah-jones-little-broken-hearts.jpg)
 
 My wife and I are HUGE Norah Jones fans. She has this soulful sound that is truly unique to her. While her voice sometimes seems light and soft, it is ALWAYS full of strength. I was extremely excited to see that her new album is coming out in a month. I was even more excited that for a limited time you can listen to the entire album online for free [here](http://www.npr.org/2012/04/15/150302373/first-listen-norah-jones-little-broken-hearts) (thanks NPR!). I'm no music critic, and I've only been through the album about three times in the last day, but I figured I'd have to share some quick thoughts.
 

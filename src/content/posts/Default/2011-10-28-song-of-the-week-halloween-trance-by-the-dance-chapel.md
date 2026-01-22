@@ -8,7 +8,7 @@ category: Default
 tags: [house, song-of-the-week, the-dance-chapel, trance]
 ---
 
-![Pumkin by Mike Crug](../img_post/2011-10-28-song-of-the-week-halloween-trance-by-the-dance-chapel/2011-10-crugpumpkin.jpg "CrugPumpkin")
+![Pumkin by Mike Crug](@assets/images/posts/2011-10-crugpumpkin.jpg "CrugPumpkin")
 
 In honor of the upcoming holiday, I thought I'd spread some "spooky" cheer, provided by the guy who got me into the house/trance scene, Carey Jarvis of [The Dance Chapel](http://dancechapel.wordpress.com).
 

@@ -8,7 +8,7 @@ category: Default
 tags: [aspnet, coding, css, formatting, login, quick-tip]
 ---
 
-![](../img_post/2011-03-31-quick-tip-centering-a-login-control-on-a-webpage-in-aspnet/2011-03-centerlogincontrol.png "CenterLoginControl")
+![](@assets/images/posts/2011-03-centerlogincontrol.png "CenterLoginControl")
 
 Oddly enough, the ASP.Net Login control is a pesky bugger to center on a page. I'm sure you've tried doing the "double wrapper" div tags, and I even use a similar trick when on a given page, but to no avail. After some digging and tweaking, I've found the solution and here it is:
 

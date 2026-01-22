@@ -14,4 +14,4 @@ I'm close to finishing the "MVP" and moving to mobile, so now it's time to start
 
 <!--more-->
 
-![Win10x64-Vairocina](../img_post/2016-04-22-next-steps-taking-donations/2016-04-win10x64-vairocina.png)
+![Win10x64-Vairocina](@assets/images/posts/2016-04-win10x64-vairocina.png)

@@ -12,11 +12,11 @@ Five years ago yesterday, to be precise, I made a flight up to Bellevue, Washing
 
 <!--more-->
 
-![IMG_0175](../img_post/2016-06-02-fresh-high-five/2016-06-img_0175.jpg)
+![IMG_0175](@assets/images/posts/2016-06-img_0175.jpg)
 
 Coming from a government (and before that University) background, I was a little intimidated by things at first, especially since my first day on the job consisted of helping host a [social media conference](http://www.freshconsulting.com/top-seven-reasons-to-attend-social-media-301/) that we were putting on. I met a lot of important people in the a realm I was just getting used to (I got my job through Twitter after all 8^D) and experienced my first "live tweet sessions" while speakers were giving their talks, which had an impressive amount of meta discussions going on in real time. Let's not forget we had custom soda for this event too...
 
-![IMG_0176](../img_post/2016-06-02-fresh-high-five/2016-06-img_0176.jpg)
+![IMG_0176](@assets/images/posts/2016-06-img_0176.jpg)
 
 From there things moved fast! My first assignment was to build an extension that provided an RSS feed for a site using a PHP MVC framework. I had worked a bit with PHP, but some of this was new territory. I missed my first deadline by a couple of days, but we were learning along the way and the client was still content with our progress.
 
@@ -24,7 +24,7 @@ From there things start to blur in a lot of ways. There have been clients small 
 
 One of the things I've appreciated most about my job is the ability to explore and work with new libraries and frameworks. Microsoft Azure, Amazon Web Services, .Net MVC, Laravel, AngularJS, D3, and HighCharts are just a drop in the bucket of things I've worked with. My front-end development skills have improved significantly because of this. While I'm no front end designer (we have AMAZING people that handle that), I know that in a pinch I can jump in and help put things together, giving myself legitimate "full stack" status.
 
-![Yep, that's how I roll...](../img_post/2016-06-02-fresh-high-five/2013-06-wp_20130604_001.jpg)
+![Yep, that's how I roll...](@assets/images/posts/2013-06-wp_20130604_001.jpg)
 
 Admittedly working in this environment can be rather frantic at times if you're not careful. There have been times where I've been active in 3 or 4 projects simultaneously, and at one point 2 of them I would consider major projects that demanded a lot of attention and detail. Those projects are jumping across different languages, which adds a little bit of "shifting gears" to it. Keeping a good balance and track of your time is extremely important for this, as well as a bit of patience with yourself. Admittedly my [Personal Kanban / Pomodoro](/kanned-tomatoes-a-kanban-pomodoro-way-of-getting-things-done) efforts along those lines has not been the best, but it has been helpful.
 
@@ -38,4 +38,4 @@ Put succinctly, Fresh Consulting has great people, they do amazing work, and I'm
 
 Thanks [Fresh](http://www.freshconsulting.com)! Here's to another 5+ years!
 
-![me_at_fresh](../img_post/2016-06-02-fresh-high-five/2010-08-13164358_10208876932258175_5797199461085956098_n.jpg)
+![me_at_fresh](@assets/images/posts/2010-08-13164358_10208876932258175_5797199461085956098_n.jpg)

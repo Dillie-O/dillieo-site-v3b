@@ -8,7 +8,7 @@ category: Default
 tags: [book, computers, pj-haarsma, reviews, science-fiction, softwire]
 ---
 
-![Softwire Series](../img_post/2011-09-21-the-softwire-series-by-pj-haarsma-go-read-it-now/2011-09-softwireseries.png)
+![Softwire Series](@assets/images/posts/2011-09-softwireseries.png)
 
 I'll admit that my speed reading days for books left me in college. Even with my fun books that I read, it can take me a several days to finish one off. So when I go through a four book series in roughly a week (not counting the shipping time or waiting time at the library, you know it's got to be amazing.
 

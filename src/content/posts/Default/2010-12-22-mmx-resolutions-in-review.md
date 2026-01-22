@@ -8,7 +8,7 @@ category: Default
 tags: [life, pensee, resolutions]
 ---
 
-![2010Logo](../img_post/2010-12-22-mmx-resolutions-in-review/2010-12-2010logo_thumb.jpg)
+![2010Logo](@assets/images/posts/2010-12-2010logo_thumb.jpg)
 
 At the beginning of this year, I decided to make a few [New Years resolutions](/welcome-to-mmx-thoughts-and-resolutions). Since this time of year has a lots of lists and reflections, I thought I’d take a peek back and how I did.
 

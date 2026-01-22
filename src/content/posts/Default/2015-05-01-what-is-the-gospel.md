@@ -18,7 +18,7 @@ The Gospel is the good news that the eternal life in God’s kingdom is availabl
 
 <!--more-->
 
-![](../img_post/2015-05-01-what-is-the-gospel/2015-05-cross-691115_6401.jpg)
+![](@assets/images/posts/2015-05-cross-691115_6401.jpg)
 
 We were separated from God, our creator, because of our sin. It was a gap that was insurmountable by anything we could do. This gap has been there almost as long as we have been walking the Earth. The consequences of our sin is death. However, God continues to loves us despite all of the covenants He established over time and we broke with Him. Finally, as the ultimate demonstration of His love, he sent his only son Jesus to die for us and pay the price for our sins. More importantly than dying, Jesus rose from the dead, defeating sin, making it possible for our sins to be forgiven, and closed that insurmountable gap.
 

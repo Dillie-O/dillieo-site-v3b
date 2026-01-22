@@ -8,7 +8,7 @@ category: Default
 tags: [e-mail, facebook, feedly, geekery, lifestyle-management, rss, twitter]
 ---
 
-![Feedly Logo](../img_post/2011-11-09-lifestyle-management-reloaded-feedly/2011-11-feedlylogo.png)
+![Feedly Logo](@assets/images/posts/2011-11-feedlylogo.png)
 
 As I mentioned [earlier](/lifestyle-management-reloaded), I'm on a hunt to find the "one tool" or tools to help my "lifestyle management" of being able to check e-mail, facebook, twitter, and more without having tons of applications or browser windows open. The next stop is another long term player, [Feedly](http://feedly.com).
 
@@ -16,7 +16,7 @@ As I mentioned [earlier](/lifestyle-management-reloaded), I'm on a hunt to find 
 
 Feedly has been around for quite a while now, and I even considered it during my original lifestyle management hunt. Feedly describes themselves as "...a news reader for creative minds, a simple and elegant way to read and share the content of your favorite sites". If you're already a Google Reader user (as I believe most folks are based on some recent articles I read), Feedly will take your existing subscriptions and organize them into a nice magazine style format:
 
-![Feedly Home Page](../img_post/2011-11-09-lifestyle-management-reloaded-feedly/2011-11-feedlyhome.png)
+![Feedly Home Page](@assets/images/posts/2011-11-feedlyhome.png)
 
 Compared to the initial layout of Netvibes and most readers, Feedly may seem a little out of place. However, once you take a few moments to inspect it's layout, it is very intuitive and friendly. Feedly creates a "My Feedly" section which serves as front page, hilighting a few articles from your featured blogs and then giving you the latest news from all of your categories. At first it is confusing what is considered a "featured" blog. The solution is to go to your "organize contents" section and then mark which blogs you want as your favorites within each category (click the pencil). From there Feedly reorganizes things for you. This provides a great way to always see what is happening in your favorite blogs, even if they aren't updating posts daily.
 

@@ -12,7 +12,7 @@ Recently Microsoft announced that they will be working with the OpenSSH project 
 
 <!--more-->
 
-![](../img_post/2015-10-20-how-to-git-and-ssh-in-powershell/2015-10-1_win10x64-vairocina.png)
+![](@assets/images/posts/2015-10-1_win10x64-vairocina.png)
 
 ## Step 1: Install Chocolatey
 

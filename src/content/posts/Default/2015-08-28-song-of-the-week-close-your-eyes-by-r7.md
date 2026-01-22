@@ -12,7 +12,7 @@ I haven't done these in a while, but man this one is great!
 
 <!--more-->
 
-![r7-close-your-eyes](../img_post/2015-08-28-song-of-the-week-close-your-eyes-by-r7/2015-08-r7-close-your-eyes.jpg)
+![r7-close-your-eyes](@assets/images/posts/2015-08-r7-close-your-eyes.jpg)
 
 I've been a big fan of [R7](http://r7.net) (formerly Rubicon 7) for a while now. They do an amazing job with progressive house, techno, whatever you want to call it (I'm still rather dense in this area). They do a weekly show on [di.fm](http://di.fm/mainstage) that I try not to miss.
 

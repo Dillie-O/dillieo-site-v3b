@@ -8,7 +8,7 @@ category: Default
 tags: [apache-http-server, configuration-file, geekery, html, php, shortcut, tip, virtual-hosting]
 ---
 
-![PHP Info Site](../img_post/2013-08-22-creating-a-quick-website-to-always-know-your-php-configuration-in-osx/2013-08-phpinfosite.png)
+![PHP Info Site](@assets/images/posts/2013-08-phpinfosite.png)
 
 Lately I've been doing a lot of PHP reconfigurations. I'm upgrading versions, adding/removing features, and checking whether or not XDebug was installed. The standard technique is to modify a page on your site to include the phpinfo() command to get your details, but I decided to do something a little more convenient and permanent. I decided to create my own website for PHP Info!
 

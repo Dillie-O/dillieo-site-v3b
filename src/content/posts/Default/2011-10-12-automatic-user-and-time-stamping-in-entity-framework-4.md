@@ -8,7 +8,7 @@ category: Default
 tags: [net, coding, entity-framework, timestamp, userstamp]
 ---
 
-![Computer Code](../img_post/2011-10-12-automatic-user-and-time-stamping-in-entity-framework-4/2011-07-computercode.jpg "Computer Code")
+![Computer Code](@assets/images/posts/2011-07-computercode.jpg "Computer Code")
 
 Lately I've had the opportunity to really dig deep with [Entity Framework 4](http://msdn.microsoft.com/en-us/data/aa937723). While I'm not utilizing the "Code First" approach, I'm still quite happy with now nice the Entity Model can take my existing database and build practically everything I need for my application's data layer, and most of my business layer. The one tricky thing to resolve still is automating the user/time stamping that we use to track changes in the application.
 

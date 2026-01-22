@@ -8,7 +8,7 @@ category: Default
 tags: [app-fog, coding, coffeescript, countdown-timer, gaming, html, html5, json, mysql, programming, rails, responsive-design, ruby, ruby-on-rails, zurb, zurb-foundation]
 ---
 
-![Timer Trio](../img_post/2013-02-22-amazing-fun-with-ruby-on-rails-and-zurb-foundation/2013-02-timertrio2.jpg)
+![Timer Trio](@assets/images/posts/2013-02-timertrio2.jpg)
 
 A few weeks back a friend of mine asked me to create a game timer that he could use at the local [game / comic shop](http://www.gameonarizona.com/). Since the options were open, I used this opportunity to try out new web technology for me ([Ruby on Rails](http://rubyonrails.org "Ruby on Rails")) as well as dig deeper with a presentation framework I really like ([Zurb Foundation](http://foundation.zurb.com/)). It was nothing short of amazing fun!
 
@@ -18,11 +18,11 @@ Functionally, the app was pretty simple. My friend wanted a basic countdown time
 
 The first step was the presentation/display. I immediately thought of Zurb Foundation. I started using Zurb a while back on a pet project of mine (still in the works) because I'm no designer, but I wanted things to look good AND give me the ability to have the timer run on your phone or tablet too! Zurb provides buttons, form elements, even some Javascript modules to get you up and running quickly. Here's what our fill out form looks like:
 
-![Timer Setup Page](../img_post/2013-02-22-amazing-fun-with-ruby-on-rails-and-zurb-foundation/2013-02-timersetup.png)
+![Timer Setup Page](@assets/images/posts/2013-02-timersetup.png)
 
 Again to emphasize how much I love Zurb, this page automatically resizes itself to fit nicely on both my tablet and my phone. All I have to do is specify a few classes for column size and grid size and Zurb does the rest. But the real beauty comes when you click the "Launch Timer" button:
 
-![Timer in Browser](../img_post/2013-02-22-amazing-fun-with-ruby-on-rails-and-zurb-foundation/2013-02-timerchrome.png)
+![Timer in Browser](@assets/images/posts/2013-02-timerchrome.png)
 
 It took a couple of small tweaks to get the "Reveal" module to go [full screen](/creating-full-screen-modal-windows-in-zurb-foundation-reveal), but even then it was pretty minimal. It was easy to specify a button bar to put my start, pause, and restart buttons. In order to accomodate for the smaller resolutions on the tablet and phone, I included a smaller text bar for the timer and a smaller version of the logo. By simply giving them the class of "hide-for-large-up" it goes away on the big screen. I use a similar class to hide the larger elements on the small screen.
 

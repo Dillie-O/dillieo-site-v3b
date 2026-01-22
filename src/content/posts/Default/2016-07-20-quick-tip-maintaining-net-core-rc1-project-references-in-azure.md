@@ -26,7 +26,7 @@ Something strange was going on...
 
 <!--more-->
 
-![quick-tips.jpg](../img_post/2016-07-20-quick-tip-maintaining-net-core-rc1-project-references-in-azure/2015-01-quick-tips.png)
+![quick-tips.jpg](@assets/images/posts/2015-01-quick-tips.png)
 
 It was odd considering I hadn't updated any of the project libraries and had only recently made a small processing change. Doing some tech support and troubleshooting indicated I should just update to RC2 since some of the dependencies were defaulting there to resolve things.
 

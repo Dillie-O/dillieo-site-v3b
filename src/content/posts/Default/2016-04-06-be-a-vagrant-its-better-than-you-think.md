@@ -12,7 +12,7 @@ Yesterday I built my first [Vagrant](https://www.vagrantup.com) machine, with so
 
 <!--more-->
 
-![vagrant-logo](../img_post/2016-04-06-be-a-vagrant-its-better-than-you-think/2016-04-vagrant-logo.png)
+![vagrant-logo](@assets/images/posts/2016-04-vagrant-logo.png)
 
 If you haven't heard of it before, [Vagrant](https://www.vagrantup.com) is a tool that allows you easily build a development environment from a script file and then run it through [VirtualBox](https://www.virtualbox.org), [VMWare](https://www.vagrantup.com/vmware/), or other platforms. Vagrant allows you to create a fully configured machine, not just configuring a subset of platforms or libraries that you need.
 

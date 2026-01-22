@@ -8,7 +8,7 @@ category: Default
 tags: [bitcoin, bitstamp, btc-e, coinbase, digital-currency, geekery, mining, mtgox, wallet]
 ---
 
-![BitCoin](../img_post/2013-11-21-bitcoin-for-the-newcomer-hobbyist-and-poor-man/2013-11-bitcoin-2.jpg)
+![BitCoin](@assets/images/posts/2013-11-bitcoin-2.jpg)
 
 The world of bitcoin has intrigued me ever since I read an [article in Wired magazine](http://www.wired.com/magazine/2011/11/mf_bitcoin/all/) two years ago. The idea of a digital currency, built upon cryptography algorithms, and free of any centralized source, and the equally mysterious disappearance of its founder had me hooked. Its skyrocket in price (I almost bought a couple for $10 less than a year ago and now a recent spike has them at $600). Since then I've followed the stories, the trends, and even made a few "satoshis" along the way. It's still a complex and crazy place for somebody wanting to start out, or even participate for purely a "hobby" manner (like me). In that regard I offer up an introduction and some resources that I hope will have you intrigued like me.
 

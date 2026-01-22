@@ -8,7 +8,7 @@ category: Default
 tags: [career, coding, pensee, programming, research, time]
 ---
 
-[![dhai clock](../img_post/2010-08-27-three-hours-a-week-thatand039s-all-i-ask/2010-08-daliclock1.jpg)
+[![dhai clock](@assets/images/posts/2010-08-daliclock1.jpg)
 
 Being a programmer is rough, especially when technology moves so fast. I'm sure there are about two new libraries, three new APIs, and a plethora of new widgets that have just come out by the time I finish typing and posting these thing.
 

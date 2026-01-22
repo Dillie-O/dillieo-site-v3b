@@ -8,7 +8,7 @@ category: Default
 tags: [applescript, drive, geekery, mount, network, osx, quick-tip, timemachine]
 ---
 
-![Quick Tip](../img_post/2013-08-02-quick-tip-how-to-mount-a-timemachine-network-drive-at-login/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 I've had a lot of feedback from my article on [using readyshare drives for TimeMachine backups](/how-to-get-netgear-readyshare-to-work-with-time-machine-and-mountain-lion). The one glitch I've found is that I have to remount the sparsebundle file every time I log in. Here's a way to fix that issue.
 

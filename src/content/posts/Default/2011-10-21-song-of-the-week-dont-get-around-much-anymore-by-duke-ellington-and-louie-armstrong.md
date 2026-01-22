@@ -8,7 +8,7 @@ category: Default
 tags: [duke-ellington, jazz, louie-armstrong, song-of-the-week]
 ---
 
-![Duke Ellington and Louie Armstrong](../img_post/2011-10-21-song-of-the-week-dont-get-around-much-anymore-by-duke-ellington-and-louie-armstrong/2011-10-dukelouiecover.jpg "Duke and Louie Cover")
+![Duke Ellington and Louie Armstrong](@assets/images/posts/2011-10-dukelouiecover.jpg "Duke and Louie Cover")
 
 Here's another one of those "when two legends collaborate" type song for this week.
 

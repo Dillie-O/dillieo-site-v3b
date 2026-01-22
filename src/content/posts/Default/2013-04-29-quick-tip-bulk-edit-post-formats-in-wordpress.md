@@ -22,7 +22,7 @@ From there you need to open up the XML file in a text editor (my favorites are [
 
 Typically it is found after the `<wp:is_sticky>` tag.
 
-![Wordpress XML](../img_post/2013-04-29-quick-tip-bulk-edit-post-formats-in-wordpress/2013-04-wordpressxml.png)
+![Wordpress XML](@assets/images/posts/2013-04-wordpressxml.png)
 
 From there, simply change the nicename property to whatever you'd like. For me, I changed it to "post-format-gallery" and saved it under a different name (to preserve my original backup). If you do it right, you can use a global search and replace to update all of your tags. Similarly, if you need to add the tag for posts not previously defined with a post format, you can script up some macros as needed.
 
@@ -30,7 +30,7 @@ After you've saved your document, simply use the Tools->Import feature to import
 
 Once complete, take a peek at your posts in the administrator panel and see the results:
 
-![Wordpress Update](../img_post/2013-04-29-quick-tip-bulk-edit-post-formats-in-wordpress/2013-04-wordpressupdate.png) That's all there is to it!
+![Wordpress Update](@assets/images/posts/2013-04-wordpressupdate.png) That's all there is to it!
 
 One added bonus, it appears that this technique will match up title/timestamp/something and update existing posts that match, as opposed to duplicating them. When I first ran the import I accidentally imported my photos using the image format. Since it was easier to bulk delete posts, I figured I'd do a second import and then clean up my mess. Much to my surprise, I didn't have duplicate imported posts, but updated existing posts.
 

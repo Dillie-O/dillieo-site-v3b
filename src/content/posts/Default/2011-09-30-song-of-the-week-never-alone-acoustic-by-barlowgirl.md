@@ -8,7 +8,7 @@ category: Default
 tags: [barlowgirl, rock, song-of-the-week]
 ---
 
-![Another Journal Entry Cover](../img_post/2011-09-30-song-of-the-week-never-alone-acoustic-by-barlowgirl/2011-09-anotherjournalentrycover.jpg "AnotherJournalEntryCover")
+![Another Journal Entry Cover](@assets/images/posts/2011-09-anotherjournalentrycover.jpg "AnotherJournalEntryCover")
 
 Not much to say this week, great vocals, powerful lyrics, wonderful acoustic blend. Enjoy!
 

@@ -2,13 +2,13 @@
 title: Song Of The Week Dr Demento Classics
 description: Dr Demento Cover
 published: 2011-04-01
-image: images/posts/song_of_the_week_dr_demento_classics.webp
+image: images/posts/2011-04-drdementocover.jpg
 imageAlt: Dr Demento Cover
 category: Default
 tags: [boot-to-the-head, coming-to-take-me-away, dr-demento, song-of-the-week]
 ---
 
-![Dr Demento Cover](../img_post/2011-04-01-song-of-the-week-dr-demento-classics/2011-04drdementocover.jpg)
+![Dr Demento Cover](@assets/images/posts/2011-04-drdementocover.jpg)
 
 This one goes out to Dan, Carrie, and Nance. You know who you are... 8^D
 

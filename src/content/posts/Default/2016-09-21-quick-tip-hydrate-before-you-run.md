@@ -18,4 +18,4 @@ So take it from me, hydrate before you run!
 
 <!--more-->
 
-![20160921_125840148_ios](../img_post/2016-09-21-quick-tip-hydrate-before-you-run/2016-09-20160921_125840148_ios.jpg)
+![20160921_125840148_ios](@assets/images/posts/2016-09-20160921_125840148_ios.jpg)

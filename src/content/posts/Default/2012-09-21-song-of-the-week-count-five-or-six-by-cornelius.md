@@ -8,7 +8,7 @@ category: Default
 tags: [abstract, cornelius, song-of-the-week]
 ---
 
-![Cornelius Cover](../img_post/2012-09-21-song-of-the-week-count-five-or-six-by-cornelius/2012-09-cornelius_cover1.png)
+![Cornelius Cover](@assets/images/posts/2012-09-cornelius_cover1.png)
 
 I first stumbled across this song on an episode of Yo Gabba Gabba that my kids were watching a year or so back. While the video was a little odd, the music itself was oddly intriguing...
 

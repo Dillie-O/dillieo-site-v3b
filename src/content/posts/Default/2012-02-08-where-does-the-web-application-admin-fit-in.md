@@ -8,7 +8,7 @@ category: Default
 tags: [administrator, geekery, iis, web, web-development]
 ---
 
-![Web Admin](../img_post/2012-02-08-where-does-the-web-application-admin-fit-in/2012-02-web-admin.jpg)
+![Web Admin](@assets/images/posts/2012-02-web-admin.jpg)
 
 Managing "web sites", especially through IIS, can be an interesting trip down through the ranks of computers and politics.
 

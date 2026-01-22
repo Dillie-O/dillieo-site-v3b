@@ -12,7 +12,7 @@ A little while back I showed how to [configure LogEntries with Laravel 5.0](/qui
 
 <!--more-->
 
-![Laravel-5.png](../img_post/2015-10-08-total-control-of-logging-in-laravel-51/2015-05-laravel-51.png)
+![Laravel-5.png](@assets/images/posts/2015-05-laravel-51.png)
 
 With Laravel 5.1, they offer a configureMonologUsing method that you can add to your bootstrap/app.php file and customize what and how Monolog is setup. Looking through some of the existing code, the different Monolog handler types support a “log level” parameter. They are just set to “debug” by default in it’s core configuration. What we do then is add a couple of extra variables to our .env file:
 

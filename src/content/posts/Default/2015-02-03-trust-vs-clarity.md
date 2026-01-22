@@ -12,7 +12,7 @@ There was a striking paragraph in a book that I’m reading for bible study…
 
 <!--more-->
 
-![](../img_post/2015-02-03-trust-vs-clarity/2015-02-zoomblur_chinmay_mishra1.jpg)
+![](@assets/images/posts/2015-02-zoomblur_chinmay_mishra1.jpg)
 
 [Zoom Blur](https://flic.kr/p/peVjcA) - by [Chinmay Mishra](https://www.flickr.com/photos/beyond-the-horizon/ "Go to Chinmay Mishra's photostream")
 

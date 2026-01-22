@@ -14,7 +14,7 @@ Listening to the mysterious (and potentially haunting) music kept me thinking an
 
 <!--more-->
 
-![pi-music](../img_post/2016-03-16-pi-music-the-octal-remix/2016-03-pi-music.png)
+![pi-music](@assets/images/posts/2016-03-pi-music.png)
 
 ### TLDR;
 

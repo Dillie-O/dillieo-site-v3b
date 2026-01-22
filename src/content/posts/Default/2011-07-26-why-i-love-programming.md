@@ -8,7 +8,7 @@ category: Default
 tags: [coding, creativity, passion, programming, projects]
 ---
 
-![Computer Code](../img_post/2011-07-26-why-i-love-programming/2011-07-computercode.jpg "Computer Code")
+![Computer Code](@assets/images/posts/2011-07-computercode.jpg "Computer Code")
 
 My coworker / mentor sent me a quote last night that outlines all the the things I love about programming. It was such a great quote I had to add it here, just in case somebody asks me what I love hacking the matrix so much:
 

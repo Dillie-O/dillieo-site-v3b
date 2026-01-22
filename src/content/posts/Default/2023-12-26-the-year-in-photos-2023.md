@@ -8,7 +8,7 @@ category: Default
 tags: [photos, life, memories, pensee]
 ---
 
-| ![thankful tree](../img_post/2023-12-26-the-year-in-photos-2023/collage_full.webp) | 
+| ![thankful tree](@assets/images/posts/collage_full.webp) | 
 |:--:| 
 | *Just a snapshot on the year* |
 

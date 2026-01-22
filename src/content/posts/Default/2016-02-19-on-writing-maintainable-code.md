@@ -12,7 +12,7 @@ One of the things that I’ve been asked about over at [WiseLike](https://wiseli
 
 <!--more-->
 
-![Matrix Code Tunnel](../img_post/2016-02-19-on-writing-maintainable-code/2010-09-matrixmini.jpg)
+![Matrix Code Tunnel](@assets/images/posts/2010-09-matrixmini.jpg)
 
 I’m swiftly approaching the 15 year mark as a software engineer and I’ve worked with a lot of code of various sizes and languages. A lot of this code has been the “one and done” type projects. However, I’m writing \_(or leading) \_more and more code that I either revisit a few years later (an application is ready to be updated/refactored) or a project that is of a large enough scale that we have several people working on it and active development time is more than just a few months.
 

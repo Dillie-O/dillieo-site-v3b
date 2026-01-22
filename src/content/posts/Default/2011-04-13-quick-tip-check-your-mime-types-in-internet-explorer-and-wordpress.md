@@ -8,7 +8,7 @@ category: Default
 tags: [geekery, internet-explorer, mime-type, quick-tip, wordpress]
 ---
 
-![](../img_post/2011-04-13-quick-tip-check-your-mime-types-in-internet-explorer-and-wordpress/2011-04-wordpress-icon.png "wordpress-icon")
+![](@assets/images/posts/2011-04-wordpress-icon.png "wordpress-icon")
 
 This is a rather odd problem I ran into yesterday with a colleague that was worth sharing.
 

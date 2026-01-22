@@ -8,7 +8,7 @@ category: Default
 tags: [geekery, mac, osx, programming, tools, virtualization, visual-studio, vmware-fusion, windows-7]
 ---
 
-![OSX Win7 Fusion](../img_post/2012-03-14-developer-nirvana-the-osx-vmware-fusion-visual-studio-2010-amalgamation/2012-03-osx_win7_fusion.png)
+![OSX Win7 Fusion](@assets/images/posts/2012-03-osx_win7_fusion.png)
 
 I mentioned a little while back that my job has ben jumping through a lot of different environments in order to get my work done. I'm doing PHP development in OSX to be on the same page as the my fellow developers. I also do .Net development for some of the clients we have. Previously, I've been working in a dual boot environment, swapping between two OSes as needed and relying on [cloud life](/cloud-life-5-free-tools-to-get-what-you-need-whenever-and-wherever-you-need-it). Sometimes this doesn't work out the best.
 

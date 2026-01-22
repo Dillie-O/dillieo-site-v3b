@@ -22,7 +22,7 @@ In order for your host machine (Mac) to talk to your guest machine (VM), you'll 
 
 You also need to expand the "Advanced" section and make note of the MAC address for your VM. We'll need this to find the IP address of the VM
 
-![vmware_network_settings](../img_post/2016-11-03-soup-to-nuts-access-vmware-fusion-net-apps-from-your-mac/2016-11-vmware_network_settings.png)
+![vmware_network_settings](@assets/images/posts/2016-11-vmware_network_settings.png)
 
 ## 3. Get VM IP Address and Update Hosts File
 
@@ -32,17 +32,17 @@ Back on your host machine, open up the terminal and enter the following command:
 
 This will bring up the list of IP addresses and the attached MAC addresses on your machine. Find the one that matches the IP of your VM
 
-![vmware_network_ipaddress](../img_post/2016-11-03-soup-to-nuts-access-vmware-fusion-net-apps-from-your-mac/2016-11-vmware_network_ipaddress.png)
+![vmware_network_ipaddress](@assets/images/posts/2016-11-vmware_network_ipaddress.png)
 
 Once you have this, you can modify your hosts file to include your app URL and the IP address for proper DNS resolution:
 
-![vmware_network_hosts](../img_post/2016-11-03-soup-to-nuts-access-vmware-fusion-net-apps-from-your-mac/2016-11-vmware_network_hosts.png)
+![vmware_network_hosts](@assets/images/posts/2016-11-vmware_network_hosts.png)
 
 ## 4. Update Windows Firewall
 
 By default, the standard web ports are closed off for external access. You need to open the Windows Firewall control panel, go to Advanced Settings, select Inbound Rules, and then create a new inbound rule.
 
-![vmware_network_firewall](../img_post/2016-11-03-soup-to-nuts-access-vmware-fusion-net-apps-from-your-mac/2016-11-vmware_network_firewall.png)
+![vmware_network_firewall](@assets/images/posts/2016-11-vmware_network_firewall.png)
 
 Once you start the Inbound Rule wizard, you want to use the following settings:
 
@@ -58,7 +58,7 @@ If you're running your site over HTTPS, repeat this using local port 443
 
 With these settings in place you can fire up Safari, load up your custom domain, and see the site served up with no hassles.
 
-![vmware_network_safari](../img_post/2016-11-03-soup-to-nuts-access-vmware-fusion-net-apps-from-your-mac/2016-11-vmware_network_safari.png)
+![vmware_network_safari](@assets/images/posts/2016-11-vmware_network_safari.png)
 
 You can continue to use the debugger and everything else you may need as well.
 

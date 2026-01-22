@@ -12,7 +12,7 @@ About a year and a half ago I wrote a little article explaining Bitcoin and how 
 
 <!--more-->
 
-![](../img_post/2015-05-19-bitcoin-for-the-newcomer-an-update/2015-05-bitcoin1.png)
+![](@assets/images/posts/2015-05-bitcoin1.png)
 
 I’ll preface things first that Bitcoin is very much alive and well. I keep dibs on the news and the amount of venture capital backed firms that are coming online each day is astounding. Bitcoin ATMs are in place, governments are adopting/approving bitcoin. Apps are making it easier than ever to store and exchange bitcoin. From what I can see, that’s the biggest hurdle, making it simple enough that any user can start using bitcoin, and do so in a manner that will keep their money secure.
 

@@ -8,7 +8,7 @@ category: Default
 tags: [configuration, geekery, roksbox, roku-box, web-server]
 ---
 
-![Roksbox Logo](../img_post/2011-04-18-setting-up-roksbox-with-itunes-and-osx/2011-04-roksbox_logo_hd_4.png)
+![Roksbox Logo](@assets/images/posts/2011-04-roksbox_logo_hd_4.png)
 
 We've had our Roku Box for about 3 months now and were instantly hooked! The easy access to Netflix, Hulu, and Pandora, not to mention the plethora of channels out there is really amazing. Lately we've been wanting to stream our own mp3s from iTunes to the Roku, and found Roksbox as a viable solution.
 
@@ -18,15 +18,15 @@ We've had our Roku Box for about 3 months now and were instantly hooked! The eas
 
 The first step is to get a web server installed on your Mac. Fortunately this is already done for you (at least from OSX version 10.5 and above as far as I can tell). Simply click the Apple icon from the menu at the top and select "System Preferences..." In the window that opens up, double click on the "Sharing" section.
 
-![Settings Window](../img_post/2011-04-18-setting-up-roksbox-with-itunes-and-osx/2011-04-screen-shot-2011-04-18-at-11-37-39-pm.png)
+![Settings Window](@assets/images/posts/2011-04-screen-shot-2011-04-18-at-11-37-39-pm.png)
 
 From there, simply check the "Web Sharing" option to enable things and voila! You have a web server. Make sure to take note of the web address for your server.
 
-![Web Sharing Settings](../img_post/2011-04-18-setting-up-roksbox-with-itunes-and-osx/2011-04-screen-shot-2011-04-18-at-11-39-45-pm.png)
+![Web Sharing Settings](@assets/images/posts/2011-04-screen-shot-2011-04-18-at-11-39-45-pm.png)
 
 Verify that the server is up and running by opening up your web browser of choice and entering the main web server address, you should get a basic "It Works!" screen.
 
-![It Works Screen](../img_post/2011-04-18-setting-up-roksbox-with-itunes-and-osx/2011-04-screen-shot-2011-04-17-at-11-10-49-am.png)
+![It Works Screen](@assets/images/posts/2011-04-screen-shot-2011-04-17-at-11-10-49-am.png)
 
 The next part is the trickiest. On one hand you can copy ALL of your music files to your website root folder (look into your Sites directory from your Home), but this makes things a pain to maintain. Instead, what you want to do is create a symbolic link (sym link) to your iTunes music folder. A simple alias will not work since the Apache web server (which comes with OSX) will not process symbolic links. Fire up the terminal window, and depending on the path to your iTunes music library, you'll enter a command that looks something like this:
 
@@ -36,7 +36,7 @@ One trick I found to this was to open the terminal window, and then drag your iT
 
 Once this is done, go back to your web browser and type in your address again, but put "/music" to the end of the URL and you should get the list of your artists to show up.
 
-![Music Browser Shot](../img_post/2011-04-18-setting-up-roksbox-with-itunes-and-osx/2011-04-screen-shot-2011-04-17-at-11-0)
+![Music Browser Shot](@assets/images/posts/2011-04-screen-shot-2011-04-17-at-11-0)
 
 Now go install the Roksbox channel on your Roku Box (see the site for details on how to do this) and enjoy streaming your own music!
 

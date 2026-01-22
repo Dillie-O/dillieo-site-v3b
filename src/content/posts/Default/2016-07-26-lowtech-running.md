@@ -12,7 +12,7 @@ An interesting thing happened to me about a week and a half ago during my [RAGNA
 
 <!--more-->
 
-![20160717_001513098_iOS](../img_post/2016-07-26-lowtech-running/2016-07-20160717_001513098_ios.jpg)
+![20160717_001513098_iOS](@assets/images/posts/2016-07-20160717_001513098_ios.jpg)
 
 My phone had my [Strava](/the-running-app-swap) app on it. I've been using it for a while now in conjunction with my Apple Watch. Without it, I wouldn't have my splits, my distance, my heart rate, all those things I was starting to use more of to help pace out my run. What if I went out too fast or too slow? How would I know when I was halfway done? This was starting to stress me out a little bit.
 

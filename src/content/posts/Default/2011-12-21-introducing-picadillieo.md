@@ -8,7 +8,7 @@ category: Default
 tags: [family, life, photos]
 ---
 
-![Pic-a-Dillie-O Screenshot](../img_post/2011-12-21-introducing-picadillieo/2011-12-picadillieo.png)
+![Pic-a-Dillie-O Screenshot](@assets/images/posts/2011-12-picadillieo.png)
 
 So there's Flikr, Facebook Photos, Picasa Photos, Instagram, and a plethora of other sites out there to host photos, but I've decided to do something a little more "homegrown" and start putting them in a WordPress blog.
 

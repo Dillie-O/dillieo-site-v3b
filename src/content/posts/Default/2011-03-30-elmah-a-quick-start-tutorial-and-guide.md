@@ -77,11 +77,11 @@ End Sub
 
 In order to view the log, you simply need to access the “elmah.axd” file that resides in the root of your application. You’ll be greeted by a page similar to this:
 
-![ElmahMain](../img_post/2011-03-30-elmah-a-quick-start-tutorial-and-guide/2011-03-elmahmain_thumb.png)
+![ElmahMain](@assets/images/posts/2011-03-elmahmain_thumb.png)
 
 You can see how the basic details of the exceptions are displayed. Selecting the “Details” link displays a full dump of the exception in question:
 
-![ElmahDetail](../img_post/2011-03-30-elmah-a-quick-start-tutorial-and-guide/2011-03-elmahdetail1.png)
+![ElmahDetail](@assets/images/posts/2011-03-elmahdetail1.png)
 
 From here you should have nearly everything you need to debug an issue with your site. Elmah also provides an RSS feed of recent exceptions and a way of downloading the entire log into a CSV file, if you need to work with it in other ways.
 

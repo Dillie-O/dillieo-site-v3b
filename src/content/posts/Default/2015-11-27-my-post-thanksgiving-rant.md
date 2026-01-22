@@ -16,4 +16,4 @@ But let’s give Thanksgiving it’s due. It’s a time to take a step back, ref
 
 <!--more-->
 
-![](../img_post/2015-11-27-my-post-thanksgiving-rant/2015-11-funny-turkey-santa-claus-fight-holiday1.jpg)
+![](@assets/images/posts/2015-11-funny-turkey-santa-claus-fight-holiday1.jpg)

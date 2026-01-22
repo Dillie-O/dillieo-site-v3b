@@ -8,7 +8,7 @@ category: Default
 tags: [android, codec, geekery, ios, ipad, kindle-fire, mobile, streaming, tablet, video]
 ---
 
-![Codec Confusion](../img_post/2012-02-27-streaming-video-isnt-as-easy-as-you-think/2012-02-codec-confusion.jpg)
+![Codec Confusion](@assets/images/posts/2012-02-codec-confusion.jpg)
 
 Last week I was working on a video streaming solution that would work on mobile devices as well as browsers. With all the amazing new technology we have these days, you would think that this would be pretty straightforward. Sadly it isn't there yet.
 

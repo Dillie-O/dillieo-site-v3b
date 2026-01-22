@@ -8,7 +8,7 @@ category: Default
 tags: [books, ender-wiggin, enders-game, orson-scott-card, reviews]
 ---
 
-![Ender's Game Cover](../img_post/2013-09-04-review-enders-game-by-orson-scott-card/2013-09-enders_game_cover.jpg)
+![Ender's Game Cover](@assets/images/posts/2013-09-enders_game_cover.jpg)
 
 You'd think being a geek such as myself that I would have already read Ender's game a long time ago. Sadly I hadn't. My wife read it about a year or so back and absolutely loved it, so I had a mental note to do so. After seeing the movie trailer a couple of times for the upcoming movie, I realized now was the time to give this book a read, and holy cow was it worth it! (Spoiler Free Zone Ahead)<!--more-->
 

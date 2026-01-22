@@ -12,7 +12,7 @@ As part of the goals for 2016, one of them is to “reface” my [Prayer Journal
 
 <!--more-->
 
-![](../img_post/2016-02-04-on-the-joys-of-mvc-architecture/2016-02-1454611227_1.png)
+![](@assets/images/posts/2016-02-1454611227_1.png)
 
 For those of you not familiar, MVC stands for Model / View / Controller. For your typical application structured in this manner (very popular on the web right now) your application is broken down into three main components:
 

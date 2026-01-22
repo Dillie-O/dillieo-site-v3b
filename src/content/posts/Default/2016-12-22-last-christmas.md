@@ -12,7 +12,7 @@ I'm a firm believer that home is where your family is, and not just a a set of w
 
 <!--more-->
 
-![Courthouse Christmas Lights](../img_post/2016-12-22-last-christmas/2011-12-imag0290.jpg)
+![Courthouse Christmas Lights](@assets/images/posts/2011-12-imag0290.jpg)
 
 With our [upcoming move](/chapters) to Washington next year, it dawned on me earlier this week that this would be the last Christmas we have at our current house. Christmas is my favorite holiday of them all, so I always have a little extra gusto and energy going into this holiday and the memories are that more potent.
 

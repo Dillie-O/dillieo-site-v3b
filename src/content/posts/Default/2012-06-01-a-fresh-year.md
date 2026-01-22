@@ -8,7 +8,7 @@ category: Default
 tags: [career, fresh-consulting, life, work]
 ---
 
-![Fresh Logo](../img_post/2012-06-01-a-fresh-year/2011-05-freshlogo.png)
+![Fresh Logo](@assets/images/posts/2011-05-freshlogo.png)
 
 As I was wrapping some code up last night on a project, it dawned on me that today is the one year mark with my job at [Fresh Consulting](http://freshconsulting.com). I can't believe how time flies these days and all the amazing things that have happened in that amount of time!
 

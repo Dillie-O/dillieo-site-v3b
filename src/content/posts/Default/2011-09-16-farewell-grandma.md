@@ -8,7 +8,7 @@ category: Default
 tags: [death, family, grandmother, life, pensee]
 ---
 
-![Grandma and Family](../img_post/2011-09-16-farewell-grandma/2011-09-img_1034.jpg)
+![Grandma and Family](@assets/images/posts/2011-09-img_1034.jpg)
 
 The way we see it, my Grandma decided to leave this world on Sunday that way she could spend her 86th birthday in heaven with the Lord, my Grandpa, and my Dad.
 
@@ -16,11 +16,11 @@ The way we see it, my Grandma decided to leave this world on Sunday that way she
 
 While I think my [Grandfather's passing](/old-age-is-not-for-sissies) was a lot more unexpected than Grandma's, hers was a lot more of a relief. She had been suffering from dementia for a while, so there was a lot of people she didn't recognize anymore, and the stroke that she had had 15 years ago finally caught up to her. But as an old friend of her's said over the phone, "The Lord is Merciful." and he certainly is. She went peacefully, and my mom and the pastor were there.
 
-![Grandma and Grandpa](../img_post/2011-09-16-farewell-grandma/2011-09-img_1037.jpg "Grandma and Grandpa")
+![Grandma and Grandpa](@assets/images/posts/2011-09-img_1037.jpg "Grandma and Grandpa")
 
 It was hard to narrow down some specific memories about Grandma that were my favorite, but one of them was that she loved to hear me play the piano. I considered it a special treat when I got to come over and read through some of her music books, and she would give me some pointers along the way. Music was a big thing for her and I was able to be a part of this family tradition as well.
 
-![Me and Grandma](../img_post/2011-09-16-farewell-grandma/2011-09-img_1038.jpg "Me and Grandma")
+![Me and Grandma](@assets/images/posts/2011-09-img_1038.jpg "Me and Grandma")
 
 The second was that she taught me needlepoint. Yep, needlepoint isn't supposed to be "manly" or anything, but I'll admit I made quite a few gifts by hand over the years thanks to it and it was another thing my Grandma loved to do. She'd be happy to know that my brother recently took 3rd place in a county fair with some of his work, all thanks to Grandma.
 
@@ -30,9 +30,9 @@ On Wednesday, her 86th birthday, we had a small service at her church. There wer
 
 On a lighter note, this visit did bring a few additional smiles.
 
-![Kona the Kitten](../img_post/2011-09-16-farewell-grandma/2011-09-img_1065.jpg "Kona the Kitten")
+![Kona the Kitten](@assets/images/posts/2011-09-img_1065.jpg "Kona the Kitten")
 
-![Patterson 3.0](../img_post/2011-09-16-farewell-grandma/2011-09-img_1066.jpg "Patterson 3.0")
+![Patterson 3.0](@assets/images/posts/2011-09-img_1066.jpg "Patterson 3.0")
 
 I think my cousin Maria put it best when she reflected in an e-mail...
 

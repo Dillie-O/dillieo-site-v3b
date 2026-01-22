@@ -22,7 +22,7 @@ Please note that in the example below, I’m not demonstrating the “multi-step
 
 We’ll start by creating a simple form. I’ve gone into Sitefinity and created a simple form called “Test Questions.” I added two multiple choice questions: “What is your favorite color?” and “What is your favorite food?”. Once the form was complete, I added it to a test page, and went through it a couple of times so I could generate some responses. You’ll notice that one submission doesn’t have a username attached to it, that is because I made sure to log out to verify the form was accessible.
 
-![](../img_post/2015-06-08-soup-to-nuts-dynamically-submitting-sitefinity-forms-using-ajax/2015-06-formresponses.png)
+![](@assets/images/posts/2015-06-formresponses.png)
 
 ### Analyze Form Elements
 
@@ -34,11 +34,11 @@ Now that we have a form with some answers in place, we can take advantage of the
 
 page in your browser, you’ll get a basic definition file of the various actions available in the service, but it isn’t too much help. The best place look in in the admin panel itself. It’s leveraging the WCF services to do basic form interaction. Open up your web browser of choice (I’ve been quite happy with [Firefox Developer Edition](/a-new-devtool-on-the-block) lately), load up the “Network” inspector, and navigate to the main forms page. You’ll see something like this:
 
-![](../img_post/2015-06-08-soup-to-nuts-dynamically-submitting-sitefinity-forms-using-ajax/2015-06-fromlistajax.png)
+![](@assets/images/posts/2015-06-fromlistajax.png)
 
 You’ll notice that the URL is rather lengthy. I’ve tried omitting most of the parts of that in the past, but I think due to the backend requirements (OData backend I suspect) we need that all in there. To work with the API requests a little better, I use the [PostMan](https://www.getpostman.com) tool. It’s a Chrome standalone tool and is very powerful. We’ll generate a GET request in PostMan and we can look at the results:
 
-![](../img_post/2015-06-08-soup-to-nuts-dynamically-submitting-sitefinity-forms-using-ajax/2015-06-formlistpostman.png)
+![](@assets/images/posts/2015-06-formlistpostman.png)
 
 You’ll notice that we have added “Basic Auth” to the request. Some of the REST API methods require authentication to proceed. While we could copy the FormsService.svc file into the public folder in Sitefinity, I decided instead to create a basic FormSubmitter user with limited access to the site and simply encrypt the credentials into the request.
 
@@ -50,7 +50,7 @@ Now that we have the list of forms, we can take the Id of our form and get the l
 
 While we were able to get away with not having the manager/provider/etc values in the form listing, you will need them to get the listing of form entries. You’re results will look something like this:
 
-![](../img_post/2015-06-08-soup-to-nuts-dynamically-submitting-sitefinity-forms-using-ajax/2015-06-formspecificentry1.png)
+![](@assets/images/posts/2015-06-formspecificentry1.png)
 
 Here you see the structure of each form entry. It’s a lot more complex than the two simple questions we provided when we created the form. You’ll see the two core questions/answers are there under variable names “FormMultipleChoice_C001” and “FormMultipleChoice_C003” variables. You can go back in and make these variable names “friendlier” through the advanced settings if you desire.
 
@@ -82,7 +82,7 @@ Notice that our Id field in the URL is now a generic/blank GUID of all 0s. Simil
 
 When you submit this PUT request to the API. The API will note the “empty” GUID and generate a new form request. The response will be a 200 status code and a copy of the new form entry object, with the Id updated to include the new GUID generated. If you go into the admin panel. You’ll see it in the list:
 
-![](../img_post/2015-06-08-soup-to-nuts-dynamically-submitting-sitefinity-forms-using-ajax/2015-06-formsubmitted.png)
+![](@assets/images/posts/2015-06-formsubmitted.png)
 
 ### Submit via AJAX
 

@@ -28,7 +28,7 @@ It's a bit tricky, but doable. Here's how you get your "ducks in a row" in order
 
 <!-- wp:image {"id":6801} -->
 
-![](../img_post/2019-04-18-how-to-create-dynamic-environment-sequencing-columns-in-net-core-ef-migrations-with-postgresql-npgsql/2019-04-ducks_tablemodel.png)
+![](@assets/images/posts/2019-04-ducks_tablemodel.png)
 
 <!-- /wp:image -->
 

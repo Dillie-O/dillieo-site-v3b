@@ -8,7 +8,7 @@ category: Default
 tags: [ducks, fence, handyman-tricks, house]
 ---
 
-![](../img_post/2010-07-26-the-duck-house/2010-07-0725101633.jpg "Duck Play Yard")
+![](@assets/images/posts/2010-07-0725101633.jpg "Duck Play Yard")
 
 After about two weeks of planning, and a lot of work over the weekend, our ducks have finally moved downstairs to their "play yard", or "duck house" as I like to call it. Jen is charting the adventures of the ducks [here](http://nonrubberduckies.wordpress.com/).
 
@@ -26,4 +26,4 @@ All in all a very successful project, a lot of hard work, and a lot of fun. I te
 
 ...oh, and of course no duck entry would be complete without showing the girls and their pets:
 
-![The girls and the ducks.](../img_post/2010-07-26-the-duck-house/2010-07-101_2162.jpg "Girls and Ducks")
+![The girls and the ducks.](@assets/images/posts/2010-07-101_2162.jpg "Girls and Ducks")

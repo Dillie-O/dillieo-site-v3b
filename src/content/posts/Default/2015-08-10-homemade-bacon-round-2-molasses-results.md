@@ -12,7 +12,7 @@ As I had mentioned a couple weeks back, I’ve started [making my own bacon](/ye
 
 <!--more-->
 
-![](../img_post/2015-08-10-homemade-bacon-round-2-molasses-results/2015-08-1_20150808_163810547_ios.jpg)
+![](@assets/images/posts/2015-08-1_20150808_163810547_ios.jpg)
 
 This time, I tried a molasses / apple cider vinegar recipe provided by [Alton Brown](http://altonbrown.com) in his “[Scrap Iron Chef](http://www.foodnetwork.com/recipes/alton-brown/scrap-iron-chefs-bacon-recipe.html)” recipe. I cut the recipe in half since I only had half the bacon and I was a smidge short on the apple cider vinegar, but nothing that seemed like it would be an issue.
 

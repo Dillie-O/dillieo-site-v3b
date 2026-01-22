@@ -8,7 +8,7 @@ category: Default
 tags: [alternative, fold-zandura, rock, song-of-the-week]
 ---
 
-![Fold Zandura Cover](../img_post/2011-07-08-song-of-the-week-serena-by-fold-zandura/2011-07-foldzanduracover.jpg "Fold Zandura Cover")
+![Fold Zandura Cover](@assets/images/posts/2011-07-foldzanduracover.jpg "Fold Zandura Cover")
 
 When I started college, I was going through an expansion in my musical preferences. Fortunately for a poor college student, a lot of Christian labels would release "demo" albums that easily featured 20 songs by 10 of their artists, and sold them for about \$2.99 each. They hoped you would find somebody to buy a complete album of, and I got some new music for cheap.
 

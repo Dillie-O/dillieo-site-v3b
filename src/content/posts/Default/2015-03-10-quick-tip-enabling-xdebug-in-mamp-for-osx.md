@@ -14,7 +14,7 @@ By default, XDebug is not enabled in MAMP. I found plenty of MAMP Pro posts on h
 
 <!--more-->
 
-![](../img_post/2015-03-10-quick-tip-enabling-xdebug-in-mamp-for-osx/2015-03-xdebug_mamp.jpg)
+![](@assets/images/posts/2015-03-xdebug_mamp.jpg)
 
 Really the only trick to know is that MAMP keeps two configuration files for each PHP version. One serves as a template when you start up PHP. There are two files you need to edit:
 

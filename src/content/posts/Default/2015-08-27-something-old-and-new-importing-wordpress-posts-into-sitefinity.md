@@ -18,4 +18,4 @@ You can get the [WordPress to Sitefinity tool here](https://github.com/Dillie-O/
 
 <!--more-->
 
-![sitefinity_logo.jpg](../img_post/2015-08-27-something-old-and-new-importing-wordpress-posts-into-sitefinity/2015-04-sitefinity_logo1.jpg)
+![sitefinity_logo.jpg](@assets/images/posts/2015-04-sitefinity_logo1.jpg)

@@ -14,7 +14,7 @@ As technology continues to grow more and more in our lives (and family), here ar
 
 ## Life360
 
-![life360](../img_post/2017-02-01-family-tech-life360-and-prodigy/2017-02-life360.jpg)
+![life360](@assets/images/posts/2017-02-life360.jpg)
 
 With our kids in public school, and their increasing extracurricular activities such as dance, book club, and robotics, we decided to get our kids smart phones. We keep the usage limited to just phone calls/texts from immediate family and the occasional game. However, we wanted to be able to do some location tracking to help keep track on when people are leaving school, showing up at various places, without a huge hassle.
 
@@ -26,7 +26,7 @@ Life360 provides unlimited places and a plethora of other features in their paid
 
 ## Prodigy (Math Game)
 
-![og-image](../img_post/2017-02-01-family-tech-life360-and-prodigy/2017-02-og-image.jpg)
+![og-image](@assets/images/posts/2017-02-og-image.jpg)
 
 Looking for a way for your kids to be literal "math wizards"? A year or so back my wife stumbled up on [Prodigy](https://www.prodigygame.com) for the kids. Kids sign up (with randomized names for privacy), create their wizard, and start questing! They have simple tasks (such as find objects and return them) to accomplish, but as they journey through the land, they will come across various monsters (they look rather cute) that they must battle.
 

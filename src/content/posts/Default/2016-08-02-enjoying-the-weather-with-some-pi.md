@@ -12,7 +12,7 @@ A little over a year ago, I was able to get my [personal weather station](/unbox
 
 <!--more-->
 
-![weather station](../img_post/2016-08-02-enjoying-the-weather-with-some-pi/2016-08-1_20160802_131847000_ios.jpg)
+![weather station](@assets/images/posts/2016-08-1_20160802_131847000_ios.jpg)
 
 A couple of weeks back I picked up a [Raspberry Pi](https://www.raspberrypi.org/). If you haven’t heard of one, it is an amazing piece of technology. It a full blown computer: HDMI, Wifi, Bluetooth, 4 USB ports, a 40 pin IO interface, and more! All of this fits on something the size of a credit card. Yep, if you look above, that’s my Pi sitting next to my weather station display. The computer isn’t robust enough for doing any heavy gaming, but it really shines for learning some basic programming as well as a TON of hobby projects of various shapes and sizes (robotics, media centers, etc.) In my case, “weather reporter” was what it was assembled to do. There is a large, and growing, community of kids and adults using their Pis for various tasks, and it’s not hard to find something to inspire you.
 
@@ -22,17 +22,17 @@ Next came the software. The Acurite weather station has a USB connection and wil
 
 So what do I get with all of this? For starters, I can track the weather at my house now wherever I may be through a web page provided by WU.
 
-![](../img_post/2016-08-02-enjoying-the-weather-with-some-pi/2016-08-wu_home.png)
+![](@assets/images/posts/2016-08-wu_home.png)
 
 In addition, I can track it through the Android and iPhone apps that WU provides as well.
 
-![](../img_post/2016-08-02-enjoying-the-weather-with-some-pi/2016-08-20160802_133119000_ios.png)
+![](@assets/images/posts/2016-08-20160802_133119000_ios.png)
 
-![](../img_post/2016-08-02-enjoying-the-weather-with-some-pi/2016-08-weather_android.png)
+![](@assets/images/posts/2016-08-weather_android.png)
 
 I’m quite a data junkie as well, so with WU, I’ll have all of my data online and aggregated, so I can start looking at weather trends over time, track hottest/coldest days, and lots of things that the standard aggregation on the weather station itself won’t retain.
 
-![](../img_post/2016-08-02-enjoying-the-weather-with-some-pi/2016-08-wu_stats.png)
+![](@assets/images/posts/2016-08-wu_stats.png)
 
 All of this data is stored on the Pi as well thanks to weewx, so I have a backup of it should something happen online! It’s amazing how technology has come a long way to enable simple, yet powerful, setups for hobbyists like me.
 

@@ -8,7 +8,7 @@ category: Default
 tags: [français, french, native, pop, song-of-the-week]
 ---
 
-![Native](../img_post/2011-06-10-song-of-the-week-si-la-vie-demande-ca-by-native/2011-06-nativecover.jpg)
+![Native](@assets/images/posts/2011-06-nativecover.jpg)
 
 I had the privilege of spending a couple of summers in France back in college and while I didn't listen to too much radio out there (I should have) one group a friend a friend got me hooked on was a duo named Native.
 

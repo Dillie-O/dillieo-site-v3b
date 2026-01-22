@@ -8,7 +8,7 @@ category: Default
 tags: [ducks, handyman-tricks]
 ---
 
-![The final product](../img_post/2012-01-16-diy-duck-incubator-hotel/2012-01-imag0340.jpg)
+![The final product](@assets/images/posts/2012-01-imag0340.jpg)
 
 A couple of weeks back we added two new ducklings to the family. Well, technically they were "teenagers" since they had almost shed their baby fluff. Being winter, we needed a place to keep them until their full feathers came in and they were a little larger to get along with their big sisters.
 
@@ -20,14 +20,14 @@ However, I still run into a couple of issues as our ducklings grow up. The first
 
 After a little more pondering, I came up with a solution that works and is cheap. The first step is to get a nice, somewhat deep, storage tub, base the size on how many ducklings you plan on having at once.
 
-![Duck Incubator Start](../img_post/2012-01-16-diy-duck-incubator-hotel/2012-01-imag0335.jpg "Duck Incubator Start")
+![Duck Incubator Start](@assets/images/posts/2012-01-imag0335.jpg "Duck Incubator Start")
 
 The next, and final, step is to cut a nice long rectangle about 1/3rd of the way up from the base of the tub. Make the height of the rectangle about 2 inches. This allows the ducklings to get their head in and out comfortably without escaping. I used some heavy duty kitchen shears to make the cut after using a drill to get some initial holes in the corners of my opening. You could even use a small jig saw if you had one. Just make sure the edges are smooth when you're done. You don't want any scratching or cutting of those delicate necks.
 
-![Duck Incubator Opening](../img_post/2012-01-16-diy-duck-incubator-hotel/2012-01-imag0334.jpg "Duck Incubator Opening")
+![Duck Incubator Opening](@assets/images/posts/2012-01-imag0334.jpg "Duck Incubator Opening")
 
 Now you're done! Add some hay and ducks and you're set!
 
-![The final product](../img_post/2012-01-16-diy-duck-incubator-hotel/2012-01-imag0340.jpg)
+![The final product](@assets/images/posts/2012-01-imag0340.jpg)
 
 We found a nice little spot in our living room where we could clip on a heating lamp and point it in the corner to keep the ducklings warm. Since they couldn't quite reach the bowls of food and water, we found a couple little trays to boost the bowls up a little bit. We put a place mat down below to help with the occasional spill. Once a day we dump out the hay, hose down the tub, dry it out and put more hay in. It's convenient, reusable, and a lot of fun to see their heads poke out to say hi.

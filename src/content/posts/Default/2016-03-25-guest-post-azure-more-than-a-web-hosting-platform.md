@@ -16,4 +16,4 @@ Give it a read here:
 
 <!--more-->
 
-![azure_hosting](../img_post/2016-03-25-guest-post-azure-more-than-a-web-hosting-platform/2016-03-azure_hosting.png)
+![azure_hosting](@assets/images/posts/2016-03-azure_hosting.png)

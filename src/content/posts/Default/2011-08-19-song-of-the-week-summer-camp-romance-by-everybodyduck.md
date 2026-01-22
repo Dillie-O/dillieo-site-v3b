@@ -8,7 +8,7 @@ category: Default
 tags: [alternative, camp, everybodyduck, life, love, romance, song-of-the-week]
 ---
 
-![Everybodyduck: 8 Seconds on a Holy Cow](../img_post/2011-08-19-song-of-the-week-summer-camp-romance-by-everybodyduck/2011-08-everybodyduck8seconds_cover.jpg "Everybodyduck 8 Seconds Cover")
+![Everybodyduck: 8 Seconds on a Holy Cow](@assets/images/posts/2011-08-everybodyduck8seconds_cover.jpg "Everybodyduck 8 Seconds Cover")
 
 I spent nearly every summer since the 4th grade through college going to church camp for a weekend. It was a great time. Meeting new people, doing crazy things (capture the flag under the moonlight) and being in the mountains (flee the desert heat!). My senior year in high school, the band that was playing at camp was named everybodyduck. I fell in love with them immediately. They had some very fun and quirky songs, but it always came around in the end with a very poignant and applicable statement that the song was getting at.
 

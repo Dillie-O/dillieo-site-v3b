@@ -8,7 +8,7 @@ category: Default
 tags: [hip-hop, phineas-and-ferb, song-of-the-week]
 ---
 
-![S-I-M-P](../img_post/2012-01-27-song-of-the-week-squirrels-in-my-pants-by-phineas-and-ferb/2012-01-simp.jpg "SIMP")
+![S-I-M-P](@assets/images/posts/2012-01-simp.jpg "SIMP")
 
 This week it's a song and video! If you haven't, go watch some episodes of Phineas and Ferb on Netflix. These kids are clever AND funny!
 

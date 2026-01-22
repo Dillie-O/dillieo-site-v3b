@@ -8,7 +8,7 @@ category: Default
 tags: [foreign-exchange, life, taiwan, tony]
 ---
 
-![Big Family](../img_post/2011-08-29-our-newest-family-member-tony/2011-08-big-family.jpg "Big Family")
+![Big Family](@assets/images/posts/2011-08-big-family.jpg "Big Family")
 
 Over the weekend we invited somebody new into our family for the year. Meet Tony! A 17 year old student from Taiwan!
 
@@ -22,6 +22,6 @@ We look forward to what we can learn from him and his culture, as well as being 
 
 So here's to Tony and all the new adventures our family will have!
 
-![Silly Family Shot](../img_post/2011-08-29-our-newest-family-member-tony/2011-08-big-family-silly.jpg "Big Family Silly")
+![Silly Family Shot](@assets/images/posts/2011-08-big-family-silly.jpg "Big Family Silly")
 
-![Big Family Artsy](../img_post/2011-08-29-our-newest-family-member-tony/2011-08-big-family-artsy.jpg "Big Family Artsy")
+![Big Family Artsy](@assets/images/posts/2011-08-big-family-artsy.jpg "Big Family Artsy")

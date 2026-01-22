@@ -8,7 +8,7 @@ category: Default
 tags: [christmas, life, music, rock, trans-siberian-orchestra, wizards-in-winter]
 ---
 
-![Trans-Siberian Orchestra Cover](../img_post/2012-12-18-12-songs-of-christmas-wizards-in-winter-by-transsiberian-orchestra/2012-12-transsiberianorchestra_cover.jpg)
+![Trans-Siberian Orchestra Cover](@assets/images/posts/2012-12-transsiberianorchestra_cover.jpg)
 
 You've probably seen the videos of houses with Christmas lights completely decked out and sequenced using this song. It does a great blend of a traditional festive feel done on guitars/synthesizers/and all that good stuff.
 

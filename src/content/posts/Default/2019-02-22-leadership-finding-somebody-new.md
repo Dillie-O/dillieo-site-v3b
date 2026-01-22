@@ -22,7 +22,7 @@ Finding somebody new can be a really tricky process. Recently I’ve been throug
 
 <!-- wp:image {"id":6793} -->
 
-![](../img_post/2019-02-22-leadership-finding-somebody-new/2019-02-adult-brainstorming-business-935977.jpg)
+![](@assets/images/posts/2019-02-adult-brainstorming-business-935977.jpg)
 
 <!-- /wp:image -->
 

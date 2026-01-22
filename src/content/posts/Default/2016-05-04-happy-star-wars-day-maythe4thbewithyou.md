@@ -12,4 +12,4 @@ Star Wars is something that I've been passing on to my kids now and there's a lo
 
 <!--more-->
 
-![20160504_150339495_iOS](../img_post/2016-05-04-happy-star-wars-day-maythe4thbewithyou/2016-05-20160504_150339495_ios.jpg)
+![20160504_150339495_iOS](@assets/images/posts/2016-05-20160504_150339495_ios.jpg)

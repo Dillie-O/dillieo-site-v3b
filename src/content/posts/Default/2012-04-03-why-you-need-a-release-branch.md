@@ -8,7 +8,7 @@ category: Default
 tags: [branch, coding, source-control, versioning]
 ---
 
-![SVN Branch(../img_post/2012-04-03-why-you-need-a-release-branch/2012-04-svn_branching.jpg)
+![SVN Branch(@assets/@assets/images/posts/2012-04-svn_branching.jpg)
 
 I've run into this issue a couple of times now, and after another incident this weekend, it only hit home the importance of having a release branch in your source code repository. Most folks already have this and know it's value. Just in case, here's a simple (yet important) example of why it is so important.
 

@@ -22,7 +22,7 @@ Today I mark off an item in my bucket list: I'm taking a one month sabbatical! T
 
 <!-- wp:image {"id":7154,"sizeSlug":"full","linkDestination":"media"} -->
 
-![](../img_post/2021-10-01-relax-recharge-reboot/2021-10-pexels-photo-91224.jpg)
+![](@assets/images/posts/2021-10-pexels-photo-91224.jpg)
 
 Photo by Stefan Stefancik on [Pexels.com](https://www.pexels.com/photo/man-sitting-on-the-mountain-edge-91224/)
 

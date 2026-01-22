@@ -12,7 +12,7 @@ Today marked the last run for a pair of my running shoes. They've lasted a heck 
 
 <!--more-->
 
-![20160823_132450040_iOS](../img_post/2016-08-23-momentos/2016-08-20160823_132450040_ios.jpg)
+![20160823_132450040_iOS](@assets/images/posts/2016-08-20160823_132450040_ios.jpg)
 
 I find most of my "valuable momentos" consist of the following:
 

@@ -8,7 +8,7 @@ category: Default
 tags: [music, rock, song-of-the-week, u2]
 ---
 
-[![U2 B-Sides Cover](../img_post/2011-03-11-song-of-the-week-summer-rain-by-u2/2011-03-u2bsidescover.jpg)
+[![U2 B-Sides Cover](@assets/images/posts/2011-03-u2bsidescover.jpg)
 
 I've been re-ripping my CD collection to my computer lately and am pulling up a lot of the "oldies but goodies" that I enjoy and figured hey, might as well try to do some weekly music sharing to give you something to listen to.
 

@@ -8,7 +8,7 @@ category: Default
 tags: [d3, data, javascript, programming, reviews, visualization, web-development]
 ---
 
-![D3 Cover](../img_post/2012-10-01-review-getting-started-with-d3/2012-10-d3_cover.gif)
+![D3 Cover](@assets/images/posts/2012-10-d3_cover.gif)
 
 A project I am currently working on required me to find an efficient way to displaying a "heat map" of data throughout the United States. While one approach would be to simply create static images, the map also needed to be updated based on different data parameters. We also wanted to be able to generate tooltips and zoom in and out of the map. These requirements led me to the D3 library and a nice book entitled, _Getting Started with D3_ by Mike Dewar that helped get me up and running.
 

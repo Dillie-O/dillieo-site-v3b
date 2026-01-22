@@ -12,7 +12,7 @@ While there was a premature leak earlier this week in the news, you can now offi
 
 <!--more-->
 
-![VS_Mac_Banner.png](../img_post/2016-11-18-initial-impressions-visual-studio-for-mac/2016-11-vs_mac_banner.png)
+![VS_Mac_Banner.png](@assets/images/posts/2016-11-vs_mac_banner.png)
 
 Once the installer has completed and you fire up VS Mac (V-smack maybe?), you've given a simple dialog to pick your project. The exciting thing about this is that there are a lot of templates already in place, for Xamarin Forms, specific iOS / tvOS / Android apps, and even more importantly, Mono and .Net Core apps. The mono web apps give you a full MVC setup with an initial controller, while the .Net Core web app is pretty bare bones. It would be nice if the .Net Core projects have a little more fleshed out in them, but I suspect that will be happening soon. What would be really slick (in my opinion) is if VSMac can coordinate with the [Yeoman](https://github.com/omnisharp/generator-aspnet#readme) generators that are already out there to easily script and scaffold new solutions.
 

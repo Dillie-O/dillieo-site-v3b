@@ -8,7 +8,7 @@ category: Default
 tags: [birthday, life, nacho-cheese]
 ---
 
-![](../img_post/2009-07-16-nacho-cheese-of-the-month-club/2009-07-hoopsyoyo1.jpg "Hoops and YoYo")
+![](@assets/images/posts/2009-07-hoopsyoyo1.jpg "Hoops and YoYo")
 
 This was "dictated" to me by these guys on a birthday card from my wife. To get the full effect, you need to imagine their voice slightly high pitched and edgy, as if they had abotu 10 cups of coffee...
 

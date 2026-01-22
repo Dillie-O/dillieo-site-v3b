@@ -12,7 +12,7 @@ Last week we launched a site for a client that was built upon the [Telerik Sitef
 
 <!--more-->
 
-![](../img_post/2015-09-22-telerik-sitefinity-a-review/2015-09-sitefinity_logo11.jpg)
+![](@assets/images/posts/2015-09-sitefinity_logo11.jpg)
 
 ## The Good
 

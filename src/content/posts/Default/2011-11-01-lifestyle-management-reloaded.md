@@ -8,7 +8,7 @@ category: Default
 tags: [aggregator, e-mail, facebook, geekery, management, netvibes, threadsy, twitter]
 ---
 
-![Lifestyle Management](../img_post/2011-11-01-lifestyle-management-reloaded/2011-11-lifestylemanagement.png "LifeStyleManagement")
+![Lifestyle Management](@assets/images/posts/2011-11-lifestylemanagement.png "LifeStyleManagement")
 
 A couple of years back, I wrote [a blog series](/lifestyle-data-management-conclusion) about how to do "lifestyle management" online. Sadly my long time management source [Threadsy](http://threadsy.com) (I will miss you severely) is closing it's doors tomorrow, so it's time to tackle this issue anew.
 

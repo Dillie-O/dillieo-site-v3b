@@ -12,7 +12,7 @@ I recently updated my Apple Watch to watchOS3 and was later greeted mid-morning 
 
 <!--more-->
 
-![apple_watch_breathe](../img_post/2016-09-22-dont-forget-to-breathe/2016-09-apple_watch_breathe.jpg)
+![apple_watch_breathe](@assets/images/posts/2016-09-apple_watch_breathe.jpg)
 
 I chuckled to myself when I saw this. "Really?! I need to be reminded to breathe?" Admittedly the day had been a bit stressful up to that point so I secretly wondered if maybe I had turned something on that was constantly monitoring my pulse and noticed it was a bit higher than average.
 

@@ -8,7 +8,7 @@ category: Default
 tags: [alternative, dance, jazz, rock, song-of-the-week, spotify]
 ---
 
-![Slurpee Set Cover](../img_post/2011-07-22-song-of-the-week-the-slurpee-set-care-of-spotify/2011-07-screen-shot-2011-07-22-at-7-36-01-am.png)
+![Slurpee Set Cover](@assets/images/posts/2011-07-screen-shot-2011-07-22-at-7-36-01-am.png)
 
 It's the middle of summer, which means two things, slurpees and music to get you through the day. This week I figured I'd share a whopping 13 songs with you, and do it through a old/new music service out there: Spotify.
 

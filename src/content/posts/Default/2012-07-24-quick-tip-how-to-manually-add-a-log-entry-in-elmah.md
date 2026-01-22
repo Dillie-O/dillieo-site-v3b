@@ -8,7 +8,7 @@ category: Default
 tags: [coding, elmah, logging, quick-tip]
 ---
 
-![Quick Tip](../img_post/2012-07-24-quick-tip-how-to-manually-add-a-log-entry-in-elmah/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 I'm a big fan of [Elmah](/elmah-a-quick-start-tutorial-and-guide) (even though I'm still a little more partial to [log4Net](/log4net-a-quick-start-guide) since it gives you a very quick way of logging all unhandled exceptions in your application. However, sometimes you need to manually add an entry (say within a try/catch block) and fortunately Elmah provides a simple way to do that.
 

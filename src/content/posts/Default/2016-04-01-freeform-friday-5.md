@@ -14,7 +14,7 @@ A couple of cool tech notes worth sharing for the week...
 
 <!--more-->
 
-![1452865048_1.jpeg](../img_post/2016-04-01-freeform-friday-5/2016-01-1452865048_1.jpg)
+![1452865048_1.jpeg](@assets/images/posts/2016-01-1452865048_1.jpg)
 
 If you're an iPhone / iPad user, make sure you get the latest iOS update and enable the [night shift](http://www.apple.com/ios/updates/?cid=wwa-us-kwm-features&cp=ios9.3) feature that they enabled. I've been a long time user of [f.lux](https://justgetflux.com). I find a huge benefit on the eyes (and the sleep) that having a "warm" screen during the evening hours provides. The automatic shift based on the time is an added convenience. I noticed an immediate benefit at night when peeking at my phone. Now if they can only create a solid version for Android.
 

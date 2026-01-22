@@ -18,4 +18,4 @@ Problem solved!
 
 <!--more-->
 
-![](../img_post/2015-08-12-life-hack-cutting-cold-butter/2015-08-1_20150812_143336448_ios.jpg)
+![](@assets/images/posts/2015-08-1_20150812_143336448_ios.jpg)

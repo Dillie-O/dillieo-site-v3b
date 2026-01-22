@@ -8,7 +8,7 @@ category: Default
 tags: [handyman-tricks, kitchen, pot-rack, storage]
 ---
 
-![Homemade Pot Rack](../img_post/2009-11-09-diy-cheap-andamp-effective-pot-rack/2009-11-101_2407.jpg "Homemade Pot Rack")
+![Homemade Pot Rack](@assets/images/posts/2009-11-101_2407.jpg "Homemade Pot Rack")
 
 When Jen and I got our first house, we were excited to have a decent sized kitchen. However, we still didn't have that much cabinet space and we had a new set of pots and pans that needed a good home. We loved the idea of a pot rack but our kitchen was part of the vaulted ceiling for the house. For the life of us, we couldn't find a wall mountable pot rack _\[or one for a decent price]_.
 

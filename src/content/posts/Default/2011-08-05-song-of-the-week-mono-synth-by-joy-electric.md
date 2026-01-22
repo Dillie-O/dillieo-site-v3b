@@ -8,7 +8,7 @@ category: Default
 tags: [electronic, electronica, joy-electric, song-of-the-week]
 ---
 
-![Joy Electric](../img_post/2011-08-05-song-of-the-week-mono-synth-by-joy-electric/2011-08-screen-shot-2011-08-05-at-8-03-01-am.png "Joy Electric Cover")
+![Joy Electric](@assets/images/posts/2011-08-screen-shot-2011-08-05-at-8-03-01-am.png "Joy Electric Cover")
 
 You never know when you'll stumble across something completely random to you, and yet completely wonderful with music. Such was the case with me and Joy Electric.
 

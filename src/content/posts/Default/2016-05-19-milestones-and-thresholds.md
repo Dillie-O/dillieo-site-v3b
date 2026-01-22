@@ -12,7 +12,7 @@ Today I finished another 7 mile run in my ongoing RAGNAR training for July. My b
 
 <!--more-->
 
-![20160519_125933274_iOS](../img_post/2016-05-19-milestones-and-thresholds/2016-05-20160519_125933274_ios.jpg)
+![20160519_125933274_iOS](@assets/images/posts/2016-05-20160519_125933274_ios.jpg)
 
 My body was pretty exhausted and my legs were feeling particularly sore. However, some stretching, water, and a shower later, and my spirit was telling me, "Hey let's go do another 5 miles" and my body was telling me, "Yeah, It think we can manage that."
 

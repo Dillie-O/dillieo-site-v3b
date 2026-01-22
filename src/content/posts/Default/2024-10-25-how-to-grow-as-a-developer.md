@@ -8,7 +8,7 @@ category: Default
 tags: [growth, programming, engineering, development, career]
 ---
 
-| ![growing tree](../img_post/2024-10-25-how-to-grow-as-a-developer/growth_image.webp) | 
+| ![growing tree](@assets/images/posts/growth_image.webp) | 
 |:--:| 
 | *...it's my "Never stop learning or growing tree" |
 

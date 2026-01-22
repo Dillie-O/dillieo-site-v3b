@@ -12,7 +12,7 @@ We have a decently sized collection of DVDs. It’s large enough that often time
 
 <!--more-->
 
-![](../img_post/2015-09-07-build-your-own-netflix-with-plex/2015-09-plex-logo1.jpg)
+![](@assets/images/posts/2015-09-plex-logo1.jpg)
 
 ### Get It!
 
@@ -22,11 +22,11 @@ We have a decently sized collection of DVDs. It’s large enough that often time
 
 Once you’ve installed the server, you can launch the server admin tool, which loads up in a web browser. Clicking the + icon in the sidebar will allow you to add a new library to the system.
 
-![](../img_post/2015-09-07-build-your-own-netflix-with-plex/2015-09-6_5_4_3_2_1_plex-admin.jpg)
+![](@assets/images/posts/2015-09-6_5_4_3_2_1_plex-admin.jpg)
 
 You have variety of libraries to add: movies, tv shows, home movies, music, photos.
 
-![](../img_post/2015-09-07-build-your-own-netflix-with-plex/2015-09-4_3_2_1_plex-libraries.jpg)
+![](@assets/images/posts/2015-09-4_3_2_1_plex-libraries.jpg)
 
 Next you select a folder where that type of media is stored and Plex does the rest! For items like movies, Plex will analyze the movie and try to provide “cover” images that you see in the first screen shot. Plex recommends that you follow their [naming guidelines](https://support.plex.tv/hc/en-us/categories/200028098-Media-Preparation) in order best integrate with the server, but it will work with what it can. I took the time to rename all of my movie files and I think it was worth it. I already had my music stored in artist/album/track type format, so I didn’t change that up. Depending on the size of your library, this may take a while. You can still watch your movies while things are indexing, but depending on your computer, there maybe a little bit of stuttering
 
@@ -42,7 +42,7 @@ Once your media is all set, now you can watch/listen to it! This is where you ex
 
 **Roku:** Our preferred means of interacting with our movies is through our [Roku Box](https://www.roku.com). We already have Netflix and Hulu on it, so adding a Plex channel was easy to do. After a one month trial, we were required to pay a one time \$5 fee to unlock things permanently. Since the fee is tied to the Roku account, we were able to add the Plex channel to our other Roku in the bedroom without a second fee.
 
-![](../img_post/2015-09-07-build-your-own-netflix-with-plex/2015-09-3_2_1_20150907_150721661_ios.jpg)
+![](@assets/images/posts/2015-09-3_2_1_20150907_150721661_ios.jpg)
 
 **Plex Pass:** For those of you that are REALLY into your personal media options, Plex has a ton of features available. If you purchase a [Plex Pass](https://plex.tv/subscription/about) (\$15 a month), you unlock access to any device you want for viewing. In addition, you can have your plex box available over the web, so you can view your movies while you’re away from home, without having to download them. The Plex server is smart enough to transcode the movies on the fly based on your device, so you’re not sending down a huge 1080p large resolution movie to your 7 inch tablet that is going to ignore most of those bits and potentially stutter anyway. I haven’t found the need for the Plex Pass myself, but down the road it may be worthwhile.
 

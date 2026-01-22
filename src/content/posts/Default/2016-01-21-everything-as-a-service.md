@@ -12,7 +12,7 @@ Having signed up for the full Amazon Prime experience over the weekend, I starte
 
 <!--more-->
 
-![service-button.png](../img_post/2016-01-21-everything-as-a-service/2016-01-service-button.jpg)
+![service-button.png](@assets/images/posts/2016-01-service-button.jpg)
 
 A quick overview of services I’ve seen or signed up for are as follows:
 

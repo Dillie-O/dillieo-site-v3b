@@ -22,7 +22,7 @@ In my last few entries, I have outlined how I was able to build my [Bookmarkinat
 
 <!-- wp:image {"id":"media-108"} -->
 
-![](../img_post/2019-01-30-bootstrap-your-app-for-free-part-3-security-and-naming/2019-01-pexels-photo-258174.jpg)
+![](@assets/images/posts/2019-01-pexels-photo-258174.jpg)
 
 Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/close-up-of-no-4711-258174/)
 

@@ -12,7 +12,7 @@ Nowadays, it’s rare to find something that you’ll go back to more than once.
 
 <!--more-->
 
-![BuffyAngelLogos](../img_post/2016-01-13-buffy-and-angel/2016-01-buffyangellogos.png)
+![BuffyAngelLogos](@assets/images/posts/2016-01-buffyangellogos.png)
 
 I’ve always been a little more partial towards Angel. The series is a bit darker, the story of redemption seems a little more appealing to me. The journeys each character goes through seems more profound as well, especially given the situation they are thrust into during the final season.
 

@@ -14,25 +14,25 @@ I’ll admit blogging was getting a little stale. I don’t think it was so much
 
 Desk is a blog publishing app with the goal of taking away the clutter that you find with most blogging platforms and allow you to simply tell your story. Here’s what you’re typical composition window looks like...
 
-![](../img_post/2014-10-30-desk-made-me-fall-in-love-with-blogging-again/2014-10-desk_mainscreen.png)
+![](@assets/images/posts/2014-10-desk_mainscreen.png)
 
 …beautiful, isn’t it?! You can simply type away without the distractions of drop down lists, checkboxes, buttons, and everything else. Desk also supports different layout modes depending on how you like to write:
 
-![](../img_post/2014-10-30-desk-made-me-fall-in-love-with-blogging-again/2014-10-desk_night_mode.png)Night Mode
+![](@assets/images/posts/2014-10-desk_night_mode.png)Night Mode
 
-![](../img_post/2014-10-30-desk-made-me-fall-in-love-with-blogging-again/2014-10-desk_fullscreenmode.png) Full Screen Mode
+![](@assets/images/posts/2014-10-desk_fullscreenmode.png) Full Screen Mode
 
-![](../img_post/2014-10-30-desk-made-me-fall-in-love-with-blogging-again/2014-10-desk_transparent_mode.png)
+![](@assets/images/posts/2014-10-desk_transparent_mode.png)
 
 Transparent Mode
 
 Desk even supports Markdown code. I’ll admit I was a little reluctant to work with Markdown, but being able to simply **bold** some text without any fancy keystrokes is great!
 
-![](../img_post/2014-10-30-desk-made-me-fall-in-love-with-blogging-again/2014-10-desk_markdown.png)
+![](@assets/images/posts/2014-10-desk_markdown.png)
 
 Working with images is simple as well. Simply drag and drop an image into a post and it shows right up with options for resizing and alignment:
 
-![](../img_post/2014-10-30-desk-made-me-fall-in-love-with-blogging-again/2014-10-desk_image_addition.png)
+![](@assets/images/posts/2014-10-desk_image_addition.png)
 
 But Desk isn’t just a “text editor” with a few extra features. It’s designed to allow you to easily publish your stories wherever you want. Currently you can publish to WordPress, Blogger, Tumblr, Facebook, Typepad, Movable Type, and Squarespace. That allows you to take the SAME post and not have to retype, or even copy/paste it several times if you’re spanning multiple blogs. Just change your target and you’re set!
 

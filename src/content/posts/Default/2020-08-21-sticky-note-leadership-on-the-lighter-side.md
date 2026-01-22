@@ -22,7 +22,7 @@ I’ve been away from my office desk for a few months now, but when I was bringi
 
 <!-- wp:image {"id":6991,"sizeSlug":"large"} -->
 
-![](../img_post/2020-08-21-sticky-note-leadership-on-the-lighter-side/2020-08-stickynote_machinelearning.jpg)
+![](@assets/images/posts/2020-08-stickynote_machinelearning.jpg)
 
 <!-- /wp:image -->
 

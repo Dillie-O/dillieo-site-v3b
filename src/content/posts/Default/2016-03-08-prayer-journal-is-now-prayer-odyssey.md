@@ -14,4 +14,4 @@ https://prayerodyssey.wordpress.com/2016/03/09/same-ideas-new-name-expanded-focu
 
 <!--more-->
 
-![prayerodyssey_logo_large](../img_post/2016-03-08-prayer-journal-is-now-prayer-odyssey/2016-03-10580152_285972251603380_1135550394199979944_n.png)
+![prayerodyssey_logo_large](@assets/images/posts/2016-03-10580152_285972251603380_1135550394199979944_n.png)

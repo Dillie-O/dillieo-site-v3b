@@ -8,7 +8,7 @@ category: Default
 tags: [grilled-cheese, ham, pickles, recipes]
 ---
 
-![GrilledCheeseAd](../img_post/2010-11-11-adhoc-cuban-grilled-cheese-sandwich/2010-11-grilledcheesead_thumb.png)
+![GrilledCheeseAd](@assets/images/posts/2010-11-grilledcheesead_thumb.png)
 
 If you’re familiar with the recipe, there is such a thing as a “cuban” Panini sandwich. The distinguishing factor to them are the tang of the deli mustard and pickles in it.
 

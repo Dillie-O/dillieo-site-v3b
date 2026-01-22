@@ -8,7 +8,7 @@ category: Default
 tags: [audio-adrenaline, rock, song-of-the-week]
 ---
 
-![Lift Album by Audio Adrenaline](../img_post/2011-08-12-song-of-the-week-lonely-man-by-audio-adrenaline/2011-08-liftalbumcover.jpg "Lift Album Cover")
+![Lift Album by Audio Adrenaline](@assets/images/posts/2011-08-liftalbumcover.jpg "Lift Album Cover")
 
 Sometimes you need some good old fashioned audio intense rock to finish off. Audio Adrenaline always does the job nicely.
 

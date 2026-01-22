@@ -8,7 +8,7 @@ category: Default
 tags: [france, life, time-management, work]
 ---
 
-![FrenchCoffeeClock](../img_post/2011-03-10-living-the-french-work-life/2011-03-frenchcoffeeclock.png "FrenchCoffeeClock")
+![FrenchCoffeeClock](@assets/images/posts/2011-03-frenchcoffeeclock.png "FrenchCoffeeClock")
 
 When I spent a couple of summers in France on a missions trip, I was impressed, and a bit envious, of the two hour lunch schedule. We were able to relax and chat at a restaurant, or maybe do a little exploring, or even a nap 8^D. The biggest impact for me though was that it helped keep the day from getting too overwhelming, since there was a significant break away from work.
 

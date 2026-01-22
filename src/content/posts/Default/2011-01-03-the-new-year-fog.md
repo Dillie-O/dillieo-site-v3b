@@ -8,7 +8,7 @@ category: Default
 tags: [life, new-years, pensee, plans, things-to-do]
 ---
 
-![Fog](../img_post/2011-01-03-the-new-year-fog/2011-01-tree-in-fog_thumb.jpg)
+![Fog](@assets/images/posts/2011-01-tree-in-fog_thumb.jpg)
 
 I don’t know about you, but I’m in a bit of a fog coming out of the Christmas and New Years holidays.
 

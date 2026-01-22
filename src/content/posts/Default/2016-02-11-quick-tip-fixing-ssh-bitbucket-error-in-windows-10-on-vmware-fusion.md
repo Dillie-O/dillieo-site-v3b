@@ -20,4 +20,4 @@ It looks like VMWare might be looking into this, but it's hard to "point blame" 
 
 <!--more-->
 
-![Quick Tip](../img_post/2016-02-11-quick-tip-fixing-ssh-bitbucket-error-in-windows-10-on-vmware-fusion/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)

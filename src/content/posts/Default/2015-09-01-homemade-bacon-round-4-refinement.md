@@ -12,7 +12,7 @@ There’s a saying I heard once that says “Software is never finished, only ab
 
 <!--more-->
 
-![20150728_144941583_iOS.png](../img_post/2015-09-01-homemade-bacon-round-4-refinement/2015-07-20150728_144941583_ios.jpg)
+![20150728_144941583_iOS.png](@assets/images/posts/2015-07-20150728_144941583_ios.jpg)
 
 I added another 3/4c of maple syrup to the recipe. I trimmed back the smoked salt to a single tablespoon. Everything else remained the same. I cured for three days. Oh, those three days can always be so maddening when it comes to bacon!
 

@@ -12,7 +12,7 @@ I've been on a long journey with Bitcoin. Having missed out in the really early 
 
 <!--more-->
 
-![bitcoin.png](../img_post/2016-04-25-bitcoin-for-the-newcomer-hope-again/2015-05-bitcoin1.png)
+![bitcoin.png](@assets/images/posts/2015-05-bitcoin1.png)
 
 As of Monday, bitcoin is back up to roughly \$465 per BTC, effectively double what the value was when I "hibernated" from the quest. I still have my [coinbase](https://www.coinbase.com/join/dillieo) account (you should get one) and while there was no interest to gain while holding my funds there, I was able to "snowball" all my resources back into there with my whopping .010146 BTC (or 1,014,600 satoshis) all snug and secure. I had a whopping 8 bucks this morning!
 

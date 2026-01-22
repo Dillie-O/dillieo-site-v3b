@@ -12,7 +12,7 @@ I realized that I did a blog post a long time back about tips for [running up a 
 
 <!--more-->
 
-![20160512_134907628_iOS](../img_post/2016-05-12-running-tip-a-good-runner-pulls-down-the-hill/2016-05-20160512_134907628_ios.jpg)
+![20160512_134907628_iOS](@assets/images/posts/2016-05-20160512_134907628_ios.jpg)
 
 So here's the trick I use: a good runner PULLS down the hills. There's no real clever acronym to this really. As soon as you crest that hill, or enter that descent, you'll feel it. Your good 'ol buddy gravity is starting to tug at you. It's tempting to resist this force at first. You're body is tired. Letting the pull take ahold of you seems like it will make you go faster and wear you out even more. In a particularly steep hill, that pull could make you lose your balance, trip, and then you're really not sitting pretty.
 

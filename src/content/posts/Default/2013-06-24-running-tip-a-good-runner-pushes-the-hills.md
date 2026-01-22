@@ -8,7 +8,7 @@ category: Default
 tags: [hills, life, running, tips]
 ---
 
-![Carriage Trail, Redlands 5-19-13a](../img_post/2013-06-24-running-tip-a-good-runner-pushes-the-hills/7385-9018212718_fba97dd828.jpg "Carriage Trail, Redlands 5-19-13a")
+![Carriage Trail, Redlands 5-19-13a](@assets/images/posts/7385-9018212718_fba97dd828.jpg "Carriage Trail, Redlands 5-19-13a")
 
 It's a little crazy to think that my big Ragnar race is less than a month away! As I've been on my training runs, there's one constant: I make sure to hit two major hills during my run. Sometimes they are short and steep, sometimes they are a longer and gradual. Either way, a hill placed at the wrong time can suck all energy and momentum out of your run. Here are some tricks (and a pseudo clever acronym) I use to get through them.
 

@@ -30,7 +30,7 @@ The best part with the Ruby formatting (and most importantly) is that you can ge
 
 And you can see things like this!
 
-![Quote Shot](../img_post/2013-05-04-introducing-quoteadillieo-alpha/2013-05-quoteshot.png)
+![Quote Shot](@assets/images/posts/2013-05-quoteshot.png)
 
 Finally, if you're feeling experimental, you can get the quote text in raw JSON format:
 

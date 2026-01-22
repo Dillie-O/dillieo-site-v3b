@@ -22,7 +22,7 @@ There are several advantages to this. If you have multiple computers you need to
 
 After upgrading, I started digging around the recovery settings and found this nice screen.
 
-![](../img_post/2015-07-30-windows-10-upgrade-basics-what-you-need-to-know/2015-07-win10rollback.png)
+![](@assets/images/posts/2015-07-win10rollback.png)
 
 After doing a little more reading online, I found out that the Windows 10 upgrade process is a little different from the past. The upgrade is effectively giving you a clean install of Windows 10 by moving all the old operating system files to a separate folder, putting in the new operating system, and then merging in any documents or applications you have installed, if you choose to keep them. This is a lot better than the “patchy” upgrades that I’ve gone through (and now completely avoid) in the past.
 
@@ -36,7 +36,7 @@ My initial plan was to grab the ISO and do a fresh install of Windows 10, expect
 
 However, as part of the new system recovery system, there is a way to do a “reset” of Windows 10 to a pure install and choose not to recover any of your files or apps that you have installed. This will give you a “clean” environment in which to work with, which could be just as close to the real deal.
 
-![](../img_post/2015-07-30-windows-10-upgrade-basics-what-you-need-to-know/2015-07-win10reset.png)
+![](@assets/images/posts/2015-07-win10reset.png)
 
 ### Go Upgrade!
 

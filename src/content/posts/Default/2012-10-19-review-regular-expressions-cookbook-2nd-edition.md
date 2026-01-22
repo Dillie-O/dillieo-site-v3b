@@ -8,7 +8,7 @@ category: Default
 tags: [programming, regex, regular-expressions, reviews]
 ---
 
-![Regular Expressions Cover](../img_post/2012-10-19-review-regular-expressions-cookbook-2nd-edition/2012-10-regularexpressionscover.gif)
+![Regular Expressions Cover](@assets/images/posts/2012-10-regularexpressionscover.gif)
 
 I'll never forget the day I came across regular expressions. I was a year out of college and at my first "big" job at a major University and I ran into a challenge where I needed to detect the status of destination of packages arriving on campus based on a special reference code that was attached to the packages. While there were a large amount of options that made hard coding the processing undesirable, the format of the reference code was easy to discern. From here I discovered that regular expressions allowed me to get my location, floor, and sometimes room in two or three simple lines of code. Since then I've always tried to keep somewhat up to par on my regular expression proficiency. That is why I was really excited to come across _Regular Expressions Cookbook, 2nd Edition_ by Jan Goyvaerts and Steven Levithan that provides everything I need to work with Regular Expressions.
 

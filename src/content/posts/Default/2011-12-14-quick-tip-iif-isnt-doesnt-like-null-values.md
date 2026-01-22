@@ -8,7 +8,7 @@ category: Default
 tags: [coding, function, iif, operator, quick-tip, ternary, vbnet, visual-basic]
 ---
 
-![Quick Tip](../img_post/2011-12-14-quick-tip-iif-isnt-doesnt-like-null-values/2011-12-quicktip.jpg)
+![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
 
 I've spent a good day beating my head up against a wall, and discovered that our VB ternary friend can be a little unfriendly at times...
 

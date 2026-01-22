@@ -12,7 +12,7 @@ It's been about a month an a half now since I did something I would call "crazy 
 
 <!--more-->
 
-![tap_shoes](../img_post/2016-09-16-do-something-crazy-new/2016-09-13724543_283502655354537_1127416094_n.jpg)
+![tap_shoes](@assets/images/posts/2016-09-13724543_283502655354537_1127416094_n.jpg)
 
 During this past week I was finally introduced to the "Shirley Temple" (shuffle, heel, heel, pull, heel, tap, heel, repeat -- or something close to that) and I realized how much I enjoyed things for a variety of reasons.
 

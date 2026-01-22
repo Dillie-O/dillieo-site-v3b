@@ -12,7 +12,7 @@ As I’m working through my [Prayer Odyssey](http://www.prayerodyssey.com) proje
 
 <!--more-->
 
-![xamarin-logo](../img_post/2016-07-28-connecting-your-local-api-in-xamarin-and-vmware-fusion/2016-04-xamarin-logo.jpg)
+![xamarin-logo](@assets/images/posts/2016-04-xamarin-logo.jpg)
 
 ## TLDR;
 
@@ -32,7 +32,7 @@ It’s not hard to connect to the VM, you just need the IP address of the virtua
 
 Then you’ll see the IP address of your VM.
 
-![](../img_post/2016-07-28-connecting-your-local-api-in-xamarin-and-vmware-fusion/2016-07-xamarin_guest_ip.png)
+![](@assets/images/posts/2016-07-xamarin_guest_ip.png)
 
 From here, simply update your hosts file to include the IP address and the URL of your API in your VM (api.prayerodyssey.dev), and you’re set. Are you still running your API out of localhost? You might want to reconfigure your web/api project to use a custom .dev domain name, which you can do by [following these directions](/soup-to-nuts-custom-domains-and-ssl-in-iis-express).
 
@@ -42,11 +42,11 @@ Sure you can ping your virtual machine now, but you’re still not getting to th
 
 To start, open the Windows Firewall, and then select “Advanced Settings"
 
-![](../img_post/2016-07-28-connecting-your-local-api-in-xamarin-and-vmware-fusion/2016-07-xamarin_firewall_1.png)
+![](@assets/images/posts/2016-07-xamarin_firewall_1.png)
 
 From there, select “Inbound Rules” on the left and then select “New Rule…” on the right
 
-![](../img_post/2016-07-28-connecting-your-local-api-in-xamarin-and-vmware-fusion/2016-07-xamarin_firewall_2.png)
+![](@assets/images/posts/2016-07-xamarin_firewall_2.png)
 
 In the window that opens up, go through the following steps:
 
@@ -63,7 +63,7 @@ Test Away!
 
 Now that we can direct our requests to the VM machine and we have the ports open, you can fire up your browser and check things are working.
 
-![](../img_post/2016-07-28-connecting-your-local-api-in-xamarin-and-vmware-fusion/2016-07-xamarin_dev.png)
+![](@assets/images/posts/2016-07-xamarin_dev.png)
 
 Similarly, if you relaunch your mobile app in the iOS simulator, it’ll be able to connect to the API in your VM and work as intended.
 

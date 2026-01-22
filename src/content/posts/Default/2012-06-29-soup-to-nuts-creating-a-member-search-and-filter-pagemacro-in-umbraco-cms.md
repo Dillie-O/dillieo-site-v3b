@@ -8,7 +8,7 @@ category: Default
 tags: [cms, coding, filter, member, razor, script, sort, umbraco]
 ---
 
-![Soup to Nuts - The Complete Package](../img_post/2012-06-29-soup-to-nuts-creating-a-member-search-and-filter-pagemacro-in-umbraco-cms/2011-08-soup2nuts.jpg)
+![Soup to Nuts - The Complete Package](@assets/images/posts/2011-08-soup2nuts.jpg)
 
 Recently I've started working with the Umbraco CMS for a project at work. While there was a bit of a learning curve to Umbraco (having done a lot of WordPress work as of late) I found it to be very robust and powerful. One of the things we needed to add to our Umbraco site was a page that allowed members to search and sort all the members that had opted in to be on the list. While the solution is rather simple, tracking it down wasn't.
 

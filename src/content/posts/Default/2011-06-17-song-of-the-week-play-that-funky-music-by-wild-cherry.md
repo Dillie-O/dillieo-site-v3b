@@ -8,7 +8,7 @@ category: Default
 tags: [funk, song-of-the-week, wild-cherry]
 ---
 
-![](../img_post/2011-06-17-song-of-the-week-play-that-funky-music-by-wild-cherry/2011-06-wildcherrycover.jpg "wildcherrycover")
+![](@assets/images/posts/2011-06-wildcherrycover.jpg "wildcherrycover")
 
 If you can't half laugh at yourself and half get a groove on, then you need some funk in your life...
 

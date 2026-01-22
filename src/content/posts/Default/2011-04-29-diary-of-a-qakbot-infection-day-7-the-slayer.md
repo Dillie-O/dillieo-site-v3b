@@ -8,7 +8,7 @@ category: Default
 tags: [geekery, qakbot, virus]
 ---
 
-![Slayer Name tag](../img_post/2011-04-29-diary-of-a-qakbot-infection-day-7-the-slayer/2011-04-0425111515.jpg "Slayer Name tag")
+![Slayer Name tag](@assets/images/posts/2011-04-0425111515.jpg "Slayer Name tag")
 
 TL;DR - We've reached cleanup mode for Qakbot, and are going to analyze what happened, the good, the bad, and the ugly to better handle this situation next time.
 

@@ -12,7 +12,7 @@ All I wanted was a new mug for my coffee...
 
 <!--more-->
 
-![20160209_043403473_iOS](../img_post/2016-02-08-in-which-i-graciously-thank-starbucks-for-exceeding-customer-service/2016-02-20160209_043403473_ios.jpg)
+![20160209_043403473_iOS](@assets/images/posts/2016-02-20160209_043403473_ios.jpg)
 
 ...I was about half way through my cup of coffee (a unique and smooth West Java Preanger) at the [Starbucks Reserve Roastery & Tasting Room](http://roastery.starbucks.com) when I noticed a few drips in my hand. I had put a napkin there since a little had spilled when first being set on my tray. Alas no, there was a tiny crack near the bottom of my mug and it was causing a noticeable beading of coffee that would drip.
 

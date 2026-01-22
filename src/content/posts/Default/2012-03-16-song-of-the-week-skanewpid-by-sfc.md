@@ -8,7 +8,7 @@ category: Default
 tags: [hip-hop, sfc, skanewpid, song-of-the-week]
 ---
 
-![SFC Phase III](../img_post/2012-03-16-song-of-the-week-skanewpid-by-sfc/2012-03-sfc_piii.jpg)
+![SFC Phase III](@assets/images/posts/2012-03-sfc_piii.jpg)
 
 In honor of my old friend Josh's birthday, I'm posting an old hip-hop favorite. Mainly because he pegged the title, intentionally or unintentionally, I don't know.
 

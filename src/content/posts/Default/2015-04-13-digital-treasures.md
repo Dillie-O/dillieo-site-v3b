@@ -12,7 +12,7 @@ About 4 or 5 years ago, one of the hard drives on an old computer failed. While 
 
 <!--more-->
 
-![](../img_post/2015-04-13-digital-treasures/2015-04-me-journalinfrance.jpg "Being in a foreign country really fills a journal up...")
+![](@assets/images/posts/2015-04-me-journalinfrance.jpg "Being in a foreign country really fills a journal up...")
 
 Due to the way the drive was damaged, the only way to attempt to restore the photos was to use a “low level” hard drive recovery tool that pulled EVERY image that existed on the system. Every photo, every program icon, every program button, all recovered. All of those browser buttons, images, links that get cached _\[note: Facebook hasn’t really changed their logo in 5 years]_, all of those were retrieved too. When the images were restored, they didn’t have their original folders, and sometimes not even their original names. When all was said and done, I had about 256 folders (not counting the nested ones) all named something like “recupdir_25” and 82,000 files to filter through.
 
@@ -24,18 +24,18 @@ My first summer trip to France and the journaling I did many an evening sitting 
 
 The first big road trip we took with the kids to visit my best friend, his wife, and let our girls explore the ocean and sea.
 
-![](../img_post/2015-04-13-digital-treasures/2015-04-f60063592.jpg "...such a huge world for little eyes")
+![](@assets/images/posts/2015-04-f60063592.jpg "...such a huge world for little eyes")
 
 The simple pleasures, that feel like a photo is simply warranted.
 
-![](../img_post/2015-04-13-digital-treasures/2015-04-100_9527.jpg "Hey, let's go!")
+![](@assets/images/posts/2015-04-100_9527.jpg "Hey, let's go!")
 
 Experiencing crazy weather.
 
-![](../img_post/2015-04-13-digital-treasures/2015-04-f20217056.jpg "This hat is 100% propelled by Chicago winds...")
+![](@assets/images/posts/2015-04-f20217056.jpg "This hat is 100% propelled by Chicago winds...")
 
 Seeing what happens when you get older and all your close friends have kids too.
 
-![](../img_post/2015-04-13-digital-treasures/2015-04-groupshot.jpg "I'm not sure if we'll ever by fully serious 8^D")
+![](@assets/images/posts/2015-04-groupshot.jpg "I'm not sure if we'll ever by fully serious 8^D")
 
 There are still heaps of photos to pour through and it will be wonderful to see what else is there. It is a great reminder that while I most likely will not have every little whim and want that goes through my mind in this lifetime, I have more than [enough](/enough).

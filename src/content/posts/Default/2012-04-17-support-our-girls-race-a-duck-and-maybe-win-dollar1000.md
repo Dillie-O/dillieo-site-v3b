@@ -8,7 +8,7 @@ category: Default
 tags: [duck, fundraiser, haylee, life, rylee]
 ---
 
-![Duck Derby Girls](../img_post/2012-04-17-support-our-girls-race-a-duck-and-maybe-win-dollar1000/2012-04-imag0691.jpg "Duck Derby Girls")
+![Duck Derby Girls](@assets/images/posts/2012-04-imag0691.jpg "Duck Derby Girls")
 
 Greetings friends and family...
 

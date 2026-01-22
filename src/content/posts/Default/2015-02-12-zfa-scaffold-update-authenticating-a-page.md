@@ -12,7 +12,7 @@ Last week a nice guy named [Greg](https://informaticianuk.wordpress.com) reached
 
 <!--more-->
 
-![zurb_foundation_for_apps.png](../img_post/2015-02-12-zfa-scaffold-update-authenticating-a-page/2015-01-zurb_foundation_for_apps.png)
+![zurb_foundation_for_apps.png](@assets/images/posts/2015-01-zurb_foundation_for_apps.png)
 
 The simple trick is to check the authentication object again when the controller initializes itself. You’ll find that sometimes when you rebuild your .Net app, or fire up the browser for the first time the browser retains an older cookie, even though it has expired, so some of your “logged in” items are still visible. By running a simple auth check again, we can eliminate that problem on the client side. To accomplish this, we include the location and authService directives into the controller. Here’s what the updated News controller looks like:
 

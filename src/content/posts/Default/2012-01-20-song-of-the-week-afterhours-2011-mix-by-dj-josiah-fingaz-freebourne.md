@@ -8,7 +8,7 @@ category: Default
 tags: ["1", dance, dj-josiah, electro, house, song-of-the-week]
 ---
 
-![DJ Josiah](../img_post/2012-01-20-song-of-the-week-afterhours-2011-mix-by-dj-josiah-fingaz-freebourne/2012-01-djjosiah.jpg)
+![DJ Josiah](@assets/images/posts/2012-01-djjosiah.jpg)
 
 This week we have another phenominal dance/house set from a guy I've been following for a little while now, [DJ Josiah "Fingaz" Freebourne](http://www.djjosiah.com)!
 

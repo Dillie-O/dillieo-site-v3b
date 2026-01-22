@@ -16,7 +16,7 @@ For me, it’s a bit of what keeps me up at night and what gets me up early in t
 
 <!--more-->
 
-![](../img_post/2015-03-20-late-nights-and-early-mornings/2015-03-dark-dusk-evening-289.jpg)
+![](@assets/images/posts/2015-03-dark-dusk-evening-289.jpg)
 
 I’ve been spending some late nights and early mornings on the following:
 

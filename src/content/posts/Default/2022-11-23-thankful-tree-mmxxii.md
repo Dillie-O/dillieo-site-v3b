@@ -10,7 +10,7 @@ tags: [life, pensee, thankfulness, thanksgiving]
 
 <!-- wp:image {"align":"center","id":3954,"sizeSlug":"medium","linkDestination":"media"} -->
 
-![thankful tree](../img_post/2022-11-23-thankful-tree-mmxxii/2014-11-thankfultree2012.png)
+![thankful tree](@assets/images/posts/2014-11-thankfultree2012.png)
 
 <!-- /wp:image -->
 

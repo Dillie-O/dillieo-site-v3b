@@ -8,7 +8,7 @@ category: Default
 tags: [career, fresh-consulting, life]
 ---
 
-![Fresh Logo](../img_post/2011-05-12-a-fresh-start/2011-05-freshlogo.jpg)
+![Fresh Logo](@assets/images/posts/2011-05-freshlogo.jpg)
 
 It has been a busy and crazy road for me the last few months. Between Qakbot slaying and app writing, I've also been working on reading up on the latest HTML5/CSS specs (hence the book reviews), working on an iPhone app, and working some side projects that have kept me up late at night.
 

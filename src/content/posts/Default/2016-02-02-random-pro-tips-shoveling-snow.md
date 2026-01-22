@@ -12,7 +12,7 @@ This is partially an excuse to have a picture of ducks in the snow (what?! they 
 
 <!--more-->
 
-![20160201_190201121_iOS](../img_post/2016-02-02-random-pro-tips-shoveling-snow/2016-02-20160201_190201121_ios.jpg)
+![20160201_190201121_iOS](@assets/images/posts/2016-02-20160201_190201121_ios.jpg)
 
 ### Galoshes
 

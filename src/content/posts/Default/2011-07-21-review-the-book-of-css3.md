@@ -8,7 +8,7 @@ category: Default
 tags: [css3, programming, reviews, web-development]
 ---
 
-![Book of CSS3 Cover](../img_post/2011-07-21-review-the-book-of-css3/2011-07-bookofcss3cover.gif "Book of CSS3 Cover")
+![Book of CSS3 Cover](@assets/images/posts/2011-07-bookofcss3cover.gif "Book of CSS3 Cover")
 
 I've been slowly working on my "front end" web development for a while and the critical piece to this is being able to leverage CSS better. With the ability to write mobile compatible applications as well, making CSS work for you is even more important. Fortunately, _The Book of CSS3_ by Peter Gasston gives you a deep and complete view of the CSS3 specification and how to make it work on your sites.
 

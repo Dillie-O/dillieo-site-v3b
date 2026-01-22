@@ -12,7 +12,7 @@ I was checking my WordPress stats the other day and an received a “note” tha
 
 <!--more-->
 
-![](../img_post/2015-03-04-on-anniversaries/2015-03-bloganniversary1.png)
+![](@assets/images/posts/2015-03-bloganniversary1.png)
 
 Surprisingly enough, I was doing a lot of the same things now as I was doing then. My first main post covered getting Log4Net off the ground (since I hadn’t seen any large tutorials out there) and the I followed up with how mentoring was helping others as well as myself. I had some more fun recollecting my computers since I was a kid.
 

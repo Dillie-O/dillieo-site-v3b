@@ -8,7 +8,7 @@ category: Default
 tags: [life, self-care, time-management]
 ---
 
-| ![bible margin notes](../img_post/2023-02-17-fabulous-fail-friday-margin/margin-notes.png) | 
+| ![bible margin notes](@assets/images/posts/margin-notes.png) | 
 |:--:| 
 | *Photo by Margaret Nyman* |
 

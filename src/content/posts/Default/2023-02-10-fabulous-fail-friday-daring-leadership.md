@@ -8,7 +8,7 @@ category: Default
 tags: [life, leadership, communication]
 ---
 
-| ![people talking](../img_post/2023-02-10-fabulous-fail-friday-daring-leadership/communication-tirachard-kumtanom.jpg) | 
+| ![people talking](@assets/images/posts/communication-tirachard-kumtanom.jpg) | 
 |:--:| 
 | *Photo by Tirachard Kumtanom* |
 

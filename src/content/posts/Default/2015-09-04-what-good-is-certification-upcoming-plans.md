@@ -12,7 +12,7 @@ Certifications have been in the tech community for quite a while now. CCNA, ACT,
 
 <!--more-->
 
-![](../img_post/2015-09-04-what-good-is-certification-upcoming-plans/2015-09-red-certified-stamp_small1.jpg)
+![](@assets/images/posts/2015-09-red-certified-stamp_small1.jpg)
 
 I’ve always flip-flopped on the merit of certifications. Some have a reputation for easily being attained. Most of them require one or more tests, and those tests aren’t cheap either. Then comes the renewal process every year or two (depending on certification) which can cost more money and more time. With the ever increasing “github resume” (show me your projects and/or code contributions) and plenty of people earning degrees in computer science out there, it seems like getting a certification is a needless exercise.
 

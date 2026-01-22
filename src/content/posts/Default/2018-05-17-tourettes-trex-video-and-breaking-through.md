@@ -12,7 +12,7 @@ There's a longer post that will followup on this in the future, but a handful of
 
 <!--more-->
 
-![t-rextra_izzy_raleigh](../img_post/2018-05-17-tourettes-trex-video-and-breaking-through/2018-05-t-rextra_izzy_raleigh.png)
+![t-rextra_izzy_raleigh](@assets/images/posts/2018-05-t-rextra_izzy_raleigh.png)
 
 Earlier this year Haylee was diagnosed as having Tourettes after a year of us [trying to figure out](/arrival) exactly what was going on. This was a victory in that we now has a "name' to what was happening, but it created new challenges for us, especially for the girls.
 

@@ -8,7 +8,7 @@ category: Default
 tags: [children, haylee, life, parenting, rylee, toys, vacuum-monster]
 ---
 
-![Mommy and her Kindergarten Girls](../img_post/2012-01-24-the-thoughts-and-compassion-of-children/2011-08-img_0825-e1314207573626.jpg "Mommy and her Kindergarten Girls")
+![Mommy and her Kindergarten Girls](@assets/images/posts/2011-08-img_0825-e1314207573626.jpg "Mommy and her Kindergarten Girls")
 
 They truly never cease to amaze me. Here's the back story. For a while now we've had some issues with the girls' cleaning their bedroom. We've tried working with them to clean their room, we've tried taking away a few things. Even denied them dessert one time. Nothing seemed to work. Then one day the vacuum monster came to town.
 

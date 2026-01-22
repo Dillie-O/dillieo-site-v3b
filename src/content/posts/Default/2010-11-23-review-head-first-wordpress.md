@@ -8,7 +8,7 @@ category: Default
 tags: [reviews, wordpress]
 ---
 
-![HeadFirstWordPressCover](../img_post/2010-11-23-review-head-first-wordpress/2010-11-headfirstwordpresscover.gif "HeadFirstWordPressCover")
+![HeadFirstWordPressCover](@assets/images/posts/2010-11-headfirstwordpresscover.gif "HeadFirstWordPressCover")
 
 I’m a seasoned web developer that has been working a little bit with WordPress over the past 6 months. I’ve read books in the “Head First” series before, so when I discovered that there was a WordPress edition, I grabbed it without hesitation. _Head First WordPress_ by _Jeff Siarto_ (_HWP_) provides an excellent introduction into the WordPress environment.
 

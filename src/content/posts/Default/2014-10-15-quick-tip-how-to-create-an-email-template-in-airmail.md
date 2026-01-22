@@ -14,17 +14,17 @@ Ever since Outlook started giving me grief, I’ve become a big fan of [Airmail]
 
 The first step is to send an e-mail to yourself with the content that you want to save as a template. Here’s what mine looks like:
 
-![1413331258_0.png](../img_post/2014-10-15-quick-tip-how-to-create-an-email-template-in-airmail/2014-10-1413331258_0.png)
+![1413331258_0.png](@assets/images/posts/2014-10-1413331258_0.png)
 
 Once your e-mail arrives. Open it up. Then use the File->Export to EML option available within Airmail. I created a “E-mail Templates” folder under my “Documents” folder and saved it there.
 
-![1413331260_1.png](../img_post/2014-10-15-quick-tip-how-to-create-an-email-template-in-airmail/2014-10-1413331260_1.png)
+![1413331260_1.png](@assets/images/posts/2014-10-1413331260_1.png)
 
 The next step is to make sure that Airmail is the default application used for email messages. If it isn’t, then you can follow the directions outlined [here](http://www.mariasguides.com/2007/12/21/changing-mac-os-xs-default-e-mail-application/). I’ve also found that I can right click on the .eml file, use the “Open With…” option and select Airmail, as well as checking the box to always open files with this program.
 
 Now that this is in place, you can use Alfred or Spotlight to quickly access your template. I hit ALT + SPACE, type in “DVS” and the first item in my results is my DVS email.
 
-![1413331262_2.png](../img_post/2014-10-15-quick-tip-how-to-create-an-email-template-in-airmail/2014-10-1413331262_2.png)
+![1413331262_2.png](@assets/images/posts/2014-10-1413331262_2.png)
 
 The message will open in Airmail, and I can simply copy/paste the message contents into a new message and go from there.
 

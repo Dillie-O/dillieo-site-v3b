@@ -12,7 +12,7 @@ About a week ago, we upgraded our kids from their LeapPad Explorer devices to Go
 
 <!--more-->
 
-![](../img_post/2015-02-19-kids-and-tech/2015-02-wp_20150213_001.jpg)_Does anybody have vinyl stickers like this on their car?_
+![](@assets/images/posts/2015-02-wp_20150213_001.jpg)_Does anybody have vinyl stickers like this on their car?_
 
 The amount of knowledge and resources out there is so empowering to my kids. The other day one of them stumbled upon a YouTube channel that teaches them how to draw cartoon characters and other things with some very simple steps. As budding artists and doodlers, they can’t get enough of this channel and it gives them the fundamentals that I can’t give them _\[I\_\_’m a stick figure master though…]_ We will let them watch some of their favorite shows as well from time to time, which leads to lots of word by word replay of old home videos through AFV. 8^D We are able to view some of their class resources online as well. This makes lugging around a bulky laptop _\[wow, am I really calling a laptop bulky considering the tower cases I built?!]_ unnecessary when we’re doing some quick errands or making a trip out and back.
 

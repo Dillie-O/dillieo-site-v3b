@@ -8,7 +8,7 @@ category: Default
 tags: [best-practice, coding, debug, problem-solving]
 ---
 
-![Thorough/Simple Flowchart](../img_post/2010-09-03-the-thorough-vs-the-simple/2010-09-flowchart-vs.png)
+![Thorough/Simple Flowchart](@assets/images/posts/2010-09-flowchart-vs.png)
 
 The other morning I ran into an urgent issue with one of our applications. I had recently made some updates, and had assumed that the end users had tested the full process of uploading data into their system. The process included generating a preview document (which looked fine) upon initial submission, with an import to the database.
 

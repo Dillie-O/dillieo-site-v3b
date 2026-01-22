@@ -8,7 +8,7 @@ category: Default
 tags: [life, perspective, smile, smiling]
 ---
 
-![IMG_4392-COLLAGE-2](../img_post/2018-01-10-dont-forget-to-smile/2018-01-img_4392-collage-2.jpg)
+![IMG_4392-COLLAGE-2](@assets/images/posts/2018-01-img_4392-collage-2.jpg)
 
 I've already [outlined earlier](/arrival) how last year was a really hard year for me and my family. However, Google Photos reminded me the other day that 2017 was also a year of smiles, partially due to some wonderful friends we had and some much needed breaks along the way.
 
