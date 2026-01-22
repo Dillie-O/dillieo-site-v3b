@@ -2,7 +2,7 @@
 title: Song Of The Week Close Your Eyes By R7
 description: r7-close-your-eyes
 published: 2015-08-28
-image: images/posts/2015-08-r7-close-your-eyes.webp
+image: images/posts/2015-08-r7-close-your-eyes.jpg
 imageAlt: r7-close-your-eyes
 category: Default
 tags: [life]

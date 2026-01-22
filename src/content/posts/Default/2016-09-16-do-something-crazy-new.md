@@ -2,7 +2,7 @@
 title: Do Something Crazy New
 description: tap_shoes
 published: 2016-09-16
-image: images/posts/2016-09-13724543_283502655354537_1127416094_n.webp
+image: images/posts/2016-09-13724543_283502655354537_1127416094_n.jpg
 imageAlt: tap_shoes
 category: Default
 tags: [adventure, dancing, fun, humility, learning, life, new-things, tap-dance]

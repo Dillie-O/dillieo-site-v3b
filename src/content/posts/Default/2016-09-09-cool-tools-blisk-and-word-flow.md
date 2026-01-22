@@ -2,7 +2,7 @@
 title: Cool Tools Blisk And Word Flow
 description: blisk_screenshot
 published: 2016-09-09
-image: images/posts/2016-09-blisk_screenshot.webp
+image: images/posts/2016-09-blisk_screenshot.png
 imageAlt: blisk_screenshot
 category: Default
 tags: [apps, bliss, geekery, iphone, mobile, tools, web-development, word-flow]

@@ -2,7 +2,7 @@
 title: Song Of The Week Never Alone Acoustic By Barlowgirl
 description: Another Journal Entry Cover
 published: 2011-09-30
-image: images/posts/2011-09-anotherjournalentrycover.webp
+image: images/posts/2011-09-anotherjournalentrycover.jpg
 imageAlt: Another Journal Entry Cover
 category: Default
 tags: [barlowgirl, rock, song-of-the-week]

@@ -2,7 +2,7 @@
 title: Fabulous Fail Friday Margin
 description: bible margin notes
 published: 2023-02-17
-image: images/posts/margin-notes.webp
+image: images/posts/margin-notes.png
 imageAlt: bible margin notes
 category: Default
 tags: [life, self-care, time-management]

@@ -2,7 +2,7 @@
 title: Fixing Video Display Issues With Vmware Fusion And Windows 10
 description: Fixing Video Display Issues With Vmware Fusion And Windows 10
 published: 2015-04-22
-image: images/posts/2015-04-windows-10.webp
+image: images/posts/2015-04-windows-10.jpg
 imageAlt: Fixing Video Display Issues With Vmware Fusion And Windows 10
 category: Default
 tags: [display, geekery, troubleshooting, video, vmware, windows-10]

@@ -2,7 +2,7 @@
 title: Song Of The Week Squirrels In My Pants By Phineas And Ferb
 description: S-I-M-P
 published: 2012-01-27
-image: images/posts/2012-01-simp.webp
+image: images/posts/2012-01-simp.jpg
 imageAlt: S-I-M-P
 category: Default
 tags: [hip-hop, phineas-and-ferb, song-of-the-week]

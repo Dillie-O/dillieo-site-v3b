@@ -2,7 +2,7 @@
 title: If I Was Stuck On A Deserted Island The 5 Books I Would Want With Me Are
 description: If I Was Stuck On A Deserted Island The 5 Books I Would Want With Me Are
 published: 2019-01-04
-image: images/posts/2019-01-pexels-photo-1166657.webp
+image: images/posts/2019-01-pexels-photo-1166657.jpg
 imageAlt: If I Was Stuck On A Deserted Island The 5 Books I Would Want With Me Are
 category: Default
 tags: [bible, books, les-miserables, life, little-prince, lord-of-the-rings, martian-chronicles, random]

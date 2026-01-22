@@ -2,7 +2,7 @@
 title: Quick Tip Removing The Double Login From Macos Sierra
 description: quick-tips.jpg
 published: 2016-11-16
-image: images/posts/2015-01-quick-tips.webp
+image: images/posts/2015-01-quick-tips.png
 imageAlt: quick-tips.jpg
 category: Default
 tags: [appleid, filevault, geekery, login, mac, osx]

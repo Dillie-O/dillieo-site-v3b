@@ -2,7 +2,7 @@
 title: Quick Tip Fixing The Datetime2 Problem With Entity Framework
 description: Quick Tip
 published: 2011-12-20
-image: images/posts/2011-12-quicktip.webp
+image: images/posts/2011-12-quicktip.jpg
 imageAlt: Quick Tip
 category: Default
 tags: [coding, entity-framework, quick-tip, sql-server, version]

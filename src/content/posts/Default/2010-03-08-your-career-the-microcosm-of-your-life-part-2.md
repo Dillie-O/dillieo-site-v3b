@@ -2,7 +2,7 @@
 title: Your Career The Microcosm Of Your Life Part 2
 description: MacroCosmos Image
 published: 2010-03-08
-image: images/posts/2010-03-macrocosmos1.webp
+image: images/posts/2010-03-macrocosmos1.png
 imageAlt: MacroCosmos Image
 category: Default
 ---

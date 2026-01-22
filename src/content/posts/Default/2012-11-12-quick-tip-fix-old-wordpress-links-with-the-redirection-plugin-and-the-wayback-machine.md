@@ -2,7 +2,7 @@
 title: Quick Tip Fix Old Wordpress Links With The Redirection Plugin And The Wayback Machine
 description: Quick Tip
 published: 2012-11-12
-image: images/posts/2011-12-quicktip.webp
+image: images/posts/2011-12-quicktip.jpg
 imageAlt: Quick Tip
 category: Default
 tags: ["404", geekery, link, quick-tip, redirection, way-back-machine, wordpress]

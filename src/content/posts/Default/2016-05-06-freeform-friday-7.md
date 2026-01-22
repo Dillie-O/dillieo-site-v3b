@@ -2,7 +2,7 @@
 title: Freeform Friday 7
 description: art-graffiti-abstract-vintage.jpg
 published: 2016-05-06
-image: images/posts/2016-01-art-graffiti-abstract-vintage.webp
+image: images/posts/2016-01-art-graffiti-abstract-vintage.jpg
 imageAlt: art-graffiti-abstract-vintage.jpg
 category: Default
 tags: [coding, sql, sql-server, t-sql]

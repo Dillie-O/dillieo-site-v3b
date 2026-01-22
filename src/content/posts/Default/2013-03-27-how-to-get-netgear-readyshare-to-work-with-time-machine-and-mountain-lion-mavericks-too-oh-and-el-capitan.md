@@ -2,7 +2,7 @@
 title: How To Get Netgear Readyshare To Work With Time Machine And Mountain Lion Mavericks Too Oh And El Capitan
 description: ReadyShare Final Result
 published: 2013-03-27
-image: images/posts/2013-03-readyshare_finalresult.webp
+image: images/posts/2013-03-readyshare_finalresult.png
 imageAlt: ReadyShare Final Result
 category: Default
 tags: [format, geekery, mac, mountain-lion, netgear, osx, partition, readyshare, samba]

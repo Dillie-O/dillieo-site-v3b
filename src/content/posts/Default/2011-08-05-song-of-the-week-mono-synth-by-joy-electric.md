@@ -2,7 +2,7 @@
 title: Song Of The Week Mono Synth By Joy Electric
 description: Joy Electric
 published: 2011-08-05
-image: images/posts/2011-08-screen-shot-2011-08-05-at-8-03-01-am.webp
+image: images/posts/2011-08-screen-shot-2011-08-05-at-8-03-01-am.png
 imageAlt: Joy Electric
 category: Default
 tags: [electronic, electronica, joy-electric, song-of-the-week]

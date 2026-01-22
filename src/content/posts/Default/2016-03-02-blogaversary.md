@@ -2,7 +2,7 @@
 title: Blogaversary
 description: Me-JournalinFrance.jpg
 published: 2016-03-02
-image: images/posts/2015-04-me-journalinfrance.webp
+image: images/posts/2015-04-me-journalinfrance.jpg
 imageAlt: Me-JournalinFrance.jpg
 category: Default
 tags: [blogging, life, reflection, statistics]

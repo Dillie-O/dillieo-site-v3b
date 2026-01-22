@@ -2,7 +2,7 @@
 title: Prayer Odyssey Progress
 description: prayer_odyssey_updates
 published: 2017-02-08
-image: images/posts/2017-02-prayer_odyssey_updates.webp
+image: images/posts/2017-02-prayer_odyssey_updates.png
 imageAlt: prayer_odyssey_updates
 category: Default
 tags: [geekery, prayer, prayer-odyssey, updates]

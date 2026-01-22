@@ -2,7 +2,7 @@
 title: Merry Christmas Eve
 description: Courthouse Christmas Lights
 published: 2015-12-24
-image: images/posts/2011-12-imag0290.webp
+image: images/posts/2011-12-imag0290.jpg
 imageAlt: Courthouse Christmas Lights
 category: Default
 tags: [life]

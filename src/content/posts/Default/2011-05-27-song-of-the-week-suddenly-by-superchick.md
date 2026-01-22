@@ -2,7 +2,7 @@
 title: Song Of The Week Suddenly By Superchick
 description: Song Of The Week Suddenly By Superchick
 published: 2011-05-27
-image: images/posts/2011-05-beautyfrompainalbum.webp
+image: images/posts/2011-05-beautyfrompainalbum.jpg
 imageAlt: Song Of The Week Suddenly By Superchick
 category: Default
 tags: [endurance, rock, song-of-the-week, superchick]

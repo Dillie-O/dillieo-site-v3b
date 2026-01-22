@@ -2,7 +2,7 @@
 title: Microsoft On Apple
 description: 20160907_144724000_ios
 published: 2016-09-07
-image: images/posts/2016-09-20160907_144724000_ios.webp
+image: images/posts/2016-09-20160907_144724000_ios.png
 imageAlt: 20160907_144724000_ios
 category: Default
 tags: [apps, bing, cortana, excel, geekery, ios, microsoft, onedrive, word]

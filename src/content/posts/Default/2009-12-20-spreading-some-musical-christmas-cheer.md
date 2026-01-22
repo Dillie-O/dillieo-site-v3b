@@ -2,7 +2,7 @@
 title: Spreading Some Musical Christmas Cheer
 description: Spreading Some Musical Christmas Cheer
 published: 2009-12-20
-image: images/posts/2010-08-studio601.webp
+image: images/posts/2010-08-studio601.jpg
 imageAlt: Spreading Some Musical Christmas Cheer
 category: Default
 tags: [christmas, life, music, studio-60]

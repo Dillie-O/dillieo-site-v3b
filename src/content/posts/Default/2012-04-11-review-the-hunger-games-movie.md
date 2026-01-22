@@ -2,7 +2,7 @@
 title: Review The Hunger Games Movie
 description: The Hunger Games Mockingjay
 published: 2012-04-11
-image: images/posts/2012-04-the-hunger-games-mockingjay.webp
+image: images/posts/2012-04-the-hunger-games-mockingjay.jpg
 imageAlt: The Hunger Games Mockingjay
 category: Default
 tags: [dystopia, gale, hunger-games, katniss, movie, peeta, reviews]

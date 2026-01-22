@@ -2,7 +2,7 @@
 title: Advanced Removal Of Duplicate Rows In Sql Server
 description: Duplicate Rows Sample
 published: 2012-09-11
-image: images/posts/2012-09-duplicaterowssample.webp
+image: images/posts/2012-09-duplicaterowssample.png
 imageAlt: Duplicate Rows Sample
 category: Default
 tags: [coding, duplicates, performance, records, removal, sql-server]

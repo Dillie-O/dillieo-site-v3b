@@ -2,7 +2,7 @@
 title: Song Of The Week Mahna Mahna By The Muppets
 description: Mahnamahna
 published: 2011-11-18
-image: images/posts/2011-11-mahnamahna.webp
+image: images/posts/2011-11-mahnamahna.jpg
 imageAlt: Mahnamahna
 category: Default
 tags: [muppets, song-of-the-week]

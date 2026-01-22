@@ -2,7 +2,7 @@
 title: Guest Post Azure More Than A Web Hosting Platform
 description: azure_hosting
 published: 2016-03-25
-image: images/posts/2016-03-azure_hosting.webp
+image: images/posts/2016-03-azure_hosting.png
 imageAlt: azure_hosting
 category: Default
 tags: [net, coding, indexing, media, microsoft-azure, projects, searching]

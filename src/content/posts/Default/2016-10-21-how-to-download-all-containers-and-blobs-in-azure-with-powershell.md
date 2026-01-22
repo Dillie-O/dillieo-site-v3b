@@ -2,7 +2,7 @@
 title: How To Download All Containers And Blobs In Azure With Powershell
 description: Azure Wallpaper
 published: 2016-10-21
-image: images/posts/2014-03-azure.webp
+image: images/posts/2014-03-azure.jpg
 imageAlt: Azure Wallpaper
 category: Default
 tags: [azure, azure-media-services, coding, powershell, scripting]

@@ -2,7 +2,7 @@
 title: Song Of The Week Until My Heart Caves In By Audio Adrenaline
 description: Until My Heart Caves In Cover
 published: 2011-05-13
-image: images/posts/2011-05-untilmyheartcavesincover.webp
+image: images/posts/2011-05-untilmyheartcavesincover.jpg
 imageAlt: Until My Heart Caves In Cover
 category: Default
 tags: [audio-adrenaline, daddy, daughters, rock, song-of-the-week]

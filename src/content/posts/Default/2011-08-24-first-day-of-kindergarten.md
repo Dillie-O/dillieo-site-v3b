@@ -2,7 +2,7 @@
 title: First Day Of Kindergarten
 description: Girls on Doorstep
 published: 2011-08-24
-image: images/posts/2011-08-img_08221-e1314207070686.webp
+image: images/posts/2011-08-img_08221-e1314207070686.jpg
 imageAlt: Girls on Doorstep
 category: Default
 tags: [haylee, kindergarten, life, rylee, school]

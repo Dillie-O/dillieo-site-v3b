@@ -2,7 +2,7 @@
 title: Dev Principle 4 Create Highquality Project Documentation
 description: project_documentation
 published: 2016-08-16
-image: images/posts/2016-08-project_documentation.webp
+image: images/posts/2016-08-project_documentation.png
 imageAlt: project_documentation
 category: Default
 tags: [coding, link]

@@ -2,7 +2,7 @@
 title: Dont Forget To Breathe
 description: apple_watch_breathe
 published: 2016-09-22
-image: images/posts/2016-09-apple_watch_breathe.webp
+image: images/posts/2016-09-apple_watch_breathe.jpg
 imageAlt: apple_watch_breathe
 category: Default
 tags: [balance, breathing, life, mental, physical, relaxation, stress]

@@ -2,7 +2,7 @@
 title: Quick Tip Check Your Mime Types In Internet Explorer And Wordpress
 description: Quick Tip Check Your Mime Types In Internet Explorer And Wordpress
 published: 2011-04-13
-image: images/posts/2011-04-wordpress-icon.webp
+image: images/posts/2011-04-wordpress-icon.png
 imageAlt: Quick Tip Check Your Mime Types In Internet Explorer And Wordpress
 category: Default
 tags: [geekery, internet-explorer, mime-type, quick-tip, wordpress]

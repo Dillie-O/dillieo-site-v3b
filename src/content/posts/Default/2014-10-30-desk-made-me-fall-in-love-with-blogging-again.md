@@ -2,7 +2,7 @@
 title: Desk Made Me Fall In Love With Blogging Again
 description: Desk Made Me Fall In Love With Blogging Again
 published: 2014-10-30
-image: images/posts/2014-10-desk_mainscreen.webp
+image: images/posts/2014-10-desk_mainscreen.png
 imageAlt: Desk Made Me Fall In Love With Blogging Again
 category: Default
 tags: [blogging, desk, reviews]

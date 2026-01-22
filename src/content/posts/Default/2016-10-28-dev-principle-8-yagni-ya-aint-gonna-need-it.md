@@ -2,7 +2,7 @@
 title: Dev Principle 8 Yagni Ya Aint Gonna Need It
 description: yagni_hero-1024x427
 published: 2016-10-28
-image: images/posts/2016-10-yagni_hero-1024x427.webp
+image: images/posts/2016-10-yagni_hero-1024x427.jpg
 imageAlt: yagni_hero-1024x427
 category: Default
 tags: [architecture, code, coding, features, optimization]

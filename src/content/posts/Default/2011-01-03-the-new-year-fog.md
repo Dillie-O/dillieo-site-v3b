@@ -2,7 +2,7 @@
 title: The New Year Fog
 description: Fog
 published: 2011-01-03
-image: images/posts/2011-01-tree-in-fog_thumb.webp
+image: images/posts/2011-01-tree-in-fog_thumb.jpg
 imageAlt: Fog
 category: Default
 tags: [life, new-years, pensee, plans, things-to-do]

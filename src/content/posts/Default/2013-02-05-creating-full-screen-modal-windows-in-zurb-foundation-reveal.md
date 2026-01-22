@@ -2,7 +2,7 @@
 title: Creating Full Screen Modal Windows In Zurb Foundation Reveal
 description: Zurb Yeti
 published: 2013-02-05
-image: images/posts/2013-02-zurbyeti.webp
+image: images/posts/2013-02-zurbyeti.png
 imageAlt: Zurb Yeti
 category: Default
 tags: [cascading-style-sheets, coding, javascript, modal-window, zurb]

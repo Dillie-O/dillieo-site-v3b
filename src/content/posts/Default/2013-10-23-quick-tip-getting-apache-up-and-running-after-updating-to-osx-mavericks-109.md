@@ -2,7 +2,7 @@
 title: Quick Tip Getting Apache Up And Running After Updating To Osx Mavericks 109
 description: Quick Tip
 published: 2013-10-23
-image: images/posts/2011-12-quicktip.webp
+image: images/posts/2011-12-quicktip.jpg
 imageAlt: Quick Tip
 category: Default
 tags: [apache, coding, osx-mavericks, servers, tips, virtual-hosting]

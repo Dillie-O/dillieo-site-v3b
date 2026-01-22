@@ -2,7 +2,7 @@
 title: Lifestyle Management Reloaded Conclusion
 description: Lifestyle Management
 published: 2011-11-15
-image: images/posts/2011-11-lifestylemanagement.webp
+image: images/posts/2011-11-lifestylemanagement.png
 imageAlt: Lifestyle Management
 category: Default
 tags: [e-mail, facebook, geekery, lifestyle-management, rss, twitter]

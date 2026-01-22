@@ -2,7 +2,7 @@
 title: Worth Sharing Potato Cheese Soup
 description: Potato Cheese Soup
 published: 2011-12-05
-image: images/posts/2011-12-potatocheesesoup.webp
+image: images/posts/2011-12-potatocheesesoup.jpg
 imageAlt: Potato Cheese Soup
 category: Default
 tags: [cheese, potato, recipes, soup]

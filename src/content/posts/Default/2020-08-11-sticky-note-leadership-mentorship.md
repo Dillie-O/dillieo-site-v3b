@@ -2,7 +2,7 @@
 title: Sticky Note Leadership Mentorship
 description: Sticky Note Leadership Mentorship
 published: 2020-08-11
-image: images/posts/2020-08-stickynote_mentorship.webp
+image: images/posts/2020-08-stickynote_mentorship.jpg
 imageAlt: Sticky Note Leadership Mentorship
 category: Default
 tags: [leadership, life, mentoring, mentorship]

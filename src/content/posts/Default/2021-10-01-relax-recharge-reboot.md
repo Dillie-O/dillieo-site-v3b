@@ -2,7 +2,7 @@
 title: Relax Recharge Reboot
 description: Relax Recharge Reboot
 published: 2021-10-01
-image: images/posts/2021-10-pexels-photo-91224.webp
+image: images/posts/2021-10-pexels-photo-91224.jpg
 imageAlt: Relax Recharge Reboot
 category: Default
 tags: [life, mindfulness, reboot, sabbatical, work]

@@ -2,7 +2,7 @@
 title: Fixed More Button Disabled Multiple Forms And Script Issues In Sitefinity
 description: sitefinity_logo.jpg
 published: 2015-08-03
-image: images/posts/2015-04-sitefinity_logo1.webp
+image: images/posts/2015-04-sitefinity_logo1.jpg
 imageAlt: sitefinity_logo.jpg
 category: Default
 tags: [coding, debugging, forms, layouts, scripts, selectors, sitefinity, telerik, troubleshooting]

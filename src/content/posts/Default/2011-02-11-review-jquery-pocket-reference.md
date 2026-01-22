@@ -2,7 +2,7 @@
 title: Review Jquery Pocket Reference
 description: jQueryCover
 published: 2011-02-11
-image: images/posts/2011-02-jquerycover.webp
+image: images/posts/2011-02-jquerycover.gif
 imageAlt: jQueryCover
 category: Default
 tags: [jquery, reviews]

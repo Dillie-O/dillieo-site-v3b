@@ -2,7 +2,7 @@
 title: Getting Bamboo Build Notifications In Slack Using Zapier
 description: Getting Bamboo Build Notifications In Slack Using Zapier
 published: 2015-07-23
-image: images/posts/2015-07-bambooslacknotification.webp
+image: images/posts/2015-07-bambooslacknotification.jpg
 imageAlt: Getting Bamboo Build Notifications In Slack Using Zapier
 category: Default
 tags: [bamboo, build, coding, continuous-integration, email, integration, slack, zapier]

@@ -2,7 +2,7 @@
 title: Initial Review Reebok One Guide 30
 description: 20160825_125014605_iOS
 published: 2016-08-25
-image: images/posts/2016-08-20160825_125014605_ios.webp
+image: images/posts/2016-08-20160825_125014605_ios.jpg
 imageAlt: 20160825_125014605_iOS
 category: Default
 tags: [guide, ragnar, reebok, reviews, running, shoes]

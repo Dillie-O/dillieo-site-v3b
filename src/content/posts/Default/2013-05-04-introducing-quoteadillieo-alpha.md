@@ -2,7 +2,7 @@
 title: Introducing Quoteadillieo Alpha
 description: Quote Shot
 published: 2013-05-04
-image: images/posts/2013-05-quoteshot.webp
+image: images/posts/2013-05-quoteshot.png
 imageAlt: Quote Shot
 category: Default
 tags: [coding, geekery, imagemagick, programming, quotes, ruby-on-rails, signature]

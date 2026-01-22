@@ -2,7 +2,7 @@
 title: How To Rip Cds Using Clementine For Osx
 description: Clementine Logo
 published: 2012-03-21
-image: images/posts/2012-03-clementinelogo.webp
+image: images/posts/2012-03-clementinelogo.png
 imageAlt: Clementine Logo
 category: Default
 tags: [audio, cd, clementine, geekery, mp3, rip]

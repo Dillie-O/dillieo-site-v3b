@@ -2,7 +2,7 @@
 title: Biblical Sanctuary
 description: Sanctuary A Place of Refuge
 published: 2011-07-14
-image: images/posts/2011-07-stainedglasswindow.webp
+image: images/posts/2011-07-stainedglasswindow.jpg
 imageAlt: Sanctuary A Place of Refuge
 category: Default
 tags: [bible, calm, life, peace, sanctuary]

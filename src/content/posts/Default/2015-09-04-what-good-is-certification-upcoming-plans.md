@@ -2,7 +2,7 @@
 title: What Good Is Certification Upcoming Plans
 description: What Good Is Certification Upcoming Plans
 published: 2015-09-04
-image: images/posts/2015-09-red-certified-stamp_small1.webp
+image: images/posts/2015-09-red-certified-stamp_small1.jpg
 imageAlt: What Good Is Certification Upcoming Plans
 category: Default
 tags: [certifications, coding, mcsd]

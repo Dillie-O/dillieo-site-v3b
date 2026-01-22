@@ -2,7 +2,7 @@
 title: Ragnar Is Here Ragnarnwp
 description: 1074972_10151518111841587_1329960238_o
 published: 2016-03-31
-image: images/posts/2016-03-1074972_10151518111841587_1329960238_o.webp
+image: images/posts/2016-03-1074972_10151518111841587_1329960238_o.jpg
 imageAlt: 1074972_10151518111841587_1329960238_o
 category: Default
 tags: [endurance, hard-work, life, ragnar, running]

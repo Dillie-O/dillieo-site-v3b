@@ -2,7 +2,7 @@
 title: Ho Now Its Bombadil
 description: Ho Now Its Bombadil
 published: 2015-10-16
-image: images/posts/2015-10-20151016_002313904_ios.webp
+image: images/posts/2015-10-20151016_002313904_ios.jpg
 imageAlt: Ho Now Its Bombadil
 category: Default
 tags: [bombadil, computer, geekery, lotr, mbp, naming]

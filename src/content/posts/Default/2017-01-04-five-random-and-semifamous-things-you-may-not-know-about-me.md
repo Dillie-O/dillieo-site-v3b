@@ -2,7 +2,7 @@
 title: Five Random And Semifamous Things You May Not Know About Me
 description: wallpaperz-random-17724984-1920-1080
 published: 2017-01-04
-image: images/posts/2017-01-wallpaperz-random-17724984-1920-1080.webp
+image: images/posts/2017-01-wallpaperz-random-17724984-1920-1080.jpg
 imageAlt: wallpaperz-random-17724984-1920-1080
 category: Default
 tags: [blogging, france, jeff-atwood, life, roy-osherove, software, toe-ring, yu-gi-oh]

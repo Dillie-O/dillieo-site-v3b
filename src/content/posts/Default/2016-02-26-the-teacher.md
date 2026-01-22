@@ -2,7 +2,7 @@
 title: The Teacher
 description: teaching
 published: 2016-02-26
-image: images/posts/2016-02-teaching.webp
+image: images/posts/2016-02-teaching.jpg
 imageAlt: teaching
 category: Default
 tags: [instruction, life, teaching]

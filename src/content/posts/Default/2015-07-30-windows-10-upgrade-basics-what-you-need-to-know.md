@@ -2,7 +2,7 @@
 title: Windows 10 Upgrade Basics What You Need To Know
 description: Windows 10 Upgrade Basics What You Need To Know
 published: 2015-07-30
-image: images/posts/2015-07-win10rollback.webp
+image: images/posts/2015-07-win10rollback.png
 imageAlt: Windows 10 Upgrade Basics What You Need To Know
 category: Default
 tags: [geekery, upgrade, windows10, windows7, windows8]

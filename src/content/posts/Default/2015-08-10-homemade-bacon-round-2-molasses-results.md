@@ -2,7 +2,7 @@
 title: Homemade Bacon Round 2 Molasses Results
 description: Homemade Bacon Round 2 Molasses Results
 published: 2015-08-10
-image: images/posts/2015-08-1_20150808_163810547_ios.webp
+image: images/posts/2015-08-1_20150808_163810547_ios.jpg
 imageAlt: Homemade Bacon Round 2 Molasses Results
 category: Default
 tags: [bacon, diy, food, life, recipe]

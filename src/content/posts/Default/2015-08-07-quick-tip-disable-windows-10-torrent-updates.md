@@ -2,7 +2,7 @@
 title: Quick Tip Disable Windows 10 Torrent Updates
 description: DisableWin10TorrentUpdate
 published: 2015-08-07
-image: images/posts/2015-08-disablewin10torrentupdate.webp
+image: images/posts/2015-08-disablewin10torrentupdate.png
 imageAlt: DisableWin10TorrentUpdate
 category: Default
 tags: [bittorrent, geekery, shared, torrent, update, windows10]

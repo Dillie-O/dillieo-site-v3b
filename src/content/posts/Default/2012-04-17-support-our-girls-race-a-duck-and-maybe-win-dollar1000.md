@@ -2,7 +2,7 @@
 title: Support Our Girls Race A Duck And Maybe Win Dollar1000
 description: Duck Derby Girls
 published: 2012-04-17
-image: images/posts/2012-04-imag0691.webp
+image: images/posts/2012-04-imag0691.jpg
 imageAlt: Duck Derby Girls
 category: Default
 tags: [duck, fundraiser, haylee, life, rylee]

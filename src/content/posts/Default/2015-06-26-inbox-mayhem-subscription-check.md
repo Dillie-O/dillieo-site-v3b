@@ -2,7 +2,7 @@
 title: Inbox Mayhem Subscription Check
 description: Inbox Mayhem Subscription Check
 published: 2015-06-26
-image: images/posts/2015-06-stuffed_mailbox1.webp
+image: images/posts/2015-06-stuffed_mailbox1.jpg
 imageAlt: Inbox Mayhem Subscription Check
 category: Default
 tags: [clutter, e-mail, geekery, organization, subscriptions]

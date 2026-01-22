@@ -2,7 +2,7 @@
 title: Song Of The Week Linus And Lucy By Vince Guraldi
 description: Snoopy
 published: 2011-09-02
-image: images/posts/2011-09-snoopy-5368.webp
+image: images/posts/2011-09-snoopy-5368.jpg
 imageAlt: Snoopy
 category: Default
 tags: [birthday, jazz, jennifer, linus, lucy, snoopy, song-of-the-week, vince-guraldi]

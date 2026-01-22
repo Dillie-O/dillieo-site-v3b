@@ -2,7 +2,7 @@
 title: Review The Book Of Css3
 description: Book of CSS3 Cover
 published: 2011-07-21
-image: images/posts/2011-07-bookofcss3cover.webp
+image: images/posts/2011-07-bookofcss3cover.gif
 imageAlt: Book of CSS3 Cover
 category: Default
 tags: [css3, programming, reviews, web-development]

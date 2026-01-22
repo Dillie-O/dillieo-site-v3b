@@ -2,7 +2,7 @@
 title: In The Trench
 description: Trench Digging
 published: 2011-08-02
-image: images/posts/2011-08-civiliantrench.webp
+image: images/posts/2011-08-civiliantrench.jpg
 imageAlt: Trench Digging
 category: Default
 tags: [bonding, events, friends, impact, life, significance, talking]

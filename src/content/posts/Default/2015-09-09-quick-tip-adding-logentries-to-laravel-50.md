@@ -2,7 +2,7 @@
 title: Quick Tip Adding Logentries To Laravel 50
 description: Quick Tips
 published: 2015-09-09
-image: images/posts/2014-05-quick-tips.webp
+image: images/posts/2014-05-quick-tips.jpg
 imageAlt: Quick Tips
 category: Default
 tags: [coding, laravel, logentries, logging]

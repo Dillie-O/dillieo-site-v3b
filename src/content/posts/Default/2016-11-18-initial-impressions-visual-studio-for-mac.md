@@ -2,7 +2,7 @@
 title: Initial Impressions Visual Studio For Mac
 description: VS_Mac_Banner.png
 published: 2016-11-18
-image: images/posts/2016-11-vs_mac_banner.webp
+image: images/posts/2016-11-vs_mac_banner.png
 imageAlt: VS_Mac_Banner.png
 category: Default
 tags: [net, net-core, aspnet, coding, mac, visual-studio]

@@ -2,7 +2,7 @@
 title: Thanksgiving Thought
 description: ThanksgivingTable.jpg
 published: 2015-11-26
-image: images/posts/2010-11-thanksgivingtable.webp
+image: images/posts/2010-11-thanksgivingtable.jpg
 imageAlt: ThanksgivingTable.jpg
 category: Default
 tags: [life]

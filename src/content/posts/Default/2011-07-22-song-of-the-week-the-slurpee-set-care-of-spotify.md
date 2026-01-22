@@ -2,7 +2,7 @@
 title: Song Of The Week The Slurpee Set Care Of Spotify
 description: Slurpee Set Cover
 published: 2011-07-22
-image: images/posts/2011-07-screen-shot-2011-07-22-at-7-36-01-am.webp
+image: images/posts/2011-07-screen-shot-2011-07-22-at-7-36-01-am.png
 imageAlt: Slurpee Set Cover
 category: Default
 tags: [alternative, dance, jazz, rock, song-of-the-week, spotify]

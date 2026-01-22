@@ -2,7 +2,7 @@
 title: Updated Developers Toolkit
 description: Updated Developers Toolkit
 published: 2015-02-18
-image: images/posts/2015-02-tools.webp
+image: images/posts/2015-02-tools.jpg
 imageAlt: Updated Developers Toolkit
 category: Default
 tags: [geekery]

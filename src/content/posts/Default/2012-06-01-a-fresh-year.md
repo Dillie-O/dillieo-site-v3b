@@ -2,7 +2,7 @@
 title: A Fresh Year
 description: Fresh Logo
 published: 2012-06-01
-image: images/posts/2011-05-freshlogo.webp
+image: images/posts/2011-05-freshlogo.png
 imageAlt: Fresh Logo
 category: Default
 tags: [career, fresh-consulting, life, work]

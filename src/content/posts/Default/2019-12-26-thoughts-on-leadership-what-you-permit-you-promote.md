@@ -2,7 +2,7 @@
 title: Thoughts On Leadership What You Permit You Promote
 description: Thoughts On Leadership What You Permit You Promote
 published: 2019-12-26
-image: images/posts/2019-12-priscilla-du-preez-w3seyzodn8u-unsplash.webp
+image: images/posts/2019-12-priscilla-du-preez-w3seyzodn8u-unsplash.jpg
 imageAlt: Thoughts On Leadership What You Permit You Promote
 category: Default
 tags: [culture, leadership, life]

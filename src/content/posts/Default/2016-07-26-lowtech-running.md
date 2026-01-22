@@ -2,7 +2,7 @@
 title: Lowtech Running
 description: 20160717_001513098_iOS
 published: 2016-07-26
-image: images/posts/2016-07-20160717_001513098_ios.webp
+image: images/posts/2016-07-20160717_001513098_ios.jpg
 imageAlt: 20160717_001513098_iOS
 category: Default
 tags: [life, pensee, running, time]

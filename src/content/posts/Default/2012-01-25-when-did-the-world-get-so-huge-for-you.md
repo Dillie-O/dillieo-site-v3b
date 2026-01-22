@@ -2,7 +2,7 @@
 title: When Did The World Get So Huge For You
 description: World Map
 published: 2012-01-25
-image: images/posts/2012-01-world-map.webp
+image: images/posts/2012-01-world-map.jpg
 imageAlt: World Map
 category: Default
 tags: [experience, life, pensee, world]

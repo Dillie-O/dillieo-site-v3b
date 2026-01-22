@@ -2,7 +2,7 @@
 title: Quick Tip Creating Outlook Templates For Mac
 description: Quick Tip Creating Outlook Templates For Mac
 published: 2014-04-30
-image: images/posts/2014-04-1398917478_1.webp
+image: images/posts/2014-04-1398917478_1.png
 imageAlt: Quick Tip Creating Outlook Templates For Mac
 category: Default
 tags: [clients, email, geekery, mac, mail, microsoft, microsoft-outlook, os-x, outlook, quick-tip, signature, template, tools, windows]

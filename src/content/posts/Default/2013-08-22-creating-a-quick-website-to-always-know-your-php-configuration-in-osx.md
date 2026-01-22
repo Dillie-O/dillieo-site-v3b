@@ -2,7 +2,7 @@
 title: Creating A Quick Website To Always Know Your Php Configuration In Osx
 description: PHP Info Site
 published: 2013-08-22
-image: images/posts/2013-08-phpinfosite.webp
+image: images/posts/2013-08-phpinfosite.png
 imageAlt: PHP Info Site
 category: Default
 tags: [apache-http-server, configuration-file, geekery, html, php, shortcut, tip, virtual-hosting]

@@ -2,7 +2,7 @@
 title: Something Old And New Importing Wordpress Posts Into Sitefinity
 description: sitefinity_logo.jpg
 published: 2015-08-27
-image: images/posts/2015-04-sitefinity_logo1.webp
+image: images/posts/2015-04-sitefinity_logo1.jpg
 imageAlt: sitefinity_logo.jpg
 category: Default
 tags: [blogging, coding, import, sitefinity, wordpress]

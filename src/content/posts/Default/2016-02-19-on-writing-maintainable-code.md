@@ -2,7 +2,7 @@
 title: On Writing Maintainable Code
 description: Matrix Code Tunnel
 published: 2016-02-19
-image: images/posts/2010-09-matrixmini.webp
+image: images/posts/2010-09-matrixmini.jpg
 imageAlt: Matrix Code Tunnel
 category: Default
 tags: [coding, coding, convention, maintenance, standards]

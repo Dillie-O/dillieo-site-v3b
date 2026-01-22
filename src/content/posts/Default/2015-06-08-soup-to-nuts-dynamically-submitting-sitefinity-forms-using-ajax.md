@@ -2,7 +2,7 @@
 title: Soup To Nuts Dynamically Submitting Sitefinity Forms Using Ajax
 description: Soup To Nuts Dynamically Submitting Sitefinity Forms Using Ajax
 published: 2015-06-08
-image: images/posts/2015-06-formresponses.webp
+image: images/posts/2015-06-formresponses.png
 imageAlt: Soup To Nuts Dynamically Submitting Sitefinity Forms Using Ajax
 category: Default
 tags: [ajax, api, coding, forms, rest, sitefinity]

@@ -2,7 +2,7 @@
 title: That First Mile
 description: That First Mile
 published: 2015-03-24
-image: images/posts/2015-03-running-hill.webp
+image: images/posts/2015-03-running-hill.jpg
 imageAlt: That First Mile
 category: Default
 tags: [life, pace, running]

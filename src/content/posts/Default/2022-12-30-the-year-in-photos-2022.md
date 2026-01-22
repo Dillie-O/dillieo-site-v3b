@@ -2,7 +2,7 @@
 title: The Year In Photos 2022
 description: The Year In Photos 2022
 published: 2022-12-30
-image: images/posts/2022_photos_collage.webp
+image: images/posts/2022_photos_collage.jpg
 imageAlt: The Year In Photos 2022
 category: Default
 tags: [life, photos, pensee]

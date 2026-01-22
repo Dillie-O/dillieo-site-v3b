@@ -2,7 +2,7 @@
 title: Lifestyle Management Reloaded Feedly
 description: Feedly Logo
 published: 2011-11-09
-image: images/posts/2011-11-feedlylogo.webp
+image: images/posts/2011-11-feedlylogo.png
 imageAlt: Feedly Logo
 category: Default
 tags: [e-mail, facebook, feedly, geekery, lifestyle-management, rss, twitter]

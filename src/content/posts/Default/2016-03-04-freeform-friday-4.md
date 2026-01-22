@@ -2,7 +2,7 @@
 title: Freeform Friday 4
 description: 1452865048_1.jpeg
 published: 2016-03-04
-image: images/posts/2016-01-1452865048_1.webp
+image: images/posts/2016-01-1452865048_1.jpg
 imageAlt: 1452865048_1.jpeg
 category: Default
 tags: [life, pensee, random, running]

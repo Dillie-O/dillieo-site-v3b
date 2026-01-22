@@ -2,7 +2,7 @@
 title: 5 Minutes And Lack Of Green For St Patricks Day
 description: Irish Code Hex shirt
 published: 2011-03-17
-image: images/posts/irish_code_hex_tshirt-p235118639570687764azgw0_325.webp
+image: images/posts/irish_code_hex_tshirt-p235118639570687764azgw0_325.jpg
 imageAlt: Irish Code Hex shirt
 category: Default
 tags: [geekery, publish-on-demand, shirt, st-patricks-day]

@@ -2,7 +2,7 @@
 title: The Duck House
 description: The Duck House
 published: 2010-07-26
-image: images/posts/2010-07-0725101633.webp
+image: images/posts/2010-07-0725101633.jpg
 imageAlt: The Duck House
 category: Default
 tags: [ducks, fence, handyman-tricks, house]

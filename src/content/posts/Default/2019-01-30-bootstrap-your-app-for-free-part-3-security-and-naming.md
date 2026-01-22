@@ -2,7 +2,7 @@
 title: Bootstrap Your App For Free Part 3 Security And Naming
 description: Bootstrap Your App For Free Part 3 Security And Naming
 published: 2019-01-30
-image: images/posts/2019-01-pexels-photo-258174.webp
+image: images/posts/2019-01-pexels-photo-258174.jpg
 imageAlt: Bootstrap Your App For Free Part 3 Security And Naming
 category: Default
 tags: [coding, domain, geekery, naming, security]

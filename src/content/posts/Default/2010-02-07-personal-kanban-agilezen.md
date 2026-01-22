@@ -2,7 +2,7 @@
 title: Personal Kanban Agilezen
 description: Personal Kanban Agilezen
 published: 2010-02-07
-image: images/posts/2010-02-agilezenhome1.webp
+image: images/posts/2010-02-agilezenhome1.jpg
 imageAlt: Personal Kanban Agilezen
 category: Default
 tags: [agilezen, coding, kanban]

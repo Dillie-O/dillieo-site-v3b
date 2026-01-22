@@ -2,7 +2,7 @@
 title: Elmah A Quick Start Tutorial And Guide With Mvc And Nuget
 description: ElmahMain
 published: 2012-11-08
-image: images/posts/2011-03-elmahmain_thumb.webp
+image: images/posts/2011-03-elmahmain_thumb.png
 imageAlt: ElmahMain
 category: Default
 tags: [coding, configuration, elmah, logging-net, mvc, nuget, quickstart, tutorial]

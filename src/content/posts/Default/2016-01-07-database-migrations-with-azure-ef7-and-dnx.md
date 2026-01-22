@@ -2,7 +2,7 @@
 title: Database Migrations With Azure Ef7 And Dnx
 description: 1452196112_1.png
 published: 2016-01-07
-image: images/posts/2016-01-1452196112_1.webp
+image: images/posts/2016-01-1452196112_1.png
 imageAlt: 1452196112_1.png
 category: Default
 tags: [net, coding, configuration, deployment, dnx, ef7, environment, migrations]

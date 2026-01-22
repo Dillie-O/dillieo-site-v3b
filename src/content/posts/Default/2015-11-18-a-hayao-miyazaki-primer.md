@@ -2,7 +2,7 @@
 title: A Hayao Miyazaki Primer
 description: A Hayao Miyazaki Primer
 published: 2015-11-18
-image: images/posts/2015-11-spirited-away-1.webp
+image: images/posts/2015-11-spirited-away-1.jpg
 imageAlt: A Hayao Miyazaki Primer
 category: Default
 tags: [hayao-miyazaki, life, mononoke, movies, nausicaa, reviews, spirited-away, totoro]

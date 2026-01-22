@@ -2,7 +2,7 @@
 title: Plunging Into Nativescript
 description: nativescript_logo
 published: 2016-10-18
-image: images/posts/2016-10-nativescript_logo.webp
+image: images/posts/2016-10-nativescript_logo.png
 imageAlt: nativescript_logo
 category: Default
 tags: [android, coding, ios, mobile-development, nativescript]

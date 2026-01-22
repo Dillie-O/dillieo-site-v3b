@@ -2,7 +2,7 @@
 title: Diy Cheap Andamp Effective Pot Rack
 description: Homemade Pot Rack
 published: 2009-11-09
-image: images/posts/2009-11-101_2407.webp
+image: images/posts/2009-11-101_2407.jpg
 imageAlt: Homemade Pot Rack
 category: Default
 tags: [handyman-tricks, kitchen, pot-rack, storage]

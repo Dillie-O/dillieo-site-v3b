@@ -2,7 +2,7 @@
 title: Streaming Video Isnt As Easy As You Think
 description: Codec Confusion
 published: 2012-02-27
-image: images/posts/2012-02-codec-confusion.webp
+image: images/posts/2012-02-codec-confusion.jpg
 imageAlt: Codec Confusion
 category: Default
 tags: [android, codec, geekery, ios, ipad, kindle-fire, mobile, streaming, tablet, video]

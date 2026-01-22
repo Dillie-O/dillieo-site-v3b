@@ -2,7 +2,7 @@
 title: Lifestyle Management Reloaded Netvibes
 description: Netvibes
 published: 2011-11-02
-image: images/posts/2011-11-netvibeslogo.webp
+image: images/posts/2011-11-netvibeslogo.png
 imageAlt: Netvibes
 category: Default
 tags: [e-mail, facebook, geekery, lifestyle-management, netvibes, twitter]

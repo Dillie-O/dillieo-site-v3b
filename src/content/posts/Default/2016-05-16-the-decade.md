@@ -2,7 +2,7 @@
 title: The Decade
 description: IMG_2223
 published: 2016-05-16
-image: images/posts/2016-05-img_2223.webp
+image: images/posts/2016-05-img_2223.jpg
 imageAlt: IMG_2223
 category: Default
 tags: [birthday, fatherhood, life, pensee]

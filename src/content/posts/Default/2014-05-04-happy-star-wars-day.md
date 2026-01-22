@@ -2,7 +2,7 @@
 title: Happy Star Wars Day
 description: Happy Star Wars Day
 published: 2014-05-04
-image: images/posts/2014-05-1399215328_1.webp
+image: images/posts/2014-05-1399215328_1.png
 imageAlt: Happy Star Wars Day
 category: Default
 tags: [life]

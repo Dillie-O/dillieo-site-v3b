@@ -2,7 +2,7 @@
 title: Song Of The Week Afterhours 2011 Mix By Dj Josiah Fingaz Freebourne
 description: DJ Josiah
 published: 2012-01-20
-image: images/posts/2012-01-djjosiah.webp
+image: images/posts/2012-01-djjosiah.jpg
 imageAlt: DJ Josiah
 category: Default
 tags: ["1", dance, dj-josiah, electro, house, song-of-the-week]

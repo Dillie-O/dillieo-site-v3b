@@ -2,7 +2,7 @@
 title: Next Steps Taking Donations
 description: Win10x64-Vairocina
 published: 2016-04-22
-image: images/posts/2016-04-win10x64-vairocina.webp
+image: images/posts/2016-04-win10x64-vairocina.png
 imageAlt: Win10x64-Vairocina
 category: Default
 tags: [life]

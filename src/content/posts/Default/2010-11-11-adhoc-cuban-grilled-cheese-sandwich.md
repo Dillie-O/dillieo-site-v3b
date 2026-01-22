@@ -2,7 +2,7 @@
 title: Adhoc Cuban Grilled Cheese Sandwich
 description: GrilledCheeseAd
 published: 2010-11-11
-image: images/posts/2010-11-grilledcheesead_thumb.webp
+image: images/posts/2010-11-grilledcheesead_thumb.png
 imageAlt: GrilledCheeseAd
 category: Default
 tags: [grilled-cheese, ham, pickles, recipes]

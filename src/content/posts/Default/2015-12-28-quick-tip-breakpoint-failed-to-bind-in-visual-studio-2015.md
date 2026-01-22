@@ -2,7 +2,7 @@
 title: Quick Tip Breakpoint Failed To Bind In Visual Studio 2015
 description: Quick Tip Breakpoint Failed To Bind In Visual Studio 2015
 published: 2015-12-28
-image: images/posts/2015-12-1451322919_1.webp
+image: images/posts/2015-12-1451322919_1.png
 imageAlt: Quick Tip Breakpoint Failed To Bind In Visual Studio 2015
 category: Default
 tags: [coding, debug, debugger, visual-studio]

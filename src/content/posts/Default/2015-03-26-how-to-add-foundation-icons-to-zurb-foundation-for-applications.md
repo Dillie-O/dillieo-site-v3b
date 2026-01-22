@@ -2,7 +2,7 @@
 title: How To Add Foundation Icons To Zurb Foundation For Applications
 description: How To Add Foundation Icons To Zurb Foundation For Applications
 published: 2015-03-26
-image: images/posts/2015-03-foundation-icons-yeti1.webp
+image: images/posts/2015-03-foundation-icons-yeti1.png
 imageAlt: How To Add Foundation Icons To Zurb Foundation For Applications
 category: Default
 tags: [applications, coding, css, foundation, icons, scss, z4a, zurb]

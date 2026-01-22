@@ -2,7 +2,7 @@
 title: How To Debug Laravel Apps In Phpstorm
 description: How To Debug Laravel Apps In Phpstorm
 published: 2015-02-24
-image: images/posts/2015-02-laraveldebug_step1.webp
+image: images/posts/2015-02-laraveldebug_step1.png
 imageAlt: How To Debug Laravel Apps In Phpstorm
 category: Default
 tags: [coding, debug, debugging, ide, php, phpstorm]

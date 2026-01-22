@@ -2,7 +2,7 @@
 title: Song Of The Week Lonely Man By Audio Adrenaline
 description: Lift Album by Audio Adrenaline
 published: 2011-08-12
-image: images/posts/2011-08-liftalbumcover.webp
+image: images/posts/2011-08-liftalbumcover.jpg
 imageAlt: Lift Album by Audio Adrenaline
 category: Default
 tags: [audio-adrenaline, rock, song-of-the-week]

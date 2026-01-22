@@ -2,7 +2,7 @@
 title: Freeform Friday 1
 description: 1452865048_1.jpeg
 published: 2016-01-15
-image: images/posts/2016-01-1452865048_1.webp
+image: images/posts/2016-01-1452865048_1.jpg
 imageAlt: 1452865048_1.jpeg
 category: Default
 tags: [balance, blogging, henri-nouwen, life, random, spiritual-formation]

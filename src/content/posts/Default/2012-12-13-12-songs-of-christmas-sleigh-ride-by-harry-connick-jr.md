@@ -2,7 +2,7 @@
 title: 12 Songs Of Christmas Sleigh Ride By Harry Connick Jr
 description: When My Heart Finds Christmas
 published: 2012-12-13
-image: images/posts/wikipedia-en-f-f1-HCjrWMHFChristmas.webp
+image: images/posts/wikipedia-en-f-f1-HCjrWMHFChristmas.jpg
 imageAlt: When My Heart Finds Christmas
 category: Default
 tags: [christmas, harry-connick-jr, jazz, life, music, sleigh-ride]

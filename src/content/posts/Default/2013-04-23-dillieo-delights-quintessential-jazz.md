@@ -2,7 +2,7 @@
 title: Dillieo Delights Quintessential Jazz
 description: Verve Jazz Masters 20
 published: 2013-04-23
-image: images/posts/2013-04-verve_jazz_masters_60.webp
+image: images/posts/2013-04-verve_jazz_masters_60.jpg
 imageAlt: Verve Jazz Masters 20
 category: Default
 tags: [bobby-mcferrin, chick-corea, dizzy-gillespie, duke-ellington, jazz, juan-tizol, life, paul-gonsalves]

@@ -2,7 +2,7 @@
 title: Lifestyle Management Reloaded Igoogle
 description: iGoogle Logo
 published: 2011-11-03
-image: images/posts/2011-11-igooglelogo.webp
+image: images/posts/2011-11-igooglelogo.png
 imageAlt: iGoogle Logo
 category: Default
 tags: [e-mail, facebook, geekery, lifestyle-management, netvibes, twitter]

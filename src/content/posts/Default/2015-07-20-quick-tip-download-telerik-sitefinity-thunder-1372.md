@@ -2,7 +2,7 @@
 title: Quick Tip Download Telerik Sitefinity Thunder 1372
 description: quick-tips.jpg
 published: 2015-07-20
-image: images/posts/2015-01-quick-tips.webp
+image: images/posts/2015-01-quick-tips.png
 imageAlt: quick-tips.jpg
 category: Default
 tags: [life]

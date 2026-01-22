@@ -2,7 +2,7 @@
 title: Profiles And Vision
 description: 20160526_185247000_ios
 published: 2016-05-27
-image: images/posts/2016-05-20160526_185247000_ios.webp
+image: images/posts/2016-05-20160526_185247000_ios.png
 imageAlt: 20160526_185247000_ios
 category: Default
 tags: [geekery, link, prayer, prayer-odyssey]

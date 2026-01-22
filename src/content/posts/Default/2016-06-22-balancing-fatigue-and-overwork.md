@@ -2,7 +2,7 @@
 title: Balancing Fatigue And Overwork
 description: 20160622_134927766_iOS
 published: 2016-06-22
-image: images/posts/2016-06-20160622_134927766_ios.webp
+image: images/posts/2016-06-20160622_134927766_ios.jpg
 imageAlt: 20160622_134927766_iOS
 category: Default
 tags: [fatigue, life, overwork, running, training]

@@ -2,7 +2,7 @@
 title: 20 Years Of Code
 description: 20 Years Of Code
 published: 2021-05-18
-image: images/posts/2021-05-pexels-photo-1089438.webp
+image: images/posts/2021-05-pexels-photo-1089438.jpg
 imageAlt: 20 Years Of Code
 category: Default
 tags: [coding, life, milestone, programming, reflection]

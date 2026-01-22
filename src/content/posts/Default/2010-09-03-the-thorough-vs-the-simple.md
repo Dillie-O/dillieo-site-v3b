@@ -2,7 +2,7 @@
 title: The Thorough Vs The Simple
 description: ThoroughSimple Flowchart
 published: 2010-09-03
-image: images/posts/2010-09-flowchart-vs.webp
+image: images/posts/2010-09-flowchart-vs.png
 imageAlt: ThoroughSimple Flowchart
 category: Default
 tags: [best-practice, coding, debug, problem-solving]

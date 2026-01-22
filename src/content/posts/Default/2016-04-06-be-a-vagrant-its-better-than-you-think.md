@@ -2,7 +2,7 @@
 title: Be A Vagrant Its Better Than You Think
 description: vagrant-logo
 published: 2016-04-06
-image: images/posts/2016-04-vagrant-logo.webp
+image: images/posts/2016-04-vagrant-logo.png
 imageAlt: vagrant-logo
 category: Default
 tags: [apache, coding, development, git, laravel, node, tools, vagrant]

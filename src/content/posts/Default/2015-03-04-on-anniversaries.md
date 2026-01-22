@@ -2,7 +2,7 @@
 title: On Anniversaries
 description: On Anniversaries
 published: 2015-03-04
-image: images/posts/2015-03-bloganniversary1.webp
+image: images/posts/2015-03-bloganniversary1.png
 imageAlt: On Anniversaries
 category: Default
 tags: [life]

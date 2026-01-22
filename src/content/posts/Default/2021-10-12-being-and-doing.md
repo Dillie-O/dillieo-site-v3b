@@ -2,7 +2,7 @@
 title: Being And Doing
 description: Being And Doing
 published: 2021-10-12
-image: images/posts/2021-10-leguin_dragon.webp
+image: images/posts/2021-10-leguin_dragon.jpg
 imageAlt: Being And Doing
 category: Default
 tags: [balance, being, doing, life, rest]

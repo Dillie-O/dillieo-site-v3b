@@ -2,7 +2,7 @@
 title: Where Were You When You First Saw Star Wars
 description: star_wars_force_awakens
 published: 2015-12-17
-image: images/posts/2015-12-star_wars_force_awakens.webp
+image: images/posts/2015-12-star_wars_force_awakens.jpg
 imageAlt: star_wars_force_awakens
 category: Default
 tags: [legacy, life, memories, movies, star-wars, stories]

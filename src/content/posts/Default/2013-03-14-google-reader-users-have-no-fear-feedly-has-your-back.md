@@ -2,7 +2,7 @@
 title: Google Reader Users Have No Fear Feedly Has Your Back
 description: Feedly Shirt
 published: 2013-03-14
-image: images/posts/2013-03-feedly_shirt.webp
+image: images/posts/2013-03-feedly_shirt.jpg
 imageAlt: Feedly Shirt
 category: Default
 tags: [blogging, feedly, geekery, google, reader, reading, rss, subscription]

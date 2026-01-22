@@ -2,7 +2,7 @@
 title: Three Hours A Week Thatand039S All I Ask
 description: dhai clock
 published: 2010-08-27
-image: images/posts/2010-08-daliclock1.webp
+image: images/posts/2010-08-daliclock1.jpg
 imageAlt: dhai clock
 category: Default
 tags: [career, coding, pensee, programming, research, time]

@@ -2,7 +2,7 @@
 title: Layout Preview
 description: 20160322_165021000_iOS
 published: 2016-03-22
-image: images/posts/2016-03-20160322_165021000_ios.webp
+image: images/posts/2016-03-20160322_165021000_ios.png
 imageAlt: 20160322_165021000_iOS
 category: Default
 tags: [geekery, prayer, project]

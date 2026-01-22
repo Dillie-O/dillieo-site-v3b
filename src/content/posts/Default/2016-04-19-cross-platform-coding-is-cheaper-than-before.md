@@ -2,7 +2,7 @@
 title: Cross Platform Coding Is Cheaper Than Before
 description: xamarin-logo
 published: 2016-04-19
-image: images/posts/2016-04-xamarin-logo.webp
+image: images/posts/2016-04-xamarin-logo.jpg
 imageAlt: xamarin-logo
 category: Default
 tags: [net, coding, mobile-development, xamarin]

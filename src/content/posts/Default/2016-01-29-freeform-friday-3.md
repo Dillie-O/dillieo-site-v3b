@@ -2,7 +2,7 @@
 title: Freeform Friday 3
 description: 1452865048_1.jpeg
 published: 2016-01-29
-image: images/posts/2016-01-1452865048_1.webp
+image: images/posts/2016-01-1452865048_1.jpg
 imageAlt: 1452865048_1.jpeg
 category: Default
 tags: [azure-media-services, life, randomness]

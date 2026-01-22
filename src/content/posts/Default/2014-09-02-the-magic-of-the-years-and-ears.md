@@ -2,7 +2,7 @@
 title: The Magic Of The Years And Ears
 description: The Magic Of The Years And Ears
 published: 2014-09-02
-image: images/posts/2014-09-1409632162_1.webp
+image: images/posts/2014-09-1409632162_1.png
 imageAlt: The Magic Of The Years And Ears
 category: Default
 tags: [disneyland, family, life, magic, memories, reunion]

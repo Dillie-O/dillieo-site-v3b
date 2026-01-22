@@ -2,7 +2,7 @@
 title: Quick Tip How To Peel Frozen Bananas
 description: Banana Start
 published: 2013-05-03
-image: images/posts/2013-05-imag0163.webp
+image: images/posts/2013-05-imag0163.jpg
 imageAlt: Banana Start
 category: Default
 tags: [banana, food, frozen, life, quick-tip, smoothie, tip, trick]

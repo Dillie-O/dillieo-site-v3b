@@ -2,7 +2,7 @@
 title: Life In The Cloud
 description: DigitalCloud
 published: 2010-11-30
-image: images/posts/2010-11-digitalcloud.webp
+image: images/posts/2010-11-digitalcloud.jpg
 imageAlt: DigitalCloud
 category: Default
 tags: [cloud, data, e-mail, geekery, social, technology]

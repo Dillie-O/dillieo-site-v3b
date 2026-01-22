@@ -2,7 +2,7 @@
 title: Technical Note Rant Keep Core App Functionality Consistent
 description: outlook-logo
 published: 2017-01-19
-image: images/posts/2017-01-outlook-logo.webp
+image: images/posts/2017-01-outlook-logo.png
 imageAlt: outlook-logo
 category: Default
 tags: [geekery, life]

@@ -2,7 +2,7 @@
 title: On The Joys Of Mvc Architecture
 description: On The Joys Of Mvc Architecture
 published: 2016-02-04
-image: images/posts/2016-02-1454611227_1.webp
+image: images/posts/2016-02-1454611227_1.png
 imageAlt: On The Joys Of Mvc Architecture
 category: Default
 tags: [coding, controller, model, mvc, programming, view]

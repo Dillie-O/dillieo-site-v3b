@@ -2,7 +2,7 @@
 title: The Thankful Tree
 description: ThankfulTree
 published: 2010-11-24
-image: images/posts/2010-11-thankfultree_thumb.webp
+image: images/posts/2010-11-thankfultree_thumb.jpg
 imageAlt: ThankfulTree
 category: Default
 tags: [life, pensee, thankfulness]

@@ -2,7 +2,7 @@
 title: Five Tips For Remote Developers
 description: man-person-hands-coffee
 published: 2016-12-13
-image: images/posts/2016-12-man-person-hands-coffee.webp
+image: images/posts/2016-12-man-person-hands-coffee.jpg
 imageAlt: man-person-hands-coffee
 category: Default
 tags: [coding, development, keys, mindset, principles, remote, remote-development, remote-work, tools]

@@ -2,7 +2,7 @@
 title: Bitcoin For The Newcomer Hobbyist And Poor Man
 description: BitCoin
 published: 2013-11-21
-image: images/posts/2013-11-bitcoin-2.webp
+image: images/posts/2013-11-bitcoin-2.jpg
 imageAlt: BitCoin
 category: Default
 tags: [bitcoin, bitstamp, btc-e, coinbase, digital-currency, geekery, mining, mtgox, wallet]

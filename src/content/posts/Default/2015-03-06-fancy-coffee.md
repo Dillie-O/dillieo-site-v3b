@@ -2,7 +2,7 @@
 title: Fancy Coffee
 description: Fancy Coffee
 published: 2015-03-06
-image: images/posts/2015-03-wp_20150305_005.webp
+image: images/posts/2015-03-wp_20150305_005.jpg
 imageAlt: Fancy Coffee
 category: Default
 tags: [coffee, life, starbucks, tasting]

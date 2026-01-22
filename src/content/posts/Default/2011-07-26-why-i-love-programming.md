@@ -2,7 +2,7 @@
 title: Why I Love Programming
 description: Computer Code
 published: 2011-07-26
-image: images/posts/2011-07-computercode.webp
+image: images/posts/2011-07-computercode.jpg
 imageAlt: Computer Code
 category: Default
 tags: [coding, creativity, passion, programming, projects]

@@ -2,7 +2,7 @@
 title: Worth Sharing Chicken And Sausage With Sage And Onion
 description: Chicken Sausage Recipe
 published: 2012-01-31
-image: images/posts/2012-01-chicken-sausage.webp
+image: images/posts/2012-01-chicken-sausage.jpg
 imageAlt: Chicken Sausage Recipe
 category: Default
 tags: [casserole, chicken, recipes, sage, sausage]

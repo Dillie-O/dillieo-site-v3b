@@ -2,7 +2,7 @@
 title: Soup To Nuts Generating A Time Interval Based Count Report In Tsql
 description: Soup to Nuts - The Complete Package
 published: 2011-08-25
-image: images/posts/2011-08-soup2nuts.webp
+image: images/posts/2011-08-soup2nuts.jpg
 imageAlt: Soup to Nuts - The Complete Package
 category: Default
 tags: [coding, interval, query, report, sql, t-sql, time]

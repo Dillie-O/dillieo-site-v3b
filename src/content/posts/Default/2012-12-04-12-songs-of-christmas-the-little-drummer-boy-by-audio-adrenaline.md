@@ -2,7 +2,7 @@
 title: 12 Songs Of Christmas The Little Drummer Boy By Audio Adrenaline
 description: Audio Adrenaline Santa
 published: 2012-12-04
-image: images/posts/2011-12-audioadrenalinesanta.webp
+image: images/posts/2011-12-audioadrenalinesanta.png
 imageAlt: Audio Adrenaline Santa
 category: Default
 tags: [audio-adrenaline, christmas, life, little-drummer-boy, music, rock]

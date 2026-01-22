@@ -2,7 +2,7 @@
 title: Build Your Own Netflix With Plex
 description: Build Your Own Netflix With Plex
 published: 2015-09-07
-image: images/posts/2015-09-plex-logo1.webp
+image: images/posts/2015-09-plex-logo1.jpg
 imageAlt: Build Your Own Netflix With Plex
 category: Default
 tags: [geekery, home-media, movies, plex, roku, server]

@@ -2,7 +2,7 @@
 title: Running Tip A Good Runner Pushes The Hills
 description: Carriage Trail, Redlands 5-19-13a
 published: 2013-06-24
-image: images/posts/7385-9018212718_fba97dd828.webp
+image: images/posts/7385-9018212718_fba97dd828.jpg
 imageAlt: Carriage Trail, Redlands 5-19-13a
 category: Default
 tags: [hills, life, running, tips]

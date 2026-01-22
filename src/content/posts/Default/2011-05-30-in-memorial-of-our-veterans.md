@@ -2,7 +2,7 @@
 title: In Memorial Of Our Veterans
 description: In honor of our veterans
 published: 2011-05-30
-image: images/posts/2011-05-att00007.webp
+image: images/posts/2011-05-att00007.gif
 imageAlt: In honor of our veterans
 category: Default
 tags: [honor, life, memorial-day, tribute, veterans]

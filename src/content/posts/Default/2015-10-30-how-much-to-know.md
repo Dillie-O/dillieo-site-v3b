@@ -2,7 +2,7 @@
 title: How Much To Know
 description: How Much To Know
 published: 2015-10-30
-image: images/posts/2015-10-sky-earth-galaxy-universe.webp
+image: images/posts/2015-10-sky-earth-galaxy-universe.jpg
 imageAlt: How Much To Know
 category: Default
 tags: [challenge, dare, knowledge, life, wisdom]

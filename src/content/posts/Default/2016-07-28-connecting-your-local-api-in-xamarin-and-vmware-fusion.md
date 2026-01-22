@@ -2,7 +2,7 @@
 title: Connecting Your Local Api In Xamarin And Vmware Fusion
 description: xamarin-logo
 published: 2016-07-28
-image: images/posts/2016-04-xamarin-logo.webp
+image: images/posts/2016-04-xamarin-logo.jpg
 imageAlt: xamarin-logo
 category: Default
 tags: [net, coding, firewall, mobile-development, vmware-fusion, xamarin]

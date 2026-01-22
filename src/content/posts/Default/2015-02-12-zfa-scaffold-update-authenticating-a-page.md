@@ -2,7 +2,7 @@
 title: Zfa Scaffold Update Authenticating A Page
 description: zurb_foundation_for_apps.png
 published: 2015-02-12
-image: images/posts/2015-01-zurb_foundation_for_apps.webp
+image: images/posts/2015-01-zurb_foundation_for_apps.png
 imageAlt: zurb_foundation_for_apps.png
 category: Default
 tags: [net, apps, authentication, coding, foundation, zurb]

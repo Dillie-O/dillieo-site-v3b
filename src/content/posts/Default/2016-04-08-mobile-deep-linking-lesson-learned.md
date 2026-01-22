@@ -2,7 +2,7 @@
 title: Mobile Deep Linking Lesson Learned
 description: deep_linking_mobile1-249x300
 published: 2016-04-08
-image: images/posts/2016-04-deep_linking_mobile1-249x300.webp
+image: images/posts/2016-04-deep_linking_mobile1-249x300.png
 imageAlt: deep_linking_mobile1-249x300
 category: Default
 tags: [coding, deep-linking, mobile]

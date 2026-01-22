@@ -2,7 +2,7 @@
 title: Freeform Friday 8
 description: freeform.jpg
 published: 2016-08-12
-image: images/posts/2016-01-1452865048_1.webp
+image: images/posts/2016-01-1452865048_1.jpg
 imageAlt: freeform.jpg
 category: Default
 tags: [life, olympics]

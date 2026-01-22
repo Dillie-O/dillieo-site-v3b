@@ -2,7 +2,7 @@
 title: Top 5 Looney Tunes
 description: Looney Tunes
 published: 2012-03-12
-image: images/posts/2012-03-looneytunes.webp
+image: images/posts/2012-03-looneytunes.jpg
 imageAlt: Looney Tunes
 category: Default
 tags: [bugs-bunny, cartoons, daffy-duck, dodo, life, looney-tunes, porky-pig, roadrunner, wackyland, wile-e-coyote]

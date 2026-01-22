@@ -2,7 +2,7 @@
 title: How To Run Php Applications In Visual Studio 2012
 description: A PHP app launched from Visual Studio 2012
 published: 2013-04-17
-image: images/posts/2013-04-visualstudio_php_editor.webp
+image: images/posts/2013-04-visualstudio_php_editor.png
 imageAlt: A PHP app launched from Visual Studio 2012
 category: Default
 tags: [net, coding, iis, iis-express, php, visual-studio]

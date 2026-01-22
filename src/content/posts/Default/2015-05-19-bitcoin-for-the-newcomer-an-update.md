@@ -2,7 +2,7 @@
 title: Bitcoin For The Newcomer An Update
 description: Bitcoin For The Newcomer An Update
 published: 2015-05-19
-image: images/posts/2015-05-bitcoin1.webp
+image: images/posts/2015-05-bitcoin1.png
 imageAlt: Bitcoin For The Newcomer An Update
 category: Default
 tags: [bitcoin, cexio, cost, geekery, maintenance, mining, profit]

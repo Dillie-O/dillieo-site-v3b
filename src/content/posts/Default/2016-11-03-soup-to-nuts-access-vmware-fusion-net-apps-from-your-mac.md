@@ -2,7 +2,7 @@
 title: Soup To Nuts Access Vmware Fusion Net Apps From Your Mac
 description: vmware_network_settings
 published: 2016-11-03
-image: images/posts/2016-11-vmware_network_settings.webp
+image: images/posts/2016-11-vmware_network_settings.png
 imageAlt: vmware_network_settings
 category: Default
 tags: [coding, debugging, development, network, visual-studio, vmware, vmware-fusion]

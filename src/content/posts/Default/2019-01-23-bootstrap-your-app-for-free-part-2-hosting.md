@@ -2,7 +2,7 @@
 title: Bootstrap Your App For Free Part 2 Hosting
 description: Apple Laptop
 published: 2019-01-23
-image: images/posts/2019-01-macbook-apple-imac-computer-39284.webp
+image: images/posts/2019-01-macbook-apple-imac-computer-39284.jpg
 imageAlt: Apple Laptop
 category: Default
 tags: [cloud, coding, geekery, hosting, iaas, paas, providers]

@@ -2,7 +2,7 @@
 title: Song Of The Week Duel Of The Fates Star Wars Episode 1
 description: Jedi Duel
 published: 2012-02-17
-image: images/posts/2012-02-maul_quigon_obiwan.webp
+image: images/posts/2012-02-maul_quigon_obiwan.jpg
 imageAlt: Jedi Duel
 category: Default
 tags: [imperial-march, remix, rock, song-of-the-week, soundtrack, star-wars]

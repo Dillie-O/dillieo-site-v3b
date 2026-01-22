@@ -2,7 +2,7 @@
 title: Milestones And Thresholds
 description: 20160519_125933274_iOS
 published: 2016-05-19
-image: images/posts/2016-05-20160519_125933274_ios.webp
+image: images/posts/2016-05-20160519_125933274_ios.jpg
 imageAlt: 20160519_125933274_iOS
 category: Default
 tags: [hills, life, ragnar, running, training]

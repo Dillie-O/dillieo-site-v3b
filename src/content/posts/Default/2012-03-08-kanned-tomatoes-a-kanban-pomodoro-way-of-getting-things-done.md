@@ -2,7 +2,7 @@
 title: Kanned Tomatoes A Kanban Pomodoro Way Of Getting Things Done
 description: Pomodoro Kanban
 published: 2012-03-08
-image: images/posts/2012-03-cannedtomatoes.webp
+image: images/posts/2012-03-cannedtomatoes.jpg
 imageAlt: Pomodoro Kanban
 category: Default
 tags: [geekery, getting-things-done, gtd, kanban, pomodoro, pomodoro-crate, tools, trello]

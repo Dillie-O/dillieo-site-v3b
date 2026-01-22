@@ -2,7 +2,7 @@
 title: Quick Tip How To Use Onclick And Onclientclick Events To Prevent Double Clicking On Your Aspnet Buttons
 description: Quick Tip
 published: 2012-07-05
-image: images/posts/2011-12-quicktip.webp
+image: images/posts/2011-12-quicktip.jpg
 imageAlt: Quick Tip
 category: Default
 tags: [aspnet, button, coding, controls, disable, double-click, jquery, onclick, onclientclick, quick-tip, usesubmitbehavior]

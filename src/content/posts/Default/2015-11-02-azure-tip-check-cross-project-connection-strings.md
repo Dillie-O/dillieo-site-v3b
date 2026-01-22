@@ -2,7 +2,7 @@
 title: Azure Tip Check Cross Project Connection Strings
 description: Azure Tip Check Cross Project Connection Strings
 published: 2015-11-02
-image: images/posts/2015-11-azure-logo21.webp
+image: images/posts/2015-11-azure-logo21.jpg
 imageAlt: Azure Tip Check Cross Project Connection Strings
 category: Default
 tags: [azure, coding, connection-strings, dal, debugging, entity-framework, mvc]

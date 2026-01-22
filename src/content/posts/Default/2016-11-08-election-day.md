@@ -2,7 +2,7 @@
 title: Election Day
 description: flagbanner
 published: 2016-11-08
-image: images/posts/2016-11-flagbanner.webp
+image: images/posts/2016-11-flagbanner.jpg
 imageAlt: flagbanner
 category: Default
 tags: [election, life, voting]

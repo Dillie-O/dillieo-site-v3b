@@ -2,7 +2,7 @@
 title: Song Of The Week Dont Get Around Much Anymore By Duke Ellington And Louie Armstrong
 description: Duke Ellington and Louie Armstrong
 published: 2011-10-21
-image: images/posts/2011-10-dukelouiecover.webp
+image: images/posts/2011-10-dukelouiecover.jpg
 imageAlt: Duke Ellington and Louie Armstrong
 category: Default
 tags: [duke-ellington, jazz, louie-armstrong, song-of-the-week]

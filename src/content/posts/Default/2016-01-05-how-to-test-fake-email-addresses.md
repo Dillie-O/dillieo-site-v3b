@@ -2,7 +2,7 @@
 title: How To Test Fake Email Addresses
 description: How To Test Fake Email Addresses
 published: 2016-01-05
-image: images/posts/2016-01-1452002376_1.webp
+image: images/posts/2016-01-1452002376_1.jpg
 imageAlt: How To Test Fake Email Addresses
 category: Default
 tags: [coding, email, faker, testing]

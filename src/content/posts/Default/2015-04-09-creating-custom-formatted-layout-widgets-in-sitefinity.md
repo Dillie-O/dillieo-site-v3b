@@ -2,7 +2,7 @@
 title: Creating Custom Formatted Layout Widgets In Sitefinity
 description: Creating Custom Formatted Layout Widgets In Sitefinity
 published: 2015-04-09
-image: images/posts/2015-04-layoutwidgetexample.webp
+image: images/posts/2015-04-layoutwidgetexample.png
 imageAlt: Creating Custom Formatted Layout Widgets In Sitefinity
 category: Default
 tags: [coding, content, content-elements, custom-layout, customization, layout, sitefinity, telerik, widgets]

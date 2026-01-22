@@ -2,7 +2,7 @@
 title: Standing And Sitting
 description: Standing And Sitting
 published: 2015-02-27
-image: images/posts/2015-02-wp_20150226_001.webp
+image: images/posts/2015-02-wp_20150226_001.jpg
 imageAlt: Standing And Sitting
 category: Default
 tags: [desk, geekery, sitting, standing]

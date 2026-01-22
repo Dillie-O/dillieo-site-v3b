@@ -2,7 +2,7 @@
 title: How To Swap Faces Using Windows Live Photo Gallery
 description: FamilyPhoto1
 published: 2010-12-13
-image: images/posts/2010-12-familyphoto1_thumb.webp
+image: images/posts/2010-12-familyphoto1_thumb.jpg
 imageAlt: FamilyPhoto1
 category: Default
 tags: [facial-recognition, geekery, photos, utilities, windows-live-photo]

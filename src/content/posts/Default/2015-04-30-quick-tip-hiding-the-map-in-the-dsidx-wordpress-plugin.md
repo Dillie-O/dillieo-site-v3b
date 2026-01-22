@@ -2,7 +2,7 @@
 title: Quick Tip Hiding The Map In The Dsidx Wordpress Plugin
 description: Quick Tip Hiding The Map In The Dsidx Wordpress Plugin
 published: 2015-04-30
-image: images/posts/2015-04-real_estate_matching_your_search___jerry_fohrman3.webp
+image: images/posts/2015-04-real_estate_matching_your_search___jerry_fohrman3.png
 imageAlt: Quick Tip Hiding The Map In The Dsidx Wordpress Plugin
 category: Default
 tags: [coding, dsidx, google-maps, mls, tip]

@@ -2,7 +2,7 @@
 title: Review I Robot
 description: i_robot_cover
 published: 2016-07-15
-image: images/posts/2016-07-134d92c008a09af921a3b010-l.webp
+image: images/posts/2016-07-134d92c008a09af921a3b010-l.jpg
 imageAlt: i_robot_cover
 category: Default
 tags: [asimov, life, philosophy, reviews, robots]

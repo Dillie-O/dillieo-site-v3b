@@ -2,7 +2,7 @@
 title: Hello Trello My Fine Fellow
 description: Trello Logo
 published: 2012-02-10
-image: images/posts/2012-02-trello-logo.webp
+image: images/posts/2012-02-trello-logo.png
 imageAlt: Trello Logo
 category: Default
 tags: [geekery, kanban, list-of-lists, lists, organization, tools, trello]

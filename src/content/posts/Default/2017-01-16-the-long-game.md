@@ -2,7 +2,7 @@
 title: The Long Game
 description: A photo by Priscilla Westra. unsplash.comphotosYeBXoqD_VOo
 published: 2017-01-16
-image: images/posts/2017-01-long-road.webp
+image: images/posts/2017-01-long-road.jpg
 imageAlt: A photo by Priscilla Westra. unsplash.comphotosYeBXoqD_VOo
 category: Default
 tags: [endurance, life, moving, perspective, tasks, washington-bound]

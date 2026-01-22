@@ -2,7 +2,7 @@
 title: Song Of The Week Play That Funky Music By Wild Cherry
 description: Song Of The Week Play That Funky Music By Wild Cherry
 published: 2011-06-17
-image: images/posts/2011-06-wildcherrycover.webp
+image: images/posts/2011-06-wildcherrycover.jpg
 imageAlt: Song Of The Week Play That Funky Music By Wild Cherry
 category: Default
 tags: [funk, song-of-the-week, wild-cherry]

@@ -2,7 +2,7 @@
 title: Review Enders Game By Orson Scott Card
 description: Enders Game Cover
 published: 2013-09-04
-image: images/posts/2013-09-enders_game_cover.webp
+image: images/posts/2013-09-enders_game_cover.jpg
 imageAlt: Enders Game Cover
 category: Default
 tags: [books, ender-wiggin, enders-game, orson-scott-card, reviews]

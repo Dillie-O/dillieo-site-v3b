@@ -2,7 +2,7 @@
 title: Laravel 5 Configurations In Aws Elastic Beanstalk
 description: Laravel 5 Configurations In Aws Elastic Beanstalk
 published: 2015-05-29
-image: images/posts/2015-05-laravel-51.webp
+image: images/posts/2015-05-laravel-51.png
 imageAlt: Laravel 5 Configurations In Aws Elastic Beanstalk
 category: Default
 tags: [aws, coding, configuration, eb, elastic-beanstalk, laravel, rds]

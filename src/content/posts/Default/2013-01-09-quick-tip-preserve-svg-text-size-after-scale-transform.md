@@ -2,7 +2,7 @@
 title: Quick Tip Preserve Svg Text Size After Scale Transform
 description: Quick Tip
 published: 2013-01-09
-image: images/posts/2011-12-quicktip.webp
+image: images/posts/2011-12-quicktip.jpg
 imageAlt: Quick Tip
 category: Default
 tags: [coding, d3, height, javascript, preserve, quick-tip, scale, svg, text, transform]

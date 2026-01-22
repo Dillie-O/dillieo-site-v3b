@@ -2,7 +2,7 @@
 title: Quick Tip Handy Sort Arrows In Your Gridview Without Css Or Graphics
 description: GridView with Arrows
 published: 2011-10-07
-image: images/posts/2011-10-sortingwitharrows.webp
+image: images/posts/2011-10-sortingwitharrows.png
 imageAlt: GridView with Arrows
 category: Default
 tags: [coding, css, graphics, gridview, quick-tip, sorting]

@@ -2,7 +2,7 @@
 title: In Which I Graciously Thank Starbucks For Exceeding Customer Service
 description: 20160209_043403473_iOS
 published: 2016-02-08
-image: images/posts/2016-02-20160209_043403473_ios.webp
+image: images/posts/2016-02-20160209_043403473_ios.jpg
 imageAlt: 20160209_043403473_iOS
 category: Default
 tags: [coffee, customer-service, gratitude, life, roastery, starbucks]

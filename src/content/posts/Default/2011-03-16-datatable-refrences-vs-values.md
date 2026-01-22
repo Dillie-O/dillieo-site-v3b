@@ -2,7 +2,7 @@
 title: Datatable Refrences Vs Values
 description: evil-computer-monitor
 published: 2011-03-16
-image: images/posts/2011-03-evil-computer-monitor_thumb.webp
+image: images/posts/2011-03-evil-computer-monitor_thumb.jpg
 imageAlt: evil-computer-monitor
 category: Default
 tags: [coding, datatable, pass-by-reference, pass-by-value]

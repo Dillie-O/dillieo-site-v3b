@@ -2,7 +2,7 @@
 title: Quick Tip Outputting Variables In Phpunit
 description: Quick Tip
 published: 2015-07-03
-image: images/posts/2011-12-quicktip.webp
+image: images/posts/2011-12-quicktip.jpg
 imageAlt: Quick Tip
 category: Default
 tags: [coding, debug, phpunit]

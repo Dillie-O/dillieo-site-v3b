@@ -2,7 +2,7 @@
 title: Kids And Tech
 description: Kids And Tech
 published: 2015-02-19
-image: images/posts/2015-02-wp_20150213_001.webp
+image: images/posts/2015-02-wp_20150213_001.jpg
 imageAlt: Kids And Tech
 category: Default
 tags: [balance, devices, kids, life, tablets]

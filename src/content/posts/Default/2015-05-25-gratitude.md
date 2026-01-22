@@ -2,7 +2,7 @@
 title: Gratitude
 description: Gratitude
 published: 2015-05-25
-image: images/posts/2015-05-memorial1.webp
+image: images/posts/2015-05-memorial1.jpg
 imageAlt: Gratitude
 category: Default
 tags: [gratitude, life, memorial-day, sacrifice]

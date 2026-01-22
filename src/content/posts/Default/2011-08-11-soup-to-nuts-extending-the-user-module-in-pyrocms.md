@@ -2,7 +2,7 @@
 title: Soup To Nuts Extending The User Module In Pyrocms
 description: Soup to Nuts - The Complete Package
 published: 2011-08-11
-image: images/posts/2011-08-soup2nuts.webp
+image: images/posts/2011-08-soup2nuts.jpg
 imageAlt: Soup to Nuts - The Complete Package
 category: Default
 tags: [coding, extend, modules, php, pyrocms]

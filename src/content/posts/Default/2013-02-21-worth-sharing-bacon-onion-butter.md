@@ -2,7 +2,7 @@
 title: Worth Sharing Bacon Onion Butter
 description: Bacon Butter Plate
 published: 2013-02-21
-image: images/posts/2013-02-baconbutterfinal.webp
+image: images/posts/2013-02-baconbutterfinal.jpg
 imageAlt: Bacon Butter Plate
 category: Default
 tags: [bacon, bbq, butter, grilling, hamburger, mustard, onion, recipes]

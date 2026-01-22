@@ -2,7 +2,7 @@
 title: Life Momentos
 description: 20160823_132450040_iOS
 published: 2016-08-23
-image: images/posts/2016-08-20160823_132450040_ios.webp
+image: images/posts/2016-08-20160823_132450040_ios.jpg
 imageAlt: 20160823_132450040_iOS
 category: Default
 tags: [hats, life, memories, momentos, mugs, shoes]

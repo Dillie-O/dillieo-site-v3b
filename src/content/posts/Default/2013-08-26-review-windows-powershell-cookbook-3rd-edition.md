@@ -2,7 +2,7 @@
 title: Review Windows Powershell Cookbook 3Rd Edition
 description: PowerShell Cookbook
 published: 2013-08-26
-image: images/posts/2013-08-powershellcookbook.webp
+image: images/posts/2013-08-powershellcookbook.gif
 imageAlt: PowerShell Cookbook
 category: Default
 tags: [cmdlets, powershell, programming, reviews, scripting, windows-powershell]

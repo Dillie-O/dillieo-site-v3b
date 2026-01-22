@@ -2,7 +2,7 @@
 title: Life Legos And Letting Go
 description: lego_7722
 published: 2015-12-08
-image: images/posts/2015-12-lego_77221.webp
+image: images/posts/2015-12-lego_77221.jpg
 imageAlt: lego_7722
 category: Default
 tags: [fun, legacy, legos, life, toys, tradition]

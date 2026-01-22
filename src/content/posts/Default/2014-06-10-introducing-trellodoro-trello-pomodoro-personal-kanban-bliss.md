@@ -2,7 +2,7 @@
 title: Introducing Trellodoro Trello Pomodoro Personal Kanban Bliss
 description: Introducing Trellodoro Trello Pomodoro Personal Kanban Bliss
 published: 2014-06-10
-image: images/posts/2014-06-1402336996_1.webp
+image: images/posts/2014-06-1402336996_1.png
 imageAlt: Introducing Trellodoro Trello Pomodoro Personal Kanban Bliss
 category: Default
 tags: [geekery, getting-things-done, gtd, personal-kanban, pomodoro, timer, trello]

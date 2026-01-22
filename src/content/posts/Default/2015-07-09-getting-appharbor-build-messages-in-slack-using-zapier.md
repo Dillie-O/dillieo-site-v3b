@@ -2,7 +2,7 @@
 title: Getting Appharbor Build Messages In Slack Using Zapier
 description: Getting Appharbor Build Messages In Slack Using Zapier
 published: 2015-07-09
-image: images/posts/2015-07-1_zapierdashboard.webp
+image: images/posts/2015-07-1_zapierdashboard.jpg
 imageAlt: Getting Appharbor Build Messages In Slack Using Zapier
 category: Default
 tags: [appharbor, geekery, integration, slack, webhook, zapier]

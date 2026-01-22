@@ -2,7 +2,7 @@
 title: Sticky Note Leadership Balancing Time
 description: sticky note
 published: 2020-08-13
-image: images/posts/2020-08-stickynote_balancingtime.webp
+image: images/posts/2020-08-stickynote_balancingtime.jpg
 imageAlt: sticky note
 category: Default
 tags: [balance, leadership, life, time, time-management]

@@ -2,7 +2,7 @@
 title: 12 Songs Of Christmas Wizards In Winter By Transsiberian Orchestra
 description: Trans-Siberian Orchestra Cover
 published: 2012-12-18
-image: images/posts/2012-12-transsiberianorchestra_cover.webp
+image: images/posts/2012-12-transsiberianorchestra_cover.jpg
 imageAlt: Trans-Siberian Orchestra Cover
 category: Default
 tags: [christmas, life, music, rock, trans-siberian-orchestra, wizards-in-winter]

@@ -2,7 +2,7 @@
 title: Texas Vacation 2016 Highlights
 description: img_3380
 published: 2016-10-05
-image: images/posts/2016-09-img_3380.webp
+image: images/posts/2016-09-img_3380.jpg
 imageAlt: img_3380
 category: Default
 tags: [family, life, road-trip, texas, vacation]

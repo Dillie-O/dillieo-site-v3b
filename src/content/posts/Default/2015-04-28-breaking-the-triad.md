@@ -2,7 +2,7 @@
 title: Breaking The Triad
 description: Breaking The Triad
 published: 2015-04-28
-image: images/posts/2015-04-android-vs-iphone-vs-windows-phone1.webp
+image: images/posts/2015-04-android-vs-iphone-vs-windows-phone1.jpg
 imageAlt: Breaking The Triad
 category: Default
 tags: [android, devices, geekery, iphone, windows-phone]

@@ -2,7 +2,7 @@
 title: Quick Tip Writable Laravel Logs With Elastic Beanstalk
 description: Laravel-5.png
 published: 2015-09-10
-image: images/posts/2015-05-laravel-51.webp
+image: images/posts/2015-05-laravel-51.png
 imageAlt: Laravel-5.png
 category: Default
 tags: [life]

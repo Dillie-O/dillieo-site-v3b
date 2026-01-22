@@ -2,7 +2,7 @@
 title: Soup To Nuts Custom Domains And Ssl In Iis Express
 description: SSL_Dev_Step1
 published: 2016-04-12
-image: images/posts/2016-04-ssl_dev_step1.webp
+image: images/posts/2016-04-ssl_dev_step1.png
 imageAlt: SSL_Dev_Step1
 category: Default
 tags: [coding, configuration, custom-domain, development, ssl, visual-studio, web-development]

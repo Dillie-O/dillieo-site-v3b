@@ -2,7 +2,7 @@
 title: Tshaped Goals Deeper And Wider
 description: Letter T
 published: 2020-01-09
-image: images/posts/2020-01-letter-t.webp
+image: images/posts/2020-01-letter-t.png
 imageAlt: Letter T
 category: Default
 tags: [development, generalist, growth, life, specialist, t-shape]

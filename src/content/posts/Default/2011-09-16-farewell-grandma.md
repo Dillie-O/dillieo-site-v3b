@@ -2,7 +2,7 @@
 title: Farewell Grandma
 description: Grandma and Family
 published: 2011-09-16
-image: images/posts/2011-09-img_1034.webp
+image: images/posts/2011-09-img_1034.jpg
 imageAlt: Grandma and Family
 category: Default
 tags: [death, family, grandmother, life, pensee]

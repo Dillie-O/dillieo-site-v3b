@@ -2,7 +2,7 @@
 title: Quick Review Norah Jones Little Broken Hearts
 description: Norah Jones Little Broken Hearts Cover
 published: 2012-04-26
-image: images/posts/2012-04-norah-jones-little-broken-hearts.webp
+image: images/posts/2012-04-norah-jones-little-broken-hearts.jpg
 imageAlt: Norah Jones Little Broken Hearts Cover
 category: Default
 tags: [jazz, little-broken-hearts, norah-jones, reviews]

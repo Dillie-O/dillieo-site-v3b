@@ -2,7 +2,7 @@
 title: Buffy And Angel
 description: BuffyAngelLogos
 published: 2016-01-13
-image: images/posts/2016-01-buffyangellogos.webp
+image: images/posts/2016-01-buffyangellogos.png
 imageAlt: BuffyAngelLogos
 category: Default
 tags: [angel, buffy, life, series, tv]

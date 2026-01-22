@@ -2,7 +2,7 @@
 title: Song Of The Week Caravan By Duke Ellington
 description: Duke Ellington
 published: 2011-04-15
-image: images/posts/2011-04-dukeellington.webp
+image: images/posts/2011-04-dukeellington.jpg
 imageAlt: Duke Ellington
 category: Default
 tags: [duke-ellington, jazz, song-of-the-week]

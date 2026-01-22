@@ -2,7 +2,7 @@
 title: Lifestyle Management Reloaded Tweetdeck Trillian Hootsuite And Others
 description: Lifestyle Management
 published: 2011-11-10
-image: images/posts/2011-11-lifestylemanagement.webp
+image: images/posts/2011-11-lifestylemanagement.png
 imageAlt: Lifestyle Management
 category: Default
 tags: [e-mail, facebook, geekery, hootsuite, lifestyle-management, newsblur, rss, trillian, tweetdeck, twitter]

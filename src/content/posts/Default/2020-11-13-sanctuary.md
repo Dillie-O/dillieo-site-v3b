@@ -2,7 +2,7 @@
 title: Sanctuary
 description: Sanctuary
 published: 2020-11-13
-image: images/posts/2020-11-pxl_20201101_154412503.webp
+image: images/posts/2020-11-pxl_20201101_154412503.jpg
 imageAlt: Sanctuary
 category: Default
 tags: [life]

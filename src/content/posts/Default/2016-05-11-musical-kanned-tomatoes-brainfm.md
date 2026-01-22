@@ -2,7 +2,7 @@
 title: Musical Kanned Tomatoes Brainfm
 description: cannedtomatoesbrainfm
 published: 2016-05-11
-image: images/posts/2016-05-cannedtomatoesbrainfm.webp
+image: images/posts/2016-05-cannedtomatoesbrainfm.jpg
 imageAlt: cannedtomatoesbrainfm
 category: Default
 tags: [focus, geekery, kanban, music, personal-kanban, pomodoro]

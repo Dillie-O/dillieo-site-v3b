@@ -2,7 +2,7 @@
 title: The Tale Of The Pumpkin Mouse As Told By Rylee And Haylee
 description: The Pumpkin Mouse
 published: 2011-10-20
-image: images/posts/2011-10-imag0014.webp
+image: images/posts/2011-10-imag0014.jpg
 imageAlt: The Pumpkin Mouse
 category: Default
 tags: [autumn, haylee, life, mouse, pumpkin, rylee, story]

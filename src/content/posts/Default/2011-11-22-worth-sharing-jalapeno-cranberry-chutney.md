@@ -2,7 +2,7 @@
 title: Worth Sharing Jalapeno Cranberry Chutney
 description: Cranberry Chutney
 published: 2011-11-22
-image: images/posts/2011-11-cranberrychutney.webp
+image: images/posts/2011-11-cranberrychutney.jpg
 imageAlt: Cranberry Chutney
 category: Default
 tags: [chutney, cranberries, grandpa, recipes, thanksgiving]

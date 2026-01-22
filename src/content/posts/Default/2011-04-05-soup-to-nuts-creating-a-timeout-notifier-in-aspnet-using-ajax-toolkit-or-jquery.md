@@ -2,7 +2,7 @@
 title: Soup To Nuts Creating A Timeout Notifier In Aspnet Using Ajax Toolkit Or Jquery
 description: TimeoutSampleToolkit
 published: 2011-04-05
-image: images/posts/2011-04-timeoutsampletoolkit.webp
+image: images/posts/2011-04-timeoutsampletoolkit.png
 imageAlt: TimeoutSampleToolkit
 category: Default
 tags: [ajax, coding, javascript, jquery, session, timeout]

@@ -2,7 +2,7 @@
 title: Default Category Images For Wordpress
 description: Site without categories
 published: 2011-02-15
-image: images/posts/2011-02-categories_before_thumb.webp
+image: images/posts/2011-02-categories_before_thumb.png
 imageAlt: Site without categories
 category: Default
 tags: [categories, coding, images, wordpress]

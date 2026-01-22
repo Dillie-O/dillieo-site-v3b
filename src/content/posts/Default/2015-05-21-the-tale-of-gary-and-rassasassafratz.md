@@ -2,7 +2,7 @@
 title: The Tale Of Gary And Rassasassafratz
 description: The Tale Of Gary And Rassasassafratz
 published: 2015-05-21
-image: images/posts/2015-05-gary-n-rassasassafratz.webp
+image: images/posts/2015-05-gary-n-rassasassafratz.jpg
 imageAlt: The Tale Of Gary And Rassasassafratz
 category: Default
 tags: [life]

@@ -2,7 +2,7 @@
 title: Running Sitefinity In Azure Services
 description: sitefinity_logo1.jpg
 published: 2017-03-21
-image: images/posts/2015-09-sitefinity_logo11.webp
+image: images/posts/2015-09-sitefinity_logo11.jpg
 imageAlt: sitefinity_logo1.jpg
 category: Default
 tags: [azure, configuration, deployment, geekery, microsoft-azure, sitefinity]

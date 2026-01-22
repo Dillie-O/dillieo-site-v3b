@@ -2,7 +2,7 @@
 title: Kanned Tomatoes An Update
 description: Kanned Tomatoes An Update
 published: 2014-05-28
-image: images/posts/2014-05-1401285751_1.webp
+image: images/posts/2014-05-1401285751_1.png
 imageAlt: Kanned Tomatoes An Update
 category: Default
 tags: [geekery, kanban, kanban-flow, organization, pomodoro, time-management, trello]

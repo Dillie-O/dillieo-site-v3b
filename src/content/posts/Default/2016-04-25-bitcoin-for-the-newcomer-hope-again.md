@@ -2,7 +2,7 @@
 title: Bitcoin For The Newcomer Hope Again
 description: bitcoin.png
 published: 2016-04-25
-image: images/posts/2015-05-bitcoin1.webp
+image: images/posts/2015-05-bitcoin1.png
 imageAlt: bitcoin.png
 category: Default
 tags: [bitcoin, geekery, hashocean, mining]

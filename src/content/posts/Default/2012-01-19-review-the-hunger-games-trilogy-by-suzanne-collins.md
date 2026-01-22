@@ -2,7 +2,7 @@
 title: Review The Hunger Games Trilogy By Suzanne Collins
 description: Hunger Games Trilogy
 published: 2012-01-19
-image: images/posts/2012-01-the_hunger_games_trilogy_by_rjvg92-d341yoq.webp
+image: images/posts/2012-01-the_hunger_games_trilogy_by_rjvg92-d341yoq.png
 imageAlt: Hunger Games Trilogy
 category: Default
 tags: [death, dystopia, future, hunger-games, katniss, love, peeta, reviews, war]

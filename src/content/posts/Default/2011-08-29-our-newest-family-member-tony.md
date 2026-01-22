@@ -2,7 +2,7 @@
 title: Our Newest Family Member Tony
 description: Big Family
 published: 2011-08-29
-image: images/posts/2011-08-big-family.webp
+image: images/posts/2011-08-big-family.jpg
 imageAlt: Big Family
 category: Default
 tags: [foreign-exchange, life, taiwan, tony]

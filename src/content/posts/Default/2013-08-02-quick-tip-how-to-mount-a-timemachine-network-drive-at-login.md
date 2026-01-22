@@ -2,7 +2,7 @@
 title: Quick Tip How To Mount A Timemachine Network Drive At Login
 description: Quick Tip
 published: 2013-08-02
-image: images/posts/2011-12-quicktip.webp
+image: images/posts/2011-12-quicktip.jpg
 imageAlt: Quick Tip
 category: Default
 tags: [applescript, drive, geekery, mount, network, osx, quick-tip, timemachine]

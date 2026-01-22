@@ -2,7 +2,7 @@
 title: Running Tip A Good Runner Pulls Down The Hill
 description: 20160512_134907628_iOS
 published: 2016-05-12
-image: images/posts/2016-05-20160512_134907628_ios.webp
+image: images/posts/2016-05-20160512_134907628_ios.jpg
 imageAlt: 20160512_134907628_iOS
 category: Default
 tags: [hills, life, running, training]

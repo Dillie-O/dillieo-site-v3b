@@ -2,7 +2,7 @@
 title: Milestones
 description: Milestones
 published: 2015-06-09
-image: images/posts/2015-06-fullsizerender.webp
+image: images/posts/2015-06-fullsizerender.jpg
 imageAlt: Milestones
 category: Default
 tags: [anniversary, communication, life, marriage]

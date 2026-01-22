@@ -2,7 +2,7 @@
 title: Same And Different
 description: Same And Different
 published: 2016-01-27
-image: images/posts/2016-01-1453901624_1.webp
+image: images/posts/2016-01-1453901624_1.jpg
 imageAlt: Same And Different
 category: Default
 tags: [different, god, life, parenting, relationships, same]

@@ -2,7 +2,7 @@
 title: Old Songs With New Tones
 description: Old Songs With New Tones
 published: 2015-11-11
-image: images/posts/2015-11-peanuts-insideout.webp
+image: images/posts/2015-11-peanuts-insideout.jpg
 imageAlt: Old Songs With New Tones
 category: Default
 tags: [inside-out, lessons, life, movies, peanuts, virtue, wisdom]

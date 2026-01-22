@@ -2,7 +2,7 @@
 title: Installing Sitefinity With Iis 8 Sql Server 2012 And Windows Server 2012
 description: Installing Sitefinity With Iis 8 Sql Server 2012 And Windows Server 2012
 published: 2015-04-02
-image: images/posts/2015-04-sitefinity_logo1.webp
+image: images/posts/2015-04-sitefinity_logo1.jpg
 imageAlt: Installing Sitefinity With Iis 8 Sql Server 2012 And Windows Server 2012
 category: Default
 tags: [apppool, cms, configuration, Database, geekery, sitefinity, sqlserver, telerik]

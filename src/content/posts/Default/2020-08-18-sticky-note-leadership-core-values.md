@@ -2,7 +2,7 @@
 title: Sticky Note Leadership Core Values
 description: sticky note with core values
 published: 2020-08-18
-image: images/posts/2020-08-stickynote_corevalues.webp
+image: images/posts/2020-08-stickynote_corevalues.jpg
 imageAlt: sticky note with core values
 category: Default
 tags: [brene-brown, community, dare-to-lead, integrity, leadership, life, values]

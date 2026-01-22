@@ -2,7 +2,7 @@
 title: Programming For Kids
 description: Programming For Kids
 published: 2015-03-12
-image: images/posts/2015-03-1_code_org_screenshot.webp
+image: images/posts/2015-03-1_code_org_screenshot.png
 imageAlt: Programming For Kids
 category: Default
 tags: [coding, kids, life, programing]

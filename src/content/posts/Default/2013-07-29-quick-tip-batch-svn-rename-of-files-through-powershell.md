@@ -2,7 +2,7 @@
 title: Quick Tip Batch Svn Rename Of Files Through Powershell
 description: Quick Tip
 published: 2013-07-29
-image: images/posts/2011-12-quicktip.webp
+image: images/posts/2011-12-quicktip.jpg
 imageAlt: Quick Tip
 category: Default
 tags: [apache-subversion, Batch, files, geekery, powershell, quick-tip, rename, scripting, svn, windows-powershell]

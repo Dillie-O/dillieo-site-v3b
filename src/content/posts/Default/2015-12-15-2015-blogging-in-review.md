@@ -2,7 +2,7 @@
 title: 2015 Blogging In Review
 description: 2015 Blogging In Review
 published: 2015-12-15
-image: images/posts/2015-12-2016-new-year-ss-1920.webp
+image: images/posts/2015-12-2016-new-year-ss-1920.jpg
 imageAlt: 2015 Blogging In Review
 category: Default
 tags: [blogging, life, review, stats]

@@ -2,7 +2,7 @@
 title: Cloud Life 5 Free Tools To Get What You Need Whenever And Wherever You Need It
 description: Cloud Apps
 published: 2012-01-30
-image: images/posts/2012-01-cloudapps.webp
+image: images/posts/2012-01-cloudapps.png
 imageAlt: Cloud Apps
 category: Default
 tags: [apps, cloud, evernote, feedly, geekery, kindle, spotify, sugarsync, tools]

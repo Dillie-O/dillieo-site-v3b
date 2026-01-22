@@ -2,7 +2,7 @@
 title: Tourettes Trex Video And Breaking Through
 description: t-rextra_izzy_raleigh
 published: 2018-05-17
-image: images/posts/2018-05-t-rextra_izzy_raleigh.webp
+image: images/posts/2018-05-t-rextra_izzy_raleigh.png
 imageAlt: t-rextra_izzy_raleigh
 category: Default
 tags: [break-through, challenges, kids, life, tourettes, victory, video]

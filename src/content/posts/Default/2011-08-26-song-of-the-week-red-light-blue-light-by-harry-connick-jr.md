@@ -2,7 +2,7 @@
 title: Song Of The Week Red Light Blue Light By Harry Connick Jr
 description: Red Light, Blue Light
 published: 2011-08-26
-image: images/posts/2011-08-harryconnickjrredlightbluelightcover.webp
+image: images/posts/2011-08-harryconnickjrredlightbluelightcover.jpg
 imageAlt: Red Light, Blue Light
 category: Default
 tags: [frank-sinatra, harry-connick-jr, jazz, song-of-the-week, vocal]

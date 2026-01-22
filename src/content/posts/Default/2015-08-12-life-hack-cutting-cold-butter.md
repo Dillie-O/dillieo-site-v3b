@@ -2,7 +2,7 @@
 title: Life Hack Cutting Cold Butter
 description: Life Hack Cutting Cold Butter
 published: 2015-08-12
-image: images/posts/2015-08-1_20150812_143336448_ios.webp
+image: images/posts/2015-08-1_20150812_143336448_ios.jpg
 imageAlt: Life Hack Cutting Cold Butter
 category: Default
 tags: [butter, life, lifehack, toast]

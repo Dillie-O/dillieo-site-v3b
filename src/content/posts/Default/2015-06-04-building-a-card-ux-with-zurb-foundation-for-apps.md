@@ -2,7 +2,7 @@
 title: Building A Card Ux With Zurb Foundation For Apps
 description: Building A Card Ux With Zurb Foundation For Apps
 published: 2015-06-04
-image: images/posts/2015-06-zurb_card_swipe1.webp
+image: images/posts/2015-06-zurb_card_swipe1.jpg
 imageAlt: Building A Card Ux With Zurb Foundation For Apps
 category: Default
 tags: [angularjs, carousel, coding, foundation, touch, z4a, zurb]

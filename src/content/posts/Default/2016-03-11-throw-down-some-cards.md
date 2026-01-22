@@ -2,7 +2,7 @@
 title: Throw Down Some Cards
 description: Throw Down Some Cards
 published: 2016-03-11
-image: images/posts/2016-03-kids_learning_pokemon.webp
+image: images/posts/2016-03-kids_learning_pokemon.jpg
 imageAlt: Throw Down Some Cards
 category: Default
 tags: [ccg, games, l5r, life, pokemon, tcg, yugioh]
