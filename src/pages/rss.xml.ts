@@ -13,6 +13,7 @@ import { url } from '@/utils/url-utils';
 const markdownParser = new MarkdownIt();
 
 function stripInvalidXmlChars(str: string): string {
+	if (!str) return '';
 	return str.replace(
 		// biome-ignore lint/suspicious/noControlCharactersInRegex: https://www.w3.org/TR/xml/#charsets
 		/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x9F\uFDD0-\uFDEF\uFFFE\uFFFF]/g,
@@ -33,6 +34,11 @@ export async function GET(context: APIContext) {
 	const feed: RSSFeedItem[] = [];
 
 	for (const post of posts) {
+		if (!post.body) {
+			console.warn(`Skipping post with empty body: ${post.id}`);
+			continue;
+		}
+		
 		const cleanedBody = stripInvalidXmlChars(post.body);
 		
 		const htmlString = markdownParser.render(cleanedBody);
