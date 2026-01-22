@@ -1,0 +1,25 @@
+---
+title: Profiles And Vision
+description: 20160526_185247000_ios
+published: 2016-05-27
+image: images/posts/2016-05-20160526_185247000_ios.png
+imageAlt: 20160526_185247000_ios
+category: Development
+tags: [geekery, link, prayer, prayer-odyssey]
+---
+
+More progress!
+
+<https://prayerodyssey.wordpress.com/2016/05/26/profiles-and-vision/>
+
+<!--more-->
+
+![20160526_185247000_ios](@assets/images/posts/2016-05-20160526_185247000_ios.png)
+
+More progress!
+
+<https://prayerodyssey.wordpress.com/2016/05/26/profiles-and-vision/>
+
+<!--more-->
+
+![20160526_185247000_ios](@assets/images/posts/2016-05-20160526_185247000_ios.png)

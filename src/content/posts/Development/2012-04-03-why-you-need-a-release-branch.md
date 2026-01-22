@@ -1,0 +1,49 @@
+---
+title: Why You Need A Release Branch
+description: SVN release branch outline
+published: 2012-04-03
+image: images/posts/2012-04-svn_branching.jpg
+imageAlt: SVN Branch
+category: Development
+tags: [branch, coding, source-control, versioning]
+---
+
+![SVN Branch](@assets/images/posts/2012-04-svn_branching.jpg)
+
+I've run into this issue a couple of times now, and after another incident this weekend, it only hit home the importance of having a release branch in your source code repository. Most folks already have this and know it's value. Just in case, here's a simple (yet important) example of why it is so important.
+
+<!--more-->
+
+On Friday I was working on a new feature for a client's website. It was a simple feature, a slider that would have a couple of ad links that would click through to the other site. We were still waiting on the artwork for the slider images, so I had used a couple of arbitrary images so that they could show a demo to the potential advertisers. I deployed this up to our test server.
+
+We use SVN and do a "repository migration" for our projects. What this means is that I check my code into the repository, log into the server, can call the repository update command, and it pulls everything down that has changed. This makes things really easy, because there are no huge zip files to work with. In addition, if you need to roll back a change, you can easily do that through the proper SVN commands. As a side benefit, if you REALLY have to make a change that applies to the entire project (say a critical configuration option you never knew until you deployed) you can commit to the repository to the test server, and it will be pushed down to your development machine (or live machine) the next time you do an update.
+
+Going back to our story, our repository for this project had only one source, the trunk. This means we have one main line of development. When you were done with a change, you pushed it up to the trunk, updated the test server, and when things were approved, you updated to the live server. This is what I did early on Friday. I pushed up the change to the test server, let the client know, and went about with other projects. Unknown to me, later that day, one of the other developers on our team ALSO made a change to the site. They needed to update one of the logos. They followed the same process. They made their updates, pushed it to the repository, updated the test server, and then updated the live server.
+
+The problem with this is that when you do a typical repository update, you pull all the changes made since the last update. In this case, the update pulled my changes (not ready for the live site) and their changes to the live server. Unfortunately this glitch wasn't caught until over the weekend, and with both me and the developer out of town, the changes didn't get rolled back until late Sunday evening. Granted one solution to this problem is more communication, and typically we check the comments and the log left in the repository to see if we need to do a partial deployment of repository revisions. However, a safer and more flexible solution is to create a release branch in the repository.
+
+I won't go into the details of branching and merging. [Jeff Atwood](http://www.codinghorror.com/blog/2007/10/software-branching-and-parallel-universes.html) does a good job at going over all the options. I will say that keeping a separate branch that is JUST for your code that is ready to go to the live site solves our problem above immediately. What would have happened above would have been that the other developer would have made their changes, pushed them into the repository (trunk) and then updated the test server as usual. However, when they were ready for the live server, they would have taken the repository revision specific to the change(s) they made and merge them into the release branch. The live site would be tied to the release branch (instead of the trunk) and the live site would have been updated from there, and only updating the change they made.
+
+There are a lot of uses for branches in source control. I'm currently working on a rather complex feature to add to a site, and I created a branch to work on. That way the day to day quick fixes and updates can occur without me having to worry about my code affecting anything else. When the time comes, I'll merge my changes into the trunk for primary testing, and then we'll migrate it to the release branch when it's ready to go live. Some people keep a separate branch for each version of their code released (1.0, 1.5, 2.0, etc) so they can easily roll back anywhere in time, or to have an archive of each major version for compatibility testing.
+
+So don't forget, get yourself a release branch in your source control system. Your coworkers, your sanity, and your project will thank you.
+
+![SVN Branch](@assets/images/posts/2012-04-svn_branching.jpg)
+
+I've run into this issue a couple of times now, and after another incident this weekend, it only hit home the importance of having a release branch in your source code repository. Most folks already have this and know it's value. Just in case, here's a simple (yet important) example of why it is so important.
+
+<!--more-->
+
+On Friday I was working on a new feature for a client's website. It was a simple feature, a slider that would have a couple of ad links that would click through to the other site. We were still waiting on the artwork for the slider images, so I had used a couple of arbitrary images so that they could show a demo to the potential advertisers. I deployed this up to our test server.
+
+We use SVN and do a "repository migration" for our projects. What this means is that I check my code into the repository, log into the server, can call the repository update command, and it pulls everything down that has changed. This makes things really easy, because there are no huge zip files to work with. In addition, if you need to roll back a change, you can easily do that through the proper SVN commands. As a side benefit, if you REALLY have to make a change that applies to the entire project (say a critical configuration option you never knew until you deployed) you can commit to the repository to the test server, and it will be pushed down to your development machine (or live machine) the next time you do an update.
+
+Going back to our story, our repository for this project had only one source, the trunk. This means we have one main line of development. When you were done with a change, you pushed it up to the trunk, updated the test server, and when things were approved, you updated to the live server. This is what I did early on Friday. I pushed up the change to the test server, let the client know, and went about with other projects. Unknown to me, later that day, one of the other developers on our team ALSO made a change to the site. They needed to update one of the logos. They followed the same process. They made their updates, pushed it to the repository, updated the test server, and then updated the live server.
+
+The problem with this is that when you do a typical repository update, you pull all the changes made since the last update. In this case, the update pulled my changes (not ready for the live site) and their changes to the live server. Unfortunately this glitch wasn't caught until over the weekend, and with both me and the developer out of town, the changes didn't get rolled back until late Sunday evening. Granted one solution to this problem is more communication, and typically we check the comments and the log left in the repository to see if we need to do a partial deployment of repository revisions. However, a safer and more flexible solution is to create a release branch in the repository.
+
+I won't go into the details of branching and merging. [Jeff Atwood](http://www.codinghorror.com/blog/2007/10/software-branching-and-parallel-universes.html) does a good job at going over all the options. I will say that keeping a separate branch that is JUST for your code that is ready to go to the live site solves our problem above immediately. What would have happened above would have been that the other developer would have made their changes, pushed them into the repository (trunk) and then updated the test server as usual. However, when they were ready for the live server, they would have taken the repository revision specific to the change(s) they made and merge them into the release branch. The live site would be tied to the release branch (instead of the trunk) and the live site would have been updated from there, and only updating the change they made.
+
+There are a lot of uses for branches in source control. I'm currently working on a rather complex feature to add to a site, and I created a branch to work on. That way the day to day quick fixes and updates can occur without me having to worry about my code affecting anything else. When the time comes, I'll merge my changes into the trunk for primary testing, and then we'll migrate it to the release branch when it's ready to go live. Some people keep a separate branch for each version of their code released (1.0, 1.5, 2.0, etc) so they can easily roll back anywhere in time, or to have an archive of each major version for compatibility testing.
+
+So don't forget, get yourself a release branch in your source control system. Your coworkers, your sanity, and your project will thank you.

@@ -1,0 +1,13 @@
+---
+title: Random Vacation Thought
+description: Random Vacation Thought
+published: 2015-06-18
+image: images/posts/2015-06-img_0368.jpg
+imageAlt: Random Vacation Thought
+category: Growth
+tags: [life]
+---
+
+![](@assets/images/posts/2015-06-img_0368.jpg)So I'm in Texas, having stopped off in a German town to pick up an Irish whiskey that will travel back to Arizona. Gotta love it...
+
+![](@assets/images/posts/2015-06-img_0368.jpg)So I'm in Texas, having stopped off in a German town to pick up an Irish whiskey that will travel back to Arizona. Gotta love it...
