@@ -2,8 +2,6 @@
 title: Simple Global Andamp Editable Application Settings In Winforms Applications
 description: Simple Global Andamp Editable Application Settings In Winforms Applications
 published: 2009-10-02
-image: images/posts/simple_global_andamp_editable_application_settings_in_winforms_applications.webp
-imageAlt: Simple Global Andamp Editable Application Settings In Winforms Applications
 category: Default
 tags: [application, coding, configuration, settings, winforms]
 ---

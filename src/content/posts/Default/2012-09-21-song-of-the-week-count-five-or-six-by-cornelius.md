@@ -2,7 +2,7 @@
 title: Song Of The Week Count Five Or Six By Cornelius
 description: Cornelius Cover
 published: 2012-09-21
-image: images/posts/song_of_the_week_count_five_or_six_by_cornelius.webp
+image: images/posts/2012-09-cornelius_cover1.webp
 imageAlt: Cornelius Cover
 category: Default
 tags: [abstract, cornelius, song-of-the-week]

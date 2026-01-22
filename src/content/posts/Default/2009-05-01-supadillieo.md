@@ -2,8 +2,6 @@
 title: Supadillieo
 description: Supadillieo
 published: 2009-05-01
-image: images/posts/supadillieo.webp
-imageAlt: Supadillieo
 category: Default
 tags: [life]
 ---

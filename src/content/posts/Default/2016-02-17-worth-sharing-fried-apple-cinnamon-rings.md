@@ -2,7 +2,7 @@
 title: Worth Sharing Fried Apple Cinnamon Rings
 description: Worth Sharing Fried Apple Cinnamon Rings
 published: 2016-02-17
-image: images/posts/worth_sharing_fried_apple_cinnamon_rings.webp
+image: images/posts/2016-02-1455720416_1.jpg
 imageAlt: Worth Sharing Fried Apple Cinnamon Rings
 category: Default
 tags: [life]

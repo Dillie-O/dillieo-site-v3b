@@ -2,7 +2,7 @@
 title: Too Many Books Not Enough Time
 description: This is books scramble. Many books on white background.
 published: 2016-10-13
-image: images/posts/too_many_books_not_enough_time.webp
+image: images/posts/2016-10-pile-of-books.webp
 imageAlt: This is books scramble. Many books on white background.
 category: Default
 tags: [books, goals, life, reading]

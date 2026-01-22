@@ -2,7 +2,7 @@
 title: My Post Thanksgiving Rant
 description: My Post Thanksgiving Rant
 published: 2015-11-27
-image: images/posts/my_post_thanksgiving_rant.webp
+image: images/posts/2015-11-funny-turkey-santa-claus-fight-holiday1.webp
 imageAlt: My Post Thanksgiving Rant
 category: Default
 tags: [christmas, life, rant, thanksgiving]

@@ -2,7 +2,7 @@
 title: The Joys Of Home Ownership
 description: home-ownership
 published: 2017-04-12
-image: images/posts/the_joys_of_home_ownership.webp
+image: images/posts/2017-04-home-ownership.webp
 imageAlt: home-ownership
 category: Default
 tags: [appliances, home, home-ownership, life, ownership]

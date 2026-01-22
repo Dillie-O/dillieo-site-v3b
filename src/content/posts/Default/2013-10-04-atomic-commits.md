@@ -2,8 +2,6 @@
 title: Atomic Commits
 description: Atomic Commits
 published: 2013-10-04
-image: images/posts/atomic_commits.webp
-imageAlt: Atomic Commits
 category: Default
 tags: [coding, commit, git, link, source-control, svn, tfs, tips]
 ---

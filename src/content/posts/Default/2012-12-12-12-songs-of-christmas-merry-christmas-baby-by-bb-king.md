@@ -2,7 +2,7 @@
 title: 12 Songs Of Christmas Merry Christmas Baby By Bb King
 description: B.B. King Christmas
 published: 2012-12-12
-image: images/posts/12_songs_of_christmas_merry_christmas_baby_by_bb_king.webp
+image: images/posts/2012-12-bb-king-christmas.webp
 imageAlt: B.B. King Christmas
 category: Default
 tags: [bb-king, blues, christmas, life, merry-christmas-baby, music]

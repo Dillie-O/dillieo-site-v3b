@@ -2,8 +2,6 @@
 title: Believing That Vs Believing In
 description: Believing That Vs Believing In
 published: 2012-02-22
-image: images/posts/believing_that_vs_believing_in.webp
-imageAlt: Believing That Vs Believing In
 category: Default
 tags: [faith, james, quote, quotes, rc-sproul, works]
 ---

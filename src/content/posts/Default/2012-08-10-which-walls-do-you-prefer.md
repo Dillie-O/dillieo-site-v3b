@@ -2,8 +2,6 @@
 title: Which Walls Do You Prefer
 description: Which Walls Do You Prefer
 published: 2012-08-10
-image: images/posts/which_walls_do_you_prefer.webp
-imageAlt: Which Walls Do You Prefer
 category: Default
 tags: [links, link]
 ---

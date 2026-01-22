@@ -2,7 +2,7 @@
 title: Song Of The Week La Fiesta By Chick Corea
 description: Corea_Chick_Works
 published: 2011-03-25
-image: images/posts/song_of_the_week_la_fiesta_by_chick_corea.webp
+image: images/posts/2011-03-corea_chick_works_thumb.webp
 imageAlt: Corea_Chick_Works
 category: Default
 tags: [chick-corea, jazz, latin, song-of-the-week]

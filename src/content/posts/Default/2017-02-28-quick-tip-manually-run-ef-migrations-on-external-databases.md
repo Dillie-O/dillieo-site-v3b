@@ -2,7 +2,7 @@
 title: Quick Tip Manually Run Ef Migrations On External Databases
 description: quick_tip_banner
 published: 2017-02-28
-image: images/posts/quick_tip_manually_run_ef_migrations_on_external_databases.webp
+image: images/posts/2017-02-quick_tip_banner.webp
 imageAlt: quick_tip_banner
 category: Default
 tags: [coding, Database, entity-framework, migrations]

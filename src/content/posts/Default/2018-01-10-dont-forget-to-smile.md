@@ -2,7 +2,7 @@
 title: Dont Forget To Smile
 description: IMG_4392-COLLAGE-2
 published: 2018-01-10
-image: images/posts/dont_forget_to_smile.webp
+image: images/posts/2018-01-img_4392-collage-2.webp
 imageAlt: IMG_4392-COLLAGE-2
 category: Default
 tags: [life, perspective, smile, smiling]

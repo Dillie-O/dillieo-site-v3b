@@ -2,7 +2,7 @@
 title: Quick Tip Getting The Centroid Of An Individual Svg Path Selection In D3
 description: Quick Tip
 published: 2013-02-13
-image: images/posts/quick_tip_getting_the_centroid_of_an_individual_svg_path_selection_in_d3.webp
+image: images/posts/2011-12-quicktip.webp
 imageAlt: Quick Tip
 category: Default
 tags: [centroid, coding, d3, quick-tip, svg]

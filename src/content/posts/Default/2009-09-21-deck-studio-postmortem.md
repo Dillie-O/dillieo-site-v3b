@@ -2,8 +2,6 @@
 title: Deck Studio Postmortem
 description: Deck Studio Postmortem
 published: 2009-09-21
-image: images/posts/deck_studio_postmortem.webp
-imageAlt: Deck Studio Postmortem
 category: Default
 tags: [ccg-toolkit, coding, deck-studio, netrep, ronin]
 ---

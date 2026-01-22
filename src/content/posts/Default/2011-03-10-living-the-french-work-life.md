@@ -2,7 +2,7 @@
 title: Living The French Work Life
 description: FrenchCoffeeClock
 published: 2011-03-10
-image: images/posts/living_the_french_work_life.webp
+image: images/posts/2011-03-frenchcoffeeclock.webp
 imageAlt: FrenchCoffeeClock
 category: Default
 tags: [france, life, time-management, work]

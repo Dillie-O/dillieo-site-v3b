@@ -2,8 +2,6 @@
 title: Refactored Advanced Removal Of Duplicate Rows In Sql Server
 description: Refactored Advanced Removal Of Duplicate Rows In Sql Server
 published: 2013-06-03
-image: images/posts/refactored_advanced_removal_of_duplicate_rows_in_sql_server.webp
-imageAlt: Refactored Advanced Removal Of Duplicate Rows In Sql Server
 category: Default
 tags: [coding, duplicates, performance, records, removal, sql-server]
 ---

@@ -2,7 +2,7 @@
 title: Mmx Resolutions In Review
 description: 2010Logo
 published: 2010-12-22
-image: images/posts/mmx_resolutions_in_review.webp
+image: images/posts/2010-12-2010logo_thumb.webp
 imageAlt: 2010Logo
 category: Default
 tags: [life, pensee, resolutions]

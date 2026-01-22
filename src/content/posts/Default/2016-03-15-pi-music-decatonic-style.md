@@ -2,7 +2,7 @@
 title: Pi Music Decatonic Style
 description: pi-music
 published: 2016-03-15
-image: images/posts/pi_music_decatonic_style.webp
+image: images/posts/2016-03-pi-music.webp
 imageAlt: pi-music
 category: Default
 tags: [equation, formula, life, music, pi, scale, sonic-pi]

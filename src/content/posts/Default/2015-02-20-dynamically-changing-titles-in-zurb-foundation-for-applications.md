@@ -2,7 +2,7 @@
 title: Dynamically Changing Titles In Zurb Foundation For Applications
 description: ZANSTitleBinding.png
 published: 2015-02-20
-image: images/posts/dynamically_changing_titles_in_zurb_foundation_for_applications.webp
+image: images/posts/2015-02-zanstitlebinding.webp
 imageAlt: ZANSTitleBinding.png
 category: Default
 tags: [angularjs, coding, data-element, dynamic, foundation, front-matter, header, title, zans, zurb, zurb-foundation-for-applications]

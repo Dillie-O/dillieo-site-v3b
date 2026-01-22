@@ -2,8 +2,6 @@
 title: Personal Vs Individualistic Faith
 description: Personal Vs Individualistic Faith
 published: 2012-11-19
-image: images/posts/personal_vs_individualistic_faith.webp
-imageAlt: Personal Vs Individualistic Faith
 category: Default
 tags: [body, church, faith, god, individualism, quote, quotes]
 ---

@@ -2,7 +2,7 @@
 title: Fresh Running Tech
 description: Running-Tech-2-1024x427
 published: 2016-07-11
-image: images/posts/fresh_running_tech.webp
+image: images/posts/2016-07-running-tech-2-1024x427.webp
 imageAlt: Running-Tech-2-1024x427
 category: Default
 tags: [life, link, ragnar, ragnarnwp, running, tech]

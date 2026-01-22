@@ -2,7 +2,7 @@
 title: Quick Tip How To Manually Add A Log Entry In Elmah
 description: Quick Tip
 published: 2012-07-24
-image: images/posts/quick_tip_how_to_manually_add_a_log_entry_in_elmah.webp
+image: images/posts/2011-12-quicktip.webp
 imageAlt: Quick Tip
 category: Default
 tags: [coding, elmah, logging, quick-tip]

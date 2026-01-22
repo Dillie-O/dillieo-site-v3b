@@ -2,7 +2,7 @@
 title: The Top 10 Island Cd Disc Mix
 description: Island Set Cover
 published: 2012-04-16
-image: images/posts/the_top_10_island_cd_disc_mix.webp
+image: images/posts/2012-04-island-set-cover.webp
 imageAlt: Island Set Cover
 category: Default
 tags: [life]

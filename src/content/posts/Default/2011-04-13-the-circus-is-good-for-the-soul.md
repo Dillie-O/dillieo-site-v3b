@@ -2,8 +2,6 @@
 title: The Circus Is Good For The Soul
 description: The Circus Is Good For The Soul
 published: 2011-04-13
-image: images/posts/the_circus_is_good_for_the_soul.webp
-imageAlt: The Circus Is Good For The Soul
 category: Default
 tags: [circus, family, fun, life]
 ---

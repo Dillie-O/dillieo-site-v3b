@@ -2,7 +2,7 @@
 title: Diy Duck Incubator Hotel
 description: The final product
 published: 2012-01-16
-image: images/posts/diy_duck_incubator_hotel.webp
+image: images/posts/2012-01-imag0340.webp
 imageAlt: The final product
 category: Default
 tags: [ducks, handyman-tricks]

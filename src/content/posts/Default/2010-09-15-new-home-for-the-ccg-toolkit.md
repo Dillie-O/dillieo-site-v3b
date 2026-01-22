@@ -2,7 +2,7 @@
 title: New Home For The Ccg Toolkit
 description: CCG Toolkit
 published: 2010-09-15
-image: images/posts/new_home_for_the_ccg_toolkit.webp
+image: images/posts/2010-09-ccgtoolkitbanner.webp
 imageAlt: CCG Toolkit
 category: Default
 tags: [ccg-toolkit, coding, deck-studio, netrep, ronin]

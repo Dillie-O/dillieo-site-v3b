@@ -2,7 +2,7 @@
 title: Trust Vs Clarity
 description: Trust Vs Clarity
 published: 2015-02-03
-image: images/posts/trust_vs_clarity.webp
+image: images/posts/2015-02-zoomblur_chinmay_mishra1.webp
 imageAlt: Trust Vs Clarity
 category: Default
 tags: [clarity, faith, life, pensee, trust]

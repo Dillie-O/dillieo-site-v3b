@@ -2,7 +2,7 @@
 title: Nacho Cheese Of The Month Club
 description: Nacho Cheese Of The Month Club
 published: 2009-07-16
-image: images/posts/nacho_cheese_of_the_month_club.webp
+image: images/posts/2009-07-hoopsyoyo1.jpg
 imageAlt: Nacho Cheese Of The Month Club
 category: Default
 tags: [birthday, life, nacho-cheese]

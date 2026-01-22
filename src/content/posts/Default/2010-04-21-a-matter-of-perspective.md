@@ -2,8 +2,6 @@
 title: A Matter Of Perspective
 description: A Matter Of Perspective
 published: 2010-04-21
-image: images/posts/a_matter_of_perspective.webp
-imageAlt: A Matter Of Perspective
 category: Default
 tags: [fatherhood, haylee, life, pensee, rylee]
 ---

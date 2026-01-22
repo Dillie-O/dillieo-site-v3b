@@ -2,8 +2,6 @@
 title: Coding To 80 Columns
 description: Coding To 80 Columns
 published: 2009-06-11
-image: images/posts/coding_to_80_columns.webp
-imageAlt: Coding To 80 Columns
 category: Default
 tags: [coding]
 ---

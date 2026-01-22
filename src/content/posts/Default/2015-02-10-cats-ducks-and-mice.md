@@ -2,7 +2,7 @@
 title: Cats Ducks And Mice
 description: Cats Ducks And Mice
 published: 2015-02-10
-image: images/posts/cats_ducks_and_mice.webp
+image: images/posts/2015-02-piper_box1.webp
 imageAlt: Cats Ducks And Mice
 category: Default
 tags: [cats, ducks, life, mice, surprise]

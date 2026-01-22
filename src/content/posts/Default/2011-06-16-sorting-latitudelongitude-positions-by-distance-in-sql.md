@@ -2,7 +2,7 @@
 title: Sorting Latitudelongitude Positions By Distance In Sql
 description: Map Points
 published: 2011-06-16
-image: images/posts/sorting_latitudelongitude_positions_by_distance_in_sql.webp
+image: images/posts/2011-06-mappoints.webp
 imageAlt: Map Points
 category: Default
 tags: [calculation, coding, distance, geolocation, map, sql]

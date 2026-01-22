@@ -2,7 +2,7 @@
 title: Technology Is Crazy Cool
 description: Matrix Code Tunnel
 published: 2013-01-17
-image: images/posts/technology_is_crazy_cool.webp
+image: images/posts/2010-09-matrixmini.webp
 imageAlt: Matrix Code Tunnel
 category: Default
 tags: [life]

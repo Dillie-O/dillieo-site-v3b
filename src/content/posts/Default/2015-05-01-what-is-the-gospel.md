@@ -2,7 +2,7 @@
 title: What Is The Gospel
 description: What Is The Gospel
 published: 2015-05-01
-image: images/posts/what_is_the_gospel.webp
+image: images/posts/2015-05-cross-691115_6401.webp
 imageAlt: What Is The Gospel
 category: Default
 tags: [disciple, forgiveness, gospel, jesus, kingdom, life]

@@ -2,8 +2,6 @@
 title: Random Musing About The Force The Universe And Balance
 description: Random Musing About The Force The Universe And Balance
 published: 2010-03-24
-image: images/posts/random_musing_about_the_force_the_universe_and_balance.webp
-imageAlt: Random Musing About The Force The Universe And Balance
 category: Default
 tags: [balance, life, pensee, star-wars]
 ---

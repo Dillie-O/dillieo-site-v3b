@@ -2,7 +2,7 @@
 title: Quick Tip Transferring Contacts From Htc 8X To Ios Or Android On Verizon
 description: Quick Tip Transferring Contacts From Htc 8X To Ios Or Android On Verizon
 published: 2015-05-12
-image: images/posts/quick_tip_transferring_contacts_from_htc_8x_to_ios_or_android_on_verizon.webp
+image: images/posts/2015-05-verizon_cloud1.jpg
 imageAlt: Quick Tip Transferring Contacts From Htc 8X To Ios Or Android On Verizon
 category: Default
 tags: [android, contacts, geekery, iphone, nexus, people, transfer, verizon]

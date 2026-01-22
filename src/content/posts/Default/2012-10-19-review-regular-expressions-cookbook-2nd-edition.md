@@ -2,7 +2,7 @@
 title: Review Regular Expressions Cookbook 2Nd Edition
 description: Regular Expressions Cover
 published: 2012-10-19
-image: images/posts/review_regular_expressions_cookbook_2nd_edition.webp
+image: images/posts/2012-10-regularexpressionscover.webp
 imageAlt: Regular Expressions Cover
 category: Default
 tags: [programming, regex, regular-expressions, reviews]

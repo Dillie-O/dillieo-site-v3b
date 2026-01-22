@@ -2,8 +2,6 @@
 title: A Decade Of Photos
 description: A Decade Of Photos
 published: 2019-12-30
-image: images/posts/a_decade_of_photos.webp
-imageAlt: A Decade Of Photos
 category: Default
 tags: [life, photos, reflection]
 ---

@@ -2,8 +2,6 @@
 title: When Did The World Get Huge For You
 description: When Did The World Get Huge For You
 published: 2021-12-14
-image: images/posts/when_did_the_world_get_huge_for_you.webp
-imageAlt: When Did The World Get Huge For You
 category: Default
 tags: [life]
 ---

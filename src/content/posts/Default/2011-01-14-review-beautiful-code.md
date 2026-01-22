@@ -2,7 +2,7 @@
 title: Review Beautiful Code
 description: BeautifulCodeCover
 published: 2011-01-14
-image: images/posts/review_beautiful_code.webp
+image: images/posts/2011-01-beautifulcodecover_thumb.webp
 imageAlt: BeautifulCodeCover
 category: Default
 tags: [algorithms, problem-solving, programming, reviews]

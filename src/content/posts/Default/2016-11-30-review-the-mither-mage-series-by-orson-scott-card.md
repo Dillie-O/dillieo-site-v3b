@@ -2,7 +2,7 @@
 title: Review The Mither Mage Series By Orson Scott Card
 description: mithermage_series
 published: 2016-11-30
-image: images/posts/review_the_mither_mage_series_by_orson_scott_card.webp
+image: images/posts/2016-11-mithermage_series.webp
 imageAlt: mithermage_series
 category: Default
 tags: [magic, mither-mage, orson-scott-card, reviews]

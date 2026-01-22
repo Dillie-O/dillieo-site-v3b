@@ -2,7 +2,7 @@
 title: Kotei Report Tucson Az
 description: Omigawa
 published: 2013-04-22
-image: images/posts/kotei_report_tucson_az.webp
+image: images/posts/2013-04-avatar_omigawa300.webp
 imageAlt: Omigawa
 category: Default
 tags: [collectible-card-game, games, geekery, l5r, legend-of-the-five-rings, tournament]

@@ -2,8 +2,6 @@
 title: Changing Log4Net Configurations Dynamically
 description: Changing Log4Net Configurations Dynamically
 published: 2010-07-15
-image: images/posts/changing_log4net_configurations_dynamically.webp
-imageAlt: Changing Log4Net Configurations Dynamically
 category: Default
 tags: [net, coding, configuration, dynamic, log4net]
 ---

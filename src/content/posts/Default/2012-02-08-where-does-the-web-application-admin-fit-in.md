@@ -2,7 +2,7 @@
 title: Where Does The Web Application Admin Fit In
 description: Web Admin
 published: 2012-02-08
-image: images/posts/where_does_the_web_application_admin_fit_in.webp
+image: images/posts/2012-02-web-admin.webp
 imageAlt: Web Admin
 category: Default
 tags: [administrator, geekery, iis, web, web-development]

@@ -2,7 +2,7 @@
 title: Quick Tip Aborting Builds In Visual Studio Based On File Contents
 description: Quick Tip
 published: 2012-11-27
-image: images/posts/quick_tip_aborting_builds_in_visual_studio_based_on_file_contents.webp
+image: images/posts/2011-12-quicktip.webp
 imageAlt: Quick Tip
 category: Default
 tags: [net, coding, error, error-checking, events, file-contents, pre-build, quick-tip, visual-studio]

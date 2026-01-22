@@ -2,8 +2,6 @@
 title: Bootstrap Your App For Free Part 1 Tools And Resources
 description: Bootstrap Your App For Free Part 1 Tools And Resources
 published: 2019-01-16
-image: images/posts/bootstrap_your_app_for_free_part_1_tools_and_resources.webp
-imageAlt: Bootstrap Your App For Free Part 1 Tools And Resources
 category: Default
 tags: [code, coding, coding, editors, geekery, graphics, tools]
 ---

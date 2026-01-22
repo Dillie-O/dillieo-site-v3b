@@ -2,7 +2,7 @@
 title: Quick Tip How To Download A File From Amazon S3 And Prompt The User Using Net
 description: Quick Tip
 published: 2012-04-24
-image: images/posts/quick_tip_how_to_download_a_file_from_amazon_s3_and_prompt_the_user_using_net.webp
+image: images/posts/2011-12-quicktip.webp
 imageAlt: Quick Tip
 category: Default
 tags: [net, amazon, aws, c, coding, download, getobject, httpresponse, prompt, quick-tip, s3, transmitfile]

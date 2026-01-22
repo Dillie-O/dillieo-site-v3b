@@ -2,7 +2,7 @@
 title: Soup To Nuts Getting Your Android Emulator To Read Virtual Hosts On Your Development Machine
 description: ADV Results
 published: 2012-03-19
-image: images/posts/soup_to_nuts_getting_your_android_emulator_to_read_virtual_hosts_on_your_development_machine.webp
+image: images/posts/2012-03-advresults.webp
 imageAlt: ADV Results
 category: Default
 tags: [android, apache, emulator, geekery, ios, mobile, virtual-host]

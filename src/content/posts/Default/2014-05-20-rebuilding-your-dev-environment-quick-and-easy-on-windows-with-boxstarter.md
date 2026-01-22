@@ -2,8 +2,6 @@
 title: Rebuilding Your Dev Environment Quick And Easy On Windows With Boxstarter
 description: Rebuilding Your Dev Environment Quick And Easy On Windows With Boxstarter
 published: 2014-05-20
-image: images/posts/rebuilding_your_dev_environment_quick_and_easy_on_windows_with_boxstarter.webp
-imageAlt: Rebuilding Your Dev Environment Quick And Easy On Windows With Boxstarter
 category: Default
 tags: [boxstarter, chocolatey, configuration, deployment, geekery, installation, windows]
 ---

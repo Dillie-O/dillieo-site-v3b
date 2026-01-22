@@ -2,8 +2,6 @@
 title: The Power Of Mentoring For Others And You
 description: The Power Of Mentoring For Others And You
 published: 2009-05-15
-image: images/posts/the_power_of_mentoring_for_others_and_you.webp
-imageAlt: The Power Of Mentoring For Others And You
 category: Default
 tags: [coding]
 ---

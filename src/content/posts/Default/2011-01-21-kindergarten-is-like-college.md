@@ -2,8 +2,6 @@
 title: Kindergarten Is Like College
 description: Kindergarten Is Like College
 published: 2011-01-21
-image: images/posts/kindergarten_is_like_college.webp
-imageAlt: Kindergarten Is Like College
 category: Default
 tags: [college, kindergarten, life, pensee, school]
 ---

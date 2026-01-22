@@ -2,7 +2,7 @@
 title: Quick Tip Dont Resize The Bootcamp Partition
 description: quick-tips.jpg
 published: 2015-11-13
-image: images/posts/quick_tip_dont_resize_the_bootcamp_partition.webp
+image: images/posts/2015-01-quick-tips.webp
 imageAlt: quick-tips.jpg
 category: Default
 tags: [bootcamp, geekery, osx, partition, resize, windows]

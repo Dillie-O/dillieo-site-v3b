@@ -2,8 +2,6 @@
 title: Congregation
 description: Congregation
 published: 2011-12-23
-image: images/posts/congregation.webp
-imageAlt: Congregation
 category: Default
 tags: [church, congregation, quote, quotes]
 ---

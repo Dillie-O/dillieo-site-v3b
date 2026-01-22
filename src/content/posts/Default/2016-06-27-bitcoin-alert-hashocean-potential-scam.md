@@ -2,7 +2,7 @@
 title: Bitcoin Alert Hashocean Potential Scam
 description: bitcoin-digital
 published: 2016-06-27
-image: images/posts/bitcoin_alert_hashocean_potential_scam.webp
+image: images/posts/2016-06-bitcoin-digital.webp
 imageAlt: bitcoin-digital
 category: Default
 tags: [bitcoin, geekery, hashocean, scam]

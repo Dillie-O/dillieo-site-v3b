@@ -2,7 +2,7 @@
 title: The Remote Worker One Month In
 description: My home office
 published: 2011-07-05
-image: images/posts/the_remote_worker_one_month_in.webp
+image: images/posts/2011-07-photo-jul-05-1-48-26-pm.webp
 imageAlt: My home office
 category: Default
 tags: [fresh-consulting, life, remote-work, technology, telecommute]

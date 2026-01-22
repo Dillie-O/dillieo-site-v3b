@@ -2,7 +2,7 @@
 title: Quick Tip Quick File Zipping In Windows 8
 description: Quick Tip
 published: 2013-08-14
-image: images/posts/quick_tip_quick_file_zipping_in_windows_8.webp
+image: images/posts/2011-12-quicktip.webp
 imageAlt: Quick Tip
 category: Default
 tags: [geekery, quick-tip, windows-8, windows-explorer, zip-file-format]

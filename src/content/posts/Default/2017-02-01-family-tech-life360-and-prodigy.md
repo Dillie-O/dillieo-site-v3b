@@ -2,7 +2,7 @@
 title: Family Tech Life360 And Prodigy
 description: life360
 published: 2017-02-01
-image: images/posts/family_tech_life360_and_prodigy.webp
+image: images/posts/2017-02-life360.jpg
 imageAlt: life360
 category: Default
 tags: [games, geekery, life360, math, prodigy, technology, tools]

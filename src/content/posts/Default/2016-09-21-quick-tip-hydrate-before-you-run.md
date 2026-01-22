@@ -2,7 +2,7 @@
 title: Quick Tip Hydrate Before You Run
 description: 20160921_125840148_ios
 published: 2016-09-21
-image: images/posts/quick_tip_hydrate_before_you_run.webp
+image: images/posts/2016-09-20160921_125840148_ios.webp
 imageAlt: 20160921_125840148_ios
 category: Default
 tags: [hydration, life, running, tips]

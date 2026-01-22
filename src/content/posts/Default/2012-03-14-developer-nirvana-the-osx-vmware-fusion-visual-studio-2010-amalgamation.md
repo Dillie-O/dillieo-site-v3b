@@ -2,7 +2,7 @@
 title: Developer Nirvana The Osx Vmware Fusion Visual Studio 2010 Amalgamation
 description: OSX Win7 Fusion
 published: 2012-03-14
-image: images/posts/developer_nirvana_the_osx_vmware_fusion_visual_studio_2010_amalgamation.webp
+image: images/posts/2012-03-osx_win7_fusion.webp
 imageAlt: OSX Win7 Fusion
 category: Default
 tags: [geekery, mac, osx, programming, tools, virtualization, visual-studio, vmware-fusion, windows-7]

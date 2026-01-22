@@ -2,7 +2,7 @@
 title: The New Developer Rig
 description: My development setup.
 published: 2011-05-31
-image: images/posts/the_new_developer_rig.webp
+image: images/posts/2011-05-sam_1250.webp
 imageAlt: My development setup.
 category: Default
 tags: [computer, developer, geekery, hardware, setup]

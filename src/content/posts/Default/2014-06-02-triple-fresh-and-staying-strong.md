@@ -2,8 +2,6 @@
 title: Triple Fresh And Staying Strong
 description: Triple Fresh And Staying Strong
 published: 2014-06-02
-image: images/posts/triple_fresh_and_staying_strong.webp
-imageAlt: Triple Fresh And Staying Strong
 category: Default
 tags: [life]
 ---

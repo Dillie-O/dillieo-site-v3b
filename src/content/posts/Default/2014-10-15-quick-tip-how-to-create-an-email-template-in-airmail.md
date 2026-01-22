@@ -2,7 +2,7 @@
 title: Quick Tip How To Create An Email Template In Airmail
 description: 1413331258_0.png
 published: 2014-10-15
-image: images/posts/quick_tip_how_to_create_an_email_template_in_airmail.webp
+image: images/posts/2014-10-1413331258_0.webp
 imageAlt: 1413331258_0.png
 category: Default
 tags: [airmail, email, geekery, stationary, template]

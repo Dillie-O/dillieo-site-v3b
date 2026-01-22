@@ -2,8 +2,6 @@
 title: Chesterton Poets Rationalists And Code
 description: Chesterton Poets Rationalists And Code
 published: 2010-01-05
-image: images/posts/chesterton_poets_rationalists_and_code.webp
-imageAlt: Chesterton Poets Rationalists And Code
 category: Default
 tags: [chesterton, coding, life, pensee]
 ---

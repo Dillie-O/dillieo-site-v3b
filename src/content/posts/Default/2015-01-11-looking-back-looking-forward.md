@@ -2,8 +2,6 @@
 title: Looking Back Looking Forward
 description: Looking Back Looking Forward
 published: 2015-01-11
-image: images/posts/looking_back_looking_forward.webp
-imageAlt: Looking Back Looking Forward
 category: Default
 tags: [goals, life, review]
 ---

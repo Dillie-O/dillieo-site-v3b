@@ -2,7 +2,7 @@
 title: Rainbow Faces
 description: Daddys Girls
 published: 2010-11-10
-image: images/posts/rainbow_faces.webp
+image: images/posts/2010-11-1003101213_thumb.webp
 imageAlt: Daddys Girls
 category: Default
 tags: [haylee, life, rylee]

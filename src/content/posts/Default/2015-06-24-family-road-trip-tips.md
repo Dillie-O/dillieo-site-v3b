@@ -2,7 +2,7 @@
 title: Family Road Trip Tips
 description: Family Road Trip Tips
 published: 2015-06-24
-image: images/posts/family_road_trip_tips.webp
+image: images/posts/2015-06-20150615_205222341_ios.webp
 imageAlt: Family Road Trip Tips
 category: Default
 tags: [food, gas, life, road-trip, scenery, tips, travel]

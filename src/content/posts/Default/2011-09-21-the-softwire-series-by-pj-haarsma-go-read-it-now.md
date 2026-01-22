@@ -2,7 +2,7 @@
 title: The Softwire Series By Pj Haarsma Go Read It Now
 description: Softwire Series
 published: 2011-09-21
-image: images/posts/the_softwire_series_by_pj_haarsma_go_read_it_now.webp
+image: images/posts/2011-09-softwireseries.webp
 imageAlt: Softwire Series
 category: Default
 tags: [book, computers, pj-haarsma, reviews, science-fiction, softwire]

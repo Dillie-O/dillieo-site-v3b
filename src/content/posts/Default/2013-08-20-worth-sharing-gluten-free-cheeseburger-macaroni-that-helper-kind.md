@@ -2,8 +2,6 @@
 title: Worth Sharing Gluten Free Cheeseburger Macaroni That Helper Kind
 description: Worth Sharing Gluten Free Cheeseburger Macaroni That Helper Kind
 published: 2013-08-20
-image: images/posts/worth_sharing_gluten_free_cheeseburger_macaroni_that_helper_kind.webp
-imageAlt: Worth Sharing Gluten Free Cheeseburger Macaroni That Helper Kind
 category: Default
 tags: [cheeseburger-macaroni, gluten-free, hamburger-helper, macaroni, recipes]
 ---

@@ -2,7 +2,7 @@
 title: Windows Phone 8 One Week In With The Htc 8X
 description: It looks long, but its one quick flick of the thumb to access what I need.
 published: 2013-05-23
-image: images/posts/windows_phone_8_one_week_in_with_the_htc_8x.webp
+image: images/posts/2013-05-wp8_home.webp
 imageAlt: It looks long, but its one quick flick of the thumb to access what I need.
 category: Default
 tags: [family-room, geekery, htc, live-tiles, people-hub, windows-phone, windows-phone-8, wp8]

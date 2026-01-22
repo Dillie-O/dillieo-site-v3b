@@ -2,7 +2,7 @@
 title: Song Of The Week Skanewpid By Sfc
 description: SFC Phase III
 published: 2012-03-16
-image: images/posts/song_of_the_week_skanewpid_by_sfc.webp
+image: images/posts/2012-03-sfc_piii.webp
 imageAlt: SFC Phase III
 category: Default
 tags: [hip-hop, sfc, skanewpid, song-of-the-week]

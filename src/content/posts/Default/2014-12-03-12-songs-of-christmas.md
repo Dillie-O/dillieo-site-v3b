@@ -2,8 +2,6 @@
 title: 12 Songs Of Christmas
 description: 12 Songs Of Christmas
 published: 2014-12-03
-image: images/posts/12_songs_of_christmas.webp
-imageAlt: 12 Songs Of Christmas
 category: Default
 tags: [advent, christmas, life, music]
 ---

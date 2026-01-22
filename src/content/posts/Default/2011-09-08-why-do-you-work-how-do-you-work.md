@@ -2,7 +2,7 @@
 title: Why Do You Work How Do You Work
 description: Old Work Boots
 published: 2011-09-08
-image: images/posts/why_do_you_work_how_do_you_work.webp
+image: images/posts/2011-09-20071119134740_old-work-boots.webp
 imageAlt: Old Work Boots
 category: Default
 tags: [ethics, labor, labor-day, life, work]

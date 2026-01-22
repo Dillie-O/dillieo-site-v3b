@@ -2,7 +2,7 @@
 title: Sixtyseven Minutes
 description: running_tall
 published: 2016-06-14
-image: images/posts/sixtyseven_minutes.webp
+image: images/posts/2016-06-running_tall.webp
 imageAlt: running_tall
 category: Default
 tags: [life, pace, pensee, running, self-dicipline, self-examination]

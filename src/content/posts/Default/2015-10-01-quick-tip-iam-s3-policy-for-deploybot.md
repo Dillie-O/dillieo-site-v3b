@@ -2,7 +2,7 @@
 title: Quick Tip Iam S3 Policy For Deploybot
 description: Quick Tip
 published: 2015-10-01
-image: images/posts/quick_tip_iam_s3_policy_for_deploybot.webp
+image: images/posts/2011-12-quicktip.webp
 imageAlt: Quick Tip
 category: Default
 tags: [aws, coding, deploybot, iam, policy, s3, security]

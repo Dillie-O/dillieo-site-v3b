@@ -2,8 +2,6 @@
 title: Worth Sharing Low Iodine Diet Lid Nachos
 description: Worth Sharing Low Iodine Diet Lid Nachos
 published: 2014-06-17
-image: images/posts/worth_sharing_low_iodine_diet_lid_nachos.webp
-imageAlt: Worth Sharing Low Iodine Diet Lid Nachos
 category: Default
 tags: [lid, low-iodine-diet, mexican-food, nachos, recipe, recipes]
 ---

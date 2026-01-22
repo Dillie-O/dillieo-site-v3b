@@ -2,8 +2,6 @@
 title: Is The Api The Next Killer App
 description: Is The Api The Next Killer App
 published: 2010-06-01
-image: images/posts/is_the_api_the_next_killer_app.webp
-imageAlt: Is The Api The Next Killer App
 category: Default
 tags: [api, architecture, coding, pensee]
 ---

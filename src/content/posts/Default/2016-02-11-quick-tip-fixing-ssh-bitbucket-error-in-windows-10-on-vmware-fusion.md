@@ -2,7 +2,7 @@
 title: Quick Tip Fixing Ssh Bitbucket Error In Windows 10 On Vmware Fusion
 description: Quick Tip
 published: 2016-02-11
-image: images/posts/quick_tip_fixing_ssh_bitbucket_error_in_windows_10_on_vmware_fusion.webp
+image: images/posts/2011-12-quicktip.webp
 imageAlt: Quick Tip
 category: Default
 tags: [bitbucket, coding, debugging, ssh, vmware-fusion, windows-10]

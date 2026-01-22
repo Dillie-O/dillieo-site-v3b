@@ -2,8 +2,6 @@
 title: Bienvenue Again Picadillieo
 description: Bienvenue Again Picadillieo
 published: 2013-10-08
-image: images/posts/bienvenue_again_picadillieo.webp
-imageAlt: Bienvenue Again Picadillieo
 category: Default
 tags: [blogging, geekery, photos, picadillieo, relocation]
 ---

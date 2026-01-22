@@ -2,8 +2,6 @@
 title: Lifestyle Data Management Streamy
 description: Streamy Logo
 published: 2009-12-03
-image: images/posts/lifestyle_data_management_streamy.webp
-imageAlt: Streamy Logo
 category: Default
 tags: [geekery, life]
 ---

@@ -2,7 +2,7 @@
 title: Quick Tip Linking User Identity To Oauth Tokens In Webapi
 description: Quick Tip Linking User Identity To Oauth Tokens In Webapi
 published: 2015-02-02
-image: images/posts/quick_tip_linking_user_identity_to_oauth_tokens_in_webapi.webp
+image: images/posts/2015-02-quicktip_useridentitytoken1.webp
 imageAlt: Quick Tip Linking User Identity To Oauth Tokens In Webapi
 category: Default
 tags: [net, coding, identity, role, token, user, webapi]

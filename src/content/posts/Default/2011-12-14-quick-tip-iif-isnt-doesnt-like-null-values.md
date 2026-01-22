@@ -2,7 +2,7 @@
 title: Quick Tip Iif Isnt Doesnt Like Null Values
 description: Quick Tip
 published: 2011-12-14
-image: images/posts/quick_tip_iif_isnt_doesnt_like_null_values.webp
+image: images/posts/2011-12-quicktip.webp
 imageAlt: Quick Tip
 category: Default
 tags: [coding, function, iif, operator, quick-tip, ternary, vbnet, visual-basic]

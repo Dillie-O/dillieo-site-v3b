@@ -2,7 +2,7 @@
 title: Behold Christmas Advent Music Is Here
 description: christmas_music
 published: 2016-12-01
-image: images/posts/behold_christmas_advent_music_is_here.webp
+image: images/posts/2016-11-christmas_music.webp
 imageAlt: christmas_music
 category: Default
 tags: [advent, life]

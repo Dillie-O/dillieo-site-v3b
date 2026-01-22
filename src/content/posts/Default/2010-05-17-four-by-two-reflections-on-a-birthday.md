@@ -2,7 +2,7 @@
 title: Four By Two Reflections On A Birthday
 description: Rylee Haylee getting ready to blow out their candles.
 published: 2010-05-17
-image: images/posts/four_by_two_reflections_on_a_birthday.webp
+image: images/posts/2010-05-img_0423_0001.webp
 imageAlt: Rylee Haylee getting ready to blow out their candles.
 category: Default
 tags: [birthday, haylee, kids, life, pensee, rylee]

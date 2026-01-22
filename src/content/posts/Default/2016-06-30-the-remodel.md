@@ -2,7 +2,7 @@
 title: The Remodel
 description: 20160629_200232248_iOS
 published: 2016-06-30
-image: images/posts/the_remodel.webp
+image: images/posts/2016-06-20160629_200232248_ios.webp
 imageAlt: 20160629_200232248_iOS
 category: Default
 tags: [house, life, remodeling]

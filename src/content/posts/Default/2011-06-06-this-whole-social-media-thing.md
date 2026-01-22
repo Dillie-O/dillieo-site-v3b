@@ -2,7 +2,7 @@
 title: This Whole Social Media Thing
 description: Social Media Lunch
 published: 2011-06-06
-image: images/posts/this_whole_social_media_thing.webp
+image: images/posts/2011-06-sociallunch.webp
 imageAlt: Social Media Lunch
 category: Default
 tags: [facebook, geekery, sm301, smc301, social-media, twitter]

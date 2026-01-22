@@ -2,8 +2,6 @@
 title: Lifestyle Management Reloaded Homegrown
 description: Homegrown
 published: 2011-11-14
-image: images/posts/lifestyle_management_reloaded_homegrown.webp
-imageAlt: Homegrown
 category: Default
 tags: [e-mail, facebook, geekery, lifestyle-management, rss, twitter]
 ---

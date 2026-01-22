@@ -2,8 +2,6 @@
 title: Digital Whittling
 description: Digital Whittling
 published: 2016-10-26
-image: images/posts/digital_whittling.webp
-imageAlt: Digital Whittling
 category: Default
 tags: [geekery, learning, lego, mindstorm, programming, robotics]
 ---

@@ -2,7 +2,7 @@
 title: Old Age Is Not For Sissies
 description: Grandpas Sunset Photo
 published: 2009-08-27
-image: images/posts/old_age_is_not_for_sissies.webp
+image: images/posts/2009-08-100_97481.webp
 imageAlt: Grandpas Sunset Photo
 category: Default
 tags: [life]

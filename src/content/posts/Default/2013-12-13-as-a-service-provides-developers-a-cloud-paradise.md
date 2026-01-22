@@ -2,8 +2,6 @@
 title: As A Service Provides Developers A Cloud Paradise
 description: As A Service Provides Developers A Cloud Paradise
 published: 2013-12-13
-image: images/posts/as_a_service_provides_developers_a_cloud_paradise.webp
-imageAlt: As A Service Provides Developers A Cloud Paradise
 category: Default
 tags: [cloud-computing, coding, paas, platform-as-a-service, link, saas]
 ---

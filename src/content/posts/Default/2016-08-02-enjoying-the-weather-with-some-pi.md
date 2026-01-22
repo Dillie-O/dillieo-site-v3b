@@ -2,7 +2,7 @@
 title: Enjoying The Weather With Some Pi
 description: weather station
 published: 2016-08-02
-image: images/posts/enjoying_the_weather_with_some_pi.webp
+image: images/posts/2016-08-1_20160802_131847000_ios.webp
 imageAlt: weather station
 category: Default
 tags: [acurite, geekery, raspberry-pi, weather, weather-station, weewx]

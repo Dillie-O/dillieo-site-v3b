@@ -2,7 +2,7 @@
 title: Creating Reusable Text Snippets With Shortcodes In Sitefinity
 description: Creating Reusable Text Snippets With Shortcodes In Sitefinity
 published: 2015-04-15
-image: images/posts/creating_reusable_text_snippets_with_shortcodes_in_sitefinity.webp
+image: images/posts/2015-04-feeratesresult.webp
 imageAlt: Creating Reusable Text Snippets With Shortcodes In Sitefinity
 category: Default
 tags: [content, life, shortcode, sitefinity]

@@ -2,8 +2,6 @@
 title: Humility And Perseverance
 description: Humility And Perseverance
 published: 2015-01-22
-image: images/posts/humility_and_perseverance.webp
-imageAlt: Humility And Perseverance
 category: Default
 tags: [life, pensee, running]
 ---

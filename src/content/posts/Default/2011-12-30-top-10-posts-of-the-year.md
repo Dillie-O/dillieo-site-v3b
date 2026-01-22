@@ -2,8 +2,6 @@
 title: Top 10 Posts Of The Year
 description: Top 10 Posts Of The Year
 published: 2011-12-30
-image: images/posts/top_10_posts_of_the_year.webp
-imageAlt: Top 10 Posts Of The Year
 category: Default
 tags: [life]
 ---

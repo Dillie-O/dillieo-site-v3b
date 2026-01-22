@@ -2,7 +2,7 @@
 title: Song Of The Week The Houseplant Song By Audio Adrenaline
 description: House Plant
 published: 2012-03-02
-image: images/posts/song_of_the_week_the_houseplant_song_by_audio_adrenaline.webp
+image: images/posts/2012-03-houseplant.webp
 imageAlt: House Plant
 category: Default
 tags: [audio-adrenaline, coffee-house, house-plant, rock, song-of-the-week]

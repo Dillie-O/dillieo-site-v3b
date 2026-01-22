@@ -2,7 +2,7 @@
 title: Fabulous Fail Friday Daring Leadership
 description: people talking
 published: 2023-02-10
-image: images/posts/fabulous_fail_friday_daring_leadership.webp
+image: images/posts/communication-tirachard-kumtanom.webp
 imageAlt: people talking
 category: Default
 tags: [life, leadership, communication]

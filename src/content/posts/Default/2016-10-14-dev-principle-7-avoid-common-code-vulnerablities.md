@@ -2,7 +2,7 @@
 title: Dev Principle 7 Avoid Common Code Vulnerablities
 description: vulnerability
 published: 2016-10-14
-image: images/posts/dev_principle_7_avoid_common_code_vulnerablities.webp
+image: images/posts/2016-10-vulnerability.webp
 imageAlt: vulnerability
 category: Default
 tags: [coding, coding, security]

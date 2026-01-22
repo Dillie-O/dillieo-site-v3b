@@ -2,7 +2,7 @@
 title: Dev Principle 10 Do Performance Optimization When Needed
 description: optimization_slide
 published: 2016-11-22
-image: images/posts/dev_principle_10_do_performance_optimization_when_needed.webp
+image: images/posts/2016-11-optimization_slide.jpg
 imageAlt: optimization_slide
 category: Default
 tags: [coding, optimization, performance, software-craftmanship]

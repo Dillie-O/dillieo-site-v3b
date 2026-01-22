@@ -2,7 +2,7 @@
 title: A Fresh Start
 description: Fresh Logo
 published: 2011-05-12
-image: images/posts/a_fresh_start.webp
+image: images/posts/2011-05-freshlogo.webp
 imageAlt: Fresh Logo
 category: Default
 tags: [career, fresh-consulting, life]

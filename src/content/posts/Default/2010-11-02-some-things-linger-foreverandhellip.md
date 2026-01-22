@@ -2,8 +2,6 @@
 title: Some Things Linger Foreverandhellip
 description: Some Things Linger Foreverandhellip
 published: 2010-11-02
-image: images/posts/some_things_linger_foreverandhellip.webp
-imageAlt: Some Things Linger Foreverandhellip
 category: Default
 tags: [death, fatherhood, life, pensee]
 ---

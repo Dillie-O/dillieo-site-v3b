@@ -2,8 +2,6 @@
 title: Soup To Nuts Sortingpagingmanaging A Gridview
 description: Soup To Nuts Sortingpagingmanaging A Gridview
 published: 2010-04-28
-image: images/posts/soup_to_nuts_sortingpagingmanaging_a_gridview.webp
-imageAlt: Soup To Nuts Sortingpagingmanaging A Gridview
 category: Default
 tags: [aspnet, coding, gridview, paging, sorting]
 ---

@@ -2,7 +2,7 @@
 title: Quick Tip Enabling Xdebug In Mamp For Osx
 description: Quick Tip Enabling Xdebug In Mamp For Osx
 published: 2015-03-10
-image: images/posts/quick_tip_enabling_xdebug_in_mamp_for_osx.webp
+image: images/posts/2015-03-xdebug_mamp.webp
 imageAlt: Quick Tip Enabling Xdebug In Mamp For Osx
 category: Default
 tags: [coding, configure, mamp, php, xdebug]

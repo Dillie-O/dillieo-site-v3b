@@ -2,8 +2,6 @@
 title: The Airplane Apprentice
 description: The Airplane Apprentice
 published: 2013-04-28
-image: images/posts/the_airplane_apprentice.webp
-imageAlt: The Airplane Apprentice
 category: Default
 tags: [life]
 ---

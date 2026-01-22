@@ -2,8 +2,6 @@
 title: Creating Dynamicconfigurable Parameterized Queries In Entity Framework
 description: Creating Dynamicconfigurable Parameterized Queries In Entity Framework
 published: 2013-05-09
-image: images/posts/creating_dynamicconfigurable_parameterized_queries_in_entity_framework.webp
-imageAlt: Creating Dynamicconfigurable Parameterized Queries In Entity Framework
 category: Default
 tags: [net, adonet-entity-framework, coding, Database, ef, entity, entity-framework, model, parameterized-queries, parameters, programming, searching]
 ---

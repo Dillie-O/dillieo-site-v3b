@@ -2,8 +2,6 @@
 title: Whats Your Pet Project
 description: Whats Your Pet Project
 published: 2014-11-20
-image: images/posts/whats_your_pet_project.webp
-imageAlt: Whats Your Pet Project
 category: Default
 tags: [coding, fun, language, learning, projects, technology]
 ---

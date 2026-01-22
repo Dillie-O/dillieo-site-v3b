@@ -2,7 +2,7 @@
 title: Soup To Nuts Using Zurb Foundation For Apps In Net
 description: Windows_10_x64
 published: 2014-12-11
-image: images/posts/soup_to_nuts_using_zurb_foundation_for_apps_in_net.webp
+image: images/posts/2014-12-windows_10_x64.webp
 imageAlt: Windows_10_x64
 category: Default
 tags: [net, angularjs, coding, foundation, mvc, webapi, zfa, zurb]

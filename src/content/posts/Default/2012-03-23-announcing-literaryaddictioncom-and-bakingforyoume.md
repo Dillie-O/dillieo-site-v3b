@@ -2,7 +2,7 @@
 title: Announcing Literaryaddictioncom And Bakingforyoume
 description: Literary Addition Banner
 published: 2012-03-23
-image: images/posts/announcing_literaryaddictioncom_and_bakingforyoume.webp
+image: images/posts/2012-03-literaryaddictionbanner.webp
 imageAlt: Literary Addition Banner
 category: Default
 tags: [baking, blogging, gluten-free, life, literary-review]

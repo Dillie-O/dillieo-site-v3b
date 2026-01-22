@@ -2,8 +2,6 @@
 title: Tappity Tap
 description: Tappity Tap
 published: 2016-12-09
-image: images/posts/tappity_tap.webp
-imageAlt: Tappity Tap
 category: Default
 tags: [dancing, life, new-things, tap]
 ---

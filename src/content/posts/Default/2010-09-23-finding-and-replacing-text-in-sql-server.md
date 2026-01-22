@@ -2,8 +2,6 @@
 title: Finding And Replacing Text In Sql Server
 description: Finding And Replacing Text In Sql Server
 published: 2010-09-23
-image: images/posts/finding_and_replacing_text_in_sql_server.webp
-imageAlt: Finding And Replacing Text In Sql Server
 category: Default
 tags: [coding, replace, sql, text, update]
 ---

@@ -2,8 +2,6 @@
 title: Make The Computer Do Your Bidding Keyboard Tools
 description: Make The Computer Do Your Bidding Keyboard Tools
 published: 2009-07-09
-image: images/posts/make_the_computer_do_your_bidding_keyboard_tools.webp
-imageAlt: Make The Computer Do Your Bidding Keyboard Tools
 category: Default
 tags: [coding]
 ---

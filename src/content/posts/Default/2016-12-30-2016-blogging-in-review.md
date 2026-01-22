@@ -2,7 +2,7 @@
 title: 2016 Blogging In Review
 description: 2017-1
 published: 2016-12-30
-image: images/posts/2016_blogging_in_review.webp
+image: images/posts/2016-12-2017-1.webp
 imageAlt: 2017-1
 category: Default
 tags: [blogging, life, resolutions]

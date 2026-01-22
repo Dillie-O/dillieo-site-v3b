@@ -2,8 +2,6 @@
 title: You Have Loved Us First
 description: You Have Loved Us First
 published: 2012-05-30
-image: images/posts/you_have_loved_us_first.webp
-imageAlt: You Have Loved Us First
 category: Default
 tags: [god, kierkegaard, love, quote, quotes]
 ---

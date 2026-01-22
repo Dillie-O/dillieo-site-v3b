@@ -2,8 +2,6 @@
 title: Wordpress Plugin Recommendations
 description: Wordpress Plugin Recommendations
 published: 2010-03-16
-image: images/posts/wordpress_plugin_recommendations.webp
-imageAlt: Wordpress Plugin Recommendations
 category: Default
 tags: [coding, plugins, wordpress]
 ---

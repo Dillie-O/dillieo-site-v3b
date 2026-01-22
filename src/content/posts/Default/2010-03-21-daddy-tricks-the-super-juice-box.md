@@ -2,8 +2,6 @@
 title: Daddy Tricks The Super Juice Box
 description: Daddy Tricks The Super Juice Box
 published: 2010-03-21
-image: images/posts/daddy_tricks_the_super_juice_box.webp
-imageAlt: Daddy Tricks The Super Juice Box
 category: Default
 tags: [daddy-tricks, juice-box, life, straw]
 ---

@@ -2,7 +2,7 @@
 title: Give Thanksgiving Its Dueandhellip A Pseudo Rant Repost
 description: ThanksgivingTable
 published: 2011-11-19
-image: images/posts/give_thanksgiving_its_dueandhellip_a_pseudo_rant_repost.webp
+image: images/posts/2010-11-thanksgivingtable.webp
 imageAlt: ThanksgivingTable
 category: Default
 tags: [christmas, life, music, pensee, thanksgiving]

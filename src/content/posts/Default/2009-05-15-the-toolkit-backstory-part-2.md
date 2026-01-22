@@ -2,8 +2,6 @@
 title: The Toolkit Backstory Part 2
 description: The Toolkit Backstory Part 2
 published: 2009-05-15
-image: images/posts/the_toolkit_backstory_part_2.webp
-imageAlt: The Toolkit Backstory Part 2
 category: Default
 tags: [ccg-toolkit, coding, deck-studio, netrep, ronin]
 ---

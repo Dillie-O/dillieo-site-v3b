@@ -2,8 +2,6 @@
 title: Developers Toolkit Mmx Edition
 description: Developers Toolkit Mmx Edition
 published: 2010-03-10
-image: images/posts/developers_toolkit_mmx_edition.webp
-imageAlt: Developers Toolkit Mmx Edition
 category: Default
 tags: []
 ---

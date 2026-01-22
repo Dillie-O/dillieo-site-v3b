@@ -2,7 +2,7 @@
 title: Review Man Enough By Nate Pyle
 description: Review Man Enough By Nate Pyle
 published: 2015-07-07
-image: images/posts/review_man_enough_by_nate_pyle.webp
+image: images/posts/2015-07-manenoughcover1.webp
 imageAlt: Review Man Enough By Nate Pyle
 category: Default
 tags: [christianity, jesus, manhood, masculinity, reviews]

@@ -2,8 +2,6 @@
 title: Accessing Ajax Rendered Controls Via Javascript
 description: Accessing Ajax Rendered Controls Via Javascript
 published: 2010-05-11
-image: images/posts/accessing_ajax_rendered_controls_via_javascript.webp
-imageAlt: Accessing Ajax Rendered Controls Via Javascript
 category: Default
 tags: [ajax, aspnet, coding, javascript]
 ---

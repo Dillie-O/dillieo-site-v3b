@@ -2,8 +2,6 @@
 title: Isnt It Strange
 description: Isnt It Strange
 published: 2012-08-23
-image: images/posts/isnt_it_strange.webp
-imageAlt: Isnt It Strange
 category: Default
 tags: [church, life, quote, quotes, william-law]
 ---

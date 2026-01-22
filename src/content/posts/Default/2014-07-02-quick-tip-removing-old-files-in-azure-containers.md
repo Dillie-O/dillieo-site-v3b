@@ -2,8 +2,6 @@
 title: Quick Tip Removing Old Files In Azure Containers
 description: Quick Tip Removing Old Files In Azure Containers
 published: 2014-07-02
-image: images/posts/quick_tip_removing_old_files_in_azure_containers.webp
-imageAlt: Quick Tip Removing Old Files In Azure Containers
 category: Default
 tags: [azure, blob, coding, container, maintenance, storage]
 ---

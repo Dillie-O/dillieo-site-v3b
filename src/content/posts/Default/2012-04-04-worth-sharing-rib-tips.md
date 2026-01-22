@@ -2,7 +2,7 @@
 title: Worth Sharing Rib Tips
 description: Pork Ribs Unbutchered
 published: 2012-04-04
-image: images/posts/worth_sharing_rib_tips.webp
+image: images/posts/2012-04-pork_ribs_unprepared.webp
 imageAlt: Pork Ribs Unbutchered
 category: Default
 tags: [recipes, ribs]

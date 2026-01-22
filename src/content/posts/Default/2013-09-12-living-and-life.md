@@ -2,8 +2,6 @@
 title: Living And Life
 description: Living And Life
 published: 2013-09-12
-image: images/posts/living_and_life.webp
-imageAlt: Living And Life
 category: Default
 tags: [quote, quotes]
 ---

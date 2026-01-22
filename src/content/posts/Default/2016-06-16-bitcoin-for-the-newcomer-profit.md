@@ -2,7 +2,7 @@
 title: Bitcoin For The Newcomer Profit
 description: bitcoin-digital
 published: 2016-06-16
-image: images/posts/bitcoin_for_the_newcomer_profit.webp
+image: images/posts/2016-06-bitcoin-digital.webp
 imageAlt: bitcoin-digital
 category: Default
 tags: [bitcoin, ethereum, geekery, hashflare, hashocean, mining]

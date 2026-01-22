@@ -2,7 +2,7 @@
 title: Song Of The Week Halloween Trance By The Dance Chapel
 description: Pumkin by Mike Crug
 published: 2011-10-28
-image: images/posts/song_of_the_week_halloween_trance_by_the_dance_chapel.webp
+image: images/posts/2011-10-crugpumpkin.webp
 imageAlt: Pumkin by Mike Crug
 category: Default
 tags: [house, song-of-the-week, the-dance-chapel, trance]

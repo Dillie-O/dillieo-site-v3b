@@ -2,8 +2,6 @@
 title: Picadillieo Best Of 2013
 description: Picadillieo Best Of 2013
 published: 2013-12-26
-image: images/posts/picadillieo_best_of_2013.webp
-imageAlt: Picadillieo Best Of 2013
 category: Default
 tags: ["2013", flickr, links, pensee, photos, link, reflection]
 ---

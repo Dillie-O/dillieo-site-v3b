@@ -2,7 +2,7 @@
 title: A Random Analogy About The Merits Of Clean Code And Unintended Consequences
 description: A Random Analogy About The Merits Of Clean Code And Unintended Consequences
 published: 2015-09-29
-image: images/posts/a_random_analogy_about_the_merits_of_clean_code_and_unintended_consequences.webp
+image: images/posts/2015-09-roku_av_cable1.webp
 imageAlt: A Random Analogy About The Merits Of Clean Code And Unintended Consequences
 category: Default
 tags: [coding]

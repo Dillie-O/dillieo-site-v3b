@@ -2,8 +2,6 @@
 title: Favorite Photos Of 2019
 description: Favorite Photos Of 2019
 published: 2019-12-27
-image: images/posts/favorite_photos_of_2019.webp
-imageAlt: Favorite Photos Of 2019
 category: Default
 tags: [life]
 ---

@@ -2,8 +2,6 @@
 title: New Year New Me Sorta
 description: New Year New Me Sorta
 published: 2015-01-05
-image: images/posts/new_year_new_me_sorta.webp
-imageAlt: New Year New Me Sorta
 category: Default
 tags: [10daysbetterblog, blogging, life, me, new-year, pensee, workshop]
 ---

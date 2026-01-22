@@ -2,7 +2,7 @@
 title: Random Vacation Thought
 description: Random Vacation Thought
 published: 2015-06-18
-image: images/posts/random_vacation_thought.webp
+image: images/posts/2015-06-img_0368.webp
 imageAlt: Random Vacation Thought
 category: Default
 tags: [life]

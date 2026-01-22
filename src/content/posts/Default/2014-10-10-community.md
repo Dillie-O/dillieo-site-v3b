@@ -2,8 +2,6 @@
 title: Community
 description: Community
 published: 2014-10-10
-image: images/posts/community.webp
-imageAlt: Community
 category: Default
 tags: [acceptance, community, family, quote, quotes, security]
 ---

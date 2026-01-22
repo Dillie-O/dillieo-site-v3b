@@ -2,8 +2,6 @@
 title: Qakbot Diagnosis And Removal
 description: Qakbot Diagnosis And Removal
 published: 2011-05-02
-image: images/posts/qakbot_diagnosis_and_removal.webp
-imageAlt: Qakbot Diagnosis And Removal
 category: Default
 tags: [geekery, qakbot, virus]
 ---

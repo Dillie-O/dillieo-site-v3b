@@ -2,8 +2,6 @@
 title: Encrypt That Connection String Pronto
 description: Encrypt That Connection String Pronto
 published: 2010-04-23
-image: images/posts/encrypt_that_connection_string_pronto.webp
-imageAlt: Encrypt That Connection String Pronto
 category: Default
 tags: [aspnet, coding, connection-strings, encryption, security, webconfig]
 ---

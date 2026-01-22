@@ -2,7 +2,7 @@
 title: The Year In Photos 2024
 description: A few highlights through photos of the year
 published: 2024-12-31
-image: images/posts/the_year_in_photos_2024.webp
+image: images/posts/year_in_photos_2024.webp
 imageAlt: 2024 photo collage
 category: Default
 tags: [photos, life, memories, pensee]

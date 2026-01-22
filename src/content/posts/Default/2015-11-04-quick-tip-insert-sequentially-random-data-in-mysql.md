@@ -2,7 +2,7 @@
 title: Quick Tip Insert Sequentially Random Data In Mysql
 description: quick-tips.jpg
 published: 2015-11-04
-image: images/posts/quick_tip_insert_sequentially_random_data_in_mysql.webp
+image: images/posts/2015-01-quick-tips.webp
 imageAlt: quick-tips.jpg
 category: Default
 tags: [life]

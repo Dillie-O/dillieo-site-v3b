@@ -2,8 +2,6 @@
 title: Exceptional In Ordinary Things
 description: Exceptional In Ordinary Things
 published: 2013-10-21
-image: images/posts/exceptional_in_ordinary_things.webp
-imageAlt: Exceptional In Ordinary Things
 category: Default
 tags: [christ, discipleship, extraordinary, ordinary, oswald-chambers, quote, quotes]
 ---

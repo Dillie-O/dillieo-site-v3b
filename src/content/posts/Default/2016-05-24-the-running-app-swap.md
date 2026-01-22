@@ -2,7 +2,7 @@
 title: The Running App Swap
 description: running_tech
 published: 2016-05-24
-image: images/posts/the_running_app_swap.webp
+image: images/posts/2016-05-tech-boom.webp
 imageAlt: running_tech
 category: Default
 tags: [apps, life, running, tracking, training]

@@ -2,7 +2,7 @@
 title: How To Create Dynamic Environment Sequencing Columns In Net Core Ef Migrations With Postgresql Npgsql
 description: How To Create Dynamic Environment Sequencing Columns In Net Core Ef Migrations With Postgresql Npgsql
 published: 2019-04-18
-image: images/posts/how_to_create_dynamic_environment_sequencing_columns_in_net_core_ef_migrations_with_postgresql_npgsql.webp
+image: images/posts/2019-04-ducks_tablemodel.webp
 imageAlt: How To Create Dynamic Environment Sequencing Columns In Net Core Ef Migrations With Postgresql Npgsql
 category: Default
 tags: [net-core, coding, entity-framework, migrations, npgsql, postgresql, sequencing]

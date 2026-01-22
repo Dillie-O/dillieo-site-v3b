@@ -2,7 +2,7 @@
 title: Worth Sharing Pythagorean Chili
 description: Chili starting to cook
 published: 2012-09-17
-image: images/posts/worth_sharing_pythagorean_chili.webp
+image: images/posts/2012-09-chili_start.webp
 imageAlt: Chili starting to cook
 category: Default
 tags: [chili, recipe, recipes]

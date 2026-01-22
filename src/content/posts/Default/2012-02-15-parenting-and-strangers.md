@@ -2,7 +2,7 @@
 title: Parenting And Strangers
 description: Parent Child Sign
 published: 2012-02-15
-image: images/posts/parenting_and_strangers.webp
+image: images/posts/2012-02-parent-child.webp
 imageAlt: Parent Child Sign
 category: Default
 tags: [kids, life, parenting, socialization, strangers]

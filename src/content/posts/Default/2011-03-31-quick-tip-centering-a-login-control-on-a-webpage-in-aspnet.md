@@ -2,7 +2,7 @@
 title: Quick Tip Centering A Login Control On A Webpage In Aspnet
 description: Quick Tip Centering A Login Control On A Webpage In Aspnet
 published: 2011-03-31
-image: images/posts/quick_tip_centering_a_login_control_on_a_webpage_in_aspnet.webp
+image: images/posts/2011-03-centerlogincontrol.webp
 imageAlt: Quick Tip Centering A Login Control On A Webpage In Aspnet
 category: Default
 tags: [aspnet, coding, css, formatting, login, quick-tip]

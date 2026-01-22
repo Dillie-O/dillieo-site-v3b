@@ -2,8 +2,6 @@
 title: A Fresh Perspective Two Years And Counting As A Remote Worker
 description: A Fresh Perspective Two Years And Counting As A Remote Worker
 published: 2013-06-04
-image: images/posts/a_fresh_perspective_two_years_and_counting_as_a_remote_worker.webp
-imageAlt: A Fresh Perspective Two Years And Counting As A Remote Worker
 category: Default
 tags: [fresh-consulting, life, programming, reflection, remote-work, telecommute]
 ---

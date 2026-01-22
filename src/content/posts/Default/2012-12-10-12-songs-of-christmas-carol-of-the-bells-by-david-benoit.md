@@ -2,7 +2,7 @@
 title: 12 Songs Of Christmas Carol Of The Bells By David Benoit
 description: GRP Christmas Volume 1
 published: 2012-12-10
-image: images/posts/12_songs_of_christmas_carol_of_the_bells_by_david_benoit.webp
+image: images/posts/2012-12-grp-christmas-vol1.webp
 imageAlt: GRP Christmas Volume 1
 category: Default
 tags: [carol-of-the-bells, christmas, david-benoit, jazz, life, music, piano]

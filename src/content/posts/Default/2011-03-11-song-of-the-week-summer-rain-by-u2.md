@@ -2,7 +2,7 @@
 title: Song Of The Week Summer Rain By U2
 description: U2 B-Sides Cover
 published: 2011-03-11
-image: images/posts/song_of_the_week_summer_rain_by_u2.webp
+image: images/posts/2011-03-u2bsidescover.webp
 imageAlt: U2 B-Sides Cover
 category: Default
 tags: [music, rock, song-of-the-week, u2]

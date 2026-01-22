@@ -2,7 +2,7 @@
 title: Mobile Screen 1 And Xamarin Notes
 description: PrayerOdyssey_Simulations
 published: 2016-06-08
-image: images/posts/mobile_screen_1_and_xamarin_notes.webp
+image: images/posts/2016-06-prayerodyssey_simulations.webp
 imageAlt: PrayerOdyssey_Simulations
 category: Default
 tags: [coding, mobile, link, prayer-odyssey, xamarin]

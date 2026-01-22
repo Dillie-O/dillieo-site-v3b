@@ -2,8 +2,6 @@
 title: How To Sortfind Custom Objects In A List With Vbnet
 description: How To Sortfind Custom Objects In A List With Vbnet
 published: 2009-10-13
-image: images/posts/how_to_sortfind_custom_objects_in_a_list_with_vbnet.webp
-imageAlt: How To Sortfind Custom Objects In A List With Vbnet
 category: Default
 tags: [net, coding, list, object, searching, sorting]
 ---

@@ -2,7 +2,7 @@
 title: Quick Tip Debug Php Scripts From The Command Line Using Phpstorm 6
 description: Quick Tip
 published: 2013-09-09
-image: images/posts/quick_tip_debug_php_scripts_from_the_command_line_using_phpstorm_6.webp
+image: images/posts/2011-12-quicktip.webp
 imageAlt: Quick Tip
 category: Default
 tags: [cli, coding, command-line, command-line-interface, debugging, php, php-development, phpstorm]

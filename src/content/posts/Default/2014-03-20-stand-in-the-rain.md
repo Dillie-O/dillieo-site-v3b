@@ -2,8 +2,6 @@
 title: Stand In The Rain
 description: Stand In The Rain
 published: 2014-03-20
-image: images/posts/stand_in_the_rain.webp
-imageAlt: Stand In The Rain
 category: Default
 tags: [life, pensee, trials, tribulations, troubles, wisdom]
 ---

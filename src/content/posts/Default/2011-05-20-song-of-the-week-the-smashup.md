@@ -2,7 +2,7 @@
 title: Song Of The Week The Smashup
 description: Smash-Ups Cover
 published: 2011-05-20
-image: images/posts/song_of_the_week_the_smashup.webp
+image: images/posts/2011-05-smashupscover.webp
 imageAlt: Smash-Ups Cover
 category: Default
 tags: [audio-adrenaline, grits, music, song-of-the-week, steven-curtis-chapman]

@@ -2,7 +2,7 @@
 title: Homemade Bacon Round 4 Refinement
 description: 20150728_144941583_iOS.png
 published: 2015-09-01
-image: images/posts/homemade_bacon_round_4_refinement.webp
+image: images/posts/2015-07-20150728_144941583_ios.webp
 imageAlt: 20150728_144941583_iOS.png
 category: Default
 tags: [bacon, life, recipe, refinement]

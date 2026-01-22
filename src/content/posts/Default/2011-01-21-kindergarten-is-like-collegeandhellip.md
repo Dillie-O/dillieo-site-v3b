@@ -2,8 +2,6 @@
 title: Kindergarten Is Like Collegeandhellip
 description: Kindergarten Is Like Collegeandhellip
 published: 2011-01-21
-image: images/posts/kindergarten_is_like_collegeandhellip.webp
-imageAlt: Kindergarten Is Like Collegeandhellip
 category: Default
 tags: [college, kindergarten, life, pensee, school]
 ---

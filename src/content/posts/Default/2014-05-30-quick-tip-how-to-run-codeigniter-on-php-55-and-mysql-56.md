@@ -2,8 +2,6 @@
 title: Quick Tip How To Run Codeigniter On Php 55 And Mysql 56
 description: Quick Tip How To Run Codeigniter On Php 55 And Mysql 56
 published: 2014-05-30
-image: images/posts/quick_tip_how_to_run_codeigniter_on_php_55_and_mysql_56.webp
-imageAlt: Quick Tip How To Run Codeigniter On Php 55 And Mysql 56
 category: Default
 tags: [codeigniter, coding, error, mysql, mysqli, php, yield]
 ---

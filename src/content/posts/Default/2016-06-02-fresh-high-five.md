@@ -2,7 +2,7 @@
 title: Fresh High Five
 description: IMG_0175
 published: 2016-06-02
-image: images/posts/fresh_high_five.webp
+image: images/posts/2016-06-img_0175.webp
 imageAlt: IMG_0175
 category: Default
 tags: [anniversary, fresh-consulting, life, projects, remote-work, team, work]

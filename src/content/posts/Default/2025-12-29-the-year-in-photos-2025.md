@@ -13,11 +13,3 @@ tags: [photos, memories, pensee]
 | *...really, another year around the sun?!* | -->
 
 Love.
-
-Loss.
-
-Laughter.
-
-All the simple, yet important, things [filed under 'L' for life](https://photos.app.goo.gl/sjopNtvmfNa2hqqRA).
-
-I'm excited for what 2026 will bring!

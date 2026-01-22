@@ -2,8 +2,6 @@
 title: Generating Random Signature Taglines In Mac Osx
 description: Generating Random Signature Taglines In Mac Osx
 published: 2011-06-22
-image: images/posts/generating_random_signature_taglines_in_mac_osx.webp
-imageAlt: Generating Random Signature Taglines In Mac Osx
 category: Default
 tags: [geekery, mac, quotes, shell-script]
 ---

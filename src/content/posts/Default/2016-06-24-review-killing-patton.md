@@ -2,7 +2,7 @@
 title: Review Killing Patton
 description: killing_patton_cover
 published: 2016-06-24
-image: images/posts/review_killing_patton.webp
+image: images/posts/2016-06-81nulpeybnl.webp
 imageAlt: killing_patton_cover
 category: Default
 tags: [bill-oreilly, martin-dugard, patton, reviews, world-war-ii]

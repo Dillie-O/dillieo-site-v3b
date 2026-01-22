@@ -2,7 +2,7 @@
 title: Digital Treasures
 description: Digital Treasures
 published: 2015-04-13
-image: images/posts/digital_treasures.webp
+image: images/posts/2015-04-me-journalinfrance.jpg "Being in a foreign country really fills a journal up...webp
 imageAlt: Digital Treasures
 category: Default
 tags: [events, fun, kids, life, pensee, photos]

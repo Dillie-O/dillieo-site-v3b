@@ -2,8 +2,6 @@
 title: Summer Reading
 description: Summer Reading
 published: 2010-06-11
-image: images/posts/summer_reading.webp
-imageAlt: Summer Reading
 category: Default
 tags: [books, life, reading, willard]
 ---

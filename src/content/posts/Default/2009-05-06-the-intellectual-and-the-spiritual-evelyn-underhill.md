@@ -2,8 +2,6 @@
 title: The Intellectual And The Spiritual Evelyn Underhill
 description: The Intellectual And The Spiritual Evelyn Underhill
 published: 2009-05-06
-image: images/posts/the_intellectual_and_the_spiritual_evelyn_underhill.webp
-imageAlt: The Intellectual And The Spiritual Evelyn Underhill
 category: Default
 tags: [life]
 ---

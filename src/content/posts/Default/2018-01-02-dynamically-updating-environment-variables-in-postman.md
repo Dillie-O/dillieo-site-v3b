@@ -2,7 +2,7 @@
 title: Dynamically Updating Environment Variables In Postman
 description: quicktip
 published: 2018-01-02
-image: images/posts/dynamically_updating_environment_variables_in_postman.webp
+image: images/posts/2018-01-quicktip.webp
 imageAlt: quicktip
 category: Default
 tags: [api, coding, environment, postman, tools]

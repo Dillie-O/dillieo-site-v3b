@@ -2,7 +2,7 @@
 title: Bitcoin Alert Hashocean Diary Of A Scam
 description: bitcoin-scam-alert
 published: 2016-07-05
-image: images/posts/bitcoin_alert_hashocean_diary_of_a_scam.webp
+image: images/posts/2016-07-bitcoin-scam-alert.webp
 imageAlt: bitcoin-scam-alert
 category: Default
 tags: [bitcoin, geekery, hashflare, hashocean, kypertech, scam]

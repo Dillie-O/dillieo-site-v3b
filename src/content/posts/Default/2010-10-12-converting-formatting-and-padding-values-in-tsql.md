@@ -2,8 +2,6 @@
 title: Converting Formatting And Padding Values In Tsql
 description: Converting Formatting And Padding Values In Tsql
 published: 2010-10-12
-image: images/posts/converting_formatting_and_padding_values_in_tsql.webp
-imageAlt: Converting Formatting And Padding Values In Tsql
 category: Default
 tags: [coding, conversion, formatting, padding, sql, t-sql]
 ---

@@ -2,8 +2,6 @@
 title: Logging Client Errors Using Log4Net Mvc And Ajax
 description: Logging Client Errors Using Log4Net Mvc And Ajax
 published: 2012-12-03
-image: images/posts/logging_client_errors_using_log4net_mvc_and_ajax.webp
-imageAlt: Logging Client Errors Using Log4Net Mvc And Ajax
 category: Default
 tags: [ajax, client, coding, errors, javascript, log4net, logging]
 ---

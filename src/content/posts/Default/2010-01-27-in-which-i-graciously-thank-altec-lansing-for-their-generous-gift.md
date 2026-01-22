@@ -2,7 +2,7 @@
 title: In Which I Graciously Thank Altec Lansing For Their Generous Gift
 description: Altec Lansing Logo
 published: 2010-01-27
-image: images/posts/in_which_i_graciously_thank_altec_lansing_for_their_generous_gift.webp
+image: images/posts/2010-01-alteclogo1.webp
 imageAlt: Altec Lansing Logo
 category: Default
 tags: [acs-495, altec-lansing, fx5051, geekery, life, speakers]

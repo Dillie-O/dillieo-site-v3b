@@ -2,7 +2,7 @@
 title: Lifestyle Management Reloaded Mobilecloud Aside
 description: Mobile Devices
 published: 2011-11-07
-image: images/posts/lifestyle_management_reloaded_mobilecloud_aside.webp
+image: images/posts/2011-11-mobiledevices.webp
 imageAlt: Mobile Devices
 category: Default
 tags: [android, cloud, geekery, iphone, ipod-touch, lifestyle-management, mobile-computing]

@@ -2,8 +2,6 @@
 title: Bienvenue Mmxv
 description: Bienvenue Mmxv
 published: 2014-12-31
-image: images/posts/bienvenue_mmxv.webp
-imageAlt: Bienvenue Mmxv
 category: Default
 tags: [life, new-year, pensee, resolutions]
 ---

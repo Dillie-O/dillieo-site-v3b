@@ -2,8 +2,6 @@
 title: How To Run Multiple Projects In A Single Azure Site
 description: How To Run Multiple Projects In A Single Azure Site
 published: 2014-09-11
-image: images/posts/how_to_run_multiple_projects_in_a_single_azure_site.webp
-imageAlt: How To Run Multiple Projects In A Single Azure Site
 category: Default
 tags: [azure, coding, configuration, deployment, projects]
 ---

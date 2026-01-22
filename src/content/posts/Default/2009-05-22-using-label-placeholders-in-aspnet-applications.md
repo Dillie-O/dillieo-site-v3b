@@ -2,8 +2,6 @@
 title: Using Label Placeholders In Aspnet Applications
 description: Using Label Placeholders In Aspnet Applications
 published: 2009-05-22
-image: images/posts/using_label_placeholders_in_aspnet_applications.webp
-imageAlt: Using Label Placeholders In Aspnet Applications
 category: Default
 tags: [coding]
 ---

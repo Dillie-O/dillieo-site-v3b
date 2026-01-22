@@ -2,7 +2,7 @@
 title: How To Redirect Your Domain Or Subdomain To Your Windows Azure Website
 description: Message Cube CNAME Example
 published: 2014-03-31
-image: images/posts/how_to_redirect_your_domain_or_subdomain_to_your_windows_azure_website.webp
+image: images/posts/2014-03-messagecube_cname_sample.webp
 imageAlt: Message Cube CNAME Example
 category: Default
 tags: [links]

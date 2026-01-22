@@ -2,8 +2,6 @@
 title: The Leviathan That Is Searching
 description: The Leviathan That Is Searching
 published: 2009-05-21
-image: images/posts/the_leviathan_that_is_searching.webp
-imageAlt: The Leviathan That Is Searching
 category: Default
 tags: [coding]
 ---

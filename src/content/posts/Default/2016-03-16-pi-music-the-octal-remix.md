@@ -2,7 +2,7 @@
 title: Pi Music The Octal Remix
 description: pi-music
 published: 2016-03-16
-image: images/posts/pi_music_the_octal_remix.webp
+image: images/posts/2016-03-pi-music.webp
 imageAlt: pi-music
 category: Default
 tags: [life, music, pi]

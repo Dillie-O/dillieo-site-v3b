@@ -2,8 +2,6 @@
 title: Phatcodeshare
 description: Phatcodeshare
 published: 2009-10-01
-image: images/posts/phatcodeshare.webp
-imageAlt: Phatcodeshare
 category: Default
 tags: [coding, pensee]
 ---

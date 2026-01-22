@@ -2,8 +2,6 @@
 title: Whats In A Domain Name
 description: Matrix Code Tunnel
 published: 2010-09-01
-image: images/posts/whats_in_a_domain_name.webp
-imageAlt: Matrix Code Tunnel
 category: Default
 tags: [domain, geekery, internet, life, pensee]
 ---

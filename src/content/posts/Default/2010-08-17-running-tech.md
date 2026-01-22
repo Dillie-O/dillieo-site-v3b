@@ -2,7 +2,7 @@
 title: Running Tech
 description: running tech
 published: 2010-08-17
-image: images/posts/running_tech.webp
+image: images/posts/2010-08-runningtrail1.webp
 imageAlt: running tech
 category: Default
 tags: [geekery, life, running]

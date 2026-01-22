@@ -2,7 +2,7 @@
 title: Review Star Wars The Force Awakens
 description: Review Star Wars The Force Awakens
 published: 2015-12-22
-image: images/posts/review_star_wars_the_force_awakens.webp
+image: images/posts/2015-12-force-awakens-poster-featured1.jpg
 imageAlt: Review Star Wars The Force Awakens
 category: Default
 tags: [life, movie, review, star-wars, the-force-awakens]

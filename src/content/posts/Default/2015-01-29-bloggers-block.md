@@ -2,8 +2,6 @@
 title: Bloggers Block
 description: Bloggers Block
 published: 2015-01-29
-image: images/posts/bloggers_block.webp
-imageAlt: Bloggers Block
 category: Default
 tags: [block, blogging, inspiration, life, writing]
 ---

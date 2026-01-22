@@ -2,7 +2,7 @@
 title: Fixed Thickbox Not Working With Multiple Images
 description: jQuery Logo
 published: 2011-08-22
-image: images/posts/fixed_thickbox_not_working_with_multiple_images.webp
+image: images/posts/2011-08-jquery_logo.webp
 imageAlt: jQuery Logo
 category: Default
 tags: [coding, jquery, quick-tip, selector, thickbox]

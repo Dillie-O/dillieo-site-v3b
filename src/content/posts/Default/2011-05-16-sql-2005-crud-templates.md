@@ -2,8 +2,6 @@
 title: Sql 2005 Crud Templates
 description: Sql 2005 Crud Templates
 published: 2011-05-16
-image: images/posts/sql_2005_crud_templates.webp
-imageAlt: Sql 2005 Crud Templates
 category: Default
 tags: [coding, sql, t-sql, template]
 ---

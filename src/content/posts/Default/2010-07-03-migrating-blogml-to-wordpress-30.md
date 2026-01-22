@@ -2,8 +2,6 @@
 title: Migrating Blogml To Wordpress 30
 description: Migrating Blogml To Wordpress 30
 published: 2010-07-03
-image: images/posts/migrating_blogml_to_wordpress_30.webp
-imageAlt: Migrating Blogml To Wordpress 30
 category: Default
 tags: [blogml, coding, import, wordpress]
 ---

@@ -2,8 +2,6 @@
 title: Using An Inner Join On A Sql Update Statement
 description: Using An Inner Join On A Sql Update Statement
 published: 2010-04-27
-image: images/posts/using_an_inner_join_on_a_sql_update_statement.webp
-imageAlt: Using An Inner Join On A Sql Update Statement
 category: Default
 tags: [coding, join, sql, update]
 ---

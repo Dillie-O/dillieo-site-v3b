@@ -2,7 +2,7 @@
 title: Late Nights And Early Mornings
 description: Late Nights And Early Mornings
 published: 2015-03-20
-image: images/posts/late_nights_and_early_mornings.webp
+image: images/posts/2015-03-dark-dusk-evening-289.webp
 imageAlt: Late Nights And Early Mornings
 category: Default
 tags: [books, enrichment, life, projects]

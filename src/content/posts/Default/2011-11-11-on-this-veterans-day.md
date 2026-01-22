@@ -2,7 +2,7 @@
 title: On This Veterans Day
 description: Veterans Day 2011
 published: 2011-11-11
-image: images/posts/on_this_veterans_day.webp
+image: images/posts/2011-11-veterans2011.webp
 imageAlt: Veterans Day 2011
 category: Default
 tags: [haylee, life, pensee, veterans-day]

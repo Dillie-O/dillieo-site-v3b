@@ -2,8 +2,6 @@
 title: The Thorough Vs The Simple Followup
 description: The Thorough Vs The Simple Followup
 published: 2010-09-08
-image: images/posts/the_thorough_vs_the_simple_followup.webp
-imageAlt: The Thorough Vs The Simple Followup
 category: Default
 tags: [best-practice, coding, debug, problem-solving]
 ---

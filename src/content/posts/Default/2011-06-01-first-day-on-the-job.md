@@ -2,7 +2,7 @@
 title: First Day On The Job
 description: Me at the Office
 published: 2011-06-01
-image: images/posts/first_day_on_the_job.webp
+image: images/posts/2011-06-img_0175.webp
 imageAlt: Me at the Office
 category: Default
 tags: [fresh-consulting, life, work]

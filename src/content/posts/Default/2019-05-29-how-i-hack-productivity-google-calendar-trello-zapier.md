@@ -2,7 +2,7 @@
 title: How I Hack Productivity Google Calendar Trello Zapier
 description: Task Tools
 published: 2019-05-29
-image: images/posts/how_i_hack_productivity_google_calendar_trello_zapier.webp
+image: images/posts/2019-05-tasks.webp
 imageAlt: Task Tools
 category: Default
 tags: [geekery, life, productivity, task-management, tasks, trello, zapier]

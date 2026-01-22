@@ -2,7 +2,7 @@
 title: That First Song
 description: That First Song
 published: 2015-02-04
-image: images/posts/that_first_song.webp
+image: images/posts/2015-02-smart_es_sesames_treet1.webp
 imageAlt: That First Song
 category: Default
 tags: [electro, house, life, memories, music, pensee, techno]

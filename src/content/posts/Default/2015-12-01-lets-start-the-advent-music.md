@@ -2,7 +2,7 @@
 title: Lets Start The Advent Music
 description: Lets Start The Advent Music
 published: 2015-12-01
-image: images/posts/lets_start_the_advent_music.webp
+image: images/posts/2015-11-xmas_songs1.jpg
 imageAlt: Lets Start The Advent Music
 category: Default
 tags: [advent, christmas, life, music]

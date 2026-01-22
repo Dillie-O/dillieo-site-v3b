@@ -2,7 +2,7 @@
 title: Lifestyle Management Reloaded
 description: Lifestyle Management
 published: 2011-11-01
-image: images/posts/lifestyle_management_reloaded.webp
+image: images/posts/2011-11-lifestylemanagement.webp
 imageAlt: Lifestyle Management
 category: Default
 tags: [aggregator, e-mail, facebook, geekery, management, netvibes, threadsy, twitter]

@@ -2,7 +2,7 @@
 title: Guest Post Optimizing Laravel Performance
 description: laravel-logo-big
 published: 2016-04-28
-image: images/posts/guest_post_optimizing_laravel_performance.webp
+image: images/posts/2016-04-laravel-logo-big.webp
 imageAlt: laravel-logo-big
 category: Default
 tags: [coding, laravel, optimization, link]

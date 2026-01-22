@@ -2,7 +2,7 @@
 title: Everything As A Service
 description: service-button.png
 published: 2016-01-21
-image: images/posts/everything_as_a_service.webp
+image: images/posts/2016-01-service-button.webp
 imageAlt: service-button.png
 category: Default
 tags: [life, music, on-demand, services, shipping, video]

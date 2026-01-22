@@ -2,8 +2,6 @@
 title: Late Night Family Dnd
 description: Late Night Family Dnd
 published: 2020-03-16
-image: images/posts/late_night_family_dnd.webp
-imageAlt: Late Night Family Dnd
 category: Default
 tags: [life]
 ---

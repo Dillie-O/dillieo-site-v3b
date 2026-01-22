@@ -2,7 +2,7 @@
 title: Whats In A Name Ideas Wanted
 description: Whats In A Name Ideas Wanted
 published: 2015-10-06
-image: images/posts/whats_in_a_name_ideas_wanted.webp
+image: images/posts/2015-10-hello-my-name-is1.webp
 imageAlt: Whats In A Name Ideas Wanted
 category: Default
 tags: [computers, doctor-who, geekery, naming, star-wars]

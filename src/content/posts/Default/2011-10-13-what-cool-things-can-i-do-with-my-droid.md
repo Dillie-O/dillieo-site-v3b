@@ -2,7 +2,7 @@
 title: What Cool Things Can I Do With My Droid
 description: Me with Fiver
 published: 2011-10-13
-image: images/posts/what_cool_things_can_i_do_with_my_droid.webp
+image: images/posts/2011-10-imag0003.webp
 imageAlt: Me with Fiver
 category: Default
 tags: [apps, droid, geekery, htc, thunderbolt, ui]

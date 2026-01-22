@@ -2,8 +2,6 @@
 title: Log4Net A Quick Start Tutorial And Guide
 description: Log4Net A Quick Start Tutorial And Guide
 published: 2009-05-07
-image: images/posts/log4net_a_quick_start_tutorial_and_guide.webp
-imageAlt: Log4Net A Quick Start Tutorial And Guide
 category: Default
 tags: [net, coding, configuration, log4net, logging, quickstart, tutorial]
 ---

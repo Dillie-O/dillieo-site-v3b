@@ -2,7 +2,7 @@
 title: Song Of The Week Dj Jazzy Jeff And The Fresh Prince Megamix
 description: DJ Jazzy Jeff and the Fresh Prince Greatest Hits
 published: 2011-07-01
-image: images/posts/song_of_the_week_dj_jazzy_jeff_and_the_fresh_prince_megamix.webp
+image: images/posts/2011-07-jazzyjeffcover.webp
 imageAlt: DJ Jazzy Jeff and the Fresh Prince Greatest Hits
 category: Default
 tags: [dj-jazzy-jeff, fresh-prince, hip-hop, image, song-of-the-week, will-smith]

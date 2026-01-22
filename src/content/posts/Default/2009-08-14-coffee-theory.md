@@ -2,8 +2,6 @@
 title: Coffee Theory
 description: Coffee Theory
 published: 2009-08-14
-image: images/posts/coffee_theory.webp
-imageAlt: Coffee Theory
 category: Default
 tags: [coffee, recipes]
 ---

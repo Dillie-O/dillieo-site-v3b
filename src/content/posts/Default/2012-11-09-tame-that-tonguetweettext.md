@@ -2,8 +2,6 @@
 title: Tame That Tonguetweettext
 description: Tame That Tonguetweettext
 published: 2012-11-09
-image: images/posts/tame_that_tonguetweettext.webp
-imageAlt: Tame That Tonguetweettext
 category: Default
 tags: [anger, life, pensee, proverbs, speech, tongue, words]
 ---

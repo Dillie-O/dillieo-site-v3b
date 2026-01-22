@@ -2,8 +2,6 @@
 title: Refactored Creating Dynamicconfigurable Parameterized Queries In Entity Framework
 description: Refactored Creating Dynamicconfigurable Parameterized Queries In Entity Framework
 published: 2013-05-30
-image: images/posts/refactored_creating_dynamicconfigurable_parameterized_queries_in_entity_framework.webp
-imageAlt: Refactored Creating Dynamicconfigurable Parameterized Queries In Entity Framework
 category: Default
 tags: [net, adonet-entity-framework, c, coding, Database, ef, entity, entity-framework, model, parameterized-queries, parameters, programming, searching]
 ---

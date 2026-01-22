@@ -2,8 +2,6 @@
 title: Tidying Up
 description: Tidying Up
 published: 2015-01-09
-image: images/posts/tidying_up.webp
-imageAlt: Tidying Up
 category: Default
 tags: [cleaning, life, organization, pensee]
 ---

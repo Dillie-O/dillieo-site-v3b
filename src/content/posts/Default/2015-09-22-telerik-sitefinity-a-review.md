@@ -2,7 +2,7 @@
 title: Telerik Sitefinity A Review
 description: Telerik Sitefinity A Review
 published: 2015-09-22
-image: images/posts/telerik_sitefinity_a_review.webp
+image: images/posts/2015-09-sitefinity_logo11.webp
 imageAlt: Telerik Sitefinity A Review
 category: Default
 tags: [cms, coding, sitefinity, telerik]

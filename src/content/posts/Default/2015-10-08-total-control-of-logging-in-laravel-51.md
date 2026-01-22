@@ -2,7 +2,7 @@
 title: Total Control Of Logging In Laravel 51
 description: Laravel-5.png
 published: 2015-10-08
-image: images/posts/total_control_of_logging_in_laravel_51.webp
+image: images/posts/2015-05-laravel-51.webp
 imageAlt: Laravel-5.png
 category: Default
 tags: [coding, configuration, laravel, logging]

@@ -2,7 +2,7 @@
 title: Its Christmas Advent Again Kick Up The Music
 description: Its Christmas Advent Again Kick Up The Music
 published: 2012-11-30
-image: images/posts/its_christmas_advent_again_kick_up_the_music.webp
+image: images/posts/2010-12-christmasscene.webp
 imageAlt: Its Christmas Advent Again Kick Up The Music
 category: Default
 tags: [christmas, christmas-lounge, life, music, santa-lounge, somafm, spotify]

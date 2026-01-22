@@ -2,7 +2,7 @@
 title: Crud And Cream
 description: Crud And Cream
 published: 2015-10-28
-image: images/posts/crud_and_cream.webp
+image: images/posts/2015-10-blur-station.webp
 imageAlt: Crud And Cream
 category: Default
 tags: [accomplishment, cream, crud, goals, growth, life]

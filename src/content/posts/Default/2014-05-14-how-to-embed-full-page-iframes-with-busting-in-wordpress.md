@@ -2,8 +2,6 @@
 title: How To Embed Full Page Iframes With Busting In Wordpress
 description: How To Embed Full Page Iframes With Busting In Wordpress
 published: 2014-05-14
-image: images/posts/how_to_embed_full_page_iframes_with_busting_in_wordpress.webp
-imageAlt: How To Embed Full Page Iframes With Busting In Wordpress
 category: Default
 tags: [coding, frame-busting, iframe, jquery, wordpress]
 ---

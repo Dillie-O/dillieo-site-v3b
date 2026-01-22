@@ -2,7 +2,7 @@
 title: Setting Up Roksbox With Itunes And Osx
 description: Roksbox Logo
 published: 2011-04-18
-image: images/posts/setting_up_roksbox_with_itunes_and_osx.webp
+image: images/posts/2011-04-roksbox_logo_hd_4.webp
 imageAlt: Roksbox Logo
 category: Default
 tags: [configuration, geekery, roksbox, roku-box, web-server]

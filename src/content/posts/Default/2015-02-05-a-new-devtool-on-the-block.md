@@ -2,7 +2,7 @@
 title: A New Devtool On The Block
 description: A New Devtool On The Block
 published: 2015-02-05
-image: images/posts/a_new_devtool_on_the_block.webp
+image: images/posts/2015-02-firefoxdev_win101.webp
 imageAlt: A New Devtool On The Block
 category: Default
 tags: [coding, developer, fde, firefox, tools]

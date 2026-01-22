@@ -2,8 +2,6 @@
 title: Sharing The Love Zurb Foundation For Apps Scaffolding For Net With Authentication
 description: Sharing The Love Zurb Foundation For Apps Scaffolding For Net With Authentication
 published: 2015-01-20
-image: images/posts/sharing_the_love_zurb_foundation_for_apps_scaffolding_for_net_with_authentication.webp
-imageAlt: Sharing The Love Zurb Foundation For Apps Scaffolding For Net With Authentication
 category: Default
 tags: [net, angularjs, apps, coding, foundation, scaffold, zurb]
 ---

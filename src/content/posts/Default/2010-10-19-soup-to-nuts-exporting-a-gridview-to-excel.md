@@ -2,8 +2,6 @@
 title: Soup To Nuts Exporting A Gridview To Excel
 description: Soup To Nuts Exporting A Gridview To Excel
 published: 2010-10-19
-image: images/posts/soup_to_nuts_exporting_a_gridview_to_excel.webp
-imageAlt: Soup To Nuts Exporting A Gridview To Excel
 category: Default
 tags: [api, coding, excel, export, gridview, npoi]
 ---

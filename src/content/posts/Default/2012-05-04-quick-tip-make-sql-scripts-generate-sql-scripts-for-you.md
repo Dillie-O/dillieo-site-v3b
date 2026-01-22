@@ -2,7 +2,7 @@
 title: Quick Tip Make Sql Scripts Generate Sql Scripts For You
 description: Quick Tip
 published: 2012-05-04
-image: images/posts/quick_tip_make_sql_scripts_generate_sql_scripts_for_you.webp
+image: images/posts/2011-12-quicktip.webp
 imageAlt: Quick Tip
 category: Default
 tags: [coding, foreign-key, generation, quick-tip, script, sql, table]

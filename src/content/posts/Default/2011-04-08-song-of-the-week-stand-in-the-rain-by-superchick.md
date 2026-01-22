@@ -2,7 +2,7 @@
 title: Song Of The Week Stand In The Rain By Superchick
 description: album-beauty-from-pain
 published: 2011-04-08
-image: images/posts/song_of_the_week_stand_in_the_rain_by_superchick.webp
+image: images/posts/2011-04-album-beauty-from-pain.webp
 imageAlt: album-beauty-from-pain
 category: Default
 tags: [endurance, rock, song-of-the-week, superchick]

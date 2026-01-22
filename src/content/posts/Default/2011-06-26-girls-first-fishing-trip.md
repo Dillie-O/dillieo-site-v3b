@@ -2,7 +2,7 @@
 title: Girls First Fishing Trip
 description: Girls First Fishing Trip
 published: 2011-06-26
-image: images/posts/girls_first_fishing_trip.webp
+image: images/posts/5120-5873392896_e1779fea02_s.webp
 imageAlt: Girls First Fishing Trip
 category: Default
 tags: [life, image]

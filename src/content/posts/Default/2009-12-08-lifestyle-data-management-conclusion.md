@@ -2,8 +2,6 @@
 title: Lifestyle Data Management Conclusion
 description: Lifestyle Data Management Conclusion
 published: 2009-12-08
-image: images/posts/lifestyle_data_management_conclusion.webp
-imageAlt: Lifestyle Data Management Conclusion
 category: Default
 tags: [geekery, life]
 ---

@@ -2,7 +2,7 @@
 title: Give Thanksgiving Its Due A Pseudo Rant
 description: ThanksgivingTable
 published: 2010-11-26
-image: images/posts/give_thanksgiving_its_due_a_pseudo_rant.webp
+image: images/posts/2010-11-thanksgivingtable.webp
 imageAlt: ThanksgivingTable
 category: Default
 tags: [christmas, life, music, pensee, thanksgiving]

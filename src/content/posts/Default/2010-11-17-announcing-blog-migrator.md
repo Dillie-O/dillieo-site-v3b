@@ -2,8 +2,6 @@
 title: Announcing Blog Migrator
 description: Announcing Blog Migrator
 published: 2010-11-17
-image: images/posts/announcing_blog_migrator.webp
-imageAlt: Announcing Blog Migrator
 category: Default
 tags: [blogml, coding, migration, tools, wordpress]
 ---

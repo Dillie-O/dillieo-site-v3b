@@ -2,8 +2,6 @@
 title: Sick Doctors And Healthy Patients
 description: Sick Doctors And Healthy Patients
 published: 2014-10-23
-image: images/posts/sick_doctors_and_healthy_patients.webp
-imageAlt: Sick Doctors And Healthy Patients
 category: Default
 tags: [christianity, grace, love, quote, quotes, truth]
 ---

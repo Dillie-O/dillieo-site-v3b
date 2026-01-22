@@ -2,8 +2,6 @@
 title: Code Analysis The Hot Sauce Test
 description: Code Analysis The Hot Sauce Test
 published: 2014-08-22
-image: images/posts/code_analysis_the_hot_sauce_test.webp
-imageAlt: Code Analysis The Hot Sauce Test
 category: Default
 tags: [architecture, code-analysis, coding, Database, diagnostics, features, software-engineering, ui]
 ---

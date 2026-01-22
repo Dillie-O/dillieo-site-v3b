@@ -2,7 +2,7 @@
 title: Christmas Advent Music
 description: Christmas Advent Music
 published: 2014-12-01
-image: images/posts/christmas_advent_music.webp
+image: images/posts/2014-11-spotifyplaylist.webp
 imageAlt: Christmas Advent Music
 category: Default
 tags: [advent, christmas, life, music]

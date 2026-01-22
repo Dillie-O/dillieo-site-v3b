@@ -2,8 +2,6 @@
 title: Toolkit Upgrade
 description: Toolkit Upgrade
 published: 2016-12-15
-image: images/posts/toolkit_upgrade.webp
-imageAlt: Toolkit Upgrade
 category: Default
 tags: [apps, development, geekery, tools, web-development]
 ---

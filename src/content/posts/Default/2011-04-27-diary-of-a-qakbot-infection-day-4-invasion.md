@@ -2,8 +2,6 @@
 title: Diary Of A Qakbot Infection Day 4 Invasion
 description: Diary Of A Qakbot Infection Day 4 Invasion
 published: 2011-04-27
-image: images/posts/diary_of_a_qakbot_infection_day_4_invasion.webp
-imageAlt: Diary Of A Qakbot Infection Day 4 Invasion
 category: Default
 tags: [geekery]
 ---

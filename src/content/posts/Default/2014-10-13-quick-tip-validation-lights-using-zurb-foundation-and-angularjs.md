@@ -2,8 +2,6 @@
 title: Quick Tip Validation Lights Using Zurb Foundation And Angularjs
 description: Quick Tip Validation Lights Using Zurb Foundation And Angularjs
 published: 2014-10-13
-image: images/posts/quick_tip_validation_lights_using_zurb_foundation_and_angularjs.webp
-imageAlt: Quick Tip Validation Lights Using Zurb Foundation And Angularjs
 category: Default
 tags: [angularjs, coding, form, foundation, ui, ux, validation, zurb]
 ---

@@ -2,7 +2,7 @@
 title: Know Your User Elvis Bean Hedy
 description: Know Your User Elvis Bean Hedy
 published: 2021-06-01
-image: images/posts/know_your_user_elvis_bean_hedy.webp
+image: images/posts/2021-05-elvis-bean-hedy.webp
 imageAlt: Know Your User Elvis Bean Hedy
 category: Default
 tags: [architecture, coding, persona, ux]

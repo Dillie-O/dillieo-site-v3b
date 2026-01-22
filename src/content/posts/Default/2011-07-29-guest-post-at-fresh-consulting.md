@@ -2,7 +2,7 @@
 title: Guest Post At Fresh Consulting
 description: Time to Learn
 published: 2011-07-29
-image: images/posts/guest_post_at_fresh_consulting.webp
+image: images/posts/2011-07-timetolearn.webp
 imageAlt: Time to Learn
 category: Default
 tags: [best-practice, coding, developer, fresh-consulting, tips]

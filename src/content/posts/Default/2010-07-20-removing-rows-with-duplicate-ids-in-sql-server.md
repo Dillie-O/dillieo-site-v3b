@@ -2,8 +2,6 @@
 title: Removing Rows With Duplicate Ids In Sql Server
 description: Removing Rows With Duplicate Ids In Sql Server
 published: 2010-07-20
-image: images/posts/removing_rows_with_duplicate_ids_in_sql_server.webp
-imageAlt: Removing Rows With Duplicate Ids In Sql Server
 category: Default
 tags: [coding, duplicates, sql, troubleshooting]
 ---

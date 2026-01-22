@@ -2,8 +2,6 @@
 title: Ray Bradbury Rest In Peace
 description: Ray Bradbury Rest In Peace
 published: 2012-06-06
-image: images/posts/ray_bradbury_rest_in_peace.webp
-imageAlt: Ray Bradbury Rest In Peace
 category: Default
 tags: [life]
 ---

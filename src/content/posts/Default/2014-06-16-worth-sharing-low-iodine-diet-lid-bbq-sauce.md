@@ -2,8 +2,6 @@
 title: Worth Sharing Low Iodine Diet Lid Bbq Sauce
 description: Worth Sharing Low Iodine Diet Lid Bbq Sauce
 published: 2014-06-16
-image: images/posts/worth_sharing_low_iodine_diet_lid_bbq_sauce.webp
-imageAlt: Worth Sharing Low Iodine Diet Lid Bbq Sauce
 category: Default
 tags: [bbq, lid, low-iodine-diet, recipes, sauce]
 ---

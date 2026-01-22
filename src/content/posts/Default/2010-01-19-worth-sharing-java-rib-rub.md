@@ -2,8 +2,6 @@
 title: Worth Sharing Java Rib Rub
 description: Worth Sharing Java Rib Rub
 published: 2010-01-19
-image: images/posts/worth_sharing_java_rib_rub.webp
-imageAlt: Worth Sharing Java Rib Rub
 category: Default
 tags: [coffee, java, recipes, ribs]
 ---

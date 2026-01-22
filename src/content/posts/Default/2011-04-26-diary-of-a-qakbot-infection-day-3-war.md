@@ -2,8 +2,6 @@
 title: Diary Of A Qakbot Infection Day 3 War
 description: Diary Of A Qakbot Infection Day 3 War
 published: 2011-04-26
-image: images/posts/diary_of_a_qakbot_infection_day_3_war.webp
-imageAlt: Diary Of A Qakbot Infection Day 3 War
 category: Default
 tags: [geekery, qakbot, virus]
 ---

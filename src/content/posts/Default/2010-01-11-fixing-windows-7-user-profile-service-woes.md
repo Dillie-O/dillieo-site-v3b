@@ -2,8 +2,6 @@
 title: Fixing Windows 7 User Profile Service Woes
 description: Fixing Windows 7 User Profile Service Woes
 published: 2010-01-11
-image: images/posts/fixing_windows_7_user_profile_service_woes.webp
-imageAlt: Fixing Windows 7 User Profile Service Woes
 category: Default
 tags: [geekery, profile, user, windows7]
 ---

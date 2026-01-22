@@ -2,7 +2,7 @@
 title: Song Of The Week O Holy Night By Studio 60 New Orleans Band
 description: Studio 60 Santa
 published: 2011-12-16
-image: images/posts/song_of_the_week_o_holy_night_by_studio_60_new_orleans_band.webp
+image: images/posts/2011-12-studio60santa.webp
 imageAlt: Studio 60 Santa
 category: Default
 tags: [christmas, jazz, new-orleans, song-of-the-week, studio-60, troy-tombone-shorty-andrews]

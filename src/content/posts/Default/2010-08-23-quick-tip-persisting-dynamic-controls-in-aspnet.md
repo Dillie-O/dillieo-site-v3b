@@ -2,8 +2,6 @@
 title: Quick Tip Persisting Dynamic Controls In Aspnet
 description: Quick Tip Persisting Dynamic Controls In Aspnet
 published: 2010-08-23
-image: images/posts/quick_tip_persisting_dynamic_controls_in_aspnet.webp
-imageAlt: Quick Tip Persisting Dynamic Controls In Aspnet
 category: Default
 tags: [aspnet, coding, controls, dynamic, quick-tip]
 ---

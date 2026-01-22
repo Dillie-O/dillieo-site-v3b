@@ -2,8 +2,6 @@
 title: Windows 7 Dvdcd Driver Install Error Alternate Solution
 description: Windows 7 Dvdcd Driver Install Error Alternate Solution
 published: 2009-10-04
-image: images/posts/windows_7_dvdcd_driver_install_error_alternate_solution.webp
-imageAlt: Windows 7 Dvdcd Driver Install Error Alternate Solution
 category: Default
 tags: [driver, geekery, install, iso-13346, troubleshooting, udf, windows7]
 ---

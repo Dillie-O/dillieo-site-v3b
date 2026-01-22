@@ -2,8 +2,6 @@
 title: Netrep Archive Deck Studio Ronin Installers Now Available
 description: Netrep Archive Deck Studio Ronin Installers Now Available
 published: 2010-05-18
-image: images/posts/netrep_archive_deck_studio_ronin_installers_now_available.webp
-imageAlt: Netrep Archive Deck Studio Ronin Installers Now Available
 category: Default
 tags: [ccg-toolkit, coding, deck-studio, netrep, ronin]
 ---

@@ -2,8 +2,6 @@
 title: Farewell Interwebz
 description: Farewell Interwebz
 published: 2016-09-26
-image: images/posts/farewell_interwebz.webp
-imageAlt: Farewell Interwebz
 category: Default
 tags: [life]
 ---

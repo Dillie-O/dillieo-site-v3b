@@ -2,7 +2,7 @@
 title: A Hayao Miyazaki Primer Two Alternative Lists
 description: Ponyo
 published: 2015-11-30
-image: images/posts/a_hayao_miyazaki_primer_two_alternative_lists.webp
+image: images/posts/2015-11-ponyo.webp
 imageAlt: Ponyo
 category: Default
 tags: [hayao-miyazaki, life, movies, reviews]

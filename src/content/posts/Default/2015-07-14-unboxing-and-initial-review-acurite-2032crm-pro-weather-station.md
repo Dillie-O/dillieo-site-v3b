@@ -2,7 +2,7 @@
 title: Unboxing And Initial Review Acurite 2032Crm Pro Weather Station
 description: Unboxing And Initial Review Acurite 2032Crm Pro Weather Station
 published: 2015-07-14
-image: images/posts/unboxing_and_initial_review_acurite_2032crm_pro_weather_station.webp
+image: images/posts/2015-07-1_20150712_000946587_ios.webp
 imageAlt: Unboxing And Initial Review Acurite 2032Crm Pro Weather Station
 category: Default
 tags: [acurite, geekery, review, unboxing, weather-station]

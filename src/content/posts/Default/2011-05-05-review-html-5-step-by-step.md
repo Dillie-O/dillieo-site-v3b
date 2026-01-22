@@ -2,8 +2,6 @@
 title: Review Html 5 Step By Step
 description: Review Html 5 Step By Step
 published: 2011-05-05
-image: images/posts/review_html_5_step_by_step.webp
-imageAlt: Review Html 5 Step By Step
 category: Default
 tags: [html, html5, reviews]
 ---

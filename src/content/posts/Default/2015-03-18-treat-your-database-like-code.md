@@ -2,8 +2,6 @@
 title: Treat Your Database Like Code
 description: Treat Your Database Like Code
 published: 2015-03-18
-image: images/posts/treat_your_database_like_code.webp
-imageAlt: Treat Your Database Like Code
 category: Default
 tags: [agile, coding, Database, migrations, link, seeds]
 ---

@@ -2,7 +2,7 @@
 title: Song Of The Week Bedrock Anthem By Weird Al Yankovic
 description: Weird Al - Alapalooza
 published: 2011-09-23
-image: images/posts/song_of_the_week_bedrock_anthem_by_weird_al_yankovic.webp
+image: images/posts/2011-09-alapalooza.webp
 imageAlt: Weird Al - Alapalooza
 category: Default
 tags: [parody, red-hot-chili-peppers, song-of-the-week, weird-al-yankovic]

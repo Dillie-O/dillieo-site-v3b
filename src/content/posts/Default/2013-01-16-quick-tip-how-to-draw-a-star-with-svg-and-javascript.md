@@ -2,7 +2,7 @@
 title: Quick Tip How To Draw A Star With Svg And Javascript
 description: Quick Tip
 published: 2013-01-16
-image: images/posts/quick_tip_how_to_draw_a_star_with_svg_and_javascript.webp
+image: images/posts/2011-12-quicktip.webp
 imageAlt: Quick Tip
 category: Default
 tags: [coding, css, graphics, javascript, point, quick-tip, star, svg]

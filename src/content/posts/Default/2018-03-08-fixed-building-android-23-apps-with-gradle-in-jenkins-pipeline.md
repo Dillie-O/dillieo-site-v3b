@@ -2,7 +2,7 @@
 title: Fixed Building Android 23 Apps With Gradle In Jenkins Pipeline
 description: jenkins_android
 published: 2018-03-08
-image: images/posts/fixed_building_android_23_apps_with_gradle_in_jenkins_pipeline.webp
+image: images/posts/2018-03-jenkins_android.webp
 imageAlt: jenkins_android
 category: Default
 tags: [aapt, android, build, coding, gradle, jenkins, pipeline, troubleshooting]

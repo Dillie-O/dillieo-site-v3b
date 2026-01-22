@@ -2,7 +2,7 @@
 title: Leadership Thoughts And A Tip
 description: Leadership Thoughts And A Tip
 published: 2019-01-11
-image: images/posts/leadership_thoughts_and_a_tip.webp
+image: images/posts/2019-01-pexels-photo-718759.webp
 imageAlt: Leadership Thoughts And A Tip
 category: Default
 tags: [leadership, life, principles, tips]

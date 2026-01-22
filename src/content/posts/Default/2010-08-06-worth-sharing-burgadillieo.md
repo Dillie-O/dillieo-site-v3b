@@ -2,8 +2,6 @@
 title: Worth Sharing Burgadillieo
 description: Worth Sharing Burgadillieo
 published: 2010-08-06
-image: images/posts/worth_sharing_burgadillieo.webp
-imageAlt: Worth Sharing Burgadillieo
 category: Default
 tags: [hamburger, recipes]
 ---

@@ -2,8 +2,6 @@
 title: Using Html Server Controls
 description: Using Html Server Controls
 published: 2010-03-23
-image: images/posts/using_html_server_controls.webp
-imageAlt: Using Html Server Controls
 category: Default
 tags: [aspnet, coding, controls, html]
 ---

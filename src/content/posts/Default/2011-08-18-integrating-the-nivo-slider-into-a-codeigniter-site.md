@@ -2,7 +2,7 @@
 title: Integrating The Nivo Slider Into A Codeigniter Site
 description: Soup to Nuts - The Complete Package
 published: 2011-08-18
-image: images/posts/integrating_the_nivo_slider_into_a_codeigniter_site.webp
+image: images/posts/2011-08-soup2nuts.webp
 imageAlt: Soup to Nuts - The Complete Package
 category: Default
 tags: [codeigniter, coding, javascript, jquery, nivo, php, slider]

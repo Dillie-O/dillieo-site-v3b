@@ -2,8 +2,6 @@
 title: Using Xsds For Quick Datatables In Net
 description: Using Xsds For Quick Datatables In Net
 published: 2009-07-08
-image: images/posts/using_xsds_for_quick_datatables_in_net.webp
-imageAlt: Using Xsds For Quick Datatables In Net
 category: Default
 tags: [net, coding, datatable, xml, xsd]
 ---

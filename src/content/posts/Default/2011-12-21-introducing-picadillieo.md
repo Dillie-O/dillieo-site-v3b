@@ -2,7 +2,7 @@
 title: Introducing Picadillieo
 description: Pic-a-Dillie-O Screenshot
 published: 2011-12-21
-image: images/posts/introducing_picadillieo.webp
+image: images/posts/2011-12-picadillieo.webp
 imageAlt: Pic-a-Dillie-O Screenshot
 category: Default
 tags: [family, life, photos]

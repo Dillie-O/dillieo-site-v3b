@@ -2,7 +2,7 @@
 title: Why The Internet Is Cool
 description: Why The Internet Is Cool
 published: 2013-05-26
-image: images/posts/why_the_internet_is_cool.webp
+image: images/posts/2013-05-savedpicture-201352611932.webp
 imageAlt: Why The Internet Is Cool
 category: Default
 tags: [life]

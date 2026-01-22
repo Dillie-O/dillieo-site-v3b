@@ -2,8 +2,6 @@
 title: Some Things Linger Forever
 description: Some Things Linger Forever
 published: 2010-11-02
-image: images/posts/some_things_linger_forever.webp
-imageAlt: Some Things Linger Forever
 category: Default
 tags: [death, fatherhood, life, pensee]
 ---

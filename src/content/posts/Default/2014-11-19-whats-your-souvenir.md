@@ -2,8 +2,6 @@
 title: Whats Your Souvenir
 description: Whats Your Souvenir
 published: 2014-11-19
-image: images/posts/whats_your_souvenir.webp
-imageAlt: Whats Your Souvenir
 category: Default
 tags: [hats, life, memories, mugs, souvenirs]
 ---

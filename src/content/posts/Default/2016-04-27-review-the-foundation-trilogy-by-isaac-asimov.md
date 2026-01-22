@@ -2,7 +2,7 @@
 title: Review The Foundation Trilogy By Isaac Asimov
 description: Review The Foundation Trilogy By Isaac Asimov
 published: 2016-04-27
-image: images/posts/review_the_foundation_trilogy_by_isaac_asimov.webp
+image: images/posts/2016-04-foundation_covers.jpg
 imageAlt: Review The Foundation Trilogy By Isaac Asimov
 category: Default
 tags: [asimov, book, foundation, reviews, science-fiction, series]

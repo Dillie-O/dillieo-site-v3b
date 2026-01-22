@@ -2,7 +2,7 @@
 title: Song Of The Week Si La Vie Demande Ca By Native
 description: Native
 published: 2011-06-10
-image: images/posts/song_of_the_week_si_la_vie_demande_ca_by_native.webp
+image: images/posts/2011-06-nativecover.webp
 imageAlt: Native
 category: Default
 tags: [français, french, native, pop, song-of-the-week]

@@ -2,7 +2,7 @@
 title: Review The Unofficial Lego Builders Guide
 description: lego_builders_guide_cover
 published: 2012-12-07
-image: images/posts/review_the_unofficial_lego_builders_guide.webp
+image: images/posts/2012-12-lego_builders_guide_cover.webp
 imageAlt: lego_builders_guide_cover
 category: Default
 tags: [guides, legos, reviews]

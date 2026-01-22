@@ -2,7 +2,7 @@
 title: Lifestyle Management Reloaded Livego
 description: LiveGo Logo
 published: 2011-11-08
-image: images/posts/lifestyle_management_reloaded_livego.webp
+image: images/posts/2011-11-livegologo.webp
 imageAlt: LiveGo Logo
 category: Default
 tags: [e-mail, facebook, geekery, lifestyle-management, livego, twitter]

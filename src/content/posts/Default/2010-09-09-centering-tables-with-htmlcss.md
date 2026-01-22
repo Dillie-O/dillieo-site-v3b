@@ -2,8 +2,6 @@
 title: Centering Tables With Htmlcss
 description: Centering Tables With Htmlcss
 published: 2010-09-09
-image: images/posts/centering_tables_with_htmlcss.webp
-imageAlt: Centering Tables With Htmlcss
 category: Default
 tags: [center, coding, css, format, gridview, html, table]
 ---

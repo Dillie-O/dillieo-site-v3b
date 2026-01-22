@@ -2,7 +2,7 @@
 title: The Thoughts And Compassion Of Children
 description: Mommy and her Kindergarten Girls
 published: 2012-01-24
-image: images/posts/the_thoughts_and_compassion_of_children.webp
+image: images/posts/2011-08-img_0825-e1314207573626.webp
 imageAlt: Mommy and her Kindergarten Girls
 category: Default
 tags: [children, haylee, life, parenting, rylee, toys, vacuum-monster]

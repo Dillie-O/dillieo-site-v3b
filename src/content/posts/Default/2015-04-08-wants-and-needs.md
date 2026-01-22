@@ -2,7 +2,7 @@
 title: Wants And Needs
 description: Wants And Needs
 published: 2015-04-08
-image: images/posts/wants_and_needs.webp
+image: images/posts/2015-04-wantsandneeds.webp
 imageAlt: Wants And Needs
 category: Default
 tags: [life]

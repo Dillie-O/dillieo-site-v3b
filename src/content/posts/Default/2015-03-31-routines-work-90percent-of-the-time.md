@@ -2,7 +2,7 @@
 title: Routines Work 90Percent Of The Time
 description: Routines Work 90Percent Of The Time
 published: 2015-03-31
-image: images/posts/routines_work_90percent_of_the_time.webp
+image: images/posts/2015-03-clock-deadline-departure-4090.webp
 imageAlt: Routines Work 90Percent Of The Time
 category: Default
 tags: [adapting, flexibility, life, schedule, time]

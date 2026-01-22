@@ -2,7 +2,7 @@
 title: Leadership Finding Somebody New
 description: Leadership Finding Somebody New
 published: 2019-02-22
-image: images/posts/leadership_finding_somebody_new.webp
+image: images/posts/2019-02-adult-brainstorming-business-935977.webp
 imageAlt: Leadership Finding Somebody New
 category: Default
 tags: [hiring, inspiration, leadership, life, tips]

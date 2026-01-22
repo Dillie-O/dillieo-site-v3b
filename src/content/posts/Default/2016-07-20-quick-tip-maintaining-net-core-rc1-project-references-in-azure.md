@@ -2,7 +2,7 @@
 title: Quick Tip Maintaining Net Core Rc1 Project References In Azure
 description: quick-tips.jpg
 published: 2016-07-20
-image: images/posts/quick_tip_maintaining_net_core_rc1_project_references_in_azure.webp
+image: images/posts/2015-01-quick-tips.webp
 imageAlt: quick-tips.jpg
 category: Default
 tags: [net, azure, bugs, coding, core, dependencies, libraries, rc1, rc2, references]

@@ -2,7 +2,7 @@
 title: How To Grow As A Developer
 description: Three key principles to use year over year to grow as a developer.
 published: 2024-10-25
-image: images/posts/how_to_grow_as_a_developer.webp
+image: images/posts/growth_image.webp
 imageAlt: growing tree
 category: Default
 tags: [growth, programming, engineering, development, career]

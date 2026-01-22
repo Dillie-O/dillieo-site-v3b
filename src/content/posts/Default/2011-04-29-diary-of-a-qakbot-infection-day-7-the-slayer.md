@@ -2,7 +2,7 @@
 title: Diary Of A Qakbot Infection Day 7 The Slayer
 description: Slayer Name tag
 published: 2011-04-29
-image: images/posts/diary_of_a_qakbot_infection_day_7_the_slayer.webp
+image: images/posts/2011-04-0425111515.webp
 imageAlt: Slayer Name tag
 category: Default
 tags: [geekery, qakbot, virus]

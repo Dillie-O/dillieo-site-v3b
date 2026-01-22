@@ -2,7 +2,7 @@
 title: Fabulous Fresh Four Fenomenon
 description: Fabulous Fresh Four Fenomenon
 published: 2015-06-01
-image: images/posts/fabulous_fresh_four_fenomenon.webp
+image: images/posts/2015-06-fresh-artwork.webp
 imageAlt: Fabulous Fresh Four Fenomenon
 category: Default
 tags: [life]

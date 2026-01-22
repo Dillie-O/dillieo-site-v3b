@@ -2,8 +2,6 @@
 title: How To Add A Windows Phone 8 Live Tile Using Angularjs
 description: How To Add A Windows Phone 8 Live Tile Using Angularjs
 published: 2014-08-19
-image: images/posts/how_to_add_a_windows_phone_8_live_tile_using_angularjs.webp
-imageAlt: How To Add A Windows Phone 8 Live Tile Using Angularjs
 category: Default
 tags: [coding, live-tile, shortcut, tiles, web-site, windows-phone-8, wp8]
 ---

@@ -2,8 +2,6 @@
 title: Review Html5 Hacks
 description: Review Html5 Hacks
 published: 2013-12-20
-image: images/posts/review_html5_hacks.webp
-imageAlt: Review Html5 Hacks
 category: Default
 tags: [application-programming-interface, css3, data-formats, filesystem, geolocation, html, html5, reviews, sprites, web-storage]
 ---

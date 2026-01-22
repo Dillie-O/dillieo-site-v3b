@@ -2,7 +2,7 @@
 title: Quick Review Torchlight 2
 description: Torchlight 2 Logo
 published: 2012-05-21
-image: images/posts/quick_review_torchlight_2.webp
+image: images/posts/2012-05-torchlight2logo.webp
 imageAlt: Torchlight 2 Logo
 category: Default
 tags: [dungeon, embermage, games, geekery, mage, rpg, torchlight]

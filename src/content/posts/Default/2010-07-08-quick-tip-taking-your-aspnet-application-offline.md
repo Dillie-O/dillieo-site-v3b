@@ -2,8 +2,6 @@
 title: Quick Tip Taking Your Aspnet Application Offline
 description: Quick Tip Taking Your Aspnet Application Offline
 published: 2010-07-08
-image: images/posts/quick_tip_taking_your_aspnet_application_offline.webp
-imageAlt: Quick Tip Taking Your Aspnet Application Offline
 category: Default
 tags: [aspnet, coding, configuration, offline, quick-tip]
 ---

@@ -2,7 +2,7 @@
 title: Simple And Fun Diy Record Player
 description: Simple And Fun Diy Record Player
 published: 2015-09-24
-image: images/posts/simple_and_fun_diy_record_player.webp
+image: images/posts/2015-09-20150924_125426018_ios.webp
 imageAlt: Simple And Fun Diy Record Player
 category: Default
 tags: [diy, experiment, fun, life, player, record, science]

@@ -2,8 +2,6 @@
 title: Diary Of A Qakbot Infection Day 1 Perplexity
 description: Diary Of A Qakbot Infection Day 1 Perplexity
 published: 2011-04-22
-image: images/posts/diary_of_a_qakbot_infection_day_1_perplexity.webp
-imageAlt: Diary Of A Qakbot Infection Day 1 Perplexity
 category: Default
 tags: [geekery, qakbot, virus]
 ---

@@ -2,7 +2,7 @@
 title: Song Of The Week Reverence By Dj Lorraine
 description: djlorraineheadphonesgreenpic
 published: 2011-03-18
-image: images/posts/song_of_the_week_reverence_by_dj_lorraine.webp
+image: images/posts/2011-03-djlorraineheadphonesgreenpic_thumb.webp
 imageAlt: djlorraineheadphonesgreenpic
 category: Default
 tags: [dj-lorraine, house, music, song-of-the-week, trance]

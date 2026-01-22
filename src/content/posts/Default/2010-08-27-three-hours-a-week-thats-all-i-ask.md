@@ -2,7 +2,7 @@
 title: Three Hours A Week Thats All I Ask
 description: dali clock
 published: 2010-08-27
-image: images/posts/three_hours_a_week_thats_all_i_ask.webp
+image: images/posts/2010-08-daliclock1.webp
 imageAlt: dali clock
 category: Default
 tags: [career, coding, pensee, programming, research, time]

@@ -2,7 +2,7 @@
 title: New Tool For Rebuilding Your Dev Environment
 description: superlumic-logo
 published: 2015-10-14
-image: images/posts/new_tool_for_rebuilding_your_dev_environment.webp
+image: images/posts/2015-10-superlumic-logo.webp
 imageAlt: superlumic-logo
 category: Default
 tags: [ansible, automation, envioronment, geekery, kitchenplan, superlumic, tools]

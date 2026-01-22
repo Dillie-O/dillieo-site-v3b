@@ -2,8 +2,6 @@
 title: Tracking Down Wordpress Hacks
 description: Tracking Down Wordpress Hacks
 published: 2010-03-15
-image: images/posts/tracking_down_wordpress_hacks.webp
-imageAlt: Tracking Down Wordpress Hacks
 category: Default
 tags: [caching, coding, hack, sql, wordpress]
 ---

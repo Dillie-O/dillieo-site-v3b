@@ -2,8 +2,6 @@
 title: Low Iodine Diet Lid Resources
 description: Low Iodine Diet Lid Resources
 published: 2015-05-26
-image: images/posts/low_iodine_diet_lid_resources.webp
-imageAlt: Low Iodine Diet Lid Resources
 category: Default
 tags: [food, lid, life, low-iodine-diet, recipe, tips]
 ---

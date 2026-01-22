@@ -2,8 +2,6 @@
 title: Diary Of A Quakbot Infection Day 5 The Ninja
 description: Diary Of A Quakbot Infection Day 5 The Ninja
 published: 2011-04-28
-image: images/posts/diary_of_a_quakbot_infection_day_5_the_ninja.webp
-imageAlt: Diary Of A Quakbot Infection Day 5 The Ninja
 category: Default
 tags: [geekery, qakbot, virus]
 ---

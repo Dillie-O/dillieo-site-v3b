@@ -2,7 +2,7 @@
 title: Freeform Friday 2
 description: 1452865048_1.jpeg
 published: 2016-01-22
-image: images/posts/freeform_friday_2.webp
+image: images/posts/2016-01-1452865048_1.webp
 imageAlt: 1452865048_1.jpeg
 category: Default
 tags: [books, foundation, hugh-howey, isaac-asimov, life, molly-fade, random]

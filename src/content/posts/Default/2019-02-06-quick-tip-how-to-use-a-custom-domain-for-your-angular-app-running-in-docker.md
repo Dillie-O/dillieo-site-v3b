@@ -2,7 +2,7 @@
 title: Quick Tip How To Use A Custom Domain For Your Angular App Running In Docker
 description: Quick Tip How To Use A Custom Domain For Your Angular App Running In Docker
 published: 2019-02-06
-image: images/posts/quick_tip_how_to_use_a_custom_domain_for_your_angular_app_running_in_docker.webp
+image: images/posts/2017-02-quick_tip_banner.webp
 imageAlt: Quick Tip How To Use A Custom Domain For Your Angular App Running In Docker
 category: Default
 tags: [angular, coding, configuration, docker, domain]

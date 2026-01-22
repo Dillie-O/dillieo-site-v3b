@@ -2,8 +2,6 @@
 title: Quick Tip Configuring Laravel Environments On Media Temple
 description: Quick Tip Configuring Laravel Environments On Media Temple
 published: 2015-01-08
-image: images/posts/quick_tip_configuring_laravel_environments_on_media_temple.webp
-imageAlt: Quick Tip Configuring Laravel Environments On Media Temple
 category: Default
 tags: [coding, configuration, environment, htaccess, laravel, php]
 ---

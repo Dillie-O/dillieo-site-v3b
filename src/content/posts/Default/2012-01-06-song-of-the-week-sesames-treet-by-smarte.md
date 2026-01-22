@@ -2,7 +2,7 @@
 title: Song Of The Week Sesames Treet By Smarte
 description: Sesames Treet Cover
 published: 2012-01-06
-image: images/posts/song_of_the_week_sesames_treet_by_smarte.webp
+image: images/posts/2012-01-smart-es-sesames-treet.webp
 imageAlt: Sesames Treet Cover
 category: Default
 tags: [sesame-street, smart-e, song-of-the-week, techno]

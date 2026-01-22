@@ -2,8 +2,6 @@
 title: Log4Net A Quick Start Tutorial And Guide With Mvc And Sqlite
 description: Log4Net A Quick Start Tutorial And Guide With Mvc And Sqlite
 published: 2012-11-29
-image: images/posts/log4net_a_quick_start_tutorial_and_guide_with_mvc_and_sqlite.webp
-imageAlt: Log4Net A Quick Start Tutorial And Guide With Mvc And Sqlite
 category: Default
 tags: [net, coding, configuration, log4net, logging, nuget, tutorial]
 ---

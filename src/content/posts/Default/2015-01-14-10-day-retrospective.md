@@ -2,8 +2,6 @@
 title: 10 Day Retrospective
 description: 10 Day Retrospective
 published: 2015-01-14
-image: images/posts/10_day_retrospective.webp
-imageAlt: 10 Day Retrospective
 category: Default
 tags: [goals, life, pensee, workshop]
 ---

@@ -2,7 +2,7 @@
 title: Review Head First Wordpress
 description: HeadFirstWordPressCover
 published: 2010-11-23
-image: images/posts/review_head_first_wordpress.webp
+image: images/posts/2010-11-headfirstwordpresscover.webp
 imageAlt: HeadFirstWordPressCover
 category: Default
 tags: [reviews, wordpress]

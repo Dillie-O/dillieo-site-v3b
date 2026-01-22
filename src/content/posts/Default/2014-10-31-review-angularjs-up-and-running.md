@@ -2,8 +2,6 @@
 title: Review Angularjs Up And Running
 description: Review Angularjs Up And Running
 published: 2014-10-31
-image: images/posts/review_angularjs_up_and_running.webp
-imageAlt: Review Angularjs Up And Running
 category: Default
 tags: [angular, angularjs, coding, reviews]
 ---

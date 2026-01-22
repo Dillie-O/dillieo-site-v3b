@@ -2,8 +2,6 @@
 title: Rebuilding Your Dev Environment Quick And Easy On Osx With Kitchenplan
 description: Rebuilding Your Dev Environment Quick And Easy On Osx With Kitchenplan
 published: 2014-05-19
-image: images/posts/rebuilding_your_dev_environment_quick_and_easy_on_osx_with_kitchenplan.webp
-imageAlt: Rebuilding Your Dev Environment Quick And Easy On Osx With Kitchenplan
 category: Default
 tags: [applications, automation, chef, deployment, development, geekery, homebrew, install, osx, rebuild]
 ---

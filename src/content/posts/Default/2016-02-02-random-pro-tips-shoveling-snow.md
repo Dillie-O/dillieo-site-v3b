@@ -1,9 +1,9 @@
 ---
 title: Random Pro Tips Shoveling Snow
-description: 20160201_190201121_iOS
+description: Pro tipss for shoveling snow
 published: 2016-02-02
-image: images/posts/random_pro_tips_shoveling_snow.webp
-imageAlt: 20160201_190201121_iOS
+image: images/posts/2016-02-20160201_190201121_ios.jpg
+imageAlt: Shoveling Snow
 category: Default
 tags: [life, shoveling, snow, tips, tricks]
 ---

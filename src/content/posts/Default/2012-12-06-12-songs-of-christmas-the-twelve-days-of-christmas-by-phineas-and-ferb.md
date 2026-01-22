@@ -2,7 +2,7 @@
 title: 12 Songs Of Christmas The Twelve Days Of Christmas By Phineas And Ferb
 description: Phineas and Ferb Christmas
 published: 2012-12-06
-image: images/posts/12_songs_of_christmas_the_twelve_days_of_christmas_by_phineas_and_ferb.webp
+image: images/posts/2012-12-phineas-ferb-christmas.webp
 imageAlt: Phineas and Ferb Christmas
 category: Default
 tags: [christmas, life, music, phineas-and-ferb, twelve-days-of-christmas]

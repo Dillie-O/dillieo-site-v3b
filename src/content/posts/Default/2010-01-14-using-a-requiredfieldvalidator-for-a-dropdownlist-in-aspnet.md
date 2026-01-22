@@ -2,8 +2,6 @@
 title: Using A Requiredfieldvalidator For A Dropdownlist In Aspnet
 description: Using A Requiredfieldvalidator For A Dropdownlist In Aspnet
 published: 2010-01-14
-image: images/posts/using_a_requiredfieldvalidator_for_a_dropdownlist_in_aspnet.webp
-imageAlt: Using A Requiredfieldvalidator For A Dropdownlist In Aspnet
 category: Default
 tags: [aspnet, coding, dropdownlist, required, validator]
 ---

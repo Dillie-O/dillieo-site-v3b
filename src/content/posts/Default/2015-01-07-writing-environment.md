@@ -2,8 +2,6 @@
 title: Writing Environment
 description: Writing Environment
 published: 2015-01-07
-image: images/posts/writing_environment.webp
-imageAlt: Writing Environment
 category: Default
 tags: [blogging, environment, life, pensee, quiet, space]
 ---

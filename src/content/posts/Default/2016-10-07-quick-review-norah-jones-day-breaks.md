@@ -2,7 +2,7 @@
 title: Quick Review Norah Jones Day Breaks
 description: norah-jones-day-breaks
 published: 2016-10-07
-image: images/posts/quick_review_norah_jones_day_breaks.webp
+image: images/posts/2016-10-norah-jones-day-breaks.webp
 imageAlt: norah-jones-day-breaks
 category: Default
 tags: [day-breaks, jazz, music, norah-jones, review, reviews]

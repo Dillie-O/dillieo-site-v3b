@@ -2,7 +2,7 @@
 title: Worth Watching Gortimer Gibbons Life On Normal Street
 description: gortimer_gibbons_cover
 published: 2016-08-09
-image: images/posts/worth_watching_gortimer_gibbons_life_on_normal_street.webp
+image: images/posts/2016-08-gortimer_gibbons_cover1.webp
 imageAlt: gortimer_gibbons_cover
 category: Default
 tags: [reviews]

@@ -2,8 +2,6 @@
 title: Quick Tip Setting Focusdefaults On The Login Control
 description: Quick Tip Setting Focusdefaults On The Login Control
 published: 2010-07-23
-image: images/posts/quick_tip_setting_focusdefaults_on_the_login_control.webp
-imageAlt: Quick Tip Setting Focusdefaults On The Login Control
 category: Default
 tags: [aspnet, coding, configuration, controls, login, quick-tip]
 ---

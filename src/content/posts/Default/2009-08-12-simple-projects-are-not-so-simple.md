@@ -2,8 +2,6 @@
 title: Simple Projects Are Not So Simple
 description: Simple Projects Are Not So Simple
 published: 2009-08-12
-image: images/posts/simple_projects_are_not_so_simple.webp
-imageAlt: Simple Projects Are Not So Simple
 category: Default
 tags: [architecture, coding, pensee, projects]
 ---

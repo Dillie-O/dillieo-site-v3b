@@ -2,7 +2,7 @@
 title: Running Tech Huzzah For Strava
 description: Strava_Run
 published: 2016-06-06
-image: images/posts/running_tech_huzzah_for_strava.webp
+image: images/posts/2016-06-strava_run.webp
 imageAlt: Strava_Run
 category: Default
 tags: [apps, life, running, strava, tracking]

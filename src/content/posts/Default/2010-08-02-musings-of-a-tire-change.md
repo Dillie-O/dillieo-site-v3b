@@ -2,8 +2,6 @@
 title: Musings Of A Tire Change
 description: Musings Of A Tire Change
 published: 2010-08-02
-image: images/posts/musings_of_a_tire_change.webp
-imageAlt: Musings Of A Tire Change
 category: Default
 tags: [life, pensee, tires]
 ---

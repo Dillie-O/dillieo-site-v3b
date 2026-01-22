@@ -2,7 +2,7 @@
 title: Team Fresh Andamp Furious Completes Third Ragnar Northwest Passage
 description: 20160716_213003289_iOS
 published: 2016-07-21
-image: images/posts/team_fresh_andamp_furious_completes_third_ragnar_northwest_passage.webp
+image: images/posts/2016-07-20160716_213003289_ios.webp
 imageAlt: 20160716_213003289_iOS
 category: Default
 tags: [life, link, memories, ragnar, ragnarnwp, running, teamwork]

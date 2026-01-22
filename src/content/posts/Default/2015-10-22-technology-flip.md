@@ -2,7 +2,7 @@
 title: Technology Flip
 description: Technology Flip
 published: 2015-10-22
-image: images/posts/technology_flip.webp
+image: images/posts/2015-10-bttf_mematic1.webp
 imageAlt: Technology Flip
 category: Default
 tags: [back-to-the-future, bttfd, geekery, movies, star-wars, technology, timing]

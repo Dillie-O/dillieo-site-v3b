@@ -2,7 +2,7 @@
 title: My Favorite Moment Of The 2016 Olympics
 description: dagostino_hamblin.jpg
 published: 2016-08-19
-image: images/posts/my_favorite_moment_of_the_2016_olympics.webp
+image: images/posts/2016-08-dagostino_hamblin.webp
 imageAlt: dagostino_hamblin.jpg
 category: Default
 tags: [life, olympics, perseverance, running, virtue]

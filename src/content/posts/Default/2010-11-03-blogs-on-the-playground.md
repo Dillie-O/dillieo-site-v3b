@@ -2,7 +2,7 @@
 title: Blogs On The Playground
 description: direction-confusion
 published: 2010-11-03
-image: images/posts/blogs_on_the_playground.webp
+image: images/posts/2010-11-direction-confusion_thumb.webp
 imageAlt: direction-confusion
 category: Default
 tags: [blogging, coding, conversion, xml]

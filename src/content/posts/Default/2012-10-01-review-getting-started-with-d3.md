@@ -2,7 +2,7 @@
 title: Review Getting Started With D3
 description: D3 Cover
 published: 2012-10-01
-image: images/posts/review_getting_started_with_d3.webp
+image: images/posts/2012-10-d3_cover.webp
 imageAlt: D3 Cover
 category: Default
 tags: [d3, data, javascript, programming, reviews, visualization, web-development]

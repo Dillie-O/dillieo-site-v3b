@@ -2,8 +2,6 @@
 title: Its The Semantics Silly
 description: Its The Semantics Silly
 published: 2009-12-17
-image: images/posts/its_the_semantics_silly.webp
-imageAlt: Its The Semantics Silly
 category: Default
 tags: [coding, life, pensee, semantics, syntax]
 ---

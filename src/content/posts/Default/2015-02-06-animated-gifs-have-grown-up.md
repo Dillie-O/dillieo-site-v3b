@@ -2,7 +2,7 @@
 title: Animated Gifs Have Grown Up
 description: Animated Gifs Have Grown Up
 published: 2015-02-06
-image: images/posts/animated_gifs_have_grown_up.webp
+image: images/posts/2015-02-homers_web_page1.webp
 imageAlt: Animated Gifs Have Grown Up
 category: Default
 tags: [animated-gif, gif, humor, life, random, utility]

@@ -2,8 +2,6 @@
 title: Diary Of A Qakbot Infection Day 2 Speechless
 description: Diary Of A Qakbot Infection Day 2 Speechless
 published: 2011-04-23
-image: images/posts/diary_of_a_qakbot_infection_day_2_speechless.webp
-imageAlt: Diary Of A Qakbot Infection Day 2 Speechless
 category: Default
 tags: [geekery, qakbot-virus]
 ---

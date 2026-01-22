@@ -2,7 +2,7 @@
 title: Song Of The Week Riding With The King By Bb King And Eric Clapton
 description: Riding With The King Cover
 published: 2011-05-06
-image: images/posts/song_of_the_week_riding_with_the_king_by_bb_king_and_eric_clapton.webp
+image: images/posts/2011-05-ridingwiththekingcover.webp
 imageAlt: Riding With The King Cover
 category: Default
 tags: [bb-king, blues, eric-clapton, song-of-the-week]

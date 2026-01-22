@@ -2,8 +2,6 @@
 title: Random Facebook Chatter
 description: Random Facebook Chatter
 published: 2009-07-07
-image: images/posts/random_facebook_chatter.webp
-imageAlt: Random Facebook Chatter
 category: Default
 tags: [life]
 ---

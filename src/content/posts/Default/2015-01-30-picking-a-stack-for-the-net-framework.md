@@ -2,8 +2,6 @@
 title: Picking A Stack For The Net Framework
 description: Picking A Stack For The Net Framework
 published: 2015-01-30
-image: images/posts/picking_a_stack_for_the_net_framework.webp
-imageAlt: Picking A Stack For The Net Framework
 category: Default
 tags: [link, uncategorized]
 ---

@@ -2,7 +2,7 @@
 title: The Year In Photos 2023
 description: thankful tree
 published: 2023-12-26
-image: images/posts/the_year_in_photos_2023.webp
+image: images/posts/collage_full.webp
 imageAlt: thankful tree
 category: Default
 tags: [photos, life, memories, pensee]

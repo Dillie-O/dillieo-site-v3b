@@ -2,7 +2,7 @@
 title: Quick Tip Fixing Duplicatehidden Dialog Anomalies With Jquery Ui
 description: Quick Tip
 published: 2013-01-25
-image: images/posts/quick_tip_fixing_duplicatehidden_dialog_anomalies_with_jquery_ui.webp
+image: images/posts/2011-12-quicktip.webp
 imageAlt: Quick Tip
 category: Default
 tags: [clone, coding, duplicate, highcharts, javascript, jquery, jquery-ui, modal, quick-tip]

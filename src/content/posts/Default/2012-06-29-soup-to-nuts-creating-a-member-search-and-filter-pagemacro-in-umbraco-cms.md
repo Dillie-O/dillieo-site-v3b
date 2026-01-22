@@ -2,7 +2,7 @@
 title: Soup To Nuts Creating A Member Search And Filter Pagemacro In Umbraco Cms
 description: Soup to Nuts - The Complete Package
 published: 2012-06-29
-image: images/posts/soup_to_nuts_creating_a_member_search_and_filter_pagemacro_in_umbraco_cms.webp
+image: images/posts/2011-08-soup2nuts.webp
 imageAlt: Soup to Nuts - The Complete Package
 category: Default
 tags: [cms, coding, filter, member, razor, script, sort, umbraco]

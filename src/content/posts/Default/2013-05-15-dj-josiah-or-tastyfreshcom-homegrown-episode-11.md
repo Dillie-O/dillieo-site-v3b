@@ -2,8 +2,6 @@
 title: Dj Josiah Or Tastyfreshcom Homegrown Episode 11
 description: Dj Josiah Or Tastyfreshcom Homegrown Episode 11
 published: 2013-05-15
-image: images/posts/dj_josiah_or_tastyfreshcom_homegrown_episode_11.webp
-imageAlt: Dj Josiah Or Tastyfreshcom Homegrown Episode 11
 category: Default
 tags: [links, link]
 ---

@@ -2,7 +2,7 @@
 title: A Bit Of Christmas Magic
 description: Girls on Polar Express
 published: 2012-12-20
-image: images/posts/a_bit_of_christmas_magic.webp
+image: images/posts/2012-12-imag0471.webp
 imageAlt: Girls on Polar Express
 category: Default
 tags: [christmas, life, magic, opa, santa, train]

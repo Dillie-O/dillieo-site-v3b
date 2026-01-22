@@ -2,7 +2,7 @@
 title: Song Of The Week Summer Camp Romance By Everybodyduck
 description: Everybodyduck 8 Seconds on a Holy Cow
 published: 2011-08-19
-image: images/posts/song_of_the_week_summer_camp_romance_by_everybodyduck.webp
+image: images/posts/2011-08-everybodyduck8seconds_cover.webp
 imageAlt: Everybodyduck 8 Seconds on a Holy Cow
 category: Default
 tags: [alternative, camp, everybodyduck, life, love, romance, song-of-the-week]

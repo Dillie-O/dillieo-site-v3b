@@ -2,7 +2,7 @@
 title: Christmas Music Time
 description: Christmas Lounge
 published: 2011-12-01
-image: images/posts/christmas_music_time.webp
+image: images/posts/2011-12-christmasloungelarge.webp
 imageAlt: Christmas Lounge
 category: Default
 tags: [christmas, life, music]

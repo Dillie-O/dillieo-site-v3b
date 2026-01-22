@@ -2,8 +2,6 @@
 title: Everybody Is A Genius
 description: Everybody Is A Genius
 published: 2012-01-14
-image: images/posts/everybody_is_a_genius.webp
-imageAlt: Everybody Is A Genius
 category: Default
 tags: [albert-einstein, genius, quote, quotes]
 ---

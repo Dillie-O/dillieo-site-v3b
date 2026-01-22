@@ -2,7 +2,7 @@
 title: Song Of The Week Little Drummer Boy By Audio Adrenaline
 description: Audio Adrenaline Santa
 published: 2011-12-02
-image: images/posts/song_of_the_week_little_drummer_boy_by_audio_adrenaline.webp
+image: images/posts/2011-12-audioadrenalinesanta.webp
 imageAlt: Audio Adrenaline Santa
 category: Default
 tags: [audio-adrenaline, christmas, rock, song-of-the-week]

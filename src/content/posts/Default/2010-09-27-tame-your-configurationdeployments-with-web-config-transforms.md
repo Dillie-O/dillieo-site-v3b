@@ -2,8 +2,6 @@
 title: Tame Your Configurationdeployments With Web Config Transforms
 description: Tame Your Configurationdeployments With Web Config Transforms
 published: 2010-09-27
-image: images/posts/tame_your_configurationdeployments_with_web_config_transforms.webp
-imageAlt: Tame Your Configurationdeployments With Web Config Transforms
 category: Default
 tags: [coding, configuration, connection-strings, webconfig, xml, xslt]
 ---

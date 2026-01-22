@@ -2,7 +2,7 @@
 title: Coding Snow
 description: terminal_snow
 published: 2015-12-10
-image: images/posts/coding_snow.webp
+image: images/posts/2015-12-terminal_snow1.webp
 imageAlt: terminal_snow
 category: Default
 tags: [coding, geekery, ruby, snow, terminal]

@@ -2,8 +2,6 @@
 title: The Year In Photos 2021
 description: The Year In Photos 2021
 published: 2021-12-29
-image: images/posts/the_year_in_photos_2021.webp
-imageAlt: The Year In Photos 2021
 category: Default
 tags: [life]
 ---

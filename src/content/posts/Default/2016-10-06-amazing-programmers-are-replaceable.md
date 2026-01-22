@@ -2,7 +2,7 @@
 title: Amazing Programmers Are Replaceable
 description: matrixmini.jpg
 published: 2016-10-06
-image: images/posts/amazing_programmers_are_replaceable.webp
+image: images/posts/2014-11-matrixmini.webp
 imageAlt: matrixmini.jpg
 category: Default
 tags: [coding, documentation, life, maintenance, quality]

@@ -2,8 +2,6 @@
 title: Finding The Balance Modules Or Apps
 description: Finding The Balance Modules Or Apps
 published: 2009-07-01
-image: images/posts/finding_the_balance_modules_or_apps.webp
-imageAlt: Finding The Balance Modules Or Apps
 category: Default
 tags: [coding]
 ---

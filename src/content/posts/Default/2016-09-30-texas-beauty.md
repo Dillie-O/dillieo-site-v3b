@@ -2,7 +2,7 @@
 title: Texas Beauty
 description: Texas Beauty
 published: 2016-09-30
-image: images/posts/texas_beauty.webp
+image: images/posts/2016-09-img_3492.webp
 imageAlt: Texas Beauty
 category: Default
 tags: [life]

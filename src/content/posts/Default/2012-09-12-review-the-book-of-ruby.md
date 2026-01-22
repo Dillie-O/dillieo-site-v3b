@@ -2,7 +2,7 @@
 title: Review The Book Of Ruby
 description: Book of Ruby Cover
 published: 2012-09-12
-image: images/posts/review_the_book_of_ruby.webp
+image: images/posts/2012-09-bookofrubycover.webp
 imageAlt: Book of Ruby Cover
 category: Default
 tags: [dynamic-programming, programming, rails, reviews, ruby, ruby-on-rails, web-development]

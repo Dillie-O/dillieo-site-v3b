@@ -2,7 +2,7 @@
 title: Quick Tip Locating Namespaces In Visual Studio
 description: findnamespace_1
 published: 2014-12-31
-image: images/posts/quick_tip_locating_namespaces_in_visual_studio.webp
+image: images/posts/2014-12-findnamespace_1.webp
 imageAlt: findnamespace_1
 category: Default
 tags: [coding, namespace, resharper, visual-studio]

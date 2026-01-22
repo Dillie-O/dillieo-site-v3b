@@ -2,7 +2,7 @@
 title: Into The Foray Of Mobile
 description: xamagon
 published: 2016-06-01
-image: images/posts/into_the_foray_of_mobile.webp
+image: images/posts/2016-06-xamagon.webp
 imageAlt: xamagon
 category: Default
 tags: [android, ios, life, mobile, link, prayer-odyssey, xamarin]

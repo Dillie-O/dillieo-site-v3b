@@ -2,7 +2,7 @@
 title: Perspective
 description: Perspective
 published: 2015-05-07
-image: images/posts/perspective.webp
+image: images/posts/2015-05-drops.webp
 imageAlt: Perspective
 category: Default
 tags: [life, live, pensee, perspective, trials]

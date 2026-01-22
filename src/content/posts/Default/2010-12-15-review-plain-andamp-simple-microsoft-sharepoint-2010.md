@@ -2,7 +2,7 @@
 title: Review Plain Andamp Simple Microsoft Sharepoint 2010
 description: PlainSimpleSharePoint2010
 published: 2010-12-15
-image: images/posts/review_plain_andamp_simple_microsoft_sharepoint_2010.webp
+image: images/posts/2010-12-plainsimplesharepoint2010.webp
 imageAlt: PlainSimpleSharePoint2010
 category: Default
 tags: [books, reviews, sharepoint-2010]

@@ -2,8 +2,6 @@
 title: In Tribute The Water Canyon Brain Surgeon
 description: In Tribute The Water Canyon Brain Surgeon
 published: 2009-10-29
-image: images/posts/in_tribute_the_water_canyon_brain_surgeon.webp
-imageAlt: In Tribute The Water Canyon Brain Surgeon
 category: Default
 tags: [coffee, life, pensee, tribute]
 ---

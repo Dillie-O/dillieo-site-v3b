@@ -2,8 +2,6 @@
 title: Syntax Vs Semantics Or Career Advice For Aspiring Programmers
 description: Syntax Vs Semantics Or Career Advice For Aspiring Programmers
 published: 2015-01-27
-image: images/posts/syntax_vs_semantics_or_career_advice_for_aspiring_programmers.webp
-imageAlt: Syntax Vs Semantics Or Career Advice For Aspiring Programmers
 category: Default
 tags: [career, focus, life, pensee, semantics, syntax]
 ---

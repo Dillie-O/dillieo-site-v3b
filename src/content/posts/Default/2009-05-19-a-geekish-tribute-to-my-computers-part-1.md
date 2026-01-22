@@ -2,8 +2,6 @@
 title: A Geekish Tribute To My Computers Part 1
 description: A Geekish Tribute To My Computers Part 1
 published: 2009-05-19
-image: images/posts/a_geekish_tribute_to_my_computers_part_1.webp
-imageAlt: A Geekish Tribute To My Computers Part 1
 category: Default
 tags: [life]
 ---

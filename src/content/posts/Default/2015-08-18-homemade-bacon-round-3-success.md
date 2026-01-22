@@ -2,7 +2,7 @@
 title: Homemade Bacon Round 3 Success
 description: Bacon
 published: 2015-08-18
-image: images/posts/homemade_bacon_round_3_success.webp
+image: images/posts/2015-08-20150815_145911810_ios.webp
 imageAlt: Bacon
 category: Default
 tags: [bacon, diy, homemade, life, recipe]

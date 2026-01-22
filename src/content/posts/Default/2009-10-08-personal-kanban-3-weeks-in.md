@@ -2,7 +2,7 @@
 title: Personal Kanban 3 Weeks In
 description: Personal Kanban Board
 published: 2009-10-08
-image: images/posts/personal_kanban_3_weeks_in.webp
+image: images/posts/2009-10-101_24041.webp
 imageAlt: Personal Kanban Board
 category: Default
 tags: [agile, coding, kanban, workflow]

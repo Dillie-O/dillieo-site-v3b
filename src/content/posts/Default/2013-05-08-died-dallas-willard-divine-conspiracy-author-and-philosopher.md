@@ -2,8 +2,6 @@
 title: Died Dallas Willard Divine Conspiracy Author And Philosopher
 description: Died Dallas Willard Divine Conspiracy Author And Philosopher
 published: 2013-05-08
-image: images/posts/died_dallas_willard_divine_conspiracy_author_and_philosopher.webp
-imageAlt: Died Dallas Willard Divine Conspiracy Author And Philosopher
 category: Default
 tags: [links, link]
 ---

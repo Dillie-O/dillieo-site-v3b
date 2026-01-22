@@ -2,8 +2,6 @@
 title: Windows Server 2003 64Bit Iis 6 32Bit Aspnet 4 Framework And Targeting
 description: Windows Server 2003 64Bit Iis 6 32Bit Aspnet 4 Framework And Targeting
 published: 2010-10-07
-image: images/posts/windows_server_2003_64bit_iis_6_32bit_aspnet_4_framework_and_targeting.webp
-imageAlt: Windows Server 2003 64Bit Iis 6 32Bit Aspnet 4 Framework And Targeting
 category: Default
 tags: [32bit, 4-framework, 64bit, aspnet, coding, windows-server-2003]
 ---

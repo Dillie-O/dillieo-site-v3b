@@ -2,7 +2,7 @@
 title: Quick Tip Run Entityframework Migration Seeds For Migratedatabasetolatestversion Configuration
 description: quick-tips.jpg
 published: 2016-06-17
-image: images/posts/quick_tip_run_entityframework_migration_seeds_for_migratedatabasetolatestversion_configuration.webp
+image: images/posts/2015-01-quick-tips.webp
 imageAlt: quick-tips.jpg
 category: Default
 tags: [life]

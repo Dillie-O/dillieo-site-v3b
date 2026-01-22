@@ -2,7 +2,7 @@
 title: Tracking Users In Google Analytics
 description: Tracking Users In Google Analytics
 published: 2015-01-13
-image: images/posts/tracking_users_in_google_analytics.webp
+image: images/posts/2015-01-1_ga_user_overview.webp
 imageAlt: Tracking Users In Google Analytics
 category: Default
 tags: [coding, google-analytics, statistics, tracking, user]

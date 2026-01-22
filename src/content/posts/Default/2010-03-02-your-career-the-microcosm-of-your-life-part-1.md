@@ -2,7 +2,7 @@
 title: Your Career The Microcosm Of Your Life Part 1
 description: MacroCosmos Image
 published: 2010-03-02
-image: images/posts/your_career_the_microcosm_of_your_life_part_1.webp
+image: images/posts/2010-03-macrocosmos1.webp
 imageAlt: MacroCosmos Image
 category: Default
 tags: [career, geekery, life, pensee, programming]

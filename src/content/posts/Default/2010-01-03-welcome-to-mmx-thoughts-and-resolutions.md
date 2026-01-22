@@ -2,8 +2,6 @@
 title: Welcome To Mmx Thoughts And Resolutions
 description: Welcome To Mmx Thoughts And Resolutions
 published: 2010-01-03
-image: images/posts/welcome_to_mmx_thoughts_and_resolutions.webp
-imageAlt: Welcome To Mmx Thoughts And Resolutions
 category: Default
 tags: [books, geekery, life, pensee, resolutions]
 ---

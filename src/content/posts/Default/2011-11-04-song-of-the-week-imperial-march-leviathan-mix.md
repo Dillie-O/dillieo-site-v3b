@@ -2,7 +2,7 @@
 title: Song Of The Week Imperial March Leviathan Mix
 description: Darth Vader - Punk Style
 published: 2011-11-04
-image: images/posts/song_of_the_week_imperial_march_leviathan_mix.webp
+image: images/posts/2011-11-punkdarthvader.webp
 imageAlt: Darth Vader - Punk Style
 category: Default
 tags: [imperial-march, remix, rock, song-of-the-week, soundtrack, star-wars]

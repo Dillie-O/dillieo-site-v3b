@@ -2,8 +2,6 @@
 title: Naturals Electrolyte Drink
 description: Naturals Electrolyte Drink
 published: 2013-04-03
-image: images/posts/naturals_electrolyte_drink.webp
-imageAlt: Naturals Electrolyte Drink
 category: Default
 tags: [drinks, electrolyte, health, recipes, recipes, running]
 ---

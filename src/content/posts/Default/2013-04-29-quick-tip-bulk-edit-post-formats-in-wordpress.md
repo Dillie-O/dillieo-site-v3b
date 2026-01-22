@@ -2,7 +2,7 @@
 title: Quick Tip Bulk Edit Post Formats In Wordpress
 description: Wordpress XML
 published: 2013-04-29
-image: images/posts/quick_tip_bulk_edit_post_formats_in_wordpress.webp
+image: images/posts/2013-04-wordpressxml.webp
 imageAlt: Wordpress XML
 category: Default
 tags: [export, geekery, import, post-format, quick-tip, wordpress, xml]

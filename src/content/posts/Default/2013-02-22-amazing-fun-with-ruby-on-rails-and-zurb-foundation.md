@@ -2,7 +2,7 @@
 title: Amazing Fun With Ruby On Rails And Zurb Foundation
 description: Timer Trio
 published: 2013-02-22
-image: images/posts/amazing_fun_with_ruby_on_rails_and_zurb_foundation.webp
+image: images/posts/2013-02-timertrio2.webp
 imageAlt: Timer Trio
 category: Default
 tags: [app-fog, coding, coffeescript, countdown-timer, gaming, html, html5, json, mysql, programming, rails, responsive-design, ruby, ruby-on-rails, zurb, zurb-foundation]

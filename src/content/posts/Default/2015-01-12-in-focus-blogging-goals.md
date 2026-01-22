@@ -2,8 +2,6 @@
 title: In Focus Blogging Goals
 description: In Focus Blogging Goals
 published: 2015-01-12
-image: images/posts/in_focus_blogging_goals.webp
-imageAlt: In Focus Blogging Goals
 category: Default
 tags: [blogging, goals, life, planning, smart]
 ---

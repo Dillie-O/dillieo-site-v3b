@@ -2,8 +2,6 @@
 title: Elmah A Quick Start Tutorial And Guide
 description: ElmahMain
 published: 2011-03-30
-image: images/posts/elmah_a_quick_start_tutorial_and_guide.webp
-imageAlt: ElmahMain
 category: Default
 tags: [coding, configuration, elmah, logging-net, quickstart, tutorial]
 ---

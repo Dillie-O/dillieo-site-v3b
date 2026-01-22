@@ -2,8 +2,6 @@
 title: Quick Tip Simple Iphoneipad Layout Changes In Phonegap
 description: Quick Tip Simple Iphoneipad Layout Changes In Phonegap
 published: 2011-10-19
-image: images/posts/quick_tip_simple_iphoneipad_layout_changes_in_phonegap.webp
-imageAlt: Quick Tip Simple Iphoneipad Layout Changes In Phonegap
 category: Default
 tags: [android, coding, css, html, ipad, iphone, mobile-computing, phonegap, quick-tip]
 ---

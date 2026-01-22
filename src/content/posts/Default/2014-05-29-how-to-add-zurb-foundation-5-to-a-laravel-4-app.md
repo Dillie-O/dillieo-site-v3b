@@ -2,8 +2,6 @@
 title: How To Add Zurb Foundation 5 To A Laravel 4 App
 description: How To Add Zurb Foundation 5 To A Laravel 4 App
 published: 2014-05-29
-image: images/posts/how_to_add_zurb_foundation_5_to_a_laravel_4_app.webp
-imageAlt: How To Add Zurb Foundation 5 To A Laravel 4 App
 category: Default
 tags: [coding, laravel, setup, zurb]
 ---

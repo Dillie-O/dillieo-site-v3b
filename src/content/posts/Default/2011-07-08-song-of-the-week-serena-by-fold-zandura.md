@@ -2,7 +2,7 @@
 title: Song Of The Week Serena By Fold Zandura
 description: Fold Zandura Cover
 published: 2011-07-08
-image: images/posts/song_of_the_week_serena_by_fold_zandura.webp
+image: images/posts/2011-07-foldzanduracover.webp
 imageAlt: Fold Zandura Cover
 category: Default
 tags: [alternative, fold-zandura, rock, song-of-the-week]

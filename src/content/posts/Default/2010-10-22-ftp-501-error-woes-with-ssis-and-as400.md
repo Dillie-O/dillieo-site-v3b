@@ -2,8 +2,6 @@
 title: Ftp 501 Error Woes With Ssis And As400
 description: FTPAS400File
 published: 2010-10-22
-image: images/posts/ftp_501_error_woes_with_ssis_and_as400.webp
-imageAlt: FTPAS400File
 category: Default
 tags: ["501", as400, coding, ftp, ssis, troubleshooting]
 ---

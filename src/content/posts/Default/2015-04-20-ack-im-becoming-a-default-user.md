@@ -2,7 +2,7 @@
 title: Ack Im Becoming A Default User
 description: Ack Im Becoming A Default User
 published: 2015-04-20
-image: images/posts/ack_im_becoming_a_default_user.webp
+image: images/posts/2015-04-keyboard-anykey1.webp
 imageAlt: Ack Im Becoming A Default User
 category: Default
 tags: [computing, geekery, life, pensee, technology]

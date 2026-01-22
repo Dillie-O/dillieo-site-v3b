@@ -2,7 +2,7 @@
 title: Quick Tip Color Objects From Hex Codes In Net
 description: Hex Palette
 published: 2011-03-28
-image: images/posts/quick_tip_color_objects_from_hex_codes_in_net.webp
+image: images/posts/2011-03-hexpalette2.webp
 imageAlt: Hex Palette
 category: Default
 tags: [coding, color-code, hex, html, quick-tip, translation, web]

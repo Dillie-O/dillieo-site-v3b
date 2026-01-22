@@ -2,7 +2,7 @@
 title: Christmas Is Here Again
 description: christmas scene
 published: 2010-12-01
-image: images/posts/christmas_is_here_again.webp
+image: images/posts/2010-12-christmasscene.webp
 imageAlt: christmas scene
 category: Default
 tags: [christmas, life, music]

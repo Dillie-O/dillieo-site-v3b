@@ -2,7 +2,7 @@
 title: The Beat Of My Heart
 description: heart_music
 published: 2016-09-12
-image: images/posts/the_beat_of_my_heart.webp
+image: images/posts/2016-09-1a797ab51f8227a26a72bcadc4c30dd3-d3emw4q.webp
 imageAlt: heart_music
 category: Default
 tags: [adoration, dedication, heart, jesus, life, music, pensee, soul]

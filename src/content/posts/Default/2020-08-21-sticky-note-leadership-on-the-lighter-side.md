@@ -2,7 +2,7 @@
 title: Sticky Note Leadership On The Lighter Side
 description: Sticky Note Leadership On The Lighter Side
 published: 2020-08-21
-image: images/posts/sticky_note_leadership_on_the_lighter_side.webp
+image: images/posts/2020-08-stickynote_machinelearning.webp
 imageAlt: Sticky Note Leadership On The Lighter Side
 category: Default
 tags: [humor, leadership, life, machine-learning]

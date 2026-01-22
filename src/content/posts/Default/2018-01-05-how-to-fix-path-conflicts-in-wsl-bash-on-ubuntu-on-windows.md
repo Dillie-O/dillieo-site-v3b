@@ -2,7 +2,7 @@
 title: How To Fix Path Conflicts In Wsl Bash On Ubuntu On Windows
 description: quicktip
 published: 2018-01-05
-image: images/posts/how_to_fix_path_conflicts_in_wsl_bash_on_ubuntu_on_windows.webp
+image: images/posts/2018-01-quicktip.jpg
 imageAlt: quicktip
 category: Default
 tags: [Bash, configuration, environment, geekery, path, windows, wsl, zsh]

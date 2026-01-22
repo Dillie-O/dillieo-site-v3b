@@ -2,8 +2,6 @@
 title: My Tombstone And Yours
 description: Tombstone
 published: 2010-01-25
-image: images/posts/my_tombstone_and_yours.webp
-imageAlt: Tombstone
 category: Default
 tags: [death, life, pensee]
 ---

@@ -2,7 +2,7 @@
 title: Song Of The Week It Came Upon A Midnight Clear By Caedmons Call
 description: Caedmons Call Santa
 published: 2011-12-09
-image: images/posts/song_of_the_week_it_came_upon_a_midnight_clear_by_caedmons_call.webp
+image: images/posts/2011-12-caedmonscallsanta.webp
 imageAlt: Caedmons Call Santa
 category: Default
 tags: [caedmons-call, christmas, song-of-the-week]

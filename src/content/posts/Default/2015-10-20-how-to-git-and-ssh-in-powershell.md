@@ -2,7 +2,7 @@
 title: How To Git And Ssh In Powershell
 description: How To Git And Ssh In Powershell
 published: 2015-10-20
-image: images/posts/how_to_git_and_ssh_in_powershell.webp
+image: images/posts/2015-10-1_win10x64-vairocina.webp
 imageAlt: How To Git And Ssh In Powershell
 category: Default
 tags: [geekery, git, poshgit, powershell, ssh, ssh-agent]

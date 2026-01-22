@@ -2,8 +2,6 @@
 title: Wide And Deep
 description: Wide And Deep
 published: 2015-02-19
-image: images/posts/wide_and_deep.webp
-imageAlt: Wide And Deep
 category: Default
 tags: [jesus, life, love, pensee, quote]
 ---

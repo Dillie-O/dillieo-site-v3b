@@ -2,7 +2,7 @@
 title: Quick Tip Grab Your Connectionstrings From The Config File Directly
 description: quick-tips.jpg
 published: 2016-09-01
-image: images/posts/quick_tip_grab_your_connectionstrings_from_the_config_file_directly.webp
+image: images/posts/2015-01-quick-tips.webp
 imageAlt: quick-tips.jpg
 category: Default
 tags: [net, coding, connection-strings, debug]

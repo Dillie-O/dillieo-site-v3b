@@ -2,8 +2,6 @@
 title: Daddys Anthem
 description: Daddys Anthem
 published: 2009-07-28
-image: images/posts/daddys_anthem.webp
-imageAlt: Daddys Anthem
 category: Default
 tags: [life]
 ---

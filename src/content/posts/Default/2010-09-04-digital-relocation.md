@@ -2,8 +2,6 @@
 title: Digital Relocation
 description: Digital Relocation
 published: 2010-09-04
-image: images/posts/digital_relocation.webp
-imageAlt: Digital Relocation
 category: Default
 tags: [life]
 ---

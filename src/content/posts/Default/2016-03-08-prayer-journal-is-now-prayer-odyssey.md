@@ -2,7 +2,7 @@
 title: Prayer Journal Is Now Prayer Odyssey
 description: prayerodyssey_logo_large
 published: 2016-03-08
-image: images/posts/prayer_journal_is_now_prayer_odyssey.webp
+image: images/posts/2016-03-10580152_285972251603380_1135550394199979944_n.webp
 imageAlt: prayerodyssey_logo_large
 category: Default
 tags: [journal, life, odyssey, link, prayer]

@@ -2,7 +2,7 @@
 title: Quick Tip Setting Active Classes Within Templates In Sitefinity
 description: Quick Tip Setting Active Classes Within Templates In Sitefinity
 published: 2015-05-13
-image: images/posts/quick_tip_setting_active_classes_within_templates_in_sitefinity.webp
+image: images/posts/2015-05-sitefinity_custom_class1.webp
 imageAlt: Quick Tip Setting Active Classes Within Templates In Sitefinity
 category: Default
 tags: [active, classes, coding, menu, navigation, sitefinity]

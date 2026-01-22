@@ -2,8 +2,6 @@
 title: Bienvenue Wordpress
 description: Bienvenue Wordpress
 published: 2010-07-02
-image: images/posts/bienvenue_wordpress.webp
-imageAlt: Bienvenue Wordpress
 category: Default
 tags: [life, wordpress]
 ---
