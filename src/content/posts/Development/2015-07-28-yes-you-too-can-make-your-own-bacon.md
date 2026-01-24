@@ -2,7 +2,7 @@
 title: Yes You Too Can Make Your Own Bacon
 description: Yes You Too Can Make Your Own Bacon
 published: 2015-07-28
-image: images/posts/images/posts/2015-07-20150728_135651413_ios.jpg
+image: images/posts/2015-07-20150728_135651413_ios.jpg
 imageAlt: Yes You Too Can Make Your Own Bacon
 category: Development
 tags: [bacon, curing, life, recipe]

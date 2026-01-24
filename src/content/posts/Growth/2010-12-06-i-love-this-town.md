@@ -2,7 +2,7 @@
 title: I Love This Town
 description: Before the festivities begin.
 published: 2010-12-06
-image: images/posts/2010-12-1204101727_thumb.jpg "Before the festivities begin.webp
+image: images/posts/2010-12-1204101727_thumb.jpg
 imageAlt: Before the festivities begin.
 category: Growth
 tags: [christmas, life, prescott]

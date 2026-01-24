@@ -20,7 +20,7 @@ Sadly after that, it seemed like animated GIFs degraded into what you see on Hom
 
 Somewhere along the way though, animated GIFs grew up. I suspect that once the “page load drag” was eliminated due to more powerful computers, they became more of an alternative as “flash bloat” started to clog up web pages. Sure we still have tons of silly things out there, but the biggest improvement is that we can use animated GIFs as “cheap video”.
 
-![](@assets/images/posts/2015-02-trello_sample.gif)
+![](@assets/images/posts/2015-02-trello_sample.webp)
 
 The [Trello](http://trello.com) team is providing the perfect example of how to harness animated GIFs for productive purposes. Thanks to screen recording tools like [SnagIt](http://www.hampsterdance.com/classics/originaldance.htm) out there, you can provide simple demonstrations without the overhead of video compression, audio, and making sure that your user has a compatible video player on their computer. These animated GIFs show up on Trello’s Google+ page when they announce new features. They’re quick, simple, small and effective. I like this. I want to see more of this.
 
@@ -30,7 +30,7 @@ I’ll admit that I’ve never been the biggest fan of the Animated GIF, but I h
 
 <!--more-->
 
-![](@assets/images/posts/2015-02-homers_web_page1.gif)
+![](@assets/images/posts/2015-02-homers_web_page1.webp)
 
 So what you see above is the first thing that STILL comes into my mind when I think of animated GIFs. The actual [creation/history](http://en.wikipedia.org/wiki/GIF#Animated_GIF) of animated GIFs is pretty fascinating for me, since I started cutting my teeth on the web when JPEGs still weren’t main stream and we had GIFs for everything. Plus I know who what Compuserve actually was 8^D! I created an animated GIF for a website I helped out for back in the day as well that provided helpful language transition icon showing American/British English for a French website.
 
@@ -38,7 +38,7 @@ Sadly after that, it seemed like animated GIFs degraded into what you see on Hom
 
 Somewhere along the way though, animated GIFs grew up. I suspect that once the “page load drag” was eliminated due to more powerful computers, they became more of an alternative as “flash bloat” started to clog up web pages. Sure we still have tons of silly things out there, but the biggest improvement is that we can use animated GIFs as “cheap video”.
 
-![](@assets/images/posts/2015-02-trello_sample.gif)
+![](@assets/images/posts/2015-02-trello_sample.webp)
 
 The [Trello](http://trello.com) team is providing the perfect example of how to harness animated GIFs for productive purposes. Thanks to screen recording tools like [SnagIt](http://www.hampsterdance.com/classics/originaldance.htm) out there, you can provide simple demonstrations without the overhead of video compression, audio, and making sure that your user has a compatible video player on their computer. These animated GIFs show up on Trello’s Google+ page when they announce new features. They’re quick, simple, small and effective. I like this. I want to see more of this.
 
