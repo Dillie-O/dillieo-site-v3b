@@ -8,26 +8,12 @@ category: Life
 tags: [photos, memories, pensee]
 ---
 
-<!-- | ![2025 photo collage](@assets/images/posts/year_in_photos_2025.webp) | 
-|:--:| 
-| *...really, another year around the sun?!* | -->
-
 Love.
 
-<!-- | ![2025 photo collage](@assets/images/posts/year_in_photos_2025.webp) | 
-|:--:| 
-| *...really, another year around the sun?!* | -->
+Loss.
 
-Love.
+Laughter.
 
-<!-- | ![2025 photo collage](@assets/images/posts/year_in_photos_2025.webp) | 
-|:--:| 
-| *...really, another year around the sun?!* | -->
+All the simple, yet important, things [filed under 'L' for life](https://photos.app.goo.gl/sjopNtvmfNa2hqqRA).
 
-Love.
-
-<!-- | ![2025 photo collage](@assets/images/posts/year_in_photos_2025.webp) | 
-|:--:| 
-| *...really, another year around the sun?!* | -->
-
-Love.
+I'm excited for what 2026 will bring!
