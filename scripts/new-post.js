@@ -1,67 +1,105 @@
-/* 这是一个用于创建带有 front-matter 的新文章 markdown 文件的脚本 */
+import fs from 'fs';
+import path from 'path';
+import readline from 'readline';
 
-import fs from "fs"
-import path from "path"
+const rl = readline.createInterface({
+  input: process.stdin,
+  output: process.stdout
+});
 
-// 获取当前日期的函数，格式为 YYYY-MM-DD
-function getDate() {
-  const today = new Date()
-  return today.toISOString().split("T")[0]
+const POSTS_DIR = './src/content/posts';
+
+// Helper to get today's date in YYYY-MM-DD
+function getToday() {
+  return new Date().toISOString().split('T')[0];
 }
 
-// 获取命令行参数
-const args = process.argv.slice(2)
-
-// 检查是否提供了文件名参数
-if (args.length === 0) {
-  console.error(`错误: 未提供文件名参数
-用法: npm run new-post -- <filename>`)
-  process.exit(1) // 终止脚本并返回错误代码 1
+// Helper to slugify title
+function slugify(text) {
+  return text
+    .toString()
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-')     // Replace spaces with -
+    .replace(/[^\w\-]+/g, '') // Remove all non-word chars
+    .replace(/\-\-+/g, '-')   // Replace multiple - with single -
+    .replace(/^-+/, '')       // Trim - from start
+    .replace(/-+$/, '');      // Trim - from end
 }
 
-let fileName = args[0]
-
-// 如果文件名不包含 .md 或 .mdx 扩展名，则添加 .md
-const fileExtensionRegex = /\.(md|mdx)$/i
-if (!fileExtensionRegex.test(fileName)) {
-  fileName += ".md"
+// Helper to ask questions
+function ask(question, defaultVal) {
+  return new Promise((resolve) => {
+    rl.question(`${question} ${defaultVal ? `(${defaultVal}) ` : ''}`, (answer) => {
+      resolve(answer.trim() || defaultVal);
+    });
+  });
 }
 
-// 定义目标目录
-const targetDir = "./src/content/posts/"
+async function main() {
+  console.log('📝 Create a new blog post\n');
 
-// 使用 path.resolve 获取绝对路径
-const fullPath = path.resolve(targetDir, fileName)
+  // 1. Title
+  const title = await ask('Post Title:', '');
+  if (!title) {
+    console.error('❌ Title is required.');
+    rl.close();
+    process.exit(1);
+  }
 
-// 检查文件是否已存在
-if (fs.existsSync(fullPath)) {
-  console.error(`错误: 文件 ${fullPath} 已存在`)
-  process.exit(1)
-}
+  // 2. Date
+  const today = getToday();
+  const date = await ask('Date:', today);
 
-// 如果目录不存在，则创建目录
-const dirPath = path.dirname(fullPath)
-if (!fs.existsSync(dirPath)) {
-  fs.mkdirSync(dirPath, { recursive: true })
-}
+  // 3. Category
+  // Detect existing categories
+  const categories = fs.readdirSync(POSTS_DIR).filter(f => fs.statSync(path.join(POSTS_DIR, f)).isDirectory());
+  console.log(`\nAvailable Categories: ${categories.join(', ')}`);
 
-// 生成 front-matter 内容
-// 使用文件名（去掉扩展名）作为默认标题
-const title = fileName.replace(fileExtensionRegex, "")
-const content = `---
+  let category = await ask('Category:', 'Life');
+
+  // 4. Generate details
+  const slug = slugify(title);
+  const filename = `${date}-${slug}.md`;
+  const categoryDir = path.join(POSTS_DIR, category);
+  const fullPath = path.join(categoryDir, filename);
+
+  // Ensure category directory exists
+  if (!fs.existsSync(categoryDir)) {
+    console.log(`\nCreating new category directory: ${category}`);
+    fs.mkdirSync(categoryDir, { recursive: true });
+  }
+
+  // Check if file exists
+  if (fs.existsSync(fullPath)) {
+    console.error(`\n❌ Error: File already exists at ${fullPath}`);
+    rl.close();
+    process.exit(1);
+  }
+
+  // 5. Create content
+  const content = `---
 title: ${title}
-published: ${getDate()}
+published: ${date}
 description: ''
 image: ''
+imageAlt: ${title}
+imageCredit: ''
+imageCreditUrl: '' 
+category: ${category}
 tags: []
-category: ''
-draft: false 
-lang: ''
+draft: true
 ---
-`
 
-// 写入文件
-fs.writeFileSync(fullPath, content)
+Write your content here...
+`;
 
-// 输出成功消息
-console.log(`文章 ${fullPath} 已创建`)
+  fs.writeFileSync(fullPath, content);
+
+  console.log(`\n✅ Post created successfully!`);
+  console.log(`   Path: ${fullPath}`);
+
+  rl.close();
+}
+
+main();
