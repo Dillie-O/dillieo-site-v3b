@@ -4,6 +4,7 @@ description: ...wow, that seems a little odd.
 published: 2026-01-27
 image: images/posts/2026-01-28-try-easier.webp
 imageAlt: Try Easier
+imageCredit: Google Gemini
 category: Life
 tags: [work, balance, pensee]
 ---

@@ -97,7 +97,30 @@ const jsonLd = {
 
             <!-- always show cover as long as it has one -->
             {entry.data.image &&
-                <ImageWrapper id="post-cover" src={entry.data.image} basePath={path.join("content/posts/", getDir(entry.id))} class="mb-8 rounded-xl banner-container onload-animation"/>
+                <div class="relative mb-8 rounded-xl banner-container onload-animation">
+                    <ImageWrapper id="post-cover" src={entry.data.image} basePath={path.join("content/posts/", getDir(entry.id))} class="rounded-xl"/>
+                    {entry.data.imageCredit && (
+                        entry.data.imageCreditUrl ? (
+                            <a href={entry.data.imageCreditUrl} id="post-cover-credit" target="_blank" rel="noopener" aria-label="Visit image source"
+                               class:list={["group transition-all absolute flex justify-center items-center rounded-full " +
+                               "px-3 right-4 bottom-4 bg-black/60 hover:bg-black/70 h-9 hover:pr-9 active:bg-black/80"]}
+                            >
+                                <Icon class="text-white/75 text-[1.25rem] mr-1" name="material-symbols:copyright-outline-rounded" ></Icon>
+                                <div class="text-white/75 text-xs">{entry.data.imageCredit}</div>
+                                <Icon class="transition absolute text-[oklch(0.75_0.14_var(--hue))] right-4 text-[0.75rem] opacity-0 group-hover:opacity-100"
+                                      name="fa6-solid:arrow-up-right-from-square">
+                                </Icon>
+                            </a>
+                        ) : (
+                            <div id="post-cover-credit"
+                                class="transition-all absolute flex justify-center items-center rounded-full px-3 right-4 bottom-4 bg-black/60 h-9"
+                            >
+                                <Icon class="text-white/75 text-[1.25rem] mr-1" name="material-symbols:copyright-outline-rounded" ></Icon>
+                                <div class="text-white/75 text-xs">{entry.data.imageCredit}</div>
+                            </div>
+                        )
+                    )}
+                </div>
             }
 
             <Markdown class="mb-6 markdown-content onload-animation">
