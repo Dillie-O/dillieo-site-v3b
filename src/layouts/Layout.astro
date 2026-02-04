@@ -68,10 +68,11 @@ if (banner) {
 					width: 1200,
 					height: 630,
 					format: "webp",
+					fit: "cover",
 				});
 				ogImage = new URL(optimizedImage.src, Astro.url.origin).href;
-				ogImageWidth = optimizedImage.width;
-				ogImageHeight = optimizedImage.height;
+				ogImageWidth = 1200;
+				ogImageHeight = 630;
 			} else {
 				console.warn("Image not found in glob:", imagePath);
 			}
