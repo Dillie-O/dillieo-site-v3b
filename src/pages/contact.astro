@@ -1,0 +1,128 @@
+---
+import MainGridLayout from "../layouts/MainGridLayout.astro";
+import { Icon } from "astro-icon/components";
+---
+
+<MainGridLayout title="Contact" description="Get in touch with me">
+    <div class="flex w-full rounded-[var(--radius-large)] overflow-hidden relative min-h-32">
+        <div class="card-base z-10 px-9 py-6 relative w-full">
+            <div class="mb-6">
+                <h1 class="text-3xl font-bold mb-4 text-90">Get in Touch</h1>
+                <p class="text-75 mb-6">
+                    I'd love to hear from you! Whether you have a question, feedback, or just want to say hello, feel free to send me a message using the form below.
+                </p>
+            </div>
+
+            <form 
+                name="contact" 
+                method="POST" 
+                data-netlify="true"
+                action="/contact-success"
+                class="space-y-6 max-w-2xl"
+            >
+                <input type="hidden" name="form-name" value="contact" />
+                
+                <div class="grid md:grid-cols-2 gap-6">
+                    <div>
+                        <label for="name" class="block text-sm font-medium mb-2 text-90">
+                            Name <span class="text-red-500">*</span>
+                        </label>
+                        <input 
+                            type="text" 
+                            id="name" 
+                            name="name" 
+                            required
+                            class="w-full px-4 py-2 rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] text-90 focus:outline-none focus:ring-2 focus:ring-[var(--primary)] focus:border-transparent transition"
+                            placeholder="Your name"
+                        />
+                    </div>
+                    
+                    <div>
+                        <label for="email" class="block text-sm font-medium mb-2 text-90">
+                            Email <span class="text-red-500">*</span>
+                        </label>
+                        <input 
+                            type="email" 
+                            id="email" 
+                            name="email" 
+                            required
+                            class="w-full px-4 py-2 rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] text-90 focus:outline-none focus:ring-2 focus:ring-[var(--primary)] focus:border-transparent transition"
+                            placeholder="your.email@example.com"
+                        />
+                    </div>
+                </div>
+
+                <div>
+                    <label for="subject" class="block text-sm font-medium mb-2 text-90">
+                        Subject <span class="text-red-500">*</span>
+                    </label>
+                    <input 
+                        type="text" 
+                        id="subject" 
+                        name="subject" 
+                        required
+                        class="w-full px-4 py-2 rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] text-90 focus:outline-none focus:ring-2 focus:ring-[var(--primary)] focus:border-transparent transition"
+                        placeholder="What's this about?"
+                    />
+                </div>
+
+                <div>
+                    <label for="message" class="block text-sm font-medium mb-2 text-90">
+                        Message <span class="text-red-500">*</span>
+                    </label>
+                    <textarea 
+                        id="message" 
+                        name="message" 
+                        rows="6" 
+                        required
+                        class="w-full px-4 py-2 rounded-lg border border-[var(--border-color)] bg-[var(--card-bg)] text-90 focus:outline-none focus:ring-2 focus:ring-[var(--primary)] focus:border-transparent transition resize-vertical"
+                        placeholder="Your message here..."
+                    ></textarea>
+                </div>
+
+                <div class="flex items-center justify-between">
+                    <p class="text-sm text-75">
+                        <span class="text-red-500">*</span> Required fields
+                    </p>
+                    
+                    <button 
+                        type="submit" 
+                        class="inline-flex items-center px-6 py-3 bg-[var(--primary)] text-white font-medium rounded-lg hover:bg-[var(--primary-hover)] focus:outline-none focus:ring-2 focus:ring-[var(--primary)] focus:ring-offset-2 transition-all transform hover:scale-105"
+                    >
+                        <Icon name="material-symbols:send" class="mr-2" />
+                        Send Message
+                    </button>
+                </div>
+            </form>
+
+            <div class="mt-8 pt-6 border-t border-[var(--border-color)]">
+                <h2 class="text-xl font-semibold mb-4 text-90">Other Ways to Connect</h2>
+                <div class="grid md:grid-cols-2 gap-4">
+                    <a 
+                        href="https://linkedin.com/in/dillieo" 
+                        class="flex items-center p-4 rounded-lg border border-[var(--border-color)] hover:border-[var(--primary)] transition group"
+                    >
+                        <Icon name="fa6-brands:linkedin" class="text-2xl mr-3 text-[var(--primary)]" />
+                        <div>
+                            <div class="font-medium text-90">LinkedIn</div>
+                            <div class="text-sm text-75 group-hover:text-90">linkedin.com/dillieo</div>
+                        </div>
+                    </a>
+                    
+                    <a 
+                        href="https://github.com/dillieo" 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                        class="flex items-center p-4 rounded-lg border border-[var(--border-color)] hover:border-[var(--primary)] transition group"
+                    >
+                        <Icon name="mdi:github" class="text-2xl mr-3 text-[var(--primary)]" />
+                        <div>
+                            <div class="font-medium text-90">GitHub</div>
+                            <div class="text-sm text-75 group-hover:text-90">github.com/dillieo</div>
+                        </div>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+</MainGridLayout>

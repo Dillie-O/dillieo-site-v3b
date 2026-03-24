@@ -46,6 +46,7 @@ export const navBarConfig: NavBarConfig = {
 		LinkPreset.Discoveries,
 		LinkPreset.CV,
 		LinkPreset.About,
+		LinkPreset.Contact,
 	],
 };
 

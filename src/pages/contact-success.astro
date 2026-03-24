@@ -1,0 +1,48 @@
+---
+import MainGridLayout from "../layouts/MainGridLayout.astro";
+import { Icon } from "astro-icon/components";
+---
+
+<MainGridLayout title="Thank You" description="Your message has been sent successfully">
+    <div class="flex w-full rounded-[var(--radius-large)] overflow-hidden relative min-h-32">
+        <div class="card-base z-10 px-9 py-6 relative w-full">
+            <div class="text-center max-w-2xl mx-auto">
+                <div class="mb-6">
+                    <div class="inline-flex items-center justify-center w-16 h-16 bg-green-100 dark:bg-green-900/20 rounded-full mb-4">
+                        <Icon name="material-symbols:check-circle" class="text-3xl text-green-600 dark:text-green-400" />
+                    </div>
+                    <h1 class="text-3xl font-bold mb-4 text-90">Message Sent Successfully!</h1>
+                    <p class="text-75 text-lg mb-6">
+                        Thank you for reaching out. I've received your message and will get back to you as soon as possible.
+                    </p>
+                </div>
+
+                <div class="space-y-4">
+                    <div class="p-4 bg-blue-50 dark:bg-blue-900/20 rounded-lg border border-blue-200 dark:border-blue-800">
+                        <p class="text-sm text-blue-800 dark:text-blue-200">
+                            <strong>What happens next?</strong> I typically respond to messages within 24-48 hours. If you don't hear back from me, please check your spam folder or try sending your message again.
+                        </p>
+                    </div>
+
+                    <div class="flex flex-col sm:flex-row gap-4 justify-center pt-4">
+                        <a 
+                            href="/contact" 
+                            class="inline-flex items-center justify-center px-6 py-3 bg-[var(--primary)] text-white font-medium rounded-lg hover:bg-[var(--primary-hover)] focus:outline-none focus:ring-2 focus:ring-[var(--primary)] focus:ring-offset-2 transition-all"
+                        >
+                            <Icon name="material-symbols:edit" class="mr-2" />
+                            Send Another Message
+                        </a>
+                        
+                        <a 
+                            href="/" 
+                            class="inline-flex items-center justify-center px-6 py-3 bg-[var(--card-bg)] border border-[var(--border-color)] text-90 font-medium rounded-lg hover:bg-[var(--card-bg-hover)] focus:outline-none focus:ring-2 focus:ring-[var(--primary)] focus:ring-offset-2 transition-all"
+                        >
+                            <Icon name="material-symbols:home" class="mr-2" />
+                            Back to Home
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</MainGridLayout>
