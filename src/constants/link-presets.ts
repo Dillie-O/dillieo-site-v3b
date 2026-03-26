@@ -27,6 +27,6 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
 	},
 	[LinkPreset.Contact]: {
 		name: "Contact",
-		url: "/contact",
+		url: "/contact/",
 	},
 };

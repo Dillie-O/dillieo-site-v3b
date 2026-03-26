@@ -3,14 +3,10 @@ title: How To Grow As A Developer
 description: Three key principles to use year over year to grow as a developer.
 published: 2024-10-25
 image: images/posts/growth_image.webp
-imageAlt: growing tree
+imageAlt: ...it's my 'Never stop learning or growing tree'
 category: Development
 tags: [growth, programming, engineering, development, career]
 ---
-
-| ![growing tree](@assets/images/posts/growth_image.webp) | 
-|:--:| 
-| *...it's my "Never stop learning or growing tree" |
 
 I had a really good conversation with a member my team earlier this week during our one on one meeting who simply asked, "How do I get to the next level as a developer?" I continue to ask this of myself over the years and as I've mentored others _(and admittedly myself as well)_ I've found that are three principles that I apply year over year...
 
