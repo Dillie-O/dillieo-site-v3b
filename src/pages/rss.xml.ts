@@ -97,8 +97,8 @@ export async function GET(context: APIContext) {
 			} else if (src.startsWith("/")) {
 				// 处理绝对路径的图片
 				img.setAttribute("src", new URL(src, context.site).href);
-			} else if (src.startsWith("http")) {
 			}
+			// External URLs (http/https) are already absolute — no change needed
 		}
 
 		const processedHtml = html.toString();

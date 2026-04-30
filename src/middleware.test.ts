@@ -180,11 +180,32 @@ describe("middleware — onRequest", () => {
 			expect(next).not.toHaveBeenCalled();
 			expect(response.headers.get("content-type")).toContain("text/markdown");
 		});
-	});
 
-	// -------------------------------------------------------------------------
-	// Normal browser requests
-	// -------------------------------------------------------------------------
+		it("passes HEAD method to fetch() for HEAD requests", async () => {
+			const fetchMock = vi.fn(() =>
+				Promise.resolve(new Response(null, { status: 200 })),
+			);
+			vi.stubGlobal("fetch", fetchMock);
+			const ctx = makeContext("https://example.com/blog/post/", {
+				method: "HEAD",
+				headers: { accept: "text/markdown" },
+			});
+			await onRequest(ctx, makeNext());
+			expect(fetchMock).toHaveBeenCalledOnce();
+			const [, init] = fetchMock.mock.calls[0] as [string, RequestInit];
+			expect(init?.method).toBe("HEAD");
+		});
+
+		it("returns a body-less response for HEAD requests", async () => {
+			stubFetchOk();
+			const ctx = makeContext("https://example.com/blog/post/", {
+				method: "HEAD",
+				headers: { accept: "text/markdown" },
+			});
+			const response = await onRequest(ctx, makeNext());
+			expect(response.body).toBeNull();
+		});
+	});
 	describe("normal browser requests (no markdown preference)", () => {
 		it("passes through to next() when a typical browser Accept header is sent", async () => {
 			const next = makeNext();
@@ -236,6 +257,17 @@ describe("middleware — onRequest", () => {
 			expect(vary.toLowerCase()).toContain("accept");
 		});
 
+		it("adds Vary: User-Agent to the fallback response (crawler detection requires it)", async () => {
+			stubFetchNotFound();
+			const next = makeNext(200, {});
+			const ctx = makeContext("https://example.com/blog/post/", {
+				headers: { accept: "text/markdown" },
+			});
+			const response = await onRequest(ctx, next);
+			const vary = response.headers.get("vary") ?? "";
+			expect(vary.toLowerCase()).toContain("user-agent");
+		});
+
 		it("preserves existing Vary header values while appending Accept (cache-miss path)", async () => {
 			stubFetchNotFound();
 			const next = makeNext(200, { vary: "Origin" });
@@ -279,6 +311,16 @@ describe("middleware — onRequest", () => {
 			});
 			const response = await onRequest(ctx, makeNext());
 			expect(response.headers.get("vary")).toContain("Accept");
+		});
+
+		it("sets Vary: User-Agent on the markdown response (crawler detection requires it)", async () => {
+			stubFetchOk();
+			const ctx = makeContext("https://example.com/blog/my-post/", {
+				headers: { accept: "text/markdown" },
+			});
+			const response = await onRequest(ctx, makeNext());
+			const vary = response.headers.get("vary") ?? "";
+			expect(vary.toLowerCase()).toContain("user-agent");
 		});
 
 		it("sets x-markdown-tokens header", async () => {
