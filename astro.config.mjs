@@ -34,7 +34,7 @@ import { LinkCardComponent } from "./src/plugins/rehype-component-link-card.mjs"
 // https://astro.build/config
 export default defineConfig({
   output: "server",
-  adapter: netlify(),
+  adapter: netlify({ edgeMiddleware: true }),
   build: {
     compressHTML: true,
   },
