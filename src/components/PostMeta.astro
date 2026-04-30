@@ -5,31 +5,31 @@ import { getCategoryUrl, getTagUrl } from "../utils/url-utils";
 
 // Component properties interface definition
 interface Props {
-  class: string; // External CSS class name
-  published: Date; // Article publication date (required)
-  updated?: Date; // Article last update date (optional)
-  tags: string[]; // Article tags array
-  category: string | null; // Article category (can be empty)
-  hideTagsForMobile?: boolean; // Whether to hide tags on mobile
-  hideUpdateDate?: boolean; // Whether to hide update date
+	class: string; // External CSS class name
+	published: Date; // Article publication date (required)
+	updated?: Date; // Article last update date (optional)
+	tags: string[]; // Article tags array
+	category: string | null; // Article category (can be empty)
+	hideTagsForMobile?: boolean; // Whether to hide tags on mobile
+	hideUpdateDate?: boolean; // Whether to hide update date
 }
 
 // Destructure Astro.props to get parameters
 const {
-  class: className, // Rename to avoid conflict with JS keyword
-  published,
-  updated,
-  tags,
-  category,
-  hideTagsForMobile = false, // Default to show tags on mobile
-  hideUpdateDate = false, // Default to show update date
+	class: className, // Rename to avoid conflict with JS keyword
+	published,
+	updated,
+	tags,
+	category,
+	hideTagsForMobile = false, // Default to show tags on mobile
+	hideUpdateDate = false, // Default to show update date
 } = Astro.props;
 
 // Pre-calculate whether update date should be shown
-const shouldShowUpdated = 
-  !hideUpdateDate && // Update date hiding not set
-  updated && // Update date exists
-  updated.getTime() !== published.getTime(); // Update date differs from publication date
+const shouldShowUpdated =
+	!hideUpdateDate && // Update date hiding not set
+	updated && // Update date exists
+	updated.getTime() !== published.getTime(); // Update date differs from publication date
 
 // Pre-calculate whether there are tags
 const hasTags = tags && tags.length > 0;

@@ -1,21 +1,21 @@
-import rss from '@astrojs/rss';
-import sanitizeHtml from 'sanitize-html';
-import MarkdownIt from 'markdown-it';
-import { siteConfig } from '@/config';
-import { parse as htmlParser } from 'node-html-parser';
-import { getImage } from 'astro:assets';
-import type { APIContext, ImageMetadata } from 'astro';
-import type { RSSFeedItem } from '@astrojs/rss';
-import { getSortedPosts } from '@/utils/content-utils';
-import path from 'node:path';
-import { url } from '@/utils/url-utils';
+import { getImage } from "astro:assets";
+import path from "node:path";
+import type { RSSFeedItem } from "@astrojs/rss";
+import rss from "@astrojs/rss";
+import type { APIContext, ImageMetadata } from "astro";
+import MarkdownIt from "markdown-it";
+import { parse as htmlParser } from "node-html-parser";
+import sanitizeHtml from "sanitize-html";
+import { siteConfig } from "@/config";
+import { getSortedPosts } from "@/utils/content-utils";
+import { url } from "@/utils/url-utils";
 
 export const prerender = true;
 
 const markdownParser = new MarkdownIt();
 
 function stripInvalidXmlChars(str: string): string {
-	if (!str) return '';
+	if (!str) return "";
 	return str.replace(
 		// biome-ignore lint/suspicious/noControlCharactersInRegex: https://www.w3.org/TR/xml/#charsets
 		/[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x9F\uFDD0-\uFDEF\uFFFE\uFFFF]/g,
@@ -24,12 +24,12 @@ function stripInvalidXmlChars(str: string): string {
 }
 
 const imagesGlob = import.meta.glob<{ default: ImageMetadata }>(
-	'/src/content/**/*.{jpeg,jpg,png,gif,webp}',
+	"/src/content/**/*.{jpeg,jpg,png,gif,webp}",
 );
 
 export async function GET(context: APIContext) {
 	if (!context.site) {
-		throw Error('site not set');
+		throw Error("site not set");
 	}
 
 	const posts = await getSortedPosts();
@@ -40,22 +40,22 @@ export async function GET(context: APIContext) {
 			console.warn(`Skipping post with empty body: ${post.id}`);
 			continue;
 		}
-		
+
 		const cleanedBody = stripInvalidXmlChars(post.body);
-		
+
 		const htmlString = markdownParser.render(cleanedBody);
-		
+
 		const html = htmlParser.parse(htmlString);
-		
-		const images = html.querySelectorAll('img');
+
+		const images = html.querySelectorAll("img");
 		for (const img of images) {
-			const src = img.getAttribute('src');
+			const src = img.getAttribute("src");
 			if (!src) continue;
 
-			if (src.startsWith('./') || src.startsWith('../')) {
+			if (src.startsWith("./") || src.startsWith("../")) {
 				let importPath: string | null = null;
 
-				if (src.startsWith('./')) {
+				if (src.startsWith("./")) {
 					// 获取文章所在的目录
 					const postDir = path.dirname(post.id);
 					const prefixRemoved = src.slice(2);
@@ -64,63 +64,67 @@ export async function GET(context: APIContext) {
 				} else {
 					// 处理 ../image.jpg 的情况
 					const postDir = path.dirname(post.id);
-					const cleaned = src.replace(/^\.\.\//, '');
+					const cleaned = src.replace(/^\.\.\//, "");
 					// 向上一级目录
 					const parentDir = path.dirname(postDir);
-					importPath = `/src/content/posts/${parentDir === '.' ? '' : parentDir + '/'}${cleaned}`;
+					importPath = `/src/content/posts/${parentDir === "." ? "" : parentDir + "/"}${cleaned}`;
 				}
 
 				// 规范化路径
-				importPath = path.normalize(importPath).replace(/\\/g, '/');
+				importPath = path.normalize(importPath).replace(/\\/g, "/");
 
 				try {
 					const imageMod = await imagesGlob[importPath]?.();
 					if (imageMod) {
-						const optimizedImg = await getImage({ src: imageMod.default, format: 'webp' });
+						const optimizedImg = await getImage({
+							src: imageMod.default,
+							format: "webp",
+						});
 						// 使用 Astro 优化后的图片 URL
-						img.setAttribute('src', new URL(optimizedImg.src, context.site).href);
+						img.setAttribute(
+							"src",
+							new URL(optimizedImg.src, context.site).href,
+						);
 					} else {
 						console.warn(`Image not found in glob: ${importPath}`);
 						// 降级为相对URL
-						img.setAttribute('src', new URL(src, context.site).href);
+						img.setAttribute("src", new URL(src, context.site).href);
 					}
 				} catch (error) {
 					console.warn(`Failed to process image: ${importPath}`, error);
-					img.setAttribute('src', new URL(src, context.site).href);
+					img.setAttribute("src", new URL(src, context.site).href);
 				}
-			} else if (src.startsWith('/')) {
+			} else if (src.startsWith("/")) {
 				// 处理绝对路径的图片
-				img.setAttribute('src', new URL(src, context.site).href);
-			} else if (src.startsWith('http')) {
-				// 处理外部链接，保持原样
-				continue;
+				img.setAttribute("src", new URL(src, context.site).href);
+			} else if (src.startsWith("http")) {
 			}
 		}
 
 		const processedHtml = html.toString();
-		
+
 		const finalContent = stripInvalidXmlChars(processedHtml);
 
 		feed.push({
 			title: stripInvalidXmlChars(post.data.title),
-			description: stripInvalidXmlChars(post.data.description || ''),
+			description: stripInvalidXmlChars(post.data.description || ""),
 			pubDate: post.data.published,
 			link: url(`/posts/${post.slug}/`),
 			content: sanitizeHtml(finalContent, {
-				allowedTags: sanitizeHtml.defaults.allowedTags.concat(['img']),
+				allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
 				allowedAttributes: {
 					...sanitizeHtml.defaults.allowedAttributes,
-					img: ['src', 'alt', 'title', 'width', 'height', 'loading']
-				}
+					img: ["src", "alt", "title", "width", "height", "loading"],
+				},
 			}),
 		});
 	}
 
 	return rss({
 		title: siteConfig.title,
-		description: siteConfig.subtitle || 'No description',
+		description: siteConfig.subtitle || "No description",
 		site: context.site,
 		items: feed,
-		customData: `<language>en-US</language>`,
+		customData: "<language>en-US</language>",
 	});
 }

@@ -1,5 +1,5 @@
 // astro.config.mjs
-import cloudflare from "@astrojs/cloudflare";
+import netlify from "@astrojs/netlify";
 import sitemap from "@astrojs/sitemap";
 import svelte from "@astrojs/svelte";
 import tailwind from "@astrojs/tailwind";
@@ -34,7 +34,7 @@ import { LinkCardComponent } from "./src/plugins/rehype-component-link-card.mjs"
 // https://astro.build/config
 export default defineConfig({
   output: "server",
-  adapter: cloudflare(),
+  adapter: netlify(),
   build: {
     compressHTML: true,
   },

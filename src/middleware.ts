@@ -50,8 +50,7 @@ export const onRequest: MiddlewareHandler = async (context, next) => {
 	const acceptHeader = request.headers.get("accept") ?? "";
 	const userAgent = request.headers.get("user-agent") ?? "";
 
-	const wantsMarkdown =
-		prefersMarkdown(acceptHeader) || isAiCrawler(userAgent);
+	const wantsMarkdown = prefersMarkdown(acceptHeader) || isAiCrawler(userAgent);
 
 	if (!wantsMarkdown) {
 		return next();
@@ -60,27 +59,22 @@ export const onRequest: MiddlewareHandler = async (context, next) => {
 	const pathname = new URL(request.url).pathname;
 	const mdPath = markdownAssetPath(pathname, MARKDOWN_DIR);
 
-	// Try to serve pre-generated Markdown from the cache
-	// In Cloudflare Workers, access via the ASSETS binding
-	const runtime = (context.locals as Record<string, unknown>).runtime as
-		| { env?: { ASSETS?: { fetch: (req: Request) => Promise<Response> } } }
-		| undefined;
-	const assets = runtime?.env?.ASSETS;
-
-	if (assets) {
+	// Try to serve pre-generated Markdown from the cache via a standard fetch
+	try {
 		const mdUrl = new URL(mdPath, request.url);
-		const mdResponse = await assets.fetch(new Request(mdUrl.toString()));
+		const mdResponse = await fetch(mdUrl.toString());
 
 		if (mdResponse.ok) {
 			const markdown = await mdResponse.text();
 			const headers = new Headers();
 			applyMarkdownHeaders(headers, markdown, {
-				contentSignalHeader:
-					"ai-train=yes, search=yes, ai-input=yes",
+				contentSignalHeader: "ai-train=yes, search=yes, ai-input=yes",
 			});
 			ensureVaryAccept(headers);
 			return new Response(markdown, { status: 200, headers });
 		}
+	} catch {
+		// Markdown cache miss — fall through to normal response
 	}
 
 	// Fallback: let the normal response through but add Vary: Accept
