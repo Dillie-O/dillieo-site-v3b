@@ -10,6 +10,8 @@ import { getSortedPosts } from '@/utils/content-utils';
 import path from 'node:path';
 import { url } from '@/utils/url-utils';
 
+export const prerender = true;
+
 const markdownParser = new MarkdownIt();
 
 function stripInvalidXmlChars(str: string): string {
