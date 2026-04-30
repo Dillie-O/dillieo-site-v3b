@@ -115,7 +115,13 @@ export type FriendsConfig = {
 
 export type CVSection = {
 	title: string;
-	type: 'summary' | 'skills' | 'experience' | 'education' | 'projects' | 'contact';
+	type:
+		| "summary"
+		| "skills"
+		| "experience"
+		| "education"
+		| "projects"
+		| "contact";
 	content?: string;
 	items?: CVItem[];
 };

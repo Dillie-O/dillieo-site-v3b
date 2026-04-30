@@ -7,18 +7,18 @@ export let sortedPosts: Post[] = [];
 
 // Define data structure for posts and year grouping
 interface Post {
-    slug: string;
-    data: {
-        title: string;
-        tags: string[];
-        category?: string;
-        published: Date;
-    };
+	slug: string;
+	data: {
+		title: string;
+		tags: string[];
+		category?: string;
+		published: Date;
+	};
 }
 
 interface Group {
-    year: number;
-    posts: Post[];
+	year: number;
+	posts: Post[];
 }
 
 // Store grouped post data
@@ -30,10 +30,10 @@ let groups: Group[] = [];
  * @returns Formatted date string
  */
 function formatDate(date: Date) {
-    return `${(date.getMonth() + 1).toString().padStart(2, "0")}-${date
-        .getDate()
-        .toString()
-        .padStart(2, "0")}`;
+	return `${(date.getMonth() + 1).toString().padStart(2, "0")}-${date
+		.getDate()
+		.toString()
+		.padStart(2, "0")}`;
 }
 
 /**
@@ -42,55 +42,59 @@ function formatDate(date: Date) {
  * @returns Formatted tag string
  */
 function formatTag(tagList: string[]) {
-    return tagList?.map((t) => `#${t}`).join(" ") || "";
+	return tagList?.map((t) => `#${t}`).join(" ") || "";
 }
 
 onMount(async () => {
-    // Get filter conditions from URL query parameters
-    const params = new URLSearchParams(window.location.search);
-    const urlTags = params.getAll("tag");
-    const urlCategories = params.getAll("category");
-    const uncategorized = params.has("uncategorized");
+	// Get filter conditions from URL query parameters
+	const params = new URLSearchParams(window.location.search);
+	const urlTags = params.getAll("tag");
+	const urlCategories = params.getAll("category");
+	const uncategorized = params.has("uncategorized");
 
-    // Initialize with all posts
-    let filteredPosts: Post[] = [...sortedPosts];
+	// Initialize with all posts
+	let filteredPosts: Post[] = [...sortedPosts];
 
-    // Filter by tags
-    if (urlTags.length > 0) {
-        filteredPosts = filteredPosts.filter(
-            (post) =>
-                Array.isArray(post.data.tags) &&
-                urlTags.some((tag) => post.data.tags.includes(tag))
-        );
-    }
+	// Filter by tags
+	if (urlTags.length > 0) {
+		filteredPosts = filteredPosts.filter(
+			(post) =>
+				Array.isArray(post.data.tags) &&
+				urlTags.some((tag) => post.data.tags.includes(tag)),
+		);
+	}
 
-    // Filter by category
-    if (urlCategories.length > 0) {
-        filteredPosts = filteredPosts.filter(
-            (post) => post.data.category && urlCategories.includes(post.data.category)
-        );
-    }
+	// Filter by category
+	if (urlCategories.length > 0) {
+		filteredPosts = filteredPosts.filter(
+			(post) =>
+				post.data.category && urlCategories.includes(post.data.category),
+		);
+	}
 
-    // Filter uncategorized posts
-    if (uncategorized) {
-        filteredPosts = filteredPosts.filter((post) => !post.data.category);
-    }
+	// Filter uncategorized posts
+	if (uncategorized) {
+		filteredPosts = filteredPosts.filter((post) => !post.data.category);
+	}
 
-    // Group posts by year
-    const grouped = filteredPosts.reduce((acc, post) => {
-        const year = post.data.published.getFullYear();
-        if (!acc[year]) acc[year] = [];
-        acc[year].push(post);
-        return acc;
-    }, {} as Record<number, Post[]>);
+	// Group posts by year
+	const grouped = filteredPosts.reduce(
+		(acc, post) => {
+			const year = post.data.published.getFullYear();
+			if (!acc[year]) acc[year] = [];
+			acc[year].push(post);
+			return acc;
+		},
+		{} as Record<number, Post[]>,
+	);
 
-    // Convert grouped object to array and sort by year in descending order
-    groups = Object.entries(grouped)
-        .map(([year, posts]) => ({
-            year: parseInt(year),
-            posts,
-        }))
-        .sort((a, b) => b.year - a.year);
+	// Convert grouped object to array and sort by year in descending order
+	groups = Object.entries(grouped)
+		.map(([year, posts]) => ({
+			year: Number.parseInt(year),
+			posts,
+		}))
+		.sort((a, b) => b.year - a.year);
 });
 </script>
 

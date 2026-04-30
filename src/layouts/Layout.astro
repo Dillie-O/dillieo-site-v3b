@@ -3,10 +3,10 @@ import "@fontsource/roboto/400.css";
 import "@fontsource/roboto/500.css";
 import "@fontsource/roboto/700.css";
 
-import ConfigCarrier from "@components/ConfigCarrier.astro";
-import Lightbox from "../components/lightbox.astro";
 import { Image } from "astro:assets";
+import ConfigCarrier from "@components/ConfigCarrier.astro";
 import { profileConfig, siteConfig } from "@/config";
+import Lightbox from "../components/lightbox.astro";
 import {
 	AUTO_MODE,
 	BANNER_HEIGHT,
@@ -49,16 +49,16 @@ let ogImageHeight: number | undefined;
 if (banner) {
 	// Check if it's a local image (in src/assets) or external URL
 	const isLocalImage = !banner.startsWith("http") && !banner.startsWith("/");
-	
+
 	if (isLocalImage) {
 		// For local images, use import.meta.glob to find and process them
 		try {
 			const imagePath = `../assets/${banner}`;
-			const images = import.meta.glob("../../**/*.{jpeg,jpg,png,gif,webp}", { 
+			const images = import.meta.glob("../../**/*.{jpeg,jpg,png,gif,webp}", {
 				import: "default",
 			});
 			const imageModule = images[imagePath];
-			
+
 			if (imageModule) {
 				const imageMetadata = await imageModule();
 				// For OG images, we need to use getImage from astro:assets

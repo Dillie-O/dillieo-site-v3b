@@ -24,7 +24,14 @@ interface Props {
 	series?: any;
 }
 
-const { title, banner, description, setOGTypeArticle, headings = [], series } = Astro.props;
+const {
+	title,
+	banner,
+	description,
+	setOGTypeArticle,
+	headings = [],
+	series,
+} = Astro.props;
 
 const hasBannerCredit =
 	siteConfig.banner.enable && siteConfig.banner.credit.enable;

@@ -6,7 +6,7 @@ import { onMount } from "svelte";
 // Debounce function
 function debounce<T extends (...args: any[]) => any>(
 	func: T,
-	wait: number
+	wait: number,
 ): (...args: Parameters<T>) => void {
 	let timeout: NodeJS.Timeout;
 	return (...args: Parameters<T>) => {
@@ -34,7 +34,7 @@ let rssLoaded = false; // Flag to track if RSS is loaded
 // Load RSS data on demand
 const loadRSS = async (): Promise<void> => {
 	if (rssLoaded) return; // Return early if already loaded
-	
+
 	try {
 		const response = await fetch("/rss.xml");
 		const text = await response.text();
@@ -45,11 +45,11 @@ const loadRSS = async (): Promise<void> => {
 		posts = Array.from(items).map((item) => {
 			// Try multiple ways to get content:encoded content
 			let content = "";
-			const contentEncoded = 
+			const contentEncoded =
 				item.getElementsByTagNameNS("*", "encoded")[0]?.textContent ||
 				item.querySelector("*|encoded")?.textContent ||
 				"";
-			
+
 			if (contentEncoded) {
 				// Remove HTML tags and decode HTML entities
 				const tempDiv = document.createElement("div");
@@ -60,7 +60,7 @@ const loadRSS = async (): Promise<void> => {
 			// Extract relative path from link
 			const linkText = item.querySelector("link")?.textContent || "";
 			let relativePath = "";
-			
+
 			// Handle multiple possible URL formats
 			if (linkText.includes("/posts/")) {
 				// Match everything after /posts/ (including multi-level paths)
@@ -70,7 +70,7 @@ const loadRSS = async (): Promise<void> => {
 				}
 			} else {
 				// If doesn't contain /posts/, try to get the last path part
-				const urlParts = linkText.split('/').filter(Boolean);
+				const urlParts = linkText.split("/").filter(Boolean);
 				relativePath = urlParts[urlParts.length - 1] || "";
 			}
 
@@ -79,10 +79,10 @@ const loadRSS = async (): Promise<void> => {
 				description: item.querySelector("description")?.textContent || "",
 				content: content,
 				link: relativePath,
-				fullLink: linkText // Keep full link as backup
+				fullLink: linkText, // Keep full link as backup
 			};
 		});
-		
+
 		rssLoaded = true; // Mark as loaded
 	} catch (error) {
 		console.error("Error fetching RSS:", error);
@@ -106,10 +106,10 @@ const setPanelVisibility = (show: boolean, isDesktop: boolean): void => {
 };
 
 const highlightText = (text: string, keyword: string): string => {
-    if (!keyword) return text;
-    const escapedKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const regex = new RegExp(`(${escapedKeyword})`, "gi");
-    return text.replace(regex, "<mark>$1</mark>");
+	if (!keyword) return text;
+	const escapedKeyword = keyword.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+	const regex = new RegExp(`(${escapedKeyword})`, "gi");
+	return text.replace(regex, "<mark>$1</mark>");
 };
 
 // Optimized search function for better performance
@@ -131,36 +131,40 @@ const search = async (keyword: string, isDesktop: boolean): Promise<void> => {
 			.filter((post) => {
 				// Optimize search logic, reduce string operations
 				const titleMatch = post.title.toLowerCase().includes(keywordLower);
-				const descMatch = post.description?.toLowerCase().includes(keywordLower);
+				const descMatch = post.description
+					?.toLowerCase()
+					.includes(keywordLower);
 				const linkMatch = post.link.toLowerCase().includes(keywordLower);
 				const contentMatch = post.content.toLowerCase().includes(keywordLower);
-				
+
 				return titleMatch || descMatch || linkMatch || contentMatch;
 			})
 			.map((post) => {
 				const contentLower = post.content.toLowerCase();
 				const contentIndex = contentLower.indexOf(keywordLower);
-				
-				let excerpt = '';
+
+				let excerpt = "";
 				if (contentIndex !== -1) {
 					const start = Math.max(0, contentIndex - 50);
 					const end = Math.min(post.content.length, contentIndex + 100);
 					excerpt = post.content.substring(start, end);
-					if (start > 0) excerpt = '...' + excerpt;
-					if (end < post.content.length) excerpt = excerpt + '...';
+					if (start > 0) excerpt = "..." + excerpt;
+					if (end < post.content.length) excerpt = excerpt + "...";
 				} else {
-					excerpt = post.description || post.content.substring(0, 150) + '...';
+					excerpt = post.description || post.content.substring(0, 150) + "...";
 				}
 
-				const postUrl = post.link.startsWith('/') ? post.link : `/posts/${post.link}/`;
+				const postUrl = post.link.startsWith("/")
+					? post.link
+					: `/posts/${post.link}/`;
 
 				return {
 					url: url(postUrl),
 					meta: {
-						title: post.title
+						title: post.title,
 					},
 					excerpt: highlightText(excerpt, keyword),
-					urlPath: postUrl
+					urlPath: postUrl,
 				};
 			});
 
@@ -184,11 +188,11 @@ const debouncedSearch = debounce(search, 300);
 // });
 
 $: if (keywordDesktop !== undefined) {
-    debouncedSearch(keywordDesktop, true);
+	debouncedSearch(keywordDesktop, true);
 }
 
 $: if (keywordMobile !== undefined) {
-    debouncedSearch(keywordMobile, false);
+	debouncedSearch(keywordMobile, false);
 }
 </script>
 

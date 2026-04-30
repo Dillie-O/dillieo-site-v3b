@@ -1,6 +1,8 @@
 ---
-import MainGridLayout from "../layouts/MainGridLayout.astro";
+export const prerender = true;
+
 import discoveriesData from "../config/discoveries.json";
+import MainGridLayout from "../layouts/MainGridLayout.astro";
 import type { FriendsConfig } from "../types/config";
 
 // Load discoveries data from JSON file
