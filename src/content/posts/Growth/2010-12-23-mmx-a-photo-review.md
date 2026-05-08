@@ -9,7 +9,3 @@ tags: [family, life, photos, image, random]
 Digging through a few of my pictures over the past year, here's a few of my favorite:
 
 <!--more-->
-
-Digging through a few of my pictures over the past year, here's a few of my favorite:
-
-<!--more-->

@@ -8,8 +8,6 @@ category: Development
 tags: [configuration, geekery, roksbox, roku-box, web-server]
 ---
 
-![Roksbox Logo](@assets/images/posts/2011-04-roksbox_logo_hd_4.png)
-
 We've had our Roku Box for about 3 months now and were instantly hooked! The easy access to Netflix, Hulu, and Pandora, not to mention the plethora of channels out there is really amazing. Lately we've been wanting to stream our own mp3s from iTunes to the Roku, and found Roksbox as a viable solution.
 
 <!--more-->

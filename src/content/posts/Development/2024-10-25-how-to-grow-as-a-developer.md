@@ -26,13 +26,10 @@ A few years back I was given a copy of Darren Hardy's _The Compound Effect_ and 
 
 Guess what?! These tricks don't apply to just development, they apply to pretty much [everything else in life too](/your-career-the-microcosm-of-your-life-part-1/). Give it a shot 8^D
 
-
 ## What Else?
 
 Any principles, tips, reseources that have helped you grow? Anything you think I could explain 1% better above? [I'd love to hear it](/contact).
 
-| ![growing tree](@assets/images/posts/growth_image.webp) | 
-|:--:| 
 | *...it's my "Never stop learning or growing tree" |
 
 I had a really good conversation with a member my team earlier this week during our one on one meeting who simply asked, "How do I get to the next level as a developer?" I continue to ask this of myself over the years and as I've mentored others _(and admittedly myself as well)_ I've found that are three principles that I apply year over year...
@@ -52,7 +49,6 @@ A few years back I was given a copy of Darren Hardy's _The Compound Effect_ and 
 ## Guess what?!
 
 Guess what?! These tricks don't apply to just development, they apply to pretty much [everything else in life too](/your-career-the-microcosm-of-your-life-part-1/). Give it a shot 8^D
-
 
 ## What Else?
 

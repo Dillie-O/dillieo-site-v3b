@@ -8,6 +8,3 @@ category: Growth
 tags: [life, image]
 ---
 
-![](@assets/images/posts/2013-07-savedpicture-2013719185133.jpg)
-
-![](@assets/images/posts/2013-07-savedpicture-2013719185133.jpg)

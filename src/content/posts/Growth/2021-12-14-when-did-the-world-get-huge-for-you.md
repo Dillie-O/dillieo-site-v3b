@@ -17,15 +17,3 @@ I found this in some old recordings and it reminds me to make sure the world nev
 https://youtu.be/MEXJffHi_AQ
 
 <!-- /wp:embed -->
-
-<!-- wp:paragraph -->
-
-I found this in some old recordings and it reminds me to make sure the world never loses it's "hugeness", whether through people, or experiences, or things learned.
-
-<!-- /wp:paragraph -->
-
-<!-- wp:embed {"url":"https://youtu.be/MEXJffHi_AQ","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-
-https://youtu.be/MEXJffHi_AQ
-
-<!-- /wp:embed -->

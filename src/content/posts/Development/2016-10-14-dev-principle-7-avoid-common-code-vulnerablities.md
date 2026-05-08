@@ -14,12 +14,3 @@ I had a guest post over at my company's blog, reflecting a bit on some of the co
 
 <!--more-->
 
-![vulnerability](@assets/images/posts/2016-10-vulnerability.jpg)
-
-I had a guest post over at my company's blog, reflecting a bit on some of the coding vulnerabilities that still plague us today...
-
-<https://www.freshconsulting.com/dev-principle-7-avoid-common-code-vulnerabilities>
-
-<!--more-->
-
-![vulnerability](@assets/images/posts/2016-10-vulnerability.jpg)

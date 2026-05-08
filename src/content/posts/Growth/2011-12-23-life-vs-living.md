@@ -9,7 +9,3 @@ tags: [quote, quotes]
 > There is something better than making a living - making a life.
 >
 > ~ Sharlot Mabridth Hall
-
-> There is something better than making a living - making a life.
->
-> ~ Sharlot Mabridth Hall

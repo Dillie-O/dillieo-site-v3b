@@ -14,12 +14,3 @@ I had a guest post over at my company’s blog, talking about the need to evalua
 
 <!--more-->
 
-![yagni_hero-1024x427](@assets/images/posts/2016-10-yagni_hero-1024x427.jpg)
-
-I had a guest post over at my company’s blog, talking about the need to evaluate even the smallest feature in your app or code...
-
-<https://www.freshconsulting.com/dev-principle-8-yagni-ya-aint-gonna-need-it/>
-
-<!--more-->
-
-![yagni_hero-1024x427](@assets/images/posts/2016-10-yagni_hero-1024x427.jpg)
