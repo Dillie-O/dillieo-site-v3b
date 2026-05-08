@@ -22,8 +22,6 @@ Finding somebody new can be a really tricky process. Recently I’ve been throug
 
 <!-- wp:image {"id":6793} -->
 
-![](@assets/images/posts/2019-02-adult-brainstorming-business-935977.jpg)
-
 <!-- /wp:image -->
 
 <!-- wp:embed {"url":"https:\/\/open.spotify.com\/episode\/1JFac6PDby51O4sI5qDOcC?si=gNUhRkceQmy0dSyRvEJiDQ","type":"rich","providerNameSlug":"spotify","responsive":true,"className":"wp-embed-aspect-21-9 wp-has-aspect-ratio"} -->

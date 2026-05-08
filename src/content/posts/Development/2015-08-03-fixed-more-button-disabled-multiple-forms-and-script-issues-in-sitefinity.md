@@ -12,13 +12,13 @@ I can take no credit for these fixes, but I left enough of a dent in my desk goi
 
 <!--more-->
 
-### ![sitefinity_logo.jpg](@assets/images/posts/2015-04-sitefinity_logo1.jpg)
+### 
 
 ### Custom Scripts Conflicting with the Editor
 
 As we’ve been build a new site with Sitefinity, we’ve put in a lot of custom scripts. We have a custom mouseover navigation, some custom forms, and other things that you would expect in a site of this size. The problem we’ve run into is that when we load our pages into the editor to update content, the scripts are loaded as well, which sometimes interferes with the normal editor functions.
 
-Typically, we’ve taken advantage of the RadScriptManager tag, which functions almost the same as the standard .Net ScriptManager. It will do bundling/minification of your scripts and make them available as an AXD to help speed up client page loading. Our RadScriptManager block looked something like this:
+Typically, we’ve taken advantage of the RadScriptManager tag, which functions almost the same as the standard.Net ScriptManager. It will do bundling/minification of your scripts and make them available as an AXD to help speed up client page loading. Our RadScriptManager block looked something like this:
 
 After some discussions with Telerik about the issue, the solution was to strip out all of our custom scripts from the RadScriptManager and have a separate script, that we put at the top of our master template, which runs during the Pre_Render event and looks something like this:
 

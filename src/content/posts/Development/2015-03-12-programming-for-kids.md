@@ -14,8 +14,6 @@ This past week my girls (nearly 9 now themselves) dived into their first world o
 
 <!--more-->
 
-![](@assets/images/posts/2015-03-1_code_org_screenshot.png)
-
 It wasn’t nearly as “syntax rich” with commands, but it it was more “semantically” rich with concepts. In one particular “puzzle” they had to move a friend around a tennis net to the other and have them do a little dance or something when done. Another one they had to get through a maze. The girls are just starting out but are hooked! They are working their way through the intro series, and then who knows where we’ll go from there. There are tons of options to go through.
 
 What is great about this approach is that they are learning more about general programming concepts and creating algorithms to solve problems (move left, move down, move right, toggle sound), than getting knee deep into code at this point. Yes they are building code, using a list of predefined options and a nice “block layout” to show how each command links to the next for sequencing, but they are learning fundamentals that will transfer into any programming language. It’s quite a bit of fun too! The girls can’t seem to get enough of it at the moment and my wife has indicated she might sign up and poke through some courses too. There are also some “Angy Birds”, “Plans vs. Zombies” and “Frozen” themed lessons to add to the fun.

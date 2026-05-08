@@ -14,8 +14,6 @@ We're one week into the Olympics! I've always been a bit of an Olympics junkie. 
 
 <!--more-->
 
-![freeform.jpg](@assets/images/posts/2016-01-1452865048_1.jpg)
-
 This is the beauty of the streaming options that are available this year as the Internet gets more powerful and more available. I've heard a few people remark about how the primetime shows have been more about gymnastics, swimming, and "watching people wait for their medals" instead of really getting a good diversity of events out there, and that's sad.
 
 Over the course of the week I've seen (and learned new things about) fencing, archery, handball, judo, rowing, kayaking/slalom, badminton, and weight lifting. I was able to witness history as I saw Ines Boubakri, the first female fencer from Africa (Tunisia) to win a medal in the event. Similarly, I saw Daryl Homer, the first saber medalist from the USA in many many many years.

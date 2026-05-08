@@ -16,4 +16,3 @@ Admittedly I'll be happy when this cycle is over. In another 4 years I hope we g
 
 <!--more-->
 
-![flagbanner](@assets/images/posts/2016-11-flagbanner.jpg)

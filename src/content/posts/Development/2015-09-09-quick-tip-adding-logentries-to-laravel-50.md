@@ -14,8 +14,6 @@ While there isn't a "specialized" plugin for Laravel, Laravel does use MonoLog b
 
 <!--more-->
 
-![Quick Tips](@assets/images/posts/2014-05-quick-tips.jpg)
-
 Laravel 5.0 now takes advantage of service providers, instead of the "catch all" that was typically used in the global.php file. While you could build out your own logging provider, I found that since all I'm doing is registering LogEntries in addition to the default file logger, I would use the existing providers. Here's what you need to do.
 
 Once you've created a LogEntries account and generated you "Manual TCP" token, open up the app/Providers/AppServiceProvider.php file. In here you'll find a method named register() that may have some code in it. Add the following lines before the end of the method:
@@ -26,7 +24,7 @@ One other thing, make sure to add the LogEntriesHandler reference at the top of 
 
 ```use Monolog\\Handler\\LogEntriesHandler;```
 
-You'll notice that we're storing our token in the .env file in case we want to change it on the fly. This code will pull up the existing application object and get the logger. We'll then push in the LogEntries handler into it, and we're done. Now whenever an event is logged, it'll log to the file AND to our LogEntries account.
+You'll notice that we're storing our token in the.env file in case we want to change it on the fly. This code will pull up the existing application object and get the logger. We'll then push in the LogEntries handler into it, and we're done. Now whenever an event is logged, it'll log to the file AND to our LogEntries account.
 
 That's all there is to it! Now you should start seeing log entries trickle into your LogEntries account.
 

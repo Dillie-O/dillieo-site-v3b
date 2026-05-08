@@ -12,8 +12,6 @@ My iPhone finally arrived and while all of my Google Contacts and Hotmail contac
 
 <!--more-->
 
-![](@assets/images/posts/2015-05-verizon_cloud1.jpg)
-
 Skip any documentation you find about using a USB transfer program, or trying to track down a fresh copy of Backup Assistant. I suspect all of this is old documentation. Instead, grab a copy of Verizon’s new app “Verizon Cloud.” You can get it for iPhone [here](https://itunes.apple.com/us/app/verizon-cloud/id645682444?mt=8) and Android [here](https://play.google.com/store/apps/details?id=com.vcast.mediamanager).
 
 Once the app is installed, log in, using your phone number and the password you use for that number on the main Verizon site. Next you’ll be asked which items you want to backup to the Verizon cloud. I already have my photos synchronized through OneDrive and my music in Google Music, so I simply unchecked all of the items except for contacts, that way any updates I make will be backed up.

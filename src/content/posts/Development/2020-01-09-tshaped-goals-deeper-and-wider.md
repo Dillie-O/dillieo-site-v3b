@@ -22,8 +22,6 @@ As I continue to mentor new and seasoned developers in their growth... Scratch t
 
 <!-- wp:image {"align":"center","id":6906,"sizeSlug":"medium"} -->
 
-![Letter T](@assets/images/posts/2020-01-letter-t.png)
-
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -52,7 +50,7 @@ By the same token, having a specialty is important as well. Some projects requir
 
 <!-- wp:paragraph -->
 
-For me, .Net is my specialty. I've been using that as my primary framework for building apps for nearly 20 years now. It is what helped me land the job at the company I've been at for almost 10 years, and I've been able to build some really cool stuff with it. I've also been able to mentor others at our company that are growing in .Net, and write a few blog posts along the way to provide insights to others.
+For me,.Net is my specialty. I've been using that as my primary framework for building apps for nearly 20 years now. It is what helped me land the job at the company I've been at for almost 10 years, and I've been able to build some really cool stuff with it. I've also been able to mentor others at our company that are growing in.Net, and write a few blog posts along the way to provide insights to others.
 
 <!-- /wp:paragraph -->
 
@@ -62,9 +60,7 @@ When you map out your skills an measure your experience with them, most likely y
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"center","id":6911,"sizeSlug":"medium"} -->
-
-![](@assets/images/posts/2020-01-t-shaped-individual.png)
+<!-- wp:image {"align":"center","id":6911,"sizeSlug":"medium"} -->![](@assets/images/posts/2020-01-t-shaped-individual.png)
 
 <!-- /wp:image -->
 

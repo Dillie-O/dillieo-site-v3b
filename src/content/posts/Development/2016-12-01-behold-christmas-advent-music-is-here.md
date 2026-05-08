@@ -14,8 +14,6 @@ If you want to get technical, Advent technically started on Sunday, but I'm more
 
 <!--more-->
 
-![christmas_music](@assets/images/posts/2016-11-christmas_music.jpg)
-
 ## Phat Chunk 'O Christmas
 
 First and foremost is my classic Phat Chunk 'O Christmas collection. These are some of the original albums that I purchased and added to over time. There's something about hearing Harry sing "Sleigh Ride" or Vince Guraldi's Charlie Brown Christmas or The Manhattan Transfer sing "Santa Claus is Coming to Town" or Audio Adrenaline rocking out "Little Drummer Boy" that really gets things going.
@@ -26,9 +24,7 @@ https://open.spotify.com/user/dillie-o/playlist/6iapIFkfx2L1RVJ4eXUQRL
 
 A year or so back I decided to take advantage of crowd sourcing and I had all my friends give me their favorite (or most eclectic) Christmas albums and I made a playlist out of them. You can listen to that here.
 
-https://open.spotify.com/user/dillie-o/playlist/4sTdb9paGcm6GSZFoYiSj4
-
-![](@assets/images/posts/2014-11-christmaslounge.jpg)
+https://open.spotify.com/user/dillie-o/playlist/4sTdb9paGcm6GSZFoYiSj4![](@assets/images/posts/2014-11-christmaslounge.jpg)
 
 ## Soma.FM Christmas Lounge
 

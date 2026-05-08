@@ -16,4 +16,3 @@ The new layout with [Angular Material](https://material.angularjs.org/latest/) i
 
 <!--more-->
 
-![20160322_165021000_iOS](@assets/images/posts/2016-03-20160322_165021000_ios.png)

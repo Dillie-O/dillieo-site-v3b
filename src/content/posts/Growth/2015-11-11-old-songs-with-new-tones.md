@@ -12,8 +12,6 @@ Often times the best and wisest things that can be said aren’t particularly ne
 
 <!--more-->
 
-![](@assets/images/posts/2015-11-peanuts-insideout.jpg)
-
 Note: Spoilers Ahead
 
 Pixar’s latest movie, \_Inside Out, \_is a fun and beautifully crafted story. Somewhere a friend had posted a line that the movie showed “feelings with feelings”, just like how previous movies had “toys with feelings”, “monsters with feelings”, “cars with feelings” and so on. One of the big points (if not the main point) that the movie drives home is that our most impactful feelings and memories (our "core memories") aren’t packaged into one single instance of joy, or sadness, or something else. They are complex: made up of multiple feelings at once. Sometimes these core memories start with one feeling, lead to another, and then come back or go somewhere else. It is very important that we recognize this and not try to shut out one feeling for another. The worst thing possible isn’t to have one feeling to excess (which admittedly can cause its own set of problems), but to shut down and avoid having any feelings at all.

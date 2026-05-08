@@ -14,4 +14,3 @@ Sometimes progress can be slow, but it is still worth it...
 
 <!--more-->
 
-![prayer_odyssey_updates](@assets/images/posts/2017-02-prayer_odyssey_updates.png)

@@ -14,4 +14,3 @@ I have another guest post today over at my work blog about one of Donald Knuth's
 
 <!--more-->
 
-![optimization_slide](@assets/images/posts/2016-11-optimization_slide.jpg)

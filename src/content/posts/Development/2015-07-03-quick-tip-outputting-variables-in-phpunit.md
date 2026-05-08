@@ -12,8 +12,6 @@ I've been running through PHPUnit a bit lately, and sometimes I need to track so
 
 <!--more-->
 
-![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
-
 ### var_dump and --debug
 
 If you add a var_dump(\$variable) to your unit test, you can use the --debug flag when running the unit tests to see the var_dump in the output. This is particularly helpful with arrays or objects.

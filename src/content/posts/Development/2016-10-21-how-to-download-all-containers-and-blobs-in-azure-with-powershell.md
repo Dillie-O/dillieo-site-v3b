@@ -12,8 +12,6 @@ PowerShell to the rescue once again! A week back I needed to create an archive o
 
 <!--more-->
 
-![Azure Wallpaper](@assets/images/posts/2014-03-azure.jpg)
-
 Fortunately, with a little digging online, I was able to build a quick PowerShell script that allowed me to traverse all containers for a given storage account and then traverse all the blobs within the container and download them all. All in all I had about 38GB of data to pull down in about 2 hours. I've saved the script as a Github Gist for you to use if you need it, and for me to [dogfood](https://en.wikipedia.org/wiki/Eating_your_own_dog_food) again later. Enjoy!
 
 https://gist.github.com/c68d8ea53eaf86f588d4716077448a64

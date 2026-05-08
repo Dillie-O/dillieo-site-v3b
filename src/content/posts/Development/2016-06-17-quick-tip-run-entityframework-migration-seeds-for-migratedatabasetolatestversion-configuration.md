@@ -12,8 +12,6 @@ Yep, a long title, and a a complete HT to this [StackOverflow post](http://stack
 
 <!--more-->
 
-![quick-tips.jpg](@assets/images/posts/2015-01-quick-tips.png)
-
 ## Background
 
 Entity Framework has a great migrations tool that allows you to incrementally update your database structure based on changes. There is also a seeding method available to populate your database with some initial data. Unfortunately, by default this seeder method is only called when creating the database for the first time. If you're using the MigrateDatabaseToLatestVersion initializer option (rather common) the seed method won't be called until the second time the application is updated/refreshed, which can cause some confusion, and frustration as well.

@@ -12,8 +12,6 @@ Yesterday I built my first [Vagrant](https://www.vagrantup.com) machine, with so
 
 <!--more-->
 
-![vagrant-logo](@assets/images/posts/2016-04-vagrant-logo.png)
-
 If you haven't heard of it before, [Vagrant](https://www.vagrantup.com) is a tool that allows you easily build a development environment from a script file and then run it through [VirtualBox](https://www.virtualbox.org), [VMWare](https://www.vagrantup.com/vmware/), or other platforms. Vagrant allows you to create a fully configured machine, not just configuring a subset of platforms or libraries that you need.
 
 I'm no Linux expert, so setting up a full Linux environment would be a little daunting (and time consuming) for me. Fortunately, Vagrant has an entire [atlas library](https://atlas.hashicorp.com/boxes/search) of images preconfigured and updated by the community at your disposal. Grab one and go. Once you have the box you need, you can update your Vagrant scripts to run additional tasks upon the initial provisioning of the machine. Maybe you need to install an additional package using apt-get. Maybe you need to install an initial database. Maybe you want to run a diagnostic script. All of this can be setup in the Vagrant file to run for you.

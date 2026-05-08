@@ -22,8 +22,6 @@ So you've used one of the default templates out there to build and deploy your A
 
 <!-- wp:image {"id":6566} -->
 
-![](@assets/images/posts/2017-02-quick_tip_banner.jpg)
-
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -8,9 +8,7 @@ category: Growth
 tags: [life]
 ---
 
-<!-- wp:paragraph -->
-
-...when we last left our adventurers.
+<!-- wp:paragraph -->...when we last left our adventurers.
 
 <!-- /wp:paragraph -->
 
@@ -27,8 +25,6 @@ Three years is an incredibly short and long period of time all at once. A lot of
 <!-- /wp:more -->
 
 <!-- wp:image {"id":7012,"width":384,"height":512,"sizeSlug":"large","linkDestination":"media"} -->
-
-![](@assets/images/posts/2020-11-pxl_20201101_154412503.jpg)
 
 I could drink coffee here forever...
 

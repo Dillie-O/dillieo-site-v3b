@@ -12,8 +12,6 @@ Last week we launched a site for a client that was built upon the [Telerik Sitef
 
 <!--more-->
 
-![](@assets/images/posts/2015-09-sitefinity_logo11.jpg)
-
 ## The Good
 
 **Out of box features**: Need a blog? It’s there (as many as you need). Separate news feed? That’s there too. Compared to other CMS systems I’ve worked with, the user interface for building your pages is rather nice. Most of it resides in drag and drop components, so that you don’t accidentally mess up the style of the master templates themselves.
@@ -44,10 +42,10 @@ In addition, I ran into numerous problems when developing in conjunction with a 
 
 ## Conclusion
 
-I’m rather impressed with Sitefinity. The licensing price seems good compared to other paid tier .Net CMS platforms out there and the out of the box features and extensibility go a long way to get you up and running fast with a site. The templating model is good and the extensible models aren’t overly complicated to work with.
+I’m rather impressed with Sitefinity. The licensing price seems good compared to other paid tier.Net CMS platforms out there and the out of the box features and extensibility go a long way to get you up and running fast with a site. The templating model is good and the extensible models aren’t overly complicated to work with.
 
 That said, really customizing your layouts or controls (or dynamic modules for that matter) aren’t quite as easy as it sounds on paper. There was a bit of trial and error to make things work, and sometimes there was a combination of files that needed to be setup and data that needed to be configured through an import tool that added to a bit of the confusion. So make sure to buffer yourself a little extra time when creating your custom modules, even if you have a base sample or documentation to work with.
 
-I still would recommend Sitefinity to somebody looking to get a fresh CMS off the ground and has some money to spend to get the support that comes with it. My fellow developer still prefers Umbraco a bit more, especially since he’s had more experience with it, but he readily admits that there are a lot more features available that he would have had to code up from scratch, saving us all valuable time. I’m definitely keeping Sitefinity at the front of my tools available for .Net development.
+I still would recommend Sitefinity to somebody looking to get a fresh CMS off the ground and has some money to spend to get the support that comes with it. My fellow developer still prefers Umbraco a bit more, especially since he’s had more experience with it, but he readily admits that there are a lot more features available that he would have had to code up from scratch, saving us all valuable time. I’m definitely keeping Sitefinity at the front of my tools available for.Net development.
 
 Have you worked with Sitefinity? I’d love to know your thoughts about the platform. The more information to share, the better!

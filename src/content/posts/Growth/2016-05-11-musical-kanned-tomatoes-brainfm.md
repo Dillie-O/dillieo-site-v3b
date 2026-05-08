@@ -12,8 +12,6 @@ While I haven’t been the best at adhering to it, I’m still a big fan of Kanb
 
 <!--more-->
 
-![cannedtomatoesbrainfm](@assets/images/posts/2016-05-cannedtomatoesbrainfm.jpg)
-
 I recently saw a post about [brain.fm](http://www.brain.fm) by [John Saddington](http://www.john.do) and had to give it a try. They are a site that provides music for focusing, relaxing, and sleep. While there are plenty of other sites and Spotify playlists out there, this one sets itself apart by highlighting a lot of science that goes into how their music is generated and recommendations on how to use it properly.
 
 So far the results have been good. I know myself well enough that I can track when I’m “in a zone” and using brain.fm I can feel myself slipping into that phase rather quickly. Once you sign up for an account, you can see there is a diverse rage of “styles” for your listening needs and things are really easy to start up and use. I’ve been quite happy with the overall experience.

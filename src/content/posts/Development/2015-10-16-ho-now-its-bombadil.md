@@ -14,8 +14,6 @@ So my new computer has arrived and after an unusually difficult pondering sessio
 
 <!--more-->
 
-![](@assets/images/posts/2015-10-20151016_002313904_ios.jpg "Ho there on the left!")
-
 Bombadil!
 
 Fond memories began to sweep through my mind of this very insignificant yet powerful person that Frodo and company encounters at the start of their journey. He seems almost playful and nimble at their first encounter, and I get the same impression as this computer nimbly and playfully loads and installs applications with amazing speed.

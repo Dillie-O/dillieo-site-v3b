@@ -22,8 +22,6 @@ These days, I practically live and die by my calendar. I have a ton of meetings 
 
 <!-- wp:image {"id":6807} -->
 
-![Task Tools](@assets/images/posts/2019-05-tasks.png)
-
 <!-- /wp:image -->
 
 <!-- wp:heading -->
@@ -38,9 +36,7 @@ There's no fancy magic here. It's just Google Calendar. However, I do make sure 
 
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"id":6808} -->
-
-![Calendar View](@assets/images/posts/2019-05-calendarview.png)
+<!-- wp:image {"id":6808} -->![Calendar View](@assets/images/posts/2019-05-calendarview.png)
 
 <!-- /wp:image -->
 
@@ -97,8 +93,6 @@ Now, Zapier works hard for me at night (10 hours before my day ends) and gets al
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":6807,"align":"center"} -->
-
-![Task List](@assets/images/posts/2019-05-tasks.png)
 
 Such a beautiful board!
 

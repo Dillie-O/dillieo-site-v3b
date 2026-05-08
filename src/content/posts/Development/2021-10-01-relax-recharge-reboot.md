@@ -22,8 +22,6 @@ Today I mark off an item in my bucket list: I'm taking a one month sabbatical! T
 
 <!-- wp:image {"id":7154,"sizeSlug":"full","linkDestination":"media"} -->
 
-![](@assets/images/posts/2021-10-pexels-photo-91224.jpg)
-
 Photo by Stefan Stefancik on [Pexels.com](https://www.pexels.com/photo/man-sitting-on-the-mountain-edge-91224/)
 
 <!-- /wp:image -->
@@ -70,9 +68,7 @@ The current operating mode for life is not going well. If one were to leverage t
 
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-
-...and start over I will! I'll be more protective of my hour by hour time. I'll provide space to step back, analyze, evaluate, and create (thank you [Ella](https://www.linkedin.com/in/elladorband/) and [Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/?utm_source=pocket_mylist)!). I'll get those runs back into my calendar and actually stick to them! Balancing this will allow me to continue to work smarter, not harder, and most importantly, bring back some much needed peace and balance.
+<!-- wp:paragraph -->...and start over I will! I'll be more protective of my hour by hour time. I'll provide space to step back, analyze, evaluate, and create (thank you [Ella](https://www.linkedin.com/in/elladorband/) and [Bloom's Taxonomy](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/?utm_source=pocket_mylist)!). I'll get those runs back into my calendar and actually stick to them! Balancing this will allow me to continue to work smarter, not harder, and most importantly, bring back some much needed peace and balance.
 
 <!-- /wp:paragraph -->
 

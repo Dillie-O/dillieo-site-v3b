@@ -22,8 +22,6 @@ In an effort to mix things up a bit, I'm taking my "Freeform Friday" down a slig
 
 <!-- wp:image {"id":"media-45"} -->
 
-![](@assets/images/posts/2019-01-pexels-photo-1166657.jpg)
-
 Photo by Mikes Photos on [Pexels.com](https://www.pexels.com/photo/books-on-bookshelves-1166657/)
 
 <!-- /wp:image -->

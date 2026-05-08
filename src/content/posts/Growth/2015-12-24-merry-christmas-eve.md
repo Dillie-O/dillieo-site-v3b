@@ -14,4 +14,3 @@ tags: [life]
 
 <!--more-->
 
-![Courthouse Christmas Lights](@assets/images/posts/2011-12-imag0290.jpg)

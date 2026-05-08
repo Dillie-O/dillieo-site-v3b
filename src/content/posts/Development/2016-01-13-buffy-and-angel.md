@@ -12,8 +12,6 @@ Nowadays, it’s rare to find something that you’ll go back to more than once.
 
 <!--more-->
 
-![BuffyAngelLogos](@assets/images/posts/2016-01-buffyangellogos.png)
-
 I’ve always been a little more partial towards Angel. The series is a bit darker, the story of redemption seems a little more appealing to me. The journeys each character goes through seems more profound as well, especially given the situation they are thrust into during the final season.
 
 At the same time, Buffy has this beautiful balance of quirkiness, fun, and intesity wrapped up into one. The series feels more “episodic” (except near the end) and it’s crazy to see how some of the “perils” of high school life in Sunnydale translate into some really deep ideas at the end of the day.

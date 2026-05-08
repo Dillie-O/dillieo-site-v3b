@@ -12,8 +12,6 @@ There's a longer post that will followup on this in the future, but a handful of
 
 <!--more-->
 
-![t-rextra_izzy_raleigh](@assets/images/posts/2018-05-t-rextra_izzy_raleigh.png)
-
 Earlier this year Haylee was diagnosed as having Tourettes after a year of us [trying to figure out](/arrival) exactly what was going on. This was a victory in that we now has a "name' to what was happening, but it created new challenges for us, especially for the girls.
 
 Soon after this they discovered [Don Hoiland](https://www.youtube.com/channel/UCpEWFO8Hm8SMI7sjIZxvsmA) and his T-Rex video series. Don has Tourettes himself and has made a series of short videos to help kids (and parents) work through some of the challenges Tourettes provides. These videos made an immediate impact on our girls, helping them (and us) move forward.

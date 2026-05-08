@@ -12,8 +12,6 @@ One of the requests/challenges that I’ve come up against while working on a ne
 
 <!--more-->
 
-![](@assets/images/posts/2015-04-feeratesresult.png "ShortCode Achievement: Unlocked!")
-
 ### Scenario
 
 It might be helpful to provide a little more background. I’m working on a site for a financial type institution, and they have a series of fees and rates that they display on various pages in the site. The places where these values isn’t a trivial amount, and currently there is a time intensive process of going through the updates, since it has to be submitted and approved to perform by the technical staff. There is no sense of “reuse” here. Ideally, the end users would be able to update the fees/rates in a single location and have it update anywhere it was referenced. This would also give the end users the flexibility to create new pages as needed with this information.
@@ -36,17 +34,11 @@ Since we are going to have multiple shortcodes in our content block, we use a re
 
 ### Build Your Content Blocks
 
-With our content block template updated to look for shortcodes, we can get to work. Go into the SiteFinity admin panel and create a new content block. Give it a simple title, and down at the bottom, make sure to assign it to the “RateValues” category we are going to filter off of:
+With our content block template updated to look for shortcodes, we can get to work. Go into the SiteFinity admin panel and create a new content block. Give it a simple title, and down at the bottom, make sure to assign it to the “RateValues” category we are going to filter off of:![](@assets/images/posts/2015-04-newcontentblock.png)
 
-![](@assets/images/posts/2015-04-newcontentblock.png)
+Keep adding codes as needed. Once these are in place, you can go to your page (or create a new one) and start typing in shortcodes as we outlined earlier.![](@assets/images/posts/2015-04-shortcodeseditor.png)
 
-Keep adding codes as needed. Once these are in place, you can go to your page (or create a new one) and start typing in shortcodes as we outlined earlier.
-
-![](@assets/images/posts/2015-04-shortcodeseditor.png)
-
-Notice how we have two different shortcode tags here, RateValue and FeeValue. We have two separate methods that do the parsing for them independently (full source code below). Once the page is finished, we publish and we can see the results on the page.
-
-![](@assets/images/posts/2015-04-1_feeratesresult.png)
+Notice how we have two different shortcode tags here, RateValue and FeeValue. We have two separate methods that do the parsing for them independently (full source code below). Once the page is finished, we publish and we can see the results on the page.![](@assets/images/posts/2015-04-1_feeratesresult.png)
 
 Hazzah! Reusable text anywhere we want!
 

@@ -16,4 +16,3 @@ Sidenote, and slightly more serious. [Azure Media Services](https://azure.micros
 
 <!--more-->
 
-![1452865048_1.jpeg](@assets/images/posts/2016-01-1452865048_1.jpg)

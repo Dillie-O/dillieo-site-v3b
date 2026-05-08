@@ -12,8 +12,6 @@ Things got a little crazy at work last week while I was gone on vacation...
 
 <!--more-->
 
-![matrixmini.jpg](@assets/images/posts/2014-11-matrixmini.png)
-
 I'm currently the lead developer on a platform we built for a client. I say "platform" instead of application because we have an API, Web Application, iOS Application, a WordPress site, and numerous static content resources put together to serve their needs. It's pretty slick, if I do say so myself. It is also a bit complex when you map out how the pieces fit together.
 
 That said, there was some documentation in place and couple of others that work on the project. Recent updates had been slow for the project, so I left for vacation without much in mind.

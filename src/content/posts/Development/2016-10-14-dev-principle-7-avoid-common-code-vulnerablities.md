@@ -14,4 +14,3 @@ I had a guest post over at my company's blog, reflecting a bit on some of the co
 
 <!--more-->
 
-![vulnerability](@assets/images/posts/2016-10-vulnerability.jpg)

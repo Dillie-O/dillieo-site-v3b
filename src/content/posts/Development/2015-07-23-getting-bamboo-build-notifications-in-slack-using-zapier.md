@@ -12,8 +12,6 @@ tags: [bamboo, build, coding, continuous-integration, email, integration, slack,
 
 <!--more-->
 
-![](@assets/images/posts/2015-07-bambooslacknotification.jpg)
-
 I went into a little more detail about setting up Zapier in a [previous post](/getting-appharbor-build-messages-in-slack-using-zapier), so I’m going to keep this post a little more abbreviated and outline the structure, and you should be able to fill in the rest.
 
 ### The Recipe

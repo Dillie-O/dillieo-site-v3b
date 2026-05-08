@@ -20,4 +20,3 @@ Enjoy!
 
 <!--more-->
 
-![quick_tip_banner](@assets/images/posts/2017-02-quick_tip_banner.jpg)

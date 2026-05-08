@@ -12,8 +12,6 @@ I'm working with a team who is building a mobile app using React Native. Everyth
 
 <!--more-->
 
-![jenkins_android](@assets/images/posts/2018-03-jenkins_android.jpg)
-
 After the initial configuration was in place, our Jenkins build continued to fail. Digging into the lengthy console log, there was one particular line in question that seemed to be the cause. Your paths may vary slightly:
 
 ```

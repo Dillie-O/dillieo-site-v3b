@@ -12,12 +12,8 @@ A while ago I wrote an article outlining deploying [Laravel to Elastic Beanstalk
 
 <!--more-->
 
-![Laravel-5.png](@assets/images/posts/2015-05-laravel-51.png)
+In your.ebextensions folder, create a file and name it what you like, as long as it is sequentially at the end. Mine is named '04postdeploy.config' Then in that file add the following code:
 
-In your .ebextensions folder, create a file and name it what you like, as long as it is sequentially at the end. Mine is named '04postdeploy.config' Then in that file add the following code:
-
-```files: "/opt/elasticbeanstalk/hooks/appdeploy/post/99_make_storage_writable.sh": mode: "000755" owner: root group: root content: | #!/usr/bin/env bash chmod -R 777 /var/app/current/storage```
-
-...and that is it! The first line is the name of the script file to create, and that can be arbitrary, though you can change the numbering if you have multiple post deploy files. Elastic Beanstalk deploys the code into the /var/app/current folder (you may notice "ondeck" being used in pre-deploy scripts, so we can make sure we target the write location to update our permissions.
+```files: "/opt/elasticbeanstalk/hooks/appdeploy/post/99_make_storage_writable.sh": mode: "000755" owner: root group: root content: | #!/usr/bin/env bash chmod -R 777 /var/app/current/storage```...and that is it! The first line is the name of the script file to create, and that can be arbitrary, though you can change the numbering if you have multiple post deploy files. Elastic Beanstalk deploys the code into the /var/app/current folder (you may notice "ondeck" being used in pre-deploy scripts, so we can make sure we target the write location to update our permissions.
 
 Enjoy!

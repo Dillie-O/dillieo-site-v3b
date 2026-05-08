@@ -12,8 +12,6 @@ I'm a firm believer that home is where your family is, and not just a a set of w
 
 <!--more-->
 
-![Courthouse Christmas Lights](@assets/images/posts/2011-12-imag0290.jpg)
-
 With our [upcoming move](/chapters) to Washington next year, it dawned on me earlier this week that this would be the last Christmas we have at our current house. Christmas is my favorite holiday of them all, so I always have a little extra gusto and energy going into this holiday and the memories are that more potent.
 
 I know the most important part of Christmas is celebrating Christ's birth with my family. That can be done anywhere. I have the memories of listening to my girls' sing carols. I have the memories of their first "Walk through Bethlehem" where they got a glimpse into the time and place the world changed. I have the memories of wonderment and joy as they ask questions about Santa and track him online throughout the day. Oh yeah, and there's [the Polar express](/a-bit-of-christmas-magic). I have the memories of sitting with Jen and just enjoying that moment of peace with the family as everybody settles in for a day of rest. These memories apply anytime and anywhere.

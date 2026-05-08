@@ -22,8 +22,6 @@ As I continue to enjoy my time relaxing, recharging, and rebooting during my sab
 
 <!-- wp:image {"id":7162,"sizeSlug":"large","linkDestination":"media"} -->
 
-![](@assets/images/posts/2021-10-leguin_dragon.jpg)
-
 <!-- /wp:image -->
 
 <!-- wp:quote -->

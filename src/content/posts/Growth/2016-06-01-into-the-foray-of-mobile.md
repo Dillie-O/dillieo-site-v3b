@@ -14,4 +14,3 @@ Here we go!
 
 <!--more-->
 
-![xamagon](@assets/images/posts/2016-06-xamagon.png)

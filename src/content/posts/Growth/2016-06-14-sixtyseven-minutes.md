@@ -12,4 +12,3 @@ It's amazing to think that this morning I was doing something continuously for o
 
 <!--more-->
 
-![running_tall](@assets/images/posts/2016-06-running_tall.jpg)

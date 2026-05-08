@@ -22,8 +22,6 @@ In my [last entry](/bootstrap-your-app-for-free-part-1-tools-and-resources), I o
 
 <!-- wp:image {"id":"media-30"} -->
 
-![Apple Laptop](@assets/images/posts/2019-01-macbook-apple-imac-computer-39284.jpg)
-
 Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/apple-laptop-notebook-office-39284/)
 
 <!-- /wp:image -->
@@ -60,7 +58,7 @@ With that said, here are a few 100% free app hosting platforms I've used (or am 
 
 <!-- wp:paragraph -->
 
-[AppHarbor](https://appharbor.com) is one the longest running platform as a service (PAAS) providers, and early on it was the only one I could find that focused on .Net technology.
+[AppHarbor](https://appharbor.com) is one the longest running platform as a service (PAAS) providers, and early on it was the only one I could find that focused on.Net technology.
 
 <!-- /wp:paragraph -->
 
@@ -82,7 +80,7 @@ With that said, here are a few 100% free app hosting platforms I've used (or am 
 
 <!-- wp:paragraph -->
 
-[Gearhost](https://www.gearhost.com) is an independent hosting company that has kept up with the major providers over the years and also does its own form of cloud hosting. They specialize in .Net, PHP, and Node.js hosting, which also includes MySQL and SQL Server hosting. They also provide domain and certificate services too.
+[Gearhost](https://www.gearhost.com) is an independent hosting company that has kept up with the major providers over the years and also does its own form of cloud hosting. They specialize in.Net, PHP, and Node.js hosting, which also includes MySQL and SQL Server hosting. They also provide domain and certificate services too.
 
 <!-- /wp:paragraph -->
 
@@ -90,7 +88,7 @@ With that said, here are a few 100% free app hosting platforms I've used (or am 
 
 **Pros**: Modern UI interface that makes it easy to create and work with your platforms. Up to 100 cloud sites/databases for free. Use custom domains with your sites for free.
 
-**Cons**: .Net Core deployments have been difficult, even though they say it is fully supported. However, continuous deployment options through popular Git platforms may have resolved this. Free SQL Server in only 10MB, so tread lightly on your data.
+**Cons**:.Net Core deployments have been difficult, even though they say it is fully supported. However, continuous deployment options through popular Git platforms may have resolved this. Free SQL Server in only 10MB, so tread lightly on your data.
 
 **Current Apps**: [Prayer Odyssey](http://www.prayerodyssey.com)
 
@@ -104,7 +102,7 @@ With that said, here are a few 100% free app hosting platforms I've used (or am 
 
 <!-- wp:paragraph -->
 
-[Heroku](https://www.heroku.com) labels itself as a "Cloud Application Platform" that works with all of your "modern" programming languages: .Net, Python, Scala, Go, and more. One of their biggest features is the ability to host Docker containers. With that you can have your environment completely isolated and verified, and then push to the cloud when ready.
+[Heroku](https://www.heroku.com) labels itself as a "Cloud Application Platform" that works with all of your "modern" programming languages:.Net, Python, Scala, Go, and more. One of their biggest features is the ability to host Docker containers. With that you can have your environment completely isolated and verified, and then push to the cloud when ready.
 
 **Pros:** Docker, Kalfka readily available. Easy to scale up apps when ready. Quickly deploy and create services from the console using their CLI tool.
 
@@ -116,7 +114,7 @@ With that said, here are a few 100% free app hosting platforms I've used (or am 
 
 <!-- wp:heading {"level":3} -->
 
-### Why not the "Big 3" ??
+### Why not the "Big 3"??
 
 <!-- /wp:heading -->
 

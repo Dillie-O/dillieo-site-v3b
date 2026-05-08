@@ -12,8 +12,6 @@ What was that first song that got you completely hooked on a particular artist o
 
 <!--more-->
 
-![](@assets/images/posts/2015-02-smart_es_sesames_treet1.jpg)
-
 It was my sophomore year in high school at the winter dance. I was there with the usual gang of friends enjoying a night out. We were having a great time as the music played and then something caught my ear…
 
 …wait, is that The Count?! From Sesame Street?! At a high school dance?! _\[admittedly he is my favorite]_

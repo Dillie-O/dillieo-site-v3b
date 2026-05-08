@@ -12,8 +12,6 @@ We're moving into a time when most apps need to run on multiple platforms in ord
 
 <!--more-->
 
-![outlook-logo](@assets/images/posts/2017-01-outlook-logo.png)
-
 I've been a fan of Outlook for quite a while now. The fusion of the calendar and e-mail in a single app, plus the conversational view and management of multiple accounts, makes it a powerful tool. To add to this, Outlook offers a free Android / iOS that is one of the best out there. With a "focused" inbox and simple, yet powerful calendar component (thanks to the Sunrise acquisition), I can keep on top of three accounts (and two calendars) little hassle.
 
 The problem that arises is that the core functionality between these platforms is broken. The Windows version of Outlook allows you to subscribe (sadly in a read-only mode) with a Google Apps calendar using their "Internet Calendar" feature. However, on the Mac version, this feature has been removed completely. Since I use a Mac primarily, and our company is Google Apps based, this leaves me in a bind. I could keep my Windows 10 Virtual Machine running in "Unity" mode all day and use Outlook for Windows, but the Windows version doesn't have a "consolidated inbox" feature like the Mac version does. I can add multiple Inboxes to my favorites, but really I'm still jumping between three different views whenever I get notified a new message has come in. Outlook for Mobile (iOS in my case) does the consolidated inbox and Google calendar fabulously. I get the bonus of the focused inbox AND I can schedule events to my work calendar. However, I spend most of my day at the computer, and not on my phone, and I don't want to be typing messages from my phone all day.

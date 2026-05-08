@@ -22,8 +22,6 @@ In my last few entries, I have outlined how I was able to build my [Bookmarkinat
 
 <!-- wp:image {"id":"media-108"} -->
 
-![](@assets/images/posts/2019-01-pexels-photo-258174.jpg)
-
 Photo by Pixabay on [Pexels.com](https://www.pexels.com/photo/close-up-of-no-4711-258174/)
 
 <!-- /wp:image -->
@@ -72,7 +70,7 @@ Sure, this could be a bit of a vanity thing, but I find it far nicer to be able 
 
 <!-- wp:paragraph -->
 
-To help with that, there are a handful of top level domains (TLDs) that are free and available. [Freenom](http://www.freenom.com) is a great tool that will check availability against .tk, .ml, .ga, .cf, and .gq domains. You can reserve them for a year, and they are free to renew after that. There's no weird hosting shenanigans either, you can create all the standard DNS entries (CNAME, A, MX) you need.
+To help with that, there are a handful of top level domains (TLDs) that are free and available. [Freenom](http://www.freenom.com) is a great tool that will check availability against.tk,.ml,.ga,.cf, and.gq domains. You can reserve them for a year, and they are free to renew after that. There's no weird hosting shenanigans either, you can create all the standard DNS entries (CNAME, A, MX) you need.
 
 <!-- /wp:paragraph -->
 

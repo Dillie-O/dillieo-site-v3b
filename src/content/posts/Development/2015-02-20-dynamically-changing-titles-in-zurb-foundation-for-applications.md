@@ -12,8 +12,6 @@ As mentioned before, I’m a big fan of [Zurb Foundation for Applications](http:
 
 <!--more-->
 
-![ZANSTitleBinding.png](@assets/images/posts/2015-02-zanstitlebinding.png)
-
 ### Step 1: Move Application Declaration
 
 The first step is to move your ng-app declaration to the top HTML element, if you haven’t done so already. This allows us to expose the entire page to things like \$rootScope within our application.

@@ -8,11 +8,9 @@ category: Development
 tags: [life]
 ---
 
-I still find it a little funny every time I recall the story, but I got the job I have now through Twitter. I had decided to start looking for a new job, and being the “up to date” person I thought I was, I figd I’d try searching Twitter. Low and behold, somebody had posted they were looking for a .Net person, and even willing to have them work remotely! I sent an e-mail, had a phone call or two and a visit, and there I was, working for Fresh Consulting!
+I still find it a little funny every time I recall the story, but I got the job I have now through Twitter. I had decided to start looking for a new job, and being the “up to date” person I thought I was, I figd I’d try searching Twitter. Low and behold, somebody had posted they were looking for a.Net person, and even willing to have them work remotely! I sent an e-mail, had a phone call or two and a visit, and there I was, working for Fresh Consulting!
 
 <!--more-->
-
-![](@assets/images/posts/2015-06-fresh-artwork.png)
 
 Four years ago today I was rather star struck as I drifted into an office nearly 1400 miles away from home and immediately to a social media conference we were hosting. Shortly after that we ran over to do a checkin with a major telecommunications provider, and I was sent home to build an RSS feed for the high school sports association here in Arizona. There weren’t a whole lot of us, but we were going places!
 

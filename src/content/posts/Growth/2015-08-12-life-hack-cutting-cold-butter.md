@@ -18,4 +18,3 @@ Problem solved!
 
 <!--more-->
 
-![](@assets/images/posts/2015-08-1_20150812_143336448_ios.jpg)

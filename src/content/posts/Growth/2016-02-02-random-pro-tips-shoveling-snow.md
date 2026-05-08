@@ -12,8 +12,6 @@ This is partially an excuse to have a picture of ducks in the snow (what?! they 
 
 <!--more-->
 
-![20160201_190201121_iOS](@assets/images/posts/2016-02-20160201_190201121_ios.jpg)
-
 ### Galoshes
 
 Spend the \$15 at Tractor Supply Company for a good pair of galoshes. They'll keep your feet impervious to melting snow (even through those boots) and they are double effective when trudging through the mud during the rainy season. Just make sure to have some good wool socks too. Impervious to wet, yes. Impervious to cold, no.

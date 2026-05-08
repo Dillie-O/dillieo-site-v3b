@@ -22,8 +22,6 @@ I’ve been away from my office desk for a few months now, but when I was bringi
 
 <!-- wp:image {"id":6972,"sizeSlug":"large"} -->
 
-![sticky note](@assets/images/posts/2020-08-stickynote_balancingtime.jpg)
-
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -62,9 +60,7 @@ Do you really need to be in that meeting? It may be worth reaching out to the or
 
 <!-- /wp:heading -->
 
-<!-- wp:paragraph -->
-
-...oh yeah, that! That refers to some [productive task hacking](/how-i-hack-productivity-google-calendar-trello-zapier) I've done in the past.
+<!-- wp:paragraph -->...oh yeah, that! That refers to some [productive task hacking](/how-i-hack-productivity-google-calendar-trello-zapier) I've done in the past.
 
 <!-- /wp:paragraph -->
 

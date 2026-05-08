@@ -12,8 +12,6 @@ I'm not sure about you, but for myself, I have a hard time thinking what lies be
 
 <!--more-->
 
-![A photo by Priscilla Westra. unsplash.com/photos/YeBXoqD_VOo](@assets/images/posts/2017-01-long-road.jpg)
-
 Between school schedules, work projects, work meetings, chores around the house, assisting with meals, family events, and more, I tend to just focus on making it through the week, often one day at a time. I've gotten into a bit of a routine to help me through each weekly "sprint" of life and not make it too chaotic. Keeping a mindset on just one week at a time helps keep things digestible.
 
 Now the perspective needs to shift a bit. We are [Washington bound](/chapters). There's a lot to be done before then: purging old things from the house, selling some things. boxing up things, getting the house ready for sale, actually selling the house too. On top of that there's looking for houses/land in Washington to buy, though the prospect of renting for a little and saving up a bit more given the housing landscape seems a bit more reasonable at this point. Then there is the move itself and unloading everything once we get there and a new drive to work to adjust to.

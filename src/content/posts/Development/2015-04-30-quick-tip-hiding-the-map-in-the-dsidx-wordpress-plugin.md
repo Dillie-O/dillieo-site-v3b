@@ -12,8 +12,6 @@ I have a site I helped a friend put together that has real estate listings. It�
 
 <!--more-->
 
-![](@assets/images/posts/2015-04-real_estate_matching_your_search___jerry_fohrman3.png)
-
 As of this writing, there was no “toggle” parameter to add in the URL to let the map remain hidden by default. I’ve been told that once the user hides the map, the parameter is “remembered” during the next refresh, but this wasn’t desired either. After some poking and experimenting, the solution was to add simple batch of Javascript to run after the page loads. You can modify your theme or use a plugin that adds the code at the bottom of the page.
 
 Here’s what you need:
@@ -35,8 +33,6 @@ That’s the trick. We check to see if the map is visible or not (for those refr
 
 Why the delay? Well, the IDX plugin loads the data first and then makes a call to render the Google Map. If I hide the map immediately, something odd happens and the map isn’t rendered properly. It could be related to parsed map points, it could be something else. I’m not 100% sure. That said, when the page loads, the animation if hiding isn’t that visible (if at all) and you could potentially slide this down to half a second.
 
-Next time you load the page, it’ll look like this:
-
-![](@assets/images/posts/2015-04-real_estate_matching_your_search___jerry_fohrman21.png)
+Next time you load the page, it’ll look like this:![](@assets/images/posts/2015-04-real_estate_matching_your_search___jerry_fohrman21.png)
 
 …and that’s it! Hope this helps! Enjoy!

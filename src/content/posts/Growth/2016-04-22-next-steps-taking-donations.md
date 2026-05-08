@@ -14,4 +14,3 @@ I'm close to finishing the "MVP" and moving to mobile, so now it's time to start
 
 <!--more-->
 
-![Win10x64-Vairocina](@assets/images/posts/2016-04-win10x64-vairocina.png)

@@ -12,11 +12,7 @@ _…otherwise subtitled “Fake e-mail addresses aren’t so fake afterall…"_
 
 As part of an ongoing project, we needed to setup a large amount of dummy accounts, to test workflow, messaging, and other critical aspects to the system. In order to do this, we used a standard “faker” type library that allows us to easily generate as many fake names, e-mail addresses, addresses, whatever you need. We then run our unit tests, which involve sending e-mail messages through Mandrill. This worked fine until...
 
-<!--more-->
-
-![](@assets/images/posts/2016-01-1452002376_1.jpg)
-
-...one day we received an e-mail message from an actual person, wondering why they were getting a notification about Event X occurring. This was a genuine surprise, especially considering the “fake” e-mail address wasn’t attached to a hotmail or gmail domain, but to a randomized domain that was generated as well. Discovering this issue also led into some further investigation which showed that our Mandrill rating had been tarnished due to the large volume of “rejected” e-mails that the testing attempted to send. Mandrill does have a test mode, but we hadn’t turned this on.
+<!--more-->...one day we received an e-mail message from an actual person, wondering why they were getting a notification about Event X occurring. This was a genuine surprise, especially considering the “fake” e-mail address wasn’t attached to a hotmail or gmail domain, but to a randomized domain that was generated as well. Discovering this issue also led into some further investigation which showed that our Mandrill rating had been tarnished due to the large volume of “rejected” e-mails that the testing attempted to send. Mandrill does have a test mode, but we hadn’t turned this on.
 
 So how can you do some form of proper e-mail testing without those complications. Here are two tricks that worked out for us.
 

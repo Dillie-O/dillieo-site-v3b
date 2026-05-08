@@ -12,8 +12,6 @@ Past and future have really been dancing around lately, with the latest trailer 
 
 <!--more-->
 
-![](@assets/images/posts/2015-10-bttf_mematic1.jpg)
-
 Back in good ‘ol ’99, Star Wars Episode 1 came out. Me, as well as a bunch of my buddies, did what any die hard fan growing up with dreams of the Force and X-Wings would do. We camped out to get tickets. Yep, a week before the release, we went down to Edwards Big in Newport Beach and camped out in a crazy long line, playing toilet paper volleyball, listening (and speculating) over what the pre-released soundtrack means, and all sorts of other fun things. The following week we wore our costumes (many hand made) and celebrated at a midnight showing.
 
 Sure the Internet was around, but it was still pretty “new” to the average person. No ordering of tickets, or fancy auction sites (well eBay was just getting off the ground really at that point), or streaming your favorite TV shows over it. It’s pretty amazing at how far the information flow has progressed. Nowadays if I want to see a new movie, I can order my tickets from the comfort of my home (and avoid that huge line) and simply walk up to the theatre and get them and enjoy. Or I can wait a few months and simply rent it from my living room and stream it to my TV. What a crazy convenience.

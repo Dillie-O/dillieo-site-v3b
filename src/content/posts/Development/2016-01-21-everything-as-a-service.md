@@ -12,8 +12,6 @@ Having signed up for the full Amazon Prime experience over the weekend, I starte
 
 <!--more-->
 
-![service-button.png](@assets/images/posts/2016-01-service-button.jpg)
-
 A quick overview of services I’ve seen or signed up for are as follows:
 
 - Unlimited 2 Day Shipping - Amazon Prime

@@ -12,8 +12,6 @@ I've been fortunate enough to see a lot of the Olympics this year, thanks to the
 
 <!--more-->
 
-![dagostino_hamblin.jpg](@assets/images/posts/2016-08-dagostino_hamblin.jpg)
-
 You may have heard the story already, but having been a competitive runner, let's look at the great moments in this story.
 
 A little over half way through the women's 5K (3.1 miles) qualifying event, Abbey D'Agostino of the USA accidentally clips Nikki Hamblin of New Zealand and they both goth down. Amber gets up right away to continue racing. We can pause right here and reflect on an important point right here. In running, even at longer distances, every second counts. The fine tuning that goes into pacing each lap out just right is crucial. When a fall like this happens, especially at this level, your chances of winning become slim to none. It would be easy to simply hang up the towel and call it a day. But Abbey doesn't do this. She gets up, and is ready to race until the end, no matter what. I suspect her body was already pretty tired by this point, so making the effort to continue on requires an extra level of strength and drive.

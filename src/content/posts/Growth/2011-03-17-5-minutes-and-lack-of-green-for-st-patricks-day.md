@@ -10,7 +10,7 @@ tags: [geekery, publish-on-demand, shirt, st-patricks-day]
 
 It's kind of crazy how technology and print on demand services are these days. I should get me one of these for next year. Please share around if you like them. 8^D
 
-[![Irish Code Hex shirt](@assets/images/posts/irish_code_hex_tshirt-p235118639570687764azgw0_325.jpg)](http://www.zazzle.com/irish_code_hex_tshirt-235118639570687764?gl=Shirt_a_Dillie_O&group=mens&lifestyle=classic&rf=238965345064286427) [Irish Code Hex](http://www.zazzle.com/irish_code_hex_tshirt-235118639570687764?gl=Shirt_a_Dillie_O&group=mens&lifestyle=classic&rf=238965345064286427) by [Shirt_a_Dillie_O](http://www.zazzle.com/shirt_a_dillie_o*)
+[](http://www.zazzle.com/irish_code_hex_tshirt-235118639570687764?gl=Shirt_a_Dillie_O&group=mens&lifestyle=classic&rf=238965345064286427) [Irish Code Hex](http://www.zazzle.com/irish_code_hex_tshirt-235118639570687764?gl=Shirt_a_Dillie_O&group=mens&lifestyle=classic&rf=238965345064286427) by [Shirt_a_Dillie_O](http://www.zazzle.com/shirt_a_dillie_o*)
 
 <!--more-->
 

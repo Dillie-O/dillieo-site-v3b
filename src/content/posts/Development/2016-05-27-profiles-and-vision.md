@@ -14,4 +14,3 @@ More progress!
 
 <!--more-->
 
-![20160526_185247000_ios](@assets/images/posts/2016-05-20160526_185247000_ios.png)

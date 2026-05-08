@@ -12,9 +12,7 @@ A little while back I showed how to [configure LogEntries with Laravel 5.0](/qui
 
 <!--more-->
 
-![Laravel-5.png](@assets/images/posts/2015-05-laravel-51.png)
-
-With Laravel 5.1, they offer a configureMonologUsing method that you can add to your bootstrap/app.php file and customize what and how Monolog is setup. Looking through some of the existing code, the different Monolog handler types support a “log level” parameter. They are just set to “debug” by default in it’s core configuration. What we do then is add a couple of extra variables to our .env file:
+With Laravel 5.1, they offer a configureMonologUsing method that you can add to your bootstrap/app.php file and customize what and how Monolog is setup. Looking through some of the existing code, the different Monolog handler types support a “log level” parameter. They are just set to “debug” by default in it’s core configuration. What we do then is add a couple of extra variables to our.env file:
 
 LOGGING_LEVEL - Can be set to DEBUG, INFO, NOTICE, WARNING, ERROR, CRITICAL, or ALERT
 
@@ -25,9 +23,9 @@ From there we add the following code to our bootstrap/app.php file right before 
 ```
 $app->configureMonologUsing(function($monolog) {
 
-// Configure default file logger to follow level conventions in // environment configuration. $logLevels = Logger::getLevels(); $logLevel = env('LOGGING_LEVEL', 'DEBUG'); $logMaxFiles = (int)env('LOG_MAX_FILES', 5); $storagePath = realpath(__DIR__.'/../') . '/storage';
+// Configure default file logger to follow level conventions in // environment configuration. $logLevels = Logger::getLevels(); $logLevel = env('LOGGING_LEVEL', 'DEBUG'); $logMaxFiles = (int)env('LOG_MAX_FILES', 5); $storagePath = realpath(__DIR__.'/../'). '/storage';
 
-$monolog->pushHandler( $handler = new RotatingFileHandler( $storagePath . '/logs/laravel.log', $logMaxFiles, $logLevels[$logLevel]) );
+$monolog->pushHandler( $handler = new RotatingFileHandler( $storagePath. '/logs/laravel.log', $logMaxFiles, $logLevels[$logLevel]) );
 
 $handler->setFormatter(new LineFormatter(null, null, true, true));
 
@@ -36,6 +34,6 @@ $handler->setFormatter(new LineFormatter(null, null, true, true));
 
 That’s all there is to it. If you compare this to the default code, you may have noticed that I didn’t use the storagePath variable, because that value hasn’t been defined yet. Instead we use the “raw” pathing that the storagePath call when setting itself up.
 
-The final step (and another blog post) will be to allow upating the logging configuration on the fly, something that [I like to do with my .Net based apps](/changing-log4net-configurations-dynamically).
+The final step (and another blog post) will be to allow upating the logging configuration on the fly, something that [I like to do with my.Net based apps](/changing-log4net-configurations-dynamically).
 
 Enjoy!

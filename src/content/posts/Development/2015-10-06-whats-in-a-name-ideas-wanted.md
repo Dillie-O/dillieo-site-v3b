@@ -12,8 +12,6 @@ Some people like to name their vehicles, but I like to name my electronics _\[we
 
 <!--more-->
 
-![](@assets/images/posts/2015-10-hello-my-name-is1.jpg)
-
 I typically name my phones after droids, since my first smartphone was indeed an droid. There was R4, then Whistler on my Windows Phone, and now IG-88 on my iPhone. With my new found love of Doctor Who, I named my 9” Nexus tablet K9. See what I did there?
 
 My computers have been a little more profound. I’ve named them after philosophers or theologians. It could be because I do more work, or see the programming work I do as a creative process, who exactly knows. Aquinas, Boethius, and Kierkegaard have been recent incarnations of my computers.

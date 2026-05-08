@@ -18,4 +18,3 @@ You can get the [WordPress to Sitefinity tool here](https://github.com/Dillie-O/
 
 <!--more-->
 
-![sitefinity_logo.jpg](@assets/images/posts/2015-04-sitefinity_logo1.jpg)

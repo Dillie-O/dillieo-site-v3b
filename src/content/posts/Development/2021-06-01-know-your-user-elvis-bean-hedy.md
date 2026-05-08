@@ -22,8 +22,6 @@ While working on Project Moab, we encountered a really interesting, and nuanced 
 
 <!-- wp:image {"id":7124,"sizeSlug":"large","linkDestination":"media"} -->
 
-![](@assets/images/posts/2021-05-elvis-bean-hedy.png)
-
 <!-- /wp:image -->
 
 <!-- wp:embed {"url":"https:\/\/open.spotify.com\/episode\/0eli2DI5MQMiUCOHAsIG6w?si=e5apdFkxTVCNXECmXjCi6w","type":"rich","providerNameSlug":"spotify","responsive":true,"className":"wp-embed-aspect-21-9 wp-has-aspect-ratio"} -->

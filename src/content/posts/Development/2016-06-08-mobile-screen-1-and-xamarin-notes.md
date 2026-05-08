@@ -14,4 +14,3 @@ Things are really starting to move now!!!
 
 <!--more-->
 
-![PrayerOdyssey_Simulations](@assets/images/posts/2016-06-prayerodyssey_simulations.png)

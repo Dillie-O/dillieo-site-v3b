@@ -10,7 +10,7 @@ tags: [net-core, coding, entity-framework, migrations, npgsql, postgresql, seque
 
 <!-- wp:paragraph -->
 
-Recently I've been building out a .Net Core WebAPI microservice that talks to a PostgreSQL database. We're diving into the world of [HATEOS](https://en.wikipedia.org/wiki/HATEOAS) so we want to have a Url parameter that correlates to the Id of the record once it is created. Additionally, we're using Docker to better manage our deployments, so we want to be able to have this URL change when building the database in each environment as part of our Entity Framework migrations process.
+Recently I've been building out a.Net Core WebAPI microservice that talks to a PostgreSQL database. We're diving into the world of [HATEOS](https://en.wikipedia.org/wiki/HATEOAS) so we want to have a Url parameter that correlates to the Id of the record once it is created. Additionally, we're using Docker to better manage our deployments, so we want to be able to have this URL change when building the database in each environment as part of our Entity Framework migrations process.
 
 <!-- /wp:paragraph -->
 
@@ -27,8 +27,6 @@ It's a bit tricky, but doable. Here's how you get your "ducks in a row" in order
 <!-- /wp:more -->
 
 <!-- wp:image {"id":6801} -->
-
-![](@assets/images/posts/2019-04-ducks_tablemodel.png)
 
 <!-- /wp:image -->
 
@@ -73,7 +71,7 @@ In your ApplicationDbContext, modify (or create) your `OnModelCreating` override
 <!-- wp:preformatted -->
 
 ```
-// Autogenerate URL based on ID that has been generated.            modelBuilder.Entity<Duck>()<br>   .Property(b => b.Url)<br>   .HasDefaultValueSql("'" + urlBase + "' || currval('\"Ducks_id_seq\"')");
+// Autogenerate URL based on ID that has been generated.            modelBuilder.Entity<Duck>()<br>.Property(b => b.Url)<br>.HasDefaultValueSql("'" + urlBase + "' || currval('\"Ducks_id_seq\"')");
 ```
 
 <!-- /wp:preformatted -->
@@ -92,8 +90,7 @@ We need to set the `urlBase` parameter really quick for our script. Since we wan
 
 <!-- wp:preformatted -->
 
-```
-... {namespace and class declaration code} ...<br>private readonly IConfiguration _configuration;<br><br>public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options, IConfiguration configuration) : base(options)<br>{<br>   _configuration = configuration;<br>}<br><br>protected override void OnModelCreating(ModelBuilder modelBuilder)<br>{   <br>   var urlBase = _configuration["ApplicationUrlService"];<br><br>   ... {potential other code} ...<br><br>   // Autogenerate URL based on ID that has been generated.<br>   modelBuilder.Entity<Duck>()<br>      .Property(b => b.Url)<br>      .HasDefaultValueSql("'" + urlBase + "' || currval('\"Ducks_id_seq\"')");
+```... {namespace and class declaration code}...<br>private readonly IConfiguration _configuration;<br><br>public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options, IConfiguration configuration): base(options)<br>{<br>   _configuration = configuration;<br>}<br><br>protected override void OnModelCreating(ModelBuilder modelBuilder)<br>{   <br>   var urlBase = _configuration["ApplicationUrlService"];<br><br>... {potential other code}...<br><br>   // Autogenerate URL based on ID that has been generated.<br>   modelBuilder.Entity<Duck>()<br>.Property(b => b.Url)<br>.HasDefaultValueSql("'" + urlBase + "' || currval('\"Ducks_id_seq\"')");
 ```
 
 <!-- /wp:preformatted -->
@@ -104,9 +101,7 @@ Now we can run `dotnet ef migrations add AddUrlDefault` and we should be all set
 
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-
-...except that we aren't! If you open up the generated migration files for your project and look at our actions. You'll find something like this:
+<!-- wp:paragraph -->...except that we aren't! If you open up the generated migration files for your project and look at our actions. You'll find something like this:
 
 <!-- /wp:paragraph -->
 
@@ -133,7 +128,7 @@ Fortunately we can simply overwrite our generated script code to make it more dy
 <!-- wp:preformatted -->
 
 ```
-var urlBase = Environment.GetEnvironmentVariable("APPLICATION_URL_SERVICE"); <br><br>b.Property<string>("Url")<br>   .ValueGeneratedOnAdd()<br>   .HasColumnName("url")<br>   .HasDefaultValueSql("'" + urlBase + "' || currval('\"Ducks_id_seq\"')");<br>
+var urlBase = Environment.GetEnvironmentVariable("APPLICATION_URL_SERVICE"); <br><br>b.Property<string>("Url")<br>.ValueGeneratedOnAdd()<br>.HasColumnName("url")<br>.HasDefaultValueSql("'" + urlBase + "' || currval('\"Ducks_id_seq\"')");<br>
 ```
 
 <!-- /wp:preformatted -->
@@ -152,7 +147,7 @@ Rebuild your project, run `dotnet ef database update`, and check checkout the re
 
 <!-- wp:paragraph -->
 
-This nice thing about this is that you can expand this pattern to other fields as needed in the future. It is structured enough that you aren't doing too much custom coding of your architecture, and updating environment variables is much easier in .Net Core these days.
+This nice thing about this is that you can expand this pattern to other fields as needed in the future. It is structured enough that you aren't doing too much custom coding of your architecture, and updating environment variables is much easier in.Net Core these days.
 
 <!-- /wp:paragraph -->
 

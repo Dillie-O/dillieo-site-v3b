@@ -12,8 +12,6 @@ A couple years back, I outlined how you could get [Sitefinity](http://www.sitefi
 
 <!--more-->
 
-![sitefinity_logo1.jpg](@assets/images/posts/2015-09-sitefinity_logo11.jpg)
-
 ## Install Sitefinity
 
 Go ahead and install Sitefinity in your local dev environment as you normally would. There isn't anything particularly special you will need to do here.

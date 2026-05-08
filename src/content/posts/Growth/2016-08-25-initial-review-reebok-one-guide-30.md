@@ -12,8 +12,6 @@ Thanks to the generosity of [RAGNAR](https://www.runragnar.com) and [Reebok](htt
 
 <!--more-->
 
-![20160825_125014605_iOS](@assets/images/posts/2016-08-20160825_125014605_ios.jpg)
-
 ## Quick Summary
 
 **Rating: 4 out of 5**

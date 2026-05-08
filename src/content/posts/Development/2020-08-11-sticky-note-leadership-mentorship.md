@@ -22,8 +22,6 @@ I've been away from my office desk for a few months now, but when I was bringing
 
 <!-- wp:image {"id":6960,"sizeSlug":"large","ampLightbox":false} -->
 
-![](@assets/images/posts/2020-08-stickynote_mentorship.jpg)
-
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

@@ -12,4 +12,3 @@ I've been a little quiet online this week since I've been working on remodeling 
 
 <!--more-->
 
-![20160629_200232248_iOS](@assets/images/posts/2016-06-20160629_200232248_ios.jpg)

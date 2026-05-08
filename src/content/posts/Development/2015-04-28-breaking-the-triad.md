@@ -12,8 +12,6 @@ Well, I guess it was bound to happen, especially after I started blogging about 
 
 <!--more-->
 
-![](@assets/images/posts/2015-04-android-vs-iphone-vs-windows-phone1.jpg)
-
 For the past couple of year, I’ve enjoyed a “platform independence” by using a MacBook Pro laptop, Google Nexus 9 tablet, and Windows Phone 8 for my three main devices. I kind of went against my [own thoughts](http://evangelicaloutpost.com/archives/2012/08/which-walls-do-you-prefer.html) about picking a platform that works for you and sticking to it. It also allowed me dive a bit deeper into the various platforms to see their offerings and strengths.
 
 Soon things will be a little less diverse. By the end of the week I’ll be dropping my Windows Phone for an iPhone 6.

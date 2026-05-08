@@ -14,7 +14,7 @@ _Note: A lot of this is a duplicate of my [original post](/elmah-a-quick-start-t
 
 Elmah (Error Logging Modules and Handlers) provides an excellent way for you to get a basic logging mechanism into your web application in minutes. One of the beautiful things about Elmah is that it exists as it’s own module, so you can integrate it into an existing web application without having to do anything invasive to your existing code. Elmah gives you detailed information about each exception it logs, including a “snapshot” of the “yellow page of death” that was generated for further examination.
 
-Application logging is a great way to debug and maintain your application for its entire lifecycle. While there are numerous logging frameworks out there these days, Elmah . This article will give you a basic overview of the library and how you can integrate it into your projects quickly and easily.
+Application logging is a great way to debug and maintain your application for its entire lifecycle. While there are numerous logging frameworks out there these days, Elmah. This article will give you a basic overview of the library and how you can integrate it into your projects quickly and easily.
 
 <!--more-->
 
@@ -33,7 +33,7 @@ You can download Elmah from [their site](http://code.google.com/p/elmah/) in two
 - MySQL (arrives with version 1.2)
 - PostreSQL (arrives with version 1.2)
 
-Elmah can be used with any version of the .Net Framework from 1.1 and above and will run under medium trust using version 2.0 and above, which enables you to use Elmah on most hosted sites. This is a big help since a some logging frameworks require full trust in order to function properly.
+Elmah can be used with any version of the.Net Framework from 1.1 and above and will run under medium trust using version 2.0 and above, which enables you to use Elmah on most hosted sites. This is a big help since a some logging frameworks require full trust in order to function properly.
 
 ## Configuring Your Logging Environment
 
@@ -85,11 +85,7 @@ You shouldn't actually reach the view for this controller, but for good practice
 
 In order to view the log, you simply need to access the url http://[YOUR_LOCAL_URL]/Logs/elmah.axd. You’ll be greeted by a page similar to this:
 
-![ElmahMain](@assets/images/posts/2011-03-elmahmain_thumb.png)
-
-You can see how the basic details of the exceptions are displayed. Selecting the “Details” link displays a full dump of the exception in question:
-
-![ElmahDetail](@assets/images/posts/2011-03-elmahdetail1.png)
+You can see how the basic details of the exceptions are displayed. Selecting the “Details” link displays a full dump of the exception in question:![ElmahDetail](@assets/images/posts/2011-03-elmahdetail1.png)
 
 From here you should have nearly everything you need to debug an issue with your site. Elmah also provides an RSS feed of recent exceptions and a way of downloading the entire log into a CSV file, if you need to work with it in other ways.
 

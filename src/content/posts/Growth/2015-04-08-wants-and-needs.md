@@ -14,8 +14,6 @@ I think nearly every week I ask myself this question. The response is always var
 
 <!--more-->
 
-![](@assets/images/posts/2015-04-wantsandneeds.jpg)
-
 My grandfather once told me there are only 4 things you truly need in life:
 
 - Food

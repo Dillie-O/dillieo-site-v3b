@@ -12,8 +12,6 @@ As part of the goals for 2016, one of them is to “reface” my [Prayer Journal
 
 <!--more-->
 
-![](@assets/images/posts/2016-02-1454611227_1.png)
-
 For those of you not familiar, MVC stands for Model / View / Controller. For your typical application structured in this manner (very popular on the web right now) your application is broken down into three main components:
 
 Models - These are the objects or data points in your application. If you have an app with prayer records sitting in a database, you create a “Prayer” model that contains all of the properties that you have in the database. Models are pretty lightweight this way, though some frameworks prefer to have the actual CRUD methods (create, retrieve, update, delete) within the model classes as well.

@@ -14,8 +14,6 @@ Listening to the mysterious (and potentially haunting) music kept me thinking an
 
 <!--more-->
 
-![pi-music](@assets/images/posts/2016-03-pi-music.png)
-
 ### TLDR;
 
 Interestingly enough, converting pi to an octal base lends nicely to a standard 8 note scale and gives us lots of "tweaking" options through [Sonic Pi](http://sonic-pi.net/). Here's a key of Bb rendition (a HT to my tuba roots 8^D) of Pi.
@@ -36,4 +34,4 @@ Thanks to the amazing [Sonic Pi](http://sonic-pi.net/), there is already a quick
 
 The great thing about having a standard scale is that we can really start doing some additional tweaks to the output. What does pi sound like when its using a minor key. Do we want to try to and transpose it? Sonic Pi also has "beat machines" and other fun scripts to setup. I just might be able to make my "symphony" of sorts. Lots of options here.
 
-So for today, enjoy Pi music in the key of Bb ("B Flat") , giving a slight homage to my days as the "Tubanator". Note how using a more standardized scale gives the music a more "whimsical" feel. Is this true to form? I might have to double check my numbers a bit more. Who know's what's next down the pipe 8^D
+So for today, enjoy Pi music in the key of Bb ("B Flat"), giving a slight homage to my days as the "Tubanator". Note how using a more standardized scale gives the music a more "whimsical" feel. Is this true to form? I might have to double check my numbers a bit more. Who know's what's next down the pipe 8^D

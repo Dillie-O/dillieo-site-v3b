@@ -12,8 +12,6 @@ Last week I spent an amazing vacation with my family out in the Texas country. P
 
 <!--more-->
 
-![](@assets/images/posts/2015-06-20150615_205222341_ios.jpg)
-
 ### Music
 
 This is a great time to sneak in some new music for the kids. Amidst some of their favorite songs I also snuck in some Chick Corea, B.B. King, U2, Louie Armstrong, Gustav Holst, YoYo Ma and a few others. They actually enjoyed some of it too 8^D. We also discovered that 6GB worth of data on your cellular network can get burned up pretty fast when you’re streaming constantly, so make sure to download it to your phone or MP3 player instead 8^D.

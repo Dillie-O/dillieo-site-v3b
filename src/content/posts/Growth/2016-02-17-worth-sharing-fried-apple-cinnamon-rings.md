@@ -12,8 +12,6 @@ This is a complete HT (hat tip) to [Tip Hero](http://tiphero.com), but I had to 
 
 <!--more-->
 
-![](@assets/images/posts/2016-02-1455720416_1.jpg)
-
 ### 1 - Prep Apples
 
 Take 3 to 4 apples and cut them horizontally into rings (you’ll see the “apple star” in the middle of it). Then use a cookie cutter to cut out the middles and make rings. Place them between two sheets of paper towels and press lightly to get some of the excess moisture out of them. Set them aside to dry out a little more.

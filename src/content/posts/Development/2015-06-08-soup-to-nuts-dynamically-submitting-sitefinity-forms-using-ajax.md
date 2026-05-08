@@ -8,7 +8,7 @@ category: Development
 tags: [ajax, api, coding, forms, rest, sitefinity]
 ---
 
-Sitefinity has a nice forms module baked right into the system. Within a few steps you can easily setup your basic questions, add it to a page, and track the results. You can even get e-mail notifications when a new form item is submitted, should you choose. However, the one downside to the forms module is that out of the box, a from is submitted through your typical .Net PostBack method, and there is no setting to make the form submit via AJAX. Sitefinity boasts about how web service friendly the platform is and that how a lot of modules in the system are already “WCF enabled”. By digging into these, we make our forms submit over a standard REST web service call.
+Sitefinity has a nice forms module baked right into the system. Within a few steps you can easily setup your basic questions, add it to a page, and track the results. You can even get e-mail notifications when a new form item is submitted, should you choose. However, the one downside to the forms module is that out of the box, a from is submitted through your typical.Net PostBack method, and there is no setting to make the form submit via AJAX. Sitefinity boasts about how web service friendly the platform is and that how a lot of modules in the system are already “WCF enabled”. By digging into these, we make our forms submit over a standard REST web service call.
 
 <!--more-->
 
@@ -22,8 +22,6 @@ Please note that in the example below, I’m not demonstrating the “multi-step
 
 We’ll start by creating a simple form. I’ve gone into Sitefinity and created a simple form called “Test Questions.” I added two multiple choice questions: “What is your favorite color?” and “What is your favorite food?”. Once the form was complete, I added it to a test page, and went through it a couple of times so I could generate some responses. You’ll notice that one submission doesn’t have a username attached to it, that is because I made sure to log out to verify the form was accessible.
 
-![](@assets/images/posts/2015-06-formresponses.png)
-
 ### Analyze Form Elements
 
 Now that we have a form with some answers in place, we can take advantage of the FormsService.svc file that Sitefinity already has in place. You’ll find that if you load up the
@@ -32,13 +30,9 @@ Now that we have a form with some answers in place, we can take advantage of the
 /Sitefinity/Services/Forms/FormsService.svc/help
 ```
 
-page in your browser, you’ll get a basic definition file of the various actions available in the service, but it isn’t too much help. The best place look in in the admin panel itself. It’s leveraging the WCF services to do basic form interaction. Open up your web browser of choice (I’ve been quite happy with [Firefox Developer Edition](/a-new-devtool-on-the-block) lately), load up the “Network” inspector, and navigate to the main forms page. You’ll see something like this:
+page in your browser, you’ll get a basic definition file of the various actions available in the service, but it isn’t too much help. The best place look in in the admin panel itself. It’s leveraging the WCF services to do basic form interaction. Open up your web browser of choice (I’ve been quite happy with [Firefox Developer Edition](/a-new-devtool-on-the-block) lately), load up the “Network” inspector, and navigate to the main forms page. You’ll see something like this:![](@assets/images/posts/2015-06-fromlistajax.png)
 
-![](@assets/images/posts/2015-06-fromlistajax.png)
-
-You’ll notice that the URL is rather lengthy. I’ve tried omitting most of the parts of that in the past, but I think due to the backend requirements (OData backend I suspect) we need that all in there. To work with the API requests a little better, I use the [PostMan](https://www.getpostman.com) tool. It’s a Chrome standalone tool and is very powerful. We’ll generate a GET request in PostMan and we can look at the results:
-
-![](@assets/images/posts/2015-06-formlistpostman.png)
+You’ll notice that the URL is rather lengthy. I’ve tried omitting most of the parts of that in the past, but I think due to the backend requirements (OData backend I suspect) we need that all in there. To work with the API requests a little better, I use the [PostMan](https://www.getpostman.com) tool. It’s a Chrome standalone tool and is very powerful. We’ll generate a GET request in PostMan and we can look at the results:![](@assets/images/posts/2015-06-formlistpostman.png)
 
 You’ll notice that we have added “Basic Auth” to the request. Some of the REST API methods require authentication to proceed. While we could copy the FormsService.svc file into the public folder in Sitefinity, I decided instead to create a basic FormSubmitter user with limited access to the site and simply encrypt the credentials into the request.
 
@@ -48,9 +42,7 @@ Now that we have the list of forms, we can take the Id of our form and get the l
 /Sitefinity/Services/Forms/FormsService.svc/entries/sf_testquestion/?managerType&providerName&itemType=Telerik.Sitefinity.DynamicTypes.Model.sf_testquestion&provider=OpenAccessDataProvider&sortExpression=Title ASC&skip=0&take=50
 ```
 
-While we were able to get away with not having the manager/provider/etc values in the form listing, you will need them to get the listing of form entries. You’re results will look something like this:
-
-![](@assets/images/posts/2015-06-formspecificentry1.png)
+While we were able to get away with not having the manager/provider/etc values in the form listing, you will need them to get the listing of form entries. You’re results will look something like this:![](@assets/images/posts/2015-06-formspecificentry1.png)
 
 Here you see the structure of each form entry. It’s a lot more complex than the two simple questions we provided when we created the form. You’ll see the two core questions/answers are there under variable names “FormMultipleChoice_C001” and “FormMultipleChoice_C003” variables. You can go back in and make these variable names “friendlier” through the advanced settings if you desire.
 
@@ -80,9 +72,7 @@ Notice that our Id field in the URL is now a generic/blank GUID of all 0s. Simil
 { "Item": { "FormMultipleChoice_C001": "Green", "FormMultipleChoice_C003": "Italian", "Id": "00000000-0000-0000-0000-000000000000", "IpAddress": "", "Language": null, "Owner": "00000000-0000-0000-0000-000000000000", "PublicationDate": "\\/Date(1433462770643)\\/", "ReferralCode": "2", "SourceSiteDisplayName": "Default", "SourceSiteId": "d228cecf-4076-41c6-a8f2-d1b41ffb84a6", "SourceSiteName": "Default", "Status": 2, "SubmittedOn": "\\/Date(1433462770657)\\/", "Title": { "PersistedValue": "", "Value": "" }, "Username": "", "Visible": false }, "ChangedRelatedData": null, "ItemId": "00000000-0000-0000-0000-000000000000", "AdditionalUrlNames": null, "AdditionalUrlsRedirectToDefault": false, "AllowMultipleUrls": false, "DefaultUrl": null, "ItemType": "Telerik.Sitefinity.DynamicTypes.Model.sf_testquestion", "LastApprovalTrackingRecord": null, "LifecycleStatus": null, "PublicationSettings": null, "VersionInfo": null }
 ```
 
-When you submit this PUT request to the API. The API will note the “empty” GUID and generate a new form request. The response will be a 200 status code and a copy of the new form entry object, with the Id updated to include the new GUID generated. If you go into the admin panel. You’ll see it in the list:
-
-![](@assets/images/posts/2015-06-formsubmitted.png)
+When you submit this PUT request to the API. The API will note the “empty” GUID and generate a new form request. The response will be a 200 status code and a copy of the new form entry object, with the Id updated to include the new GUID generated. If you go into the admin panel. You’ll see it in the list:![](@assets/images/posts/2015-06-formsubmitted.png)
 
 ### Submit via AJAX
 

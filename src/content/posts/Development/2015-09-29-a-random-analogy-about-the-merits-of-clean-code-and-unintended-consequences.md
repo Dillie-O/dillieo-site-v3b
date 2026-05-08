@@ -16,8 +16,6 @@ I picked up a phono preamp on Amazon so that our turntable would have a strong e
 
 Working on the fly, I was looking for something that would convert my RCA audio output to the 3.5mm (headphone jack) input required by the speakers. I went to my drawer and pulled out the AV cable we use for our Roku box on occasion.
 
-![](@assets/images/posts/2015-09-roku_av_cable1.jpg)
-
 Since there was no “video” signal from the record player, I simply didn’t bother to put anything on there. The plug fit, the audio connections were there, and things were working.
 
 Well, not exactly. The sound was barely audible coming out of the speakers (even at full volume) and there was a buzzing noise clearly heard, especially if the subwoofer was turned up. It turns out that even though there was no video signal, the connector was causing some noise on the line with some drastic consequences. I purchased a proper cable, plugged things in, and voila, things were soundingly beautiful.

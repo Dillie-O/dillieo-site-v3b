@@ -12,8 +12,6 @@ As I had mentioned a couple weeks back, I’ve started [making my own bacon](/ye
 
 <!--more-->
 
-![](@assets/images/posts/2015-08-1_20150808_163810547_ios.jpg)
-
 This time, I tried a molasses / apple cider vinegar recipe provided by [Alton Brown](http://altonbrown.com) in his “[Scrap Iron Chef](http://www.foodnetwork.com/recipes/alton-brown/scrap-iron-chefs-bacon-recipe.html)” recipe. I cut the recipe in half since I only had half the bacon and I was a smidge short on the apple cider vinegar, but nothing that seemed like it would be an issue.
 
 After three days of curing, I pulled the slab out out, patted it dry, and gave it a slight rinse. Since I didn’t have access to a smoker right away (might have to rig the grill up one time for this) I went ahead and froze the bacon for about 30 minutes to help make it slice easier, and then cooked away (using the oven technique).

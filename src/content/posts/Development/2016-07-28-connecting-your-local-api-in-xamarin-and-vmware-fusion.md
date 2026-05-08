@@ -12,8 +12,6 @@ As I’m working through my [Prayer Odyssey](http://www.prayerodyssey.com) proje
 
 <!--more-->
 
-![xamarin-logo](@assets/images/posts/2016-04-xamarin-logo.jpg)
-
 ## TLDR;
 
 For those of you that like the “quick read” here’s the diagnosis. You need to get the IP address of your virtual machine and add it to your hosts file so that your mobile app knows where to connect. In addition, Windows Firewall has your standard HTTP ports blocked by default, so you need to open them up.
@@ -24,29 +22,21 @@ When you setup Xamarin in Visual Studio you also configure a bridge tool that al
 
 It’s not hard to connect to the VM, you just need the IP address of the virtual machine after it boots up. VMWare Fusion provides a handy tool named “vmrun” that is located in the /Applications/VMware\\ Fusion.app/Contents/Library/ folder. If this location isn’t already in your path, you can easily add it, or provide an alias (which I’ve done) From there you can run the command...
 
-```vmrun list```
-
-...to get a list of the virtual machine running. Once you see your VM in the list, you can get the IP address by passing the name into the getGuestIPAddress command...
+```vmrun list```...to get a list of the virtual machine running. Once you see your VM in the list, you can get the IP address by passing the name into the getGuestIPAddress command...
 
 ```vmrun getGuestIPAddress [PATH_TO_VM]```
 
-Then you’ll see the IP address of your VM.
+Then you’ll see the IP address of your VM.![](@assets/images/posts/2016-07-xamarin_guest_ip.png)
 
-![](@assets/images/posts/2016-07-xamarin_guest_ip.png)
-
-From here, simply update your hosts file to include the IP address and the URL of your API in your VM (api.prayerodyssey.dev), and you’re set. Are you still running your API out of localhost? You might want to reconfigure your web/api project to use a custom .dev domain name, which you can do by [following these directions](/soup-to-nuts-custom-domains-and-ssl-in-iis-express).
+From here, simply update your hosts file to include the IP address and the URL of your API in your VM (api.prayerodyssey.dev), and you’re set. Are you still running your API out of localhost? You might want to reconfigure your web/api project to use a custom.dev domain name, which you can do by [following these directions](/soup-to-nuts-custom-domains-and-ssl-in-iis-express).
 
 ## Open the VM Web Port
 
 Sure you can ping your virtual machine now, but you’re still not getting to the API or website. The reason for this is that by default IIS Express is closed to external traffic. The next step is to add a firewall rule to allow inbound port 80 and 443 (in the event you’re testing SSL) traffic.
 
-To start, open the Windows Firewall, and then select “Advanced Settings"
+To start, open the Windows Firewall, and then select “Advanced Settings"![](@assets/images/posts/2016-07-xamarin_firewall_1.png)
 
-![](@assets/images/posts/2016-07-xamarin_firewall_1.png)
-
-From there, select “Inbound Rules” on the left and then select “New Rule…” on the right
-
-![](@assets/images/posts/2016-07-xamarin_firewall_2.png)
+From there, select “Inbound Rules” on the left and then select “New Rule…” on the right![](@assets/images/posts/2016-07-xamarin_firewall_2.png)
 
 In the window that opens up, go through the following steps:
 
@@ -61,9 +51,7 @@ Once that is done, you should be all set.
 
 Test Away!
 
-Now that we can direct our requests to the VM machine and we have the ports open, you can fire up your browser and check things are working.
-
-![](@assets/images/posts/2016-07-xamarin_dev.png)
+Now that we can direct our requests to the VM machine and we have the ports open, you can fire up your browser and check things are working.![](@assets/images/posts/2016-07-xamarin_dev.png)
 
 Similarly, if you relaunch your mobile app in the iOS simulator, it’ll be able to connect to the API in your VM and work as intended.
 

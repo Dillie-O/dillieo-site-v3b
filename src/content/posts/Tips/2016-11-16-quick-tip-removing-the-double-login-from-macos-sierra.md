@@ -16,4 +16,3 @@ To fix it: I disabled FileVault and re-enabled it again, but used a GUID generat
 
 <!--more-->
 
-![quick-tips.jpg](@assets/images/posts/2015-01-quick-tips.png)

@@ -14,8 +14,6 @@ An interesting question was posed at bible study this week...
 
 <!--more-->
 
-![](@assets/images/posts/2015-05-drops.jpg "Dreary rainy day or beautiful inspection of unique water droplets?")
-
 This question took me off guard. Paul was in prison several times throughout his ministry. Prison is no fun (at least I can only imagine) and the ability to go to the world and spread the gospel was hindered. I suspect the person asking us this smiled inwardly since I wager most of us had this perplexed look on our face.
 
 He paused for a moment and then continued. Paul wrote four of his letters while in prison. He had plenty of time and resources in which to pen these profound letters, something he might have not if he was traveling and preaching. He had a captive audience while in the jail in which to connect and share the gospel with. This was the case in Phillipi when he ministers to the jailer after the earthquake.

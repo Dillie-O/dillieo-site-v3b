@@ -12,8 +12,6 @@ You've probably heard of "deep linking" when it comes to mobile apps. These are 
 
 <!--more-->
 
-![deep_linking_mobile1-249x300](@assets/images/posts/2016-04-deep_linking_mobile1-249x300.png)
-
 On one hand, deep links are pretty simple. You can install your mobile app and have it register a URI handler so that while "HTTP://" launches the web browser, "EPICAPP://" will launch your new epic app. You can add your own paths beyond that, for account activation, load an item, whatever you want.
 
 The problem (as it came to full fruition today) is that a lot of mobile mail reading apps (I'm looking at you Gmail) will strip out that URI prefix because it isn't recognized as a "standard" one. As a result, your deep link are effectively nerfed since you'll lose a good chunk of your users.
@@ -30,7 +28,7 @@ Route::group(['prefix' => 'mobile'], function()
 {
     Route::get('activate/{userId}/{key}', function($userId, $key) 
     { 
-        return Redirect::to('epicapp://activate/key?userId=' . $userId . '&key=' . $key); 
+        return Redirect::to('epicapp://activate/key?userId='. $userId. '&key='. $key); 
         die(); 
     }); 
 });

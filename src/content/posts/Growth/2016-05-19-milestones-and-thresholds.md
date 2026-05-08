@@ -12,8 +12,6 @@ Today I finished another 7 mile run in my ongoing RAGNAR training for July. My b
 
 <!--more-->
 
-![20160519_125933274_iOS](@assets/images/posts/2016-05-20160519_125933274_ios.jpg)
-
 My body was pretty exhausted and my legs were feeling particularly sore. However, some stretching, water, and a shower later, and my spirit was telling me, "Hey let's go do another 5 miles" and my body was telling me, "Yeah, It think we can manage that."
 
 This is a good threshold for me. It means I'm doing some hard training, but not so much that I completely destroy my body for the rest of the day, or for the next run that comes up. I can really do some good base building and potentially a little more speed training, though I'm not looking to do that quite yet.

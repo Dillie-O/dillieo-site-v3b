@@ -14,4 +14,3 @@ In the end, it's a bit of a pain, but worthwhile to simply flush the partition a
 
 <!--more-->
 
-![quick-tips.jpg](@assets/images/posts/2015-01-quick-tips.png)

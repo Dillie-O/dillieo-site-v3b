@@ -82,8 +82,6 @@ From here, we update our WarnTimeout method in our JavaScript file to include th
 
 You're all set! Build the app, navigate to the page and wait for the notification to appear:
 
-![TimeoutSampleToolkit](@assets/images/posts/2011-04-timeoutsampletoolkit.png)
-
 ## Warning Box using jQuery
 
 The jQuery and jQueryUI libraries already have a modal dialog plugin that operates simple as well. After downloading the two libraries and placing them within your application (don't forget the image files that comes as part of jQueryUI) make sure to reference them accordingly.
@@ -100,9 +98,7 @@ Then we add a div section to the bottom of the page, before the closing &lt;form
 
 Finally, we update our WarnTimeout method in our JavaScript file to include the following method to trigger our modal popup:
 
-You're all set! Build the app, navigate to the page and wait for the notification to appear:
-
-![TimeoutSamplejquery](@assets/images/posts/2011-04-timeoutsamplejquery.png)
+You're all set! Build the app, navigate to the page and wait for the notification to appear:![TimeoutSamplejquery](@assets/images/posts/2011-04-timeoutsamplejquery.png)
 
 ## Conclusion
 

@@ -12,8 +12,6 @@ I've never been much of a history kind of reader, but having heard good things a
 
 <!--more-->
 
-![killing_patton_cover](@assets/images/posts/2016-06-81nulpeybnl.jpg)
-
 I found the book very heavy, but fascinating to read. There were a lot of details poured into some of the most significant battles of World War II that gave a deeper picture of what was going on. There was a lot of backstory that I had never heard about in my history classes, and I enjoyed it a lot. I also was reminded of the atrocities of war and of Hitler, which made for some rough reading in some pages.
 
 The overall structure of the book played out like a narrative of the events of World War II after D-Day. You would be introduced to a battle, some of the main people, and how things were playing out. Having the benefit of history and lots of research behind us, the narrative would pivot over to discuss the background of a person and how they wound up in charge of a specific division. It may shift to the backstory of why the Germans were defending (or attacking) a particular city to begin with. All of this deepens the story more, adds more insight, and allows you to identify more with the people you are reading about.

@@ -8,13 +8,11 @@ category: Growth
 tags: [balance, blogging, henri-nouwen, life, random, spiritual-formation]
 ---
 
-_Simply write about the first thing that comes to your mind .... NOW!_
+_Simply write about the first thing that comes to your mind.... NOW!_
 
 It’s not that I necessarily have writers block at times, it’s just that soemtimes I get too worried about what I’m going to write, and one of the best blogging times was early in the “[10 days to a better blog](/10-day-retrospective)” series I did where I was to simply “just write”.
 
 <!--more-->
-
-![1452865048_1.jpeg](@assets/images/posts/2016-01-1452865048_1.jpg)
 
 Powerball mania has come and gone again and admittedly I was sucked into it. I only spent a whopping 12 bucks total, but it made me start to wonder where the tipping point is at where things get exponential in purchasing. This small town had a few lines outside of the convenience stores and you could hear people talking about it. Now that are winner and things are back to normal, I’ll forget about it again, and think about what if those numbers from Lost are powerful enough. 8^D
 

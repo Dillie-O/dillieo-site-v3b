@@ -14,4 +14,3 @@ tags: [life]
 
 <!--more-->
 
-![ThanksgivingTable.jpg](@assets/images/posts/2010-11-thanksgivingtable.jpg)

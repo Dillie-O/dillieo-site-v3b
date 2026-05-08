@@ -14,8 +14,6 @@ For a LOT of spoilers (and my own thoughts) keep reading...
 
 <!--more-->
 
-![](@assets/images/posts/2015-12-force-awakens-poster-featured1.jpg)
-
 I’m no movie critic, so instead of laying out a crafted plot review/summary, I’m just going to go through the topics that come to mind (in no particular order) after having seen this movie twice (hopefully a few more times in the theatre to boot 8^D)
 
 ### Opening Sequence

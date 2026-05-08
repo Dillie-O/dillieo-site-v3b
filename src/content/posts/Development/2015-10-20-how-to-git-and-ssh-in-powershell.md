@@ -12,8 +12,6 @@ Recently Microsoft announced that they will be working with the OpenSSH project 
 
 <!--more-->
 
-![](@assets/images/posts/2015-10-1_win10x64-vairocina.png)
-
 ## Step 1: Install Chocolatey
 
 The first step is to get the [chocolately package manager](https://chocolatey.org) installed if you haven’t done so already. Chocolatey makes it super easy to install the libraries we need, as well as a bunch of other things. Once installed, you’ll need to start up PowerShell as an administrator. For whatever reason you can’t install packages without being an admin. In addition, we’ll want to unrestrict our account so that we can run any PowerShell scripts we want. To do that we execute the following command at the prompt:
@@ -38,7 +36,7 @@ Since we're going to be running our own PowerShell scripts, we need to modify th
 
 You'll be asked to confirm this, and do so. After that you can close the PowerShell and continue.
 
-There are two main scripts we need to register with our PowerShell session. The first one is the SSH agent utilities script. This is a set of functions that ties in the SSH executable installed with Git to be accessible from PowerShell. I take no credit for this one. [Mark Embling](http://markembling.info) did a fabulous job with this (6 years later and they still function fine) and you can get it [here](https://gist.github.com/markembling/187305). Once you’ve downloaded the .ps1 file, save it to your {UserId}\\Documents\\WindowsPowerShell folder.
+There are two main scripts we need to register with our PowerShell session. The first one is the SSH agent utilities script. This is a set of functions that ties in the SSH executable installed with Git to be accessible from PowerShell. I take no credit for this one. [Mark Embling](http://markembling.info) did a fabulous job with this (6 years later and they still function fine) and you can get it [here](https://gist.github.com/markembling/187305). Once you’ve downloaded the.ps1 file, save it to your {UserId}\\Documents\\WindowsPowerShell folder.
 
 The second script is the one to add Git to your environment, register SSH Agent Utils, and get your PoshGit prompt running. You can save this script to a separate file and call it if you prefer, but I simply overwrite my existing Microsoft.PowerShell_profile.ps1 file with the following:
 
@@ -54,7 +52,7 @@ Now save the script and restart PowerShell. When you startup, you should see a c
 
 ## Step 4: Generate your SSH Key
 
-The final step is to generate your SSH key. By default the SSH scripts look for a .ssh folder in the user’s home directory. If you haven’t done so yet, at the PowerShell prompt, execute the following commands:
+The final step is to generate your SSH key. By default the SSH scripts look for a.ssh folder in the user’s home directory. If you haven’t done so yet, at the PowerShell prompt, execute the following commands:
 
 ```mkdir ~/.ssh cd ~/.ssh ssh-keygen```
 

@@ -8,11 +8,11 @@ category: Development
 tags: [net, coding, identity, role, token, user, webapi]
 ---
 
-In my [Zurb For Applications .Net Scaffolding](/sharing-the-love-zurb-foundation-for-apps-scaffolding-for-net-with-authentication), I setup a base .Net WebAPI project that uses oAuth tokens for a better form of authentication in a single page application model. Since the token provides any details about the user that you want to encode, here’s a quick trick to expose the User.Identity.Name and User.IsInRole methods to improve the authentication and authorization capabilities within your app.
+In my [Zurb For Applications.Net Scaffolding](/sharing-the-love-zurb-foundation-for-apps-scaffolding-for-net-with-authentication), I setup a base.Net WebAPI project that uses oAuth tokens for a better form of authentication in a single page application model. Since the token provides any details about the user that you want to encode, here’s a quick trick to expose the User.Identity.Name and User.IsInRole methods to improve the authentication and authorization capabilities within your app.
 
 <!--more-->
 
-![](@assets/images/posts/2015-02-quicktip_useridentitytoken1.png) The trick comes in the GrantResourceOwnerCredentials method that is used to verify the credentials and add return the oAuth context for the user logging in. Typically you see a new claim record created as such:
+ The trick comes in the GrantResourceOwnerCredentials method that is used to verify the credentials and add return the oAuth context for the user logging in. Typically you see a new claim record created as such:
 
 ```cs
 var identity = new ClaimsIdentity(context.Options.AuthenticationType); 

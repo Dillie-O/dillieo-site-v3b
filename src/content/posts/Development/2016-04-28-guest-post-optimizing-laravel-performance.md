@@ -14,4 +14,3 @@ I have a post over at my company's blog today regarding optimizing Laravel. Chec
 
 <!--more-->
 
-![laravel-logo-big](@assets/images/posts/2016-04-laravel-logo-big.png)

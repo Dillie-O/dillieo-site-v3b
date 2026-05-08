@@ -12,8 +12,6 @@ Well, it's been a week since I first reported the [potential of HashOcean being 
 
 <!--more-->
 
-![bitcoin-scam-alert](@assets/images/posts/2016-07-bitcoin-scam-alert.jpg)
-
 After a relaxing weekend I went to log in to check how my bitcoin mining fared over the weekend. I wasn't expecting any major spikes, but I was looking to either withdrawal my small amount of profits or reinvest it again. Oddly enough the website wasn't responding. Up to this point the communication stream from HashOcean had been pretty minimal. They had a Twitter and Facebook account, but they were mainly for small updates or marketing, so I figured I would try out Twitter, since it tends to have a more "geekish" pulse on these types of things.
 
 Surprisingly enough, there was already a fair amount of chat in twitter regarding the issue. The site had already been down for a couple of days. Worse than that, the FaceBook had gone down and the Twitter account was unresponsive. Lots of tweets were already denouncing HashOcean as a scam, having stolen approximately \$50M worth of bitcoin from roughly 700,000 people right before the [bitcoin halving](http://www.coindesk.com/making-sense-bitcoins-halving/) was to take place. This was a Ponzi scheme from the beginning and the culprits were cashing out and running.

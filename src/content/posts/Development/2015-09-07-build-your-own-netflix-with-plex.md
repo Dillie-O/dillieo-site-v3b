@@ -12,21 +12,15 @@ We have a decently sized collection of DVDs. It’s large enough that often time
 
 <!--more-->
 
-![](@assets/images/posts/2015-09-plex-logo1.jpg)
-
 ### Get It!
 
 [Plex](http://plex.tv) is a FREE media server platform that is available for nearly any device you can imagine. The server itself doesn’t have any crazy requirements. I installed it on an old Windows 7 machine that was sitting in the garage. You can [download](https://plex.tv/downloads) the server app for Windows, Mac, Linux, FreeBSD, and even NAS devices. The biggest concern you’ll have is storage space for your media, but there are plenty of options for that (see below). Setup was easy. A couple of clicks and I was done.
 
 ### Add Your Media!
 
-Once you’ve installed the server, you can launch the server admin tool, which loads up in a web browser. Clicking the + icon in the sidebar will allow you to add a new library to the system.
+Once you’ve installed the server, you can launch the server admin tool, which loads up in a web browser. Clicking the + icon in the sidebar will allow you to add a new library to the system.![](@assets/images/posts/2015-09-6_5_4_3_2_1_plex-admin.jpg)
 
-![](@assets/images/posts/2015-09-6_5_4_3_2_1_plex-admin.jpg)
-
-You have variety of libraries to add: movies, tv shows, home movies, music, photos.
-
-![](@assets/images/posts/2015-09-4_3_2_1_plex-libraries.jpg)
+You have variety of libraries to add: movies, tv shows, home movies, music, photos.![](@assets/images/posts/2015-09-4_3_2_1_plex-libraries.jpg)
 
 Next you select a folder where that type of media is stored and Plex does the rest! For items like movies, Plex will analyze the movie and try to provide “cover” images that you see in the first screen shot. Plex recommends that you follow their [naming guidelines](https://support.plex.tv/hc/en-us/categories/200028098-Media-Preparation) in order best integrate with the server, but it will work with what it can. I took the time to rename all of my movie files and I think it was worth it. I already had my music stored in artist/album/track type format, so I didn’t change that up. Depending on the size of your library, this may take a while. You can still watch your movies while things are indexing, but depending on your computer, there maybe a little bit of stuttering
 
@@ -40,9 +34,7 @@ Once your media is all set, now you can watch/listen to it! This is where you ex
 
 **Mobile:** Plex offers a standalone apps for both [Android](https://plex.tv/android) and [iOS](https://plex.tv/ios). This gives you a convenient way to watch your movies on your tablet, and even Chromecast them to your TV if you happen to have one. These apps will cost you \$5 per device, but that isn’t too bad if you’re only running a single device or are using a shared account.
 
-**Roku:** Our preferred means of interacting with our movies is through our [Roku Box](https://www.roku.com). We already have Netflix and Hulu on it, so adding a Plex channel was easy to do. After a one month trial, we were required to pay a one time \$5 fee to unlock things permanently. Since the fee is tied to the Roku account, we were able to add the Plex channel to our other Roku in the bedroom without a second fee.
-
-![](@assets/images/posts/2015-09-3_2_1_20150907_150721661_ios.jpg)
+**Roku:** Our preferred means of interacting with our movies is through our [Roku Box](https://www.roku.com). We already have Netflix and Hulu on it, so adding a Plex channel was easy to do. After a one month trial, we were required to pay a one time \$5 fee to unlock things permanently. Since the fee is tied to the Roku account, we were able to add the Plex channel to our other Roku in the bedroom without a second fee.![](@assets/images/posts/2015-09-3_2_1_20150907_150721661_ios.jpg)
 
 **Plex Pass:** For those of you that are REALLY into your personal media options, Plex has a ton of features available. If you purchase a [Plex Pass](https://plex.tv/subscription/about) (\$15 a month), you unlock access to any device you want for viewing. In addition, you can have your plex box available over the web, so you can view your movies while you’re away from home, without having to download them. The Plex server is smart enough to transcode the movies on the fly based on your device, so you’re not sending down a huge 1080p large resolution movie to your 7 inch tablet that is going to ignore most of those bits and potentially stutter anyway. I haven’t found the need for the Plex Pass myself, but down the road it may be worthwhile.
 

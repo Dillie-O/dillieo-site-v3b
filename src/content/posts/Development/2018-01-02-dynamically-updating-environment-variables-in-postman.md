@@ -12,8 +12,6 @@ If you haven't used [Postman](https://www.getpostman.com) yet for your general d
 
 <!--more-->
 
-![quicktip](@assets/images/posts/2018-01-quicktip.jpg)
-
 As you may know, Postman includes this amazing feature called "environments". This allows you to setup variables that you can add into your API requests to make things easier. For example, you may have a variable called "server" in which you put the destination server to call. By doing this through environments, you can have one address, {{server}}/auth/login, but then simply reconfigure the server value to match the environment your in. No more copy/paste or retype nightmares.
 
 Taking this one step further, Postman ALSO has a pre-request and post-request (also known as test) scripting possible This allows you to either do some advanced prep work before making your request, or do some testing of your API request to make sure things actually ran smoothly instead of having to inspect the details.

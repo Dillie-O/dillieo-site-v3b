@@ -12,4 +12,3 @@ I noticed my Developer's Toolkit was very outdated and needed a refresh. Have a 
 
 <!--more-->
 
-![](@assets/images/posts/2015-02-tools.jpg)

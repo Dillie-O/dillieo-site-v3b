@@ -22,39 +22,29 @@ With that said, here’s what I would recommend as a “watching order” if you
 
 ### Spirited Away
 
-![](@assets/images/posts/2015-11-spirited-away-1.jpg)
-
 This was the first Miyazaki film I ever saw. I think for a lot of people it was their first as well, since it won an Academy award for best animated film back in 2001. This is the story of a girl named Chihiro who is moving to the suburbs with her parents and a little scared about it all. They make a wrong turn and come across a seemingly vacant town, but it turns to life with ghosts, spirits, and a talking frog at night. Chihiro’s parents have vanished and now she is stuck here, not sure of what to do or how to get back to her parents. The journey she takes is full of wonder and personal growth and she works through it all.
 
 I still remember the night my wife and I watched this film on the couch with a friend who was introducing us to all of this. All things that I love about these films immediately became apparent and we were immediately seeking out to get anything else he had made.
 
-### My Neighbor Totoro
-
-![](@assets/images/posts/2015-11-my-neighbor-totoro-full_-34268.jpg)
+### My Neighbor Totoro![](@assets/images/posts/2015-11-my-neighbor-totoro-full_-34268.jpg)
 
 Admittedly this movie isn’t necessarily as profound as most of his other films, but it is still my favorite. Two girls move out to the countryside with their father so that they can be closer to their mother, who has been in the hospital for a while. They have moved next to a ancient tree, and in there lives a giant troll, or a “totoro” (in Japanese). The daughters befriend the totoros and have some magical adventures together.
 
 In a lot of ways I like the simplicity of this movie involved. There isn’t a lot of complex plotlines, and the tototro is just a cute looking thing. I admire the bond that the daughters share, despite their age, and also enjoy the “big sister / little sister” growth that they are sharing together. Their mother’s illness isn’t focused on a lot in the movie, but there are plenty of scenes where you get the feeling that it is still very real in their lives. This was the first movie my girls saw, and watched again, and several more times that first week. 8^D
 
-### Castle in the Sky
-
-![laputa.png](@assets/images/posts/2015-11-laputa.jpg)
+### Castle in the Sky![laputa.png](@assets/images/posts/2015-11-laputa.jpg)
 
 In a world full of flying machines (a gorgeous visual display in itself), a simple boy with big dreams named Pazu is whisked into a world of conflict and ambition when a mysterious girl floats down to here one day. While she isn’t sure herself of who she is, it is rumored that she is the last descendent of a people from Laputa, so advanced that they had a full land living in the clouds. Pazu remembers his late father saying he once saw a “castle in the sky” though nobody believed him. He sets out to protect her from both the military and secret organizations and see if this castle really exists.
 
 This movie is my wife’s favorite. Again isn’t hard not to get lost in the beauty of the animation. This film has a bit of a “steampunk” like look to it, with the airships powered by coal/steam and not fancy jet engines. It also provides some good insights and discussion about how far technology can go to help (or ruin) us.
 
-### Nausicaä of the Valley of the Wind
-
-![](@assets/images/posts/2015-11-nausicaa-wall.jpg "Nausicaa and the Ohm")
+### Nausicaä of the Valley of the Wind![](@assets/images/posts/2015-11-nausicaa-wall.jpg "Nausicaa and the Ohm")
 
 Most people consider this Miyazaki’s masterpiece. Humans have been pushed to the outskirts of the world as a result of a huge war and a “poison jungle” that continues to spread through the land. A mere spore from one of the poisonous plants can ruin an entire crop, and it is fatal to humans. In addition to this, huge insects protect the jungle and those that try to destroy it. Amidst all this is Nausicaä, the Princess of the Valley of the Wind, who doesn’t fear the jungle or the insects, but instead treats them gently and investigates the origins and the nature of the jungle. However, another nation is attempting to resurrect one of the ancient warrior beasts to eliminate the jungles once and for all, which angers the insects even more and leads to a conflict that could eliminate everybody.
 
 It’s hard to figure out where to begin on what I like about this movie. I think the best way to describe things is having seen all of the previous movies and distilling all of the best aspects of each one is packaged in Nausicaä. I recently watched this again and found new depths to the relationship of the jungle and the humans that had slipped my perception before. The emotions are intense, especially at the end. I won’t tell you how it ends.
 
-### Princess Mononoke
-
-![](@assets/images/posts/2015-11-princess-mononoke.jpg)
+### Princess Mononoke![](@assets/images/posts/2015-11-princess-mononoke.jpg)
 
 This is the darkest of the movies that Miyazaki has created. I save it for the last I think to help provide a deeper connection with the topics in the movie, that you might not see if you’re new to anime in general and especially to Miyazaki’s works. This movie follows at young warrior, Ashitaka, with a curse on a journey to seek a cure. During his travel, he is caught up between the struggle of a mining colony and the spirits that guard the forest. Some of the spirits take the form of wolves and a human girl, San, rides one of them, though she resents humanity. The fight between the people and the spirits will bring Ashitaka and San together, but resolving this conflict is nothing simple.
 

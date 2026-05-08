@@ -32,7 +32,7 @@ For our user tracking, we’re going to define our levels as follows:
 - Action - Action/Feature user is performing (Show Shipment)
 - Label - Username of user
 
-In my case, I have a .Net MVC app in place, so my Razor code on the front end looks something like this:
+In my case, I have a.Net MVC app in place, so my Razor code on the front end looks something like this:
 
 ```cs
 @if (User.Identity.IsAuthenticated) 
@@ -55,15 +55,9 @@ That’s all there is to it. Start up your app, log in, and you can start seeing
 
 Once you start getting data in, you’ll want to start tracking the activity of your users. Log in to your Google Analytics account, expand the “Behavior” section, then the “Events” section and click the “Overview” link. This will bring up a page like this:
 
-![](@assets/images/posts/2015-01-1_ga_user_overview.png)
+At this level you can see our categories, which corresponds to our pages. This isn’t that different than what you can see elsewhere in Google Analytics. The magic comes when you click on the “Event Label” section in the “Top Events”:![](@assets/images/posts/2015-01-ga_user_level.png)
 
-At this level you can see our categories, which corresponds to our pages. This isn’t that different than what you can see elsewhere in Google Analytics. The magic comes when you click on the “Event Label” section in the “Top Events”:
-
-![](@assets/images/posts/2015-01-ga_user_level.png)
-
-Now you can track how many events each user raised. This will help you see which users are more active than others on the site. The next step is to track what a given user is doing. Go ahead and click on one of the Event Label values to bring up their details. The default view won’t show much detail, however, if you apply a second dimension to the report, Behavior -> Event Category, you get a better idea of what your user is doing:
-
-![](@assets/images/posts/2015-01-ga_user_detail.png)
+Now you can track how many events each user raised. This will help you see which users are more active than others on the site. The next step is to track what a given user is doing. Go ahead and click on one of the Event Label values to bring up their details. The default view won’t show much detail, however, if you apply a second dimension to the report, Behavior -> Event Category, you get a better idea of what your user is doing:![](@assets/images/posts/2015-01-ga_user_detail.png)
 
 Now we can see that our user spends most of their time on the shipments page. We can refine this even more into a report screen that will drill down each user to list their Categories and Actions, to give us an idea of the specific things they were doing on each page.
 

@@ -12,9 +12,7 @@ I’m working on a new project that uses the [Sitefinity CMS](http://sitefinity.
 
 <!--more-->
 
-![](@assets/images/posts/2015-04-sitefinity_logo1.jpg)
-
-If you specify a “SQL Server Express” install during the setup, it will use the file system and create a .MDB file in your App_Data folder, which we don’t want. We want to use the database itself.
+If you specify a “SQL Server Express” install during the setup, it will use the file system and create a.MDB file in your App_Data folder, which we don’t want. We want to use the database itself.
 
 After some digging, and tweaking, I found the following article that really outlines everything nicely:
 

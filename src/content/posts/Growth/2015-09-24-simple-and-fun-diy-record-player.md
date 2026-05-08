@@ -12,8 +12,6 @@ Last week the girls were learning about sound, phonographs, and Alexander Graham
 
 <!--more-->
 
-![](@assets/images/posts/2015-09-20150924_125426018_ios.jpg "Yup, there's a record player there!")
-
 ## Materials
 
 To build your record player, all you need is the following:
@@ -26,21 +24,15 @@ To build your record player, all you need is the following:
 
 ## 1 - Make your amplifier
 
-You need something to amplify the sound. As the girls remembered from photographs, cone shaped objects do a great job with this. Roll your construction paper into a cone, and tape it so it doesn’t come loose.
-
-![](@assets/images/posts/2015-09-1_20150924_125642255_ios.jpg)
+You need something to amplify the sound. As the girls remembered from photographs, cone shaped objects do a great job with this. Roll your construction paper into a cone, and tape it so it doesn’t come loose.![](@assets/images/posts/2015-09-1_20150924_125642255_ios.jpg)
 
 ## 2 - Attach the pin
 
-The pin serves as our record needle. It’s the key element that transfers the sound off the record. Tape the pin to the end of the small opening of the cone. It doesn’t matter how long or short the needle is, as long as it’s secure. As the record spins, the needle will “wiggle” in the grooves cut into the record player. Those vibrations transfer from the needle to the construction paper, and the paper amplifies the sound we have.
-
-![](@assets/images/posts/2015-09-1_20150924_125823188_ios.jpg)
+The pin serves as our record needle. It’s the key element that transfers the sound off the record. Tape the pin to the end of the small opening of the cone. It doesn’t matter how long or short the needle is, as long as it’s secure. As the record spins, the needle will “wiggle” in the grooves cut into the record player. Those vibrations transfer from the needle to the construction paper, and the paper amplifies the sound we have.![](@assets/images/posts/2015-09-1_20150924_125823188_ios.jpg)
 
 ## 3 - Make a turntable
 
-We need something to serve as a turntable. If you take the sharpened end of the pencil, and push it through the hole in the record until it is snug, you make a pretty large looking top. But you also have a way to turn your record to get sound.
-
-![](@assets/images/posts/2015-09-1_20150924_130041516_ios.jpg)
+We need something to serve as a turntable. If you take the sharpened end of the pencil, and push it through the hole in the record until it is snug, you make a pretty large looking top. But you also have a way to turn your record to get sound.![](@assets/images/posts/2015-09-1_20150924_130041516_ios.jpg)
 
 ## 4 - Go make some music!
 

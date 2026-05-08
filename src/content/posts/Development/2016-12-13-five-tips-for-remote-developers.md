@@ -8,11 +8,9 @@ category: Development
 tags: [coding, development, keys, mindset, principles, remote, remote-development, remote-work, tools]
 ---
 
-When I [first shifted my career](/the-remote-worker-one-month-in) to one as a remote developer, it was admittedly a bit daunting. I was transitioning from a slower paced government position to a fast paced consulting firm. I was jumping heavy into PHP (alongside my .Net work) which I wasn’t fully versed with yet, and I even switched from PC to Mac to be on the same page with the development setup at the main office. Five and a half years later I’m still running strong and have a pretty good take on how to make it work. While my remote developer status will be [coming to an end soon](/chapters), here are the five key things that have helped me be successful.
+When I [first shifted my career](/the-remote-worker-one-month-in) to one as a remote developer, it was admittedly a bit daunting. I was transitioning from a slower paced government position to a fast paced consulting firm. I was jumping heavy into PHP (alongside my.Net work) which I wasn’t fully versed with yet, and I even switched from PC to Mac to be on the same page with the development setup at the main office. Five and a half years later I’m still running strong and have a pretty good take on how to make it work. While my remote developer status will be [coming to an end soon](/chapters), here are the five key things that have helped me be successful.
 
 <!--more-->
-
-![man-person-hands-coffee](@assets/images/posts/2016-12-man-person-hands-coffee.jpg)
 
 ## 1. Communicate (Real Time)
 

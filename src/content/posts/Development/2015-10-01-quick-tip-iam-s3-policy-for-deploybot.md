@@ -12,8 +12,6 @@ For one of the projects I’m working on, we’re using [DeployBot](http://www.d
 
 <!--more-->
 
-![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)
-
 You can build this using the “Inline Policy” feature in AWS IAM. If you had a S3 bucket named “bucket-of-fish”, your policy would look like this:
 
 ```{ "Version": "2012-10-17", "Statement": \[ { "Effect": "Allow", "Action": \[ "s3:ListAllMyBuckets", "s3:GetBucketLocation" ], "Resource": \[ "arn:aws:s3:::\*" ] }, { "Effect": "Allow", "Action": \[ "s3:\*" ], "Resource": \[ "arn:aws:s3:::bucket-of-fish" ] }, { "Effect": "Allow", "Action": \[ "s3:\*" ], "Resource": \[ "arn:aws:s3:::bucket-of-fish/\*" ] } ] }```

@@ -10,11 +10,7 @@ tags: [coffee, customer-service, gratitude, life, roastery, starbucks]
 
 All I wanted was a new mug for my coffee...
 
-<!--more-->
-
-![20160209_043403473_iOS](@assets/images/posts/2016-02-20160209_043403473_ios.jpg)
-
-...I was about half way through my cup of coffee (a unique and smooth West Java Preanger) at the [Starbucks Reserve Roastery & Tasting Room](http://roastery.starbucks.com) when I noticed a few drips in my hand. I had put a napkin there since a little had spilled when first being set on my tray. Alas no, there was a tiny crack near the bottom of my mug and it was causing a noticeable beading of coffee that would drip.
+<!--more-->...I was about half way through my cup of coffee (a unique and smooth West Java Preanger) at the [Starbucks Reserve Roastery & Tasting Room](http://roastery.starbucks.com) when I noticed a few drips in my hand. I had put a napkin there since a little had spilled when first being set on my tray. Alas no, there was a tiny crack near the bottom of my mug and it was causing a noticeable beading of coffee that would drip.
 
 I walked up to the counter, pointed it out, tried not to drip on the counter, and asked for a new mug to pour the remaining coffee into so I could enjoy the rest drip free. Apparently this wouldn't do. The barista asked what I was was drinking and said she was make a fresh mug up for me. I said that wasn't necessary but she insisted and asked where I was sitting.
 

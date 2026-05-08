@@ -12,8 +12,6 @@ Sadly I don’t have an actual picture of this, but a funny thing yesterday even
 
 <!--more-->
 
-![](@assets/images/posts/2015-02-piper_box1.jpg)
-
 _Our mouser in training…_
 
 I was on the deck grilling dinner when I looked over to see Piper (see photo above) batting around something. She had caught a mouse! Hazzah! One of the reasons we got her was to start getting rid of the mice that liked to hang around the duck pen and mooch off the food (and cause a mess). In typical cat fashion she would pick bat the mouse around a little, pick it up and move it to a new location, and continue the process.

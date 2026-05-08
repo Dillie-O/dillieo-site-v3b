@@ -12,8 +12,6 @@ When cleaning out my garage last month, I discovered in a box that I had a copy 
 
 <!--more-->
 
-![i_robot_cover](@assets/images/posts/2016-07-134d92c008a09af921a3b010-l.jpg)
-
 In case you haven't heard them before, the three laws of robotics are:
 
 1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.

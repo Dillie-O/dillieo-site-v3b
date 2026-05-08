@@ -12,8 +12,6 @@ A kid that discovers that he has amazing powers. An epic struggle between good a
 
 <!--more-->
 
-![mithermage_series](@assets/images/posts/2016-11-mithermage_series.png)
-
 Being a fan of Orson Scott card and having a growing interest in the urban fantasy genre of books (think magic in modern times), I decided to give this series a try after my wife picked it up for me on a whim from the library.
 
 The series follows the early and teenage years of Danny North, a boy considered to be a "drowther" by his family of mages since he has no magic capability. However, he soon finds out that he is a "gate mage", known to be one of the most powerful type of mages, but also required to be killed on sight due to a tradition dating back nearly 1500 years. Danny runs away from home and seeks out a life on his own, eventually meeting up with a few other mages, a handful of "regular" kids, and discovering he is the most powerful mage ever known. As he is coming of age, the weight of the world begins to rest on his shoulders.

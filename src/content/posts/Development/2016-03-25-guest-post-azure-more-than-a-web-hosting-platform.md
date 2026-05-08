@@ -16,4 +16,3 @@ Give it a read here:
 
 <!--more-->
 
-![azure_hosting](@assets/images/posts/2016-03-azure_hosting.png)

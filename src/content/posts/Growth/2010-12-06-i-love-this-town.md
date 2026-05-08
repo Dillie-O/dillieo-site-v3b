@@ -14,16 +14,4 @@ My town does! We met up with Jen’s folks and went down this weekend for their 
 
 _I apologize for the picture quality, the cell phone only works so well. All donations for a iPod Touch 4th Generation or Android Phone graciously accepted. 8^D_
 
-![Before the festivities begin.](@assets/images/posts/2010-12-1204101727_thumb.jpg "Before the festivities begin.")
-
-<!--more-->
-
-![Ice Cream in Winter](@assets/images/posts/2010-12-1204101728_thumb.jpg "Ice Cream in Winter")
-
-![The "Town Christmas Tree" before lighting.](@assets/images/posts/2010-12-1204101729_thumb.jpg 'The "Town Christmas Tree" before lighting.')
-
-![The Courthouse is lit!](@assets/images/posts/2010-12-1204101814_thumb.jpg "The Courthouse is lit!")
-
-![The "Town Christmas Tree" after lighting.](@assets/images/posts/2010-12-1204101815_thumb.jpg 'The "Town Christmas Tree" after lighting.')
-
-![The side of the Courthouse (all sides are decorated).](@assets/images/posts/2010-12-1204101822_thumb.jpg "The side of the Courthouse (all sides are decorated).")
+<!--more-->![Ice Cream in Winter](@assets/images/posts/2010-12-1204101728_thumb.jpg "Ice Cream in Winter")![The "Town Christmas Tree" before lighting.](@assets/images/posts/2010-12-1204101729_thumb.jpg 'The "Town Christmas Tree" before lighting.')![The Courthouse is lit!](@assets/images/posts/2010-12-1204101814_thumb.jpg "The Courthouse is lit!")![The "Town Christmas Tree" after lighting.](@assets/images/posts/2010-12-1204101815_thumb.jpg 'The "Town Christmas Tree" after lighting.')![The side of the Courthouse (all sides are decorated).](@assets/images/posts/2010-12-1204101822_thumb.jpg "The side of the Courthouse (all sides are decorated).")

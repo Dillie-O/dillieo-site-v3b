@@ -22,8 +22,6 @@ There are several advantages to this. If you have multiple computers you need to
 
 After upgrading, I started digging around the recovery settings and found this nice screen.
 
-![](@assets/images/posts/2015-07-win10rollback.png)
-
 After doing a little more reading online, I found out that the Windows 10 upgrade process is a little different from the past. The upgrade is effectively giving you a clean install of Windows 10 by moving all the old operating system files to a separate folder, putting in the new operating system, and then merging in any documents or applications you have installed, if you choose to keep them. This is a lot better than the “patchy” upgrades that I’ve gone through (and now completely avoid) in the past.
 
 There’s another perk to this. For the first month after you upgrade, you can click that button to “go back” to your previous version of windows. I won’t be doing this myself, but it will reverse the process, and you can be back to the way you were before, with no issues.
@@ -34,9 +32,7 @@ EDIT: If you are happy with Windows 10 and don't plan on rolling back, you can d
 
 My initial plan was to grab the ISO and do a fresh install of Windows 10, expecting to be able to use my existing Windows 8.1 key or something that acknowledged the free upgrade. Unfortunatley this was not possible. After installing, I tried to pull up an old tool that would display your activation key, expecting to have a “new” Win10 key that I had heard about, but that dind’t work either. Since the free upgrade is only available for a year, I suspect a clean install along these lines will not be possible.
 
-However, as part of the new system recovery system, there is a way to do a “reset” of Windows 10 to a pure install and choose not to recover any of your files or apps that you have installed. This will give you a “clean” environment in which to work with, which could be just as close to the real deal.
-
-![](@assets/images/posts/2015-07-win10reset.png)
+However, as part of the new system recovery system, there is a way to do a “reset” of Windows 10 to a pure install and choose not to recover any of your files or apps that you have installed. This will give you a “clean” environment in which to work with, which could be just as close to the real deal.![](@assets/images/posts/2015-07-win10reset.png)
 
 ### Go Upgrade!
 

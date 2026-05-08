@@ -20,17 +20,13 @@ So thanks to a little [Ruby on Rails](http://rubyonrails.org "Ruby on Rails"), a
 
 Are you interested?! Go for it! Simply go to the following URL:
 
-<http://quoteadillieo.aws.af.cm/generate>
-
-...and you can grab what you need. Simply refresh to get a new quote.
+<http://quoteadillieo.aws.af.cm/generate>...and you can grab what you need. Simply refresh to get a new quote.
 
 The best part with the Ruby formatting (and most importantly) is that you can get a direct image to embed in your GMail signature (or anywhere that accepts image URLs). To do that, call our PNG link:
 
 <http://quoteadillieo.aws.af.cm/generate.png>
 
 And you can see things like this!
-
-![Quote Shot](@assets/images/posts/2013-05-quoteshot.png)
 
 Finally, if you're feeling experimental, you can get the quote text in raw JSON format:
 

@@ -14,8 +14,6 @@ In a random twitter reply last week, I had suggested to somebody that they try p
 
 So after signing up (took less than a minute), accessing my account, and doing getting familiar with the environment (maybe five minutes tops), I setup my workload board to look like this:
 
-![](@assets/images/posts/2010-02-agilezenhome1.jpg "AgileZenHome")
-
 Notice the following things I've done slightly different here:
 
 - I wanted to change the standard "Ready, Workload, Complete" items to "Doing, Fire!!!, Complete" which matches my current layout.
@@ -23,13 +21,9 @@ Notice the following things I've done slightly different here:
 - I can color code items as I see fit. My fire ones will get a nice red color to it. I have "pending complete" items in green and "fully complete" items in blue. At the end of the day I'll move the "fully complete" items to my archive. Now I could have added another column called "Pending Done" like on my physical board, but this color option actually works really nice and prevents things from getting to squished on the main screen.
 - I also have tags for each of my items, relating to the project involved. I accomplish this same task by putting the project in the "header" of my sticky notes in my physical board. I should also point out that each "story" in AgileZen can have a list of tasks associated with them, which would work great on a larger scale for my projects. But since I tend to have to jump back and forth between projects I maintain, having each task individualized is better for me. The point here is that AgileZen is nice enough to let you be flexible either way.
 
-If I need to add new tasks, or "stories" as they are called in classic Scrum language, the screen is nicely integrated into the main page:
+If I need to add new tasks, or "stories" as they are called in classic Scrum language, the screen is nicely integrated into the main page:![](@assets/images/posts/2010-02-agilezenaddtask1.jpg "AgileZenAddTask")
 
-![](@assets/images/posts/2010-02-agilezenaddtask1.jpg "AgileZenAddTask")
-
-You'll notice that you can add items to your Backlog or directly to your board. I personally like to see my backlog just to keep in mind upcoming items I may have to change priorities on. A simple click and the Backlog and Archives are integrated:
-
-![](@assets/images/posts/2010-02-agilezenfullboard1.jpg "AgileZenFullBoard")
+You'll notice that you can add items to your Backlog or directly to your board. I personally like to see my backlog just to keep in mind upcoming items I may have to change priorities on. A simple click and the Backlog and Archives are integrated:![](@assets/images/posts/2010-02-agilezenfullboard1.jpg "AgileZenFullBoard")
 
 All in all I find AgileZen very flexible, easy to work with, and the free account works perfectly with what I need in my Personal Kanban account. This also resolves the issue that arose in the original twitter discussion about how you can take your personal kanban board with you if you're working out of multiple offices.
 

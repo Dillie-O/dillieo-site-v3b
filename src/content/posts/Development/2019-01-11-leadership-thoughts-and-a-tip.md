@@ -22,8 +22,6 @@ I've been doing a lot of thinking now specifically asking myself, "What does lea
 
 <!-- wp:image -->
 
-![](@assets/images/posts/2019-01-pexels-photo-718759.jpg)
-
 Photo by Sydney Troxell on [Pexels.com](https://www.pexels.com/photo/assorted-color-nips-718759/)
 
 <!-- /wp:image -->

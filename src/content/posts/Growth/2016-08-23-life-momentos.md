@@ -12,8 +12,6 @@ Today marked the last run for a pair of my running shoes. They've lasted a heck 
 
 <!--more-->
 
-![20160823_132450040_iOS](@assets/images/posts/2016-08-20160823_132450040_ios.jpg)
-
 I find most of my "valuable momentos" consist of the following:
 
 **Hats** - I wear baseball hats (A LOT). Having that reminder readily available brings back good memories, and provides some fun stories for people who ask. Currently I have a pretty slick grey wool cap with an artistic Mickey Mouse head embroidered near the bottom right from my [trip to Disneyland with the family](/the-magic-of-the-years-and-ears) two years ago.

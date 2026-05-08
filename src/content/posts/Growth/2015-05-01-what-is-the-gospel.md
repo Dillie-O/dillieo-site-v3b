@@ -18,8 +18,6 @@ The Gospel is the good news that the eternal life in God’s kingdom is availabl
 
 <!--more-->
 
-![](@assets/images/posts/2015-05-cross-691115_6401.jpg)
-
 We were separated from God, our creator, because of our sin. It was a gap that was insurmountable by anything we could do. This gap has been there almost as long as we have been walking the Earth. The consequences of our sin is death. However, God continues to loves us despite all of the covenants He established over time and we broke with Him. Finally, as the ultimate demonstration of His love, he sent his only son Jesus to die for us and pay the price for our sins. More importantly than dying, Jesus rose from the dead, defeating sin, making it possible for our sins to be forgiven, and closed that insurmountable gap.
 
 Though Jesus, we can be children of God, members in his kingdom, disciples of the great master of life. Membership in God’s kingdom is more than simply having a name on a list, it is a direct and personal relationship with the creator of the universe who went to immense lengths to rescue you. God’s kingdom is radicalliy different from the world we live in. Love, joy, peace, patience, kindness, gentleness, self-control, compassion for others are its tenants. It seeks to bring this to all people here and now. Jesus will return to claim His kingdom, but there’s no twiddling our thumbs while we wait. We are able to establish God’s kingdom today: in our homes, in our neighborhoods, in our world. As we grow and work together with other members in the kingdom, continuing God’s story, we become a light to the world about this good news and how it restores our soul. We fight injustice, we care for the downtrodden, the orphan, the widow.

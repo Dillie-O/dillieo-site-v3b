@@ -22,8 +22,6 @@ It feels a bit like walking into one of those attic style workrooms, with a smal
 
 <!-- wp:image {"id":6760} -->
 
-![](@assets/images/posts/2019-01-IMG_20181012_183058.jpg)
-
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->

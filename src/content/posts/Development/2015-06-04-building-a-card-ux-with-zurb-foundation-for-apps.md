@@ -12,8 +12,6 @@ As I’ve been working through my [Prayer Journal](http://prayerjournal.apphb.co
 
 <!--more-->
 
-![](@assets/images/posts/2015-06-zurb_card_swipe1.jpg)
-
 To start, we’ll put together a simple unordered list and for each list item, we have take advantage of the card layout provided by Z4A. In addition, we install a great [angular touch carousel](https://github.com/revolunet/angular-carousel) library that installs easily into your application through bower. Make sure to update your app.scss to include the angular-carousel.css file, as well as update your gulp script to copy all the appropriate resources during the build.
 
 Once that is in place, we can setup a simple unordered list with our card details:
@@ -26,7 +24,7 @@ The first is that the “active” color for the carousel indicator is set to wh
 
 ```.rn-carousel-control { top: 0em; }```
 
-div.rn-carousel-indicator span.active { color: #00558B !important; }
+div.rn-carousel-indicator span.active { color: #00558B!important; }
 
 Next, we don’t want the navigation controls to be displayed on smaller screens, since we’re relying upon the swipe. Thanks to "mixins" with our SCSS, we can create a special rule for that:
 
@@ -34,10 +32,7 @@ Next, we don’t want the navigation controls to be displayed on smaller screens
 
 Finally, because of how the grid leverages flexbox and how the carousel uses relative positioning, we have to set a fixed height for the carousel control. For a uniform look, I also set a fixed size for the cards themselves:
 
-```
-.prayer-carousel { height: 450px; }
-
-.prayer-card { height: 400px; }
+```.prayer-carousel { height: 450px; }.prayer-card { height: 400px; }
 ```
 
 I’m hoping to find a way around this, as I’m not a CSS guru. Any CSS gurus (or Zurb developers) our there please send me word if you know a way around this.

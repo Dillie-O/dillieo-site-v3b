@@ -14,8 +14,6 @@ By default, XDebug is not enabled in MAMP. I found plenty of MAMP Pro posts on h
 
 <!--more-->
 
-![](@assets/images/posts/2015-03-xdebug_mamp.jpg)
-
 Really the only trick to know is that MAMP keeps two configuration files for each PHP version. One serves as a template when you start up PHP. There are two files you need to edit:
 
 ```
@@ -24,7 +22,7 @@ Really the only trick to know is that MAMP keeps two configuration files for eac
 /Applications/MAMP/bin/php/php\[version]/conf/php.ini
 ```
 
-In both of these files, go down to the very bottom of the config file, where the \[xdebug] section is, and uncomment ( remove the ; ) zend_extension line. In addition, add the following lines:
+In both of these files, go down to the very bottom of the config file, where the \[xdebug] section is, and uncomment ( remove the; ) zend_extension line. In addition, add the following lines:
 
 ```xdebug.remote_autostart=1 xdebug.remote_enable=1 xdebug.remote_host=localhost xdebug.remote_port=9000 xdebug.remote_handler=dbgp```
 

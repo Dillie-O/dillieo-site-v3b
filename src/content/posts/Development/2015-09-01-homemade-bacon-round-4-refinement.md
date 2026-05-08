@@ -12,8 +12,6 @@ There’s a saying I heard once that says “Software is never finished, only ab
 
 <!--more-->
 
-![20150728_144941583_iOS.png](@assets/images/posts/2015-07-20150728_144941583_ios.jpg)
-
 I added another 3/4c of maple syrup to the recipe. I trimmed back the smoked salt to a single tablespoon. Everything else remained the same. I cured for three days. Oh, those three days can always be so maddening when it comes to bacon!
 
 However, once cooked up, the bacon really hit the sweet spot (not quite literally though). There was only a bit of saltiness to the taste (that good kind that you expect) and it was the first batch I was ready to make more of since everybody ate it up. Hazzah for diy recipes! The final step will be to try adding a cold smoke to this recipe, once I can cobble one together.

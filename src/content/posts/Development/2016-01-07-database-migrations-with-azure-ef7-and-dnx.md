@@ -28,25 +28,17 @@ In order for our application deployment to use this configuration string (for de
 
 ```Name: ASPNET_ENV Value: Staging```
 
-![1452196112_1.png](@assets/images/posts/2016-01-1452196112_1.png)
-
 Make sure to save the changes. Now whenever the web application is started, it will use yoru staging configuration for the database connection. Eventually you’ll want to do this for production as well.
 
 ### 2. Customize Your Deployment Script
 
 When you first hook up your web application to your continuous integration repository, a deployment script is automatically created for you. This script will download all the appropriate DNX resources, restore dependencies, run the appropriate publishing commands, and then copy the deployment assets to the live site if everything is successful. Azure uses [Kudu](https://github.com/projectkudu/kudu) to fascilitate all of this. Fortunately, Kudu allows you to easily create your own deployment scripts to override the default one. As an added bonus. The Azure portal allows you to easy access your Kudu setings and scripts.
 
-Go back to your Application Service section and click on the “Tools” button. Then select “Kudu” and click the “Go” link to launch the Kudo control panel:
+Go back to your Application Service section and click on the “Tools” button. Then select “Kudu” and click the “Go” link to launch the Kudo control panel:![1452196116_2.png](@assets/images/posts/2016-01-1452196116_2.png)![1452196119_3.png](@assets/images/posts/2016-01-1452196119_3.png)
 
-![1452196116_2.png](@assets/images/posts/2016-01-1452196116_2.png)
+In the Kudu control panel, click on the “Tools” menu option and then select “Download Deployment Script”. This will send you a zip file with two files:.deployment and deploy.cmd. Save these files into the root of your repository, not necessarily your project root. If you don’t save them to the repository root, Kudu won’t detect them during the deployment and will use the defaults instead.![1452196122_4.png](@assets/images/posts/2016-01-1452196122_4.png)
 
-![1452196119_3.png](@assets/images/posts/2016-01-1452196119_3.png)
-
-In the Kudu control panel, click on the “Tools” menu option and then select “Download Deployment Script”. This will send you a zip file with two files: .deployment and deploy.cmd. Save these files into the root of your repository, not necessarily your project root. If you don’t save them to the repository root, Kudu won’t detect them during the deployment and will use the defaults instead.
-
-![1452196122_4.png](@assets/images/posts/2016-01-1452196122_4.png)
-
-Open the deploy.cmd file in a text editor. Note: you may get a security warning about opening a .cmd file. You can trust this file and edit it.
+Open the deploy.cmd file in a text editor. Note: you may get a security warning about opening a.cmd file. You can trust this file and edit it.
 
 Since we have already added our environment configuration variable through the portal, it is also exposed as an environment variable at the command line that runs for the deployment. When we run our “dnx ef database update” command, we can specify which environment to use for the process. However, since the deployment script itself runs in the repository root and not the project root, we’ll need to change to our project root directory in order for dnx to properly retrieve the necessary resources. Take a look at the deployment file. You’ll find somewhere in there is a “Run DNU Bundle section”. Notice how the command in here contains the path to our project.json file. We will want to use this path for our migration update command.
 
@@ -60,9 +52,7 @@ I like running the EF migration before the Kudu Sync process, since that final s
 
 ### 3. Deploy Your Updates
 
-Once this is in place, push the code to your repostitory and check out the results. Once the Azure deployment is complete, you should be able to look in the deployment log and see where the EF migration started, the environment it used, and when it completed. Check your staging database, all tables (or updates) should now be there.
-
-![](@assets/images/posts/2016-01-1452196124_5.png)
+Once this is in place, push the code to your repostitory and check out the results. Once the Azure deployment is complete, you should be able to look in the deployment log and see where the EF migration started, the environment it used, and when it completed. Check your staging database, all tables (or updates) should now be there.![](@assets/images/posts/2016-01-1452196124_5.png)
 
 ### Flexibility
 

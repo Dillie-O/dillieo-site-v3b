@@ -12,8 +12,6 @@ Running tech has come a LOOOONG way from when I first started. I used to be a "l
 
 <!--more-->
 
-![running_tech](@assets/images/posts/2016-05-tech-boom.jpg)
-
 For a long time I've been a Runtastic Pro user. The ability to map out my routes online and have them available on my phone for the run was quite nice. Additionally, I could track how many times I've run each route for some good comparative analytics on my pace and progress over time. By adding details about how I felt after each run, combined with the weather and time of the run, I could get a good idea about when to train and how various factors would affect things. There is even a "live tracking" feature that I can use while I'm out on my runs and my kids can see right were I am at, and click a button to "cheer me on". With my next RAGNAR approaching, this is a fun way to do long distance cheering.
 
 I was particularly excited when I was gifted an Apple Watch since there was direct integration with Apple Watch and Runtastic Pro. With the watch, I can start up a run quickly, pause/finish, and see how far I have gone (and my pace) without pulling out the phone mid-run.

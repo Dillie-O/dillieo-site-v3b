@@ -10,7 +10,7 @@ tags: [net, azure, bugs, coding, core, dependencies, libraries, rc1, rc2, refere
 
 Sometimes you just have to stick with older code...
 
-I ran into a problem a while back when deploying an application to Azure that was using the DNX / .Net Core RC1 Framework. I started seeing errors such as:
+I ran into a problem a while back when deploying an application to Azure that was using the DNX /.Net Core RC1 Framework. I started seeing errors such as:
 
 ```
 Unable to resolve dependency Microsoft.Extensions.Options 1.0.0-rc2-final
@@ -25,8 +25,6 @@ The dependency Microsoft.Extensions.Options 1.0.0 in project ZZZ does not suppor
 Something strange was going on...
 
 <!--more-->
-
-![quick-tips.jpg](@assets/images/posts/2015-01-quick-tips.png)
 
 It was odd considering I hadn't updated any of the project libraries and had only recently made a small processing change. Doing some tech support and troubleshooting indicated I should just update to RC2 since some of the dependencies were defaulting there to resolve things.
 
@@ -44,8 +42,6 @@ Changing these references to...
 
 ```
 1.0.0-rc1-final
-```
-
-...and letting the package manager update the project did the trick!
+```...and letting the package manager update the project did the trick!
 
 Hopefully this saves you some of the sanity I lost along the way 8^D

@@ -24,4 +24,3 @@ Thank you.
 
 <!--more-->
 
-![](@assets/images/posts/2015-05-memorial1.jpg)

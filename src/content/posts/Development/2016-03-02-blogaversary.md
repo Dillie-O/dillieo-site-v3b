@@ -12,8 +12,6 @@ Roughly 7 years ago, I started out on this adventure called blogging. Interestin
 
 <!--more-->
 
-![Me-JournalinFrance.jpg](@assets/images/posts/2015-04-me-journalinfrance.jpg)
-
 Last year, I did a big "blog renovation" of sorts by following the [10 days to a better blog](/new-year-new-me-sorta) series. In there I gave some serious thought to [why I blog](/why-i-blog), and interestingly enough, a lot of those core ideas are the same as when [I launched the blog](/sup-a-dillie-o) in the first place.
 
 As I browse through the list of topics, I'm happy with what I see. There's a good amount of coding topics in there and a bit of "deep thoughts" along the way. There could probably be more of those in there, and that's something I'm trying to extract out of myself more.

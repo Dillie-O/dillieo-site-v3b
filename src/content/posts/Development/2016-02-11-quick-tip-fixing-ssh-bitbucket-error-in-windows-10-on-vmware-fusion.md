@@ -20,4 +20,3 @@ It looks like VMWare might be looking into this, but it's hard to "point blame" 
 
 <!--more-->
 
-![Quick Tip](@assets/images/posts/2011-12-quicktip.jpg)

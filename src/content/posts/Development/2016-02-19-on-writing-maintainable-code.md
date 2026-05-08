@@ -12,8 +12,6 @@ One of the things that I’ve been asked about over at [WiseLike](https://wiseli
 
 <!--more-->
 
-![Matrix Code Tunnel](@assets/images/posts/2010-09-matrixmini.jpg)
-
 I’m swiftly approaching the 15 year mark as a software engineer and I’ve worked with a lot of code of various sizes and languages. A lot of this code has been the “one and done” type projects. However, I’m writing \_(or leading) \_more and more code that I either revisit a few years later (an application is ready to be updated/refactored) or a project that is of a large enough scale that we have several people working on it and active development time is more than just a few months.
 
 Some of these visits to the code are joyful reunions where we sit and reflect on past days with big smiles. We head forward, hand in hand, skipping through the digital matrix, making it do our bidding, as we do bigger and better things. Some of these visits are quite the opposite. They are awkward reunions where we don’t know much about each other. More impactfully, I’m here to help an ailing patient and I still don’t really know where their sickness is. Much time is lost poking and prodding and we drag each other through the digital matrix, just trying to stand up again.
@@ -34,7 +32,7 @@ Long gone are the days of x, y, i, j, s variable names. Memory and disk space ar
 
 ### Organize by structure or feature.
 
-One of the really nice things I like about .Net MVC architecture (as well as others) is that a typical scaffolded project keeps folders aptly named “Models”, “Views”, and “Controllers”. Providing additional benefits through “coding by convention”, you can use the default routing scheme and the “HomeController.cs” file in the controllers folder will automatically be wired up to the /Home route and the various actions will automatically look for the HTML templates in the /Views/Home folder. When you come back to this code later on, you know exactly where to find things for repair or improvement.
+One of the really nice things I like about.Net MVC architecture (as well as others) is that a typical scaffolded project keeps folders aptly named “Models”, “Views”, and “Controllers”. Providing additional benefits through “coding by convention”, you can use the default routing scheme and the “HomeController.cs” file in the controllers folder will automatically be wired up to the /Home route and the various actions will automatically look for the HTML templates in the /Views/Home folder. When you come back to this code later on, you know exactly where to find things for repair or improvement.
 
 Another really nice design I’ve seen in some AngularJS code is what is can be referred to as organization by feature. In this layout, each feature has a folder, and the appropriate templates, services, and controllers are all stored in the same folder. The required “top level” needs are often stored in a “globals” folder or something similar. That way, if you need to update the profile feature, you aren’t jumping around between model/controller/view folders, it is all in one place. This can be quite nice when you have a lot of features (and subsequent files) in an application.
 

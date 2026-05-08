@@ -14,4 +14,3 @@ The solution is simple enough. Make sure to change your compile target to “Deb
 
 <!--more-->
 
-![](@assets/images/posts/2015-12-1451322919_1.png)

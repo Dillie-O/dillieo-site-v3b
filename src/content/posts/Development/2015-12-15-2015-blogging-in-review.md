@@ -12,8 +12,6 @@ I realize it could be a bit premature since there are a couple of weeks left in 
 
 <!--more-->
 
-![](@assets/images/posts/2015-12-2016-new-year-ss-1920.jpg)
-
 ### The Biggest Year Yet
 
 This was a BIG blogging year for me. Having been a part of the [DeskPM](http://desk.pm) team through the beta and into the big community forum launch, I took up the challenge to [better my blog in 10 days](/new-year-new-me-sorta). It was a great opportunity to put a bit more focus and direction to my blog. The biggest step was a commitment to blog twice a week for the entire year. The best part is that I DID IT!!! Technically there was one crazy week where I didn’t blog, but with some of the other weeks where I blogged extra, it all comes up to a nice twice a week blog post.
