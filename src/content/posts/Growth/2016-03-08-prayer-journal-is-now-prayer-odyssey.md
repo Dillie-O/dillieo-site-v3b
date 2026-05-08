@@ -15,11 +15,3 @@ https://prayerodyssey.wordpress.com/2016/03/09/same-ideas-new-name-expanded-focu
 <!--more-->
 
 ![prayerodyssey_logo_large](@assets/images/posts/2016-03-10580152_285972251603380_1135550394199979944_n.png)
-
-I guess I can consider myself serious about this when I finally register a domain name for it. Here's the latest updates for the new domain. I hope you'll sign up for the app and spread the word.
-
-https://prayerodyssey.wordpress.com/2016/03/09/same-ideas-new-name-expanded-focus/
-
-<!--more-->
-
-![prayerodyssey_logo_large](@assets/images/posts/2016-03-10580152_285972251603380_1135550394199979944_n.png)

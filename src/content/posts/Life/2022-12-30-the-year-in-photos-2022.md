@@ -8,26 +8,6 @@ category: Life
 tags: [life, photos, pensee]
 ---
 
-[![](@assets/images/posts/2022_photos_collage.jpg)](@assets/@assets/images/posts/2022_photos_collage.jpg)
-
-It has undoubtedly been the toughest and most grueling year for me and my family. And yet, we found little nuggets and new traditions to bring us closer together and celebrate along the way. Here’s a hat tip to 2022 and an excited jump into a muc
-
-See the rest here: [https://photos.app.goo.gl/vpWjiZs4vMBX8LMb9](https://photos.app.goo.gl/vpWjiZs4vMBX8LMb9)
-
-[![](@assets/images/posts/2022_photos_collage.jpg)](@assets/@assets/images/posts/2022_photos_collage.jpg)
-
-It has undoubtedly been the toughest and most grueling year for me and my family. And yet, we found little nuggets and new traditions to bring us closer together and celebrate along the way. Here’s a hat tip to 2022 and an excited jump into a muc
-
-See the rest here: [https://photos.app.goo.gl/vpWjiZs4vMBX8LMb9](https://photos.app.goo.gl/vpWjiZs4vMBX8LMb9)
-
-[![](@assets/images/posts/2022_photos_collage.jpg)](@assets/@assets/images/posts/2022_photos_collage.jpg)
-
-It has undoubtedly been the toughest and most grueling year for me and my family. And yet, we found little nuggets and new traditions to bring us closer together and celebrate along the way. Here’s a hat tip to 2022 and an excited jump into a muc
-
-See the rest here: [https://photos.app.goo.gl/vpWjiZs4vMBX8LMb9](https://photos.app.goo.gl/vpWjiZs4vMBX8LMb9)
-
-[![](@assets/images/posts/2022_photos_collage.jpg)](@assets/@assets/images/posts/2022_photos_collage.jpg)
-
 It has undoubtedly been the toughest and most grueling year for me and my family. And yet, we found little nuggets and new traditions to bring us closer together and celebrate along the way. Here’s a hat tip to 2022 and an excited jump into a muc
 
 See the rest here: [https://photos.app.goo.gl/vpWjiZs4vMBX8LMb9](https://photos.app.goo.gl/vpWjiZs4vMBX8LMb9)

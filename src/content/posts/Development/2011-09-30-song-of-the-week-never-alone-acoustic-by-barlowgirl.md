@@ -8,14 +8,6 @@ category: Development
 tags: [barlowgirl, rock, song-of-the-week]
 ---
 
-![Another Journal Entry Cover](@assets/images/posts/2011-09-anotherjournalentrycover.jpg "AnotherJournalEntryCover")
-
-Not much to say this week, great vocals, powerful lyrics, wonderful acoustic blend. Enjoy!
-
-https://www.sugarsync.com/pf/D6057691_0670148_77583
-
-![Another Journal Entry Cover](@assets/images/posts/2011-09-anotherjournalentrycover.jpg "AnotherJournalEntryCover")
-
 Not much to say this week, great vocals, powerful lyrics, wonderful acoustic blend. Enjoy!
 
 https://www.sugarsync.com/pf/D6057691_0670148_77583

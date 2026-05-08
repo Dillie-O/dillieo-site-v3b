@@ -9,7 +9,3 @@ tags: [links, link]
 This is the first mix I heard that got me hooked on DJ Josiah. It's 3 years old but still fresh and amazing! Give it a listen!
 
 [Tastyfresh.com | HG Episode 11: DJ Josiah - Tastyfresh.com](http://www.tastyfresh.com/podcasts/homegrown/2010/02/16/hg-episode-11-dj-josiah/).
-
-This is the first mix I heard that got me hooked on DJ Josiah. It's 3 years old but still fresh and amazing! Give it a listen!
-
-[Tastyfresh.com | HG Episode 11: DJ Josiah - Tastyfresh.com](http://www.tastyfresh.com/podcasts/homegrown/2010/02/16/hg-episode-11-dj-josiah/).
