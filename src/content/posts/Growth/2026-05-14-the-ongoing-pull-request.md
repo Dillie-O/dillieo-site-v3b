@@ -41,6 +41,6 @@ Writing this on a train commute, in a very messy space in my head, is exactly wh
 
 ## Et Vous?
 
-This is the part where I typically hit publish on other posts and immediately fret about the credibility and accuracy of my words and wonder if I made a mistake. This one defnitely feels different, less like sharing a completed work, and more like leaving a large draft mode pull request posted available for all to comment and critique. This is genuinely how it looks inside the process, even after 25 years running around this technical track. I'd rather you see that than wonder or get false impressions.
+This is the part where I typically hit publish on other posts and immediately fret about the credibility and accuracy of my words and wonder if I made a mistake. This one definitely feels different, less like sharing a completed work, and more like leaving a large draft mode pull request posted available for all to comment and critique. This is genuinely how it looks inside the process, even after 25 years running around this technical track. I'd rather you see that than wonder or get false impressions.
 
 I would love to hear about your "fabulous fails" in management. I'm likely to repeat those same mistakes a few times so I'll have some empathy but I also want to learn. Oh, and thanks for reading this one, particularly if you see me at a one on one meeting next week. Ask me anything. I want those conversations.
