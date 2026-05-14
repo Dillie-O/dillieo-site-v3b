@@ -1,4 +1,5 @@
 // astro.config.mjs
+import netlify from "@astrojs/netlify";
 import sitemap from "@astrojs/sitemap";
 import svelte from "@astrojs/svelte";
 import tailwind from "@astrojs/tailwind";
@@ -7,6 +8,7 @@ import { pluginLineNumbers } from "@expressive-code/plugin-line-numbers";
 import swup from "@swup/astro";
 import expressiveCode from "astro-expressive-code";
 import icon from "astro-icon";
+import markdownForAgents from "astro-markdown-for-agents";
 import { defineConfig } from "astro/config";
 import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeComponents from "rehype-components";
@@ -31,6 +33,8 @@ import { LinkCardComponent } from "./src/plugins/rehype-component-link-card.mjs"
 
 // https://astro.build/config
 export default defineConfig({
+  output: "server",
+  adapter: netlify({ edgeMiddleware: true }),
   build: {
     compressHTML: true,
   },
@@ -118,6 +122,7 @@ export default defineConfig({
     mdx(),
     svelte(),
     sitemap(),
+    markdownForAgents(),
   ],
 
   markdown: {

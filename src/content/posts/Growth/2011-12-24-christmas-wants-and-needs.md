@@ -11,9 +11,3 @@ tags: [quote, quotes]
 > Jesus knows what I need.
 >
 > ~ Leigh Nash
-
-> Santa knows what I want.
->
-> Jesus knows what I need.
->
-> ~ Leigh Nash

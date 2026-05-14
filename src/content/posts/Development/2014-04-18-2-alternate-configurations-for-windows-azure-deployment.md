@@ -9,7 +9,3 @@ tags: [azure, cloud-computing, links, link, software-deployment, windows-azure]
 [2 Alternate Configurations for Windows Azure Deployment](http://www.freshconsulting.com/2-alternate-configurations-for-windows-azure-deployment/ "2 Alternate Configurations for Windows Azure Deployment")
 
 I have a guest post over at my company's blog outlining some of my Azure adventures. Enjoy!
-
-[2 Alternate Configurations for Windows Azure Deployment](http://www.freshconsulting.com/2-alternate-configurations-for-windows-azure-deployment/ "2 Alternate Configurations for Windows Azure Deployment")
-
-I have a guest post over at my company's blog outlining some of my Azure adventures. Enjoy!

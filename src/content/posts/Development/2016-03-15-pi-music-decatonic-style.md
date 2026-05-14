@@ -12,8 +12,6 @@ Yesterday was [Pi day](/posts/growth/2016-03-14-pi-music/), and while I enjoyed 
 
 <!--more-->
 
-![pi-music](@assets/images/posts/2016-03-pi-music.png)
-
 ### TL;DR;
 
 Here's the slightly mysterious (and maybe haunting) music that Pi sounds like when we equate the digits of a base 10 nature to a melodic scale of a base 10 nature. If you're interested in how I did it, read on. Regardless, listen away.

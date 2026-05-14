@@ -14,12 +14,3 @@ tags: [life]
 
 <!--more-->
 
-![Courthouse Christmas Lights](@assets/images/posts/2011-12-imag0290.jpg)
-
-> Time was with most of us, when Christmas Day, encircling all our limited world like a magic ring, left nothing out for us to miss or seek; bound together all our home enjoyments, affections, and hopes; grouped everything and everyone round the Christ.
->
-> ~ Charles Dickens
-
-<!--more-->
-
-![Courthouse Christmas Lights](@assets/images/posts/2011-12-imag0290.jpg)

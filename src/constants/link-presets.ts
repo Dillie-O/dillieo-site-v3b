@@ -15,7 +15,7 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
 	},
 	[LinkPreset.Series]: {
 		name: "Series",
-		url: '/series/',
+		url: "/series/",
 	},
 	[LinkPreset.CV]: {
 		name: "CV",
@@ -23,7 +23,7 @@ export const LinkPresets: { [key in LinkPreset]: NavBarLink } = {
 	},
 	[LinkPreset.Discoveries]: {
 		name: "Discoveries",
-		url: '/discoveries/',
+		url: "/discoveries/",
 	},
 	[LinkPreset.Contact]: {
 		name: "Contact",

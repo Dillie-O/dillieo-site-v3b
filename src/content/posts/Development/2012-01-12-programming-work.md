@@ -9,7 +9,3 @@ tags: [quote, programming, programming-style, quotes]
 > Let the machine do the dirty work.
 >
 > ~ Elements of Programming Style
-
-> Let the machine do the dirty work.
->
-> ~ Elements of Programming Style

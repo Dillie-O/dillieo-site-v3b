@@ -14,12 +14,3 @@ I have another guest post today over at my work blog about one of Donald Knuth's
 
 <!--more-->
 
-![optimization_slide](@assets/images/posts/2016-11-optimization_slide.jpg)
-
-I have another guest post today over at my work blog about one of Donald Knuth's (he's my homeboy) famous quotes.
-
-<https://www.freshconsulting.com/dev-principle-10-do-performance-optimization-when-needed/>
-
-<!--more-->
-
-![optimization_slide](@assets/images/posts/2016-11-optimization_slide.jpg)

@@ -11,9 +11,3 @@ hello 2015.
 what do you have in store for me?
 
 or more importantly... what do I have in store for you?
-
-hello 2015.
-
-what do you have in store for me?
-
-or more importantly... what do I have in store for you?

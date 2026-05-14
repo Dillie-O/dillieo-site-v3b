@@ -8,10 +8,6 @@ category: Life
 tags: [photos, life, memories, pensee]
 ---
 
-| ![2024 photo collage](@assets/images/posts/year_in_photos_2024.webp) | 
-|:--:| 
-| *...just a snapshot filed under 'L' for Life* |
-
 Graduations...
 Turning 18...
 A Wizarding Trip...
